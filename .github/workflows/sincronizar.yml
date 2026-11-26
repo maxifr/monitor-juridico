@@ -6,8 +6,8 @@ name: Sincronizar y publicar
 # el propio workflow no lo vuelven a disparar.
 on:
   schedule:
-    - cron: "17 11 * * *"
-    - cron: "17 21 * * *"
+    - cron: "5 12 * * *"
+    - cron: "5 1 * * *"
   workflow_dispatch:
   push:
     branches: [main]
