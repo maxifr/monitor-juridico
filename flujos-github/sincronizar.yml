@@ -1,0 +1,85 @@
+name: Sincronizar y publicar
+
+# Corre dos veces por día (8:17 y 18:17, hora argentina), se puede disparar a mano
+# desde la pestaña Actions y vuelve a publicar el sitio cuando cambiás algo en site/
+# o cuando subís datos desde tu PC (scripts/ejecutar_local.ps1). Los commits que hace
+# el propio workflow no lo vuelven a disparar.
+on:
+  schedule:
+    - cron: "17 11 * * *"
+    - cron: "17 21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "data/**", "monitor/exportar.py"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sincronizar
+  cancel-in-progress: false
+
+jobs:
+  sincronizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      PORTAL_NOMBRE: ${{ vars.PORTAL_NOMBRE }}
+      PORTAL_URL: ${{ vars.PORTAL_URL }}
+      PERFIL_EDITORIAL: ${{ vars.PERFIL_EDITORIAL }}
+      FUENTES_ACTIVAS: ${{ vars.FUENTES_ACTIVAS }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recolectar, verificar y curar las novedades
+        if: github.event_name != 'push'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Regenerar el sitio con los datos guardados
+        if: github.event_name == 'push'
+        run: python main.py --exportar
+
+      - name: Guardar los datos en el repositorio
+        if: ${{ !cancelled() && github.event_name != 'push' }}
+        run: |
+          git config user.name "monitor-juridico[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos."
+          else
+            git commit -m "Datos: corrida del $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  publicar:
+    needs: sincronizar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v5

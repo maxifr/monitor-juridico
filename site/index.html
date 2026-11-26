@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Monitor Jurídico AR</title>
+<meta name="description" content="Novedades jurídicas y judiciales de la Argentina: fallos de la Corte, normas del Boletín Oficial, ministerios públicos y medios jurídicos, en fichas verificadas contra la fuente.">
+<meta name="theme-color" content="#7b1e2b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icono.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icono-192.png">
+<link rel="alternate" type="application/rss+xml" title="Monitor Jurídico AR" href="feed.xml">
+<link rel="preload" href="assets/fonts/newsreader.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/estilos.css">
+<script src="assets/tema.js"></script>
+</head>
+<body>
+<a class="saltar" href="#contenido">Ir a las novedades</a>
+
+<header class="cabecera">
+  <div class="cabecera-in">
+    <div class="marca">
+      <a class="nombre" id="nombre-portal" href="./">Monitor Jurídico AR</a>
+      <p class="edicion"><span id="fecha-edicion">Edición del día</span><span id="estado-sync"></span></p>
+    </div>
+    <div class="acciones">
+      <button class="boton-claro buscador" id="btn-buscar" type="button" aria-keyshortcuts="Control+K /">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span class="etq-larga">Buscar fallos, normas o carátulas</span><span class="etq-corta">Buscar</span><kbd>Ctrl K</kbd>
+      </button>
+      <button class="boton-claro" id="btn-actualizar" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7"/></svg>
+        <span class="etq-larga">Actualizar</span>
+      </button>
+      <button class="boton-claro" id="btn-biblioteca" type="button" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>
+        <span class="etq-larga">Mi biblioteca</span><span class="cuenta" id="cuenta-biblioteca">0</span>
+      </button>
+      <button class="boton-claro" id="btn-tema" type="button" aria-label="Cambiar entre modo claro y oscuro">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav class="filtros" aria-label="Filtros de novedades">
+  <div class="filtros-in">
+    <div class="materias" id="materias" role="group" aria-label="Materia"></div>
+    <div class="controles">
+      <div class="segmentado" id="rango" role="group" aria-label="Período">
+        <button type="button" data-rango="1">Hoy</button>
+        <button type="button" data-rango="7">7 días</button>
+        <button type="button" data-rango="30">30 días</button>
+        <button type="button" data-rango="0">Todo</button>
+      </div>
+      <label class="selector"><span class="vh">Fuente</span><select id="fuente"><option value="">Todas las fuentes</option></select></label>
+      <label class="selector"><span class="vh">Tipo</span><select id="tipo"><option value="">Todos los tipos</option></select></label>
+      <button class="interruptor" id="btn-impacto" type="button" aria-pressed="false">Sólo alto impacto</button>
+      <div class="segmentado" id="vista" role="group" aria-label="Vista">
+        <button type="button" data-vista="tarjetas">Tarjetas</button>
+        <button type="button" data-vista="lista">Lista</button>
+      </div>
+      <div class="activos" id="activos"></div>
+    </div>
+  </div>
+</nav>
+
+<main id="contenido" tabindex="-1">
+  <p class="aviso-demo" id="aviso-demo" hidden></p>
+  <div class="aviso" id="aviso-nuevas" hidden></div>
+  <section class="portada" id="portada" aria-label="Destacados del día" hidden></section>
+  <div id="listado" aria-live="polite"><p class="cargando">Cargando las novedades…</p></div>
+  <div class="mas" id="mas"></div>
+</main>
+
+<footer class="pie">
+  <div class="pie-in">
+    <section aria-labelledby="t-radar">
+      <h2 id="t-radar">Estado de las fuentes</h2>
+      <ul class="radar" id="radar"></ul>
+    </section>
+    <div class="pie-texto">
+      <h2>Cómo se arma cada ficha</h2>
+      <p>Las fichas son síntesis redactadas con IA a partir de la publicación original. Antes de publicarse, un control automático comprueba que las citas textuales existan en la fuente y descarta carátulas o normas que no figuren en ella. El sello violeta indica que esa verificación pasó.</p>
+      <p>No reemplazan la lectura del fallo o la norma: antes de citar, consultá siempre la fuente primaria.</p>
+      <p><a href="feed.xml">Suscribirse por RSS</a></p>
+    </div>
+  </div>
+</footer>
+
+<div class="velo" id="velo" hidden></div>
+
+<aside class="lector" id="lector" role="dialog" aria-modal="true" aria-labelledby="lector-titulo" hidden>
+  <div class="lector-progreso" aria-hidden="true"><span id="progreso"></span></div>
+  <div class="lector-herr">
+    <button class="herr" id="lec-menos" type="button" aria-label="Achicar la letra">A−</button>
+    <button class="herr" id="lec-mas" type="button" aria-label="Agrandar la letra">A+</button>
+    <span class="esp"></span>
+    <button class="herr" id="lec-guardar" type="button" aria-pressed="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>Guardar</span>
+    </button>
+    <button class="herr" id="lec-copiar" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h8"/></svg><span>Copiar cita</span>
+    </button>
+    <button class="herr" id="lec-enlace" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span>Copiar enlace</span>
+    </button>
+    <button class="herr" id="lec-imprimir" type="button" aria-label="Imprimir la ficha">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9V3h12v6M6 18H4v-7h16v7h-2M8 14h8v7H8z"/></svg>
+    </button>
+    <button class="herr" id="lec-cerrar" type="button" aria-label="Cerrar la ficha">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+  </div>
+  <div class="lector-cuerpo" id="lector-cuerpo"></div>
+</aside>
+
+<div class="paleta" id="paleta" hidden>
+  <div class="paleta-caja" role="dialog" aria-modal="true" aria-label="Buscar en el portal">
+    <label>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <span class="vh">Buscar</span>
+      <input id="paleta-q" type="search" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="true" aria-controls="paleta-res" aria-autocomplete="list" placeholder="Prescripción, prisión preventiva, Ley 27.802, Corte…">
+    </label>
+    <ul id="paleta-res" role="listbox" aria-label="Resultados"></ul>
+    <p class="paleta-ayuda">Flechas para moverte, Enter para abrir, Esc para cerrar. Busca en títulos, carátulas, expedientes, normas y etiquetas.</p>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="assets/app.js" defer></script>
+</body>
+</html>

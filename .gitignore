@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# Lo genera el pipeline en cada corrida (GitHub Pages lo publica desde el workflow)
+site/data/
+site/feed.xml
+data/.tmp-*

@@ -1,0 +1,1194 @@
+{
+ "descripcion": "Fichas de demostración redactadas a mano sobre publicaciones reales del 25/11/2026, procesadas por el pipeline real (extracción, verificación de citas y deduplicación).",
+ "novedades": [
+  {
+   "id": "00dcf985e7bf",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835986",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "La Corte declaró inconstitucional la desregulación de cuotas de prepagas del DNU 70/2023",
+   "titulo_original": "Cuotas de los planes de medicina prepaga y decreto de necesidad y urgencia",
+   "bajada": "Confirmó en parte el fallo que limitó al IPC los aumentos de una empresa de medicina prepaga: los considerandos del decreto no justifican la urgencia que habilita legislar por decreto.",
+   "tipo": "Fallo",
+   "materia": "Constitucional",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "BOBBIO, MARIA DEL CARMEN c/ SWISS MEDICAL SA Y OTRO s/AMPARO LEY 16.986",
+   "identificador_legal": "FLP 001221/2024/CS001",
+   "id_legal_norm": "FLP 1221/2024",
+   "holding": "Los artículos 267 y 269 del DNU 70/2023, que eliminaron el control estatal sobre las cuotas de la medicina prepaga previsto en la Ley 26.682, son inconstitucionales: el decreto no muestra una urgencia incompatible con el trámite legislativo ni una relación concreta entre la emergencia invocada y la supresión de ese control.",
+   "puntos_clave": [
+    "Para dictar un DNU debe ser imposible seguir el trámite ordinario o existir una urgencia que no admita esperarlo.",
+    "Invocar una «crisis del sistema de salud» no alcanza para justificar la liberación de precios de las prepagas.",
+    "La Corte aclaró que no se pronunció sobre otros aspectos del DNU 70/2023, que se analizarán caso por caso."
+   ],
+   "impacto_practico": "Sustenta amparos de afiliados contra aumentos posteriores a la desregulación y ofrece un estándar de control de DNU aplicable a otras materias.",
+   "normas_citadas": [
+    "DNU 70/2023",
+    "Ley 26.682",
+    "Ley 16.986"
+   ],
+   "etiquetas": [
+    "dnu",
+    "medicina prepaga",
+    "control de constitucionalidad",
+    "amparo"
+   ],
+   "cita_sugerida": "CSJN, «Bobbio, María del Carmen c/ Swiss Medical SA y otro s/ amparo Ley 16.986», FLP 1221/2024/CS1, 19/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "la Corte confirmó parcialmente la sentencia apelada",
+    "no surge una mínima justificación de las razones o circunstancias de excepción"
+   ],
+   "extracto_oficial": "La actora interpuso una acción de amparo contra una entidad de medicina privada a fin de que se declare la inconstitucionalidad de los artículos 267 y 269 del decreto de necesidad y urgencia 70/2023 , que derogaron el artículo 5°, inciso g, y sustituyeron el artículo 17 de ley 26.682 que imponían el control estatal respecto de los valores de las cuotas de los planes prestacionales de los servicios de salud a cargo de la demandada. La cámara declaró la inconstitucionalidad planteada y ordenó a la demandada limitar los aumentos de las cuotas al porcentaje que arrojase el Índice de Precios al Con",
+   "oficial": {
+    "materia_oficial": "CONSTITUCIONAL - CONSUMO - SALUD",
+    "relevancia": 3,
+    "inconstitucional": true,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359861"
+   },
+   "fecha": "2026-11-19T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "a85718f6d73a",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835975",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Lavado de activos: la Corte anuló una asignación de competencia por violar la garantía del juez natural",
+   "titulo_original": "Lavado de activos de origen ilícito: determinación de la competencia",
+   "bajada": "Dejó sin efecto la decisión de Casación que había declarado competente al Juzgado Federal de Campana en una investigación por la compra de un inmueble en Pilar sin capacidad económica.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "Recurso Queja Nº 1 - Incidente Nº 1 - PANTANO, LUCIANO NICOLAS s/INCIDENTE DE RECURSO EXTRAORDINARIO",
+   "identificador_legal": "FSM 063507/2025/3/1/1/RH003",
+   "id_legal_norm": "FSM 63507/2025",
+   "holding": "La garantía del juez natural se vio afectada de modo severo e inequívoco por una grosera violación de las reglas de competencia y un apartamiento evidente de las constancias de la causa, por lo que la Corte dejó sin efecto la sentencia de la Cámara Federal de Casación Penal.",
+   "puntos_clave": [
+    "La causa investiga la adquisición de un inmueble en Pilar sin capacidad económica suficiente, como posible lavado de activos.",
+    "Los sucesivos conflictos de competencia terminaron con la asignación al Juzgado Federal de Campana.",
+    "La violación grosera de las reglas de competencia habilita la intervención de la Corte por comprometer el juez natural."
+   ],
+   "impacto_practico": "Útil para defensas que cuestionen asignaciones de competencia arbitrarias: la Corte revisa estas cuestiones cuando comprometen el juez natural.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "lavado de activos",
+    "competencia",
+    "juez natural"
+   ],
+   "cita_sugerida": "CSJN, «Pantano, Luciano Nicolás s/ incidente de recurso extraordinario», FSM 63507/2025/3/1/1/RH3, 19/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "la garantía de juez natural se vio afectada de modo severo e inequívoco",
+    "declarara competente al Juzgado Federal de Campana"
+   ],
+   "extracto_oficial": "A partir de una denuncia en la que se atribuyó la adquisición de un inmueble ubicado en el partido de Pilar, Provincia de Buenos Aires sin que existiera capacidad económica suficiente y se postuló la posible comisión del delito de lavado de activos, se originó una serie de conflictos de competencia que determinó que, en su segunda intervención, la Cámara Federal de Casación Penal declarara competente al Juzgado Federal de Campana. La Corte dejó sin efecto esta sentencia al entender que la garantía de juez natural se vio afectada de modo severo e inequívoco a través de una grosera violación a l",
+   "oficial": {
+    "materia_oficial": "COMPETENCIA - PENAL",
+    "relevancia": 3,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359751"
+   },
+   "fecha": "2026-11-19T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "550a24853868",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835902",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Estupefacientes: la multa del art. 5 de la Ley 23.737 procede aunque el fiscal no la haya pedido",
+   "titulo_original": "Aplicación conjunta de prisión y multa - Inapropiada invocación de afectación del principio acusatorio",
+   "bajada": "Por mayoría, la Corte revocó la decisión de Casación que había anulado la multa por falta de pedido fiscal con una invocación inapropiada del principio acusatorio.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "Recurso Queja Nº 1 - Incidente Nº 59 - NN: GALLARDO, LUIS ALBERTO Y OTROS s/INCIDENTE DE RECURSO EXTRAORDINARIO",
+   "identificador_legal": "FSM 125486/2017/TO01/59/1/RH009",
+   "id_legal_norm": "FSM 125486/2017",
+   "holding": "La multa prevista en el artículo 5, inciso c, de la Ley 23.737 integra la pena legal del delito; anularla porque el fiscal no la solicitó prescinde de la norma aplicable bajo una invocación inapropiada del principio acusatorio.",
+   "puntos_clave": [
+    "Casación había anulado el monto de la multa porque el fiscal no la pidió ni la cuantificó.",
+    "Para la mayoría, la Ley 23.737 impone expresamente la multa junto con la prisión.",
+    "El fallo menciona además los compromisos internacionales asumidos por el Estado en la materia."
+   ],
+   "impacto_practico": "Limita el planteo de nulidad de la multa por ausencia de pedido fiscal en causas por tenencia con fines de comercialización; la discusión se desplaza al monto.",
+   "normas_citadas": [
+    "Ley 23.737, art. 5 inc. c"
+   ],
+   "etiquetas": [
+    "estupefacientes",
+    "pena de multa",
+    "principio acusatorio"
+   ],
+   "cita_sugerida": "CSJN, «Gallardo, Luis Alberto y otros s/ incidente de recurso extraordinario», FSM 125486/2017/TO1/59/1/RH9, 19/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "el fiscal no había solicitado su imposición y por ende tampoco había establecido su monto",
+    "bajo la pretendida e inapropiada invocación de la afectación del principio acusatorio"
+   ],
+   "extracto_oficial": "La Cámara Federal de Casación anuló la sentencia recurrida en lo que respecta al monto de la pena de multa impuesta a los condenados por el delito de tenencia de estupefacientes con fines de comercialización. Basó su decisión en que el fiscal no había solicitado su imposición y por ende tampoco había establecido su monto. La Corte, por mayoría, dejó sin efecto este pronunciamiento. Afirmó que, bajo la pretendida e inapropiada invocación de la afectación del principio acusatorio, había invalidado la imposición de la pena de multa, prescindiendo de la norma aplicable pues el artículo 5, inciso c",
+   "oficial": {
+    "materia_oficial": "PENAL",
+    "relevancia": 3,
+    "sentencia_arbitraria": true,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359021"
+   },
+   "fecha": "2026-11-19T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "60cd6a9c730a",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835565",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Juicio político: la Corte rechazó el recurso del juez federal destituido Walter Bento",
+   "titulo_original": "Destitución de juez federal por mal desempeño: rigurosos límites de la revisión judicial",
+   "bajada": "Desestimó los agravios contra la decisión del Jurado de Enjuiciamiento por mal desempeño y rechazó el planteo contra la integración del Jurado fijada por la Ley 26.080.",
+   "tipo": "Fallo",
+   "materia": "Constitucional",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "BENTO, WALTER RICARDO s/remoción",
+   "identificador_legal": "CSJ 002698/2023/RH001",
+   "id_legal_norm": "CSJ 2698/2023",
+   "holding": "En los procesos de remoción de magistrados la revisión judicial es restrictiva: sólo procede ante una afectación del debido proceso de entidad constitucional, que los agravios del magistrado destituido no lograron demostrar.",
+   "puntos_clave": [
+    "El Jurado consideró configurada la causal de mal desempeño de los arts. 110 y 115 de la Constitución.",
+    "La Corte no encontró una lesión al debido proceso que habilitara su intervención.",
+    "Rechazó la inconstitucionalidad de la Ley 26.080 en cuanto a la integración del Jurado."
+   ],
+   "impacto_practico": "Confirma la deferencia hacia el Jurado de Enjuiciamiento: el control judicial se limita a violaciones claras del debido proceso.",
+   "normas_citadas": [
+    "arts. 110 y 115 CN",
+    "Ley 24.937, art. 25",
+    "Ley 26.080"
+   ],
+   "etiquetas": [
+    "juicio político",
+    "mal desempeño",
+    "jurado de enjuiciamiento"
+   ],
+   "cita_sugerida": "CSJN, «Bento, Walter Ricardo s/ remoción», CSJ 2698/2023/RH1, 19/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "La Corte desestimó el recurso intentado por el magistrado destituido",
+    "Rechazó el planteo de inconstitucionalidad de la ley 26.080"
+   ],
+   "extracto_oficial": "El Jurado de Enjuiciamiento de Magistrados de la Nación resolvió destituir al titular de un juzgado federal por considerar que había incurrido en la causal constitucional de mal desempeño, de conformidad con lo establecido en los artículos 110 y 115 de la Constitución Nacional y en el artículo 25, incisos 2 y 5, de la ley 24.937 . La Corte desestimó el recurso intentado por el magistrado destituido por considerar que los agravios no eran suficientes para demostrar una afectación al debido proceso de entidad constitucional que habilite su intervención en el marco de los rigurosos límites que ti",
+   "oficial": {
+    "materia_oficial": "CONSTITUCIONAL",
+    "relevancia": 3,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8355651"
+   },
+   "fecha": "2026-11-19T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "ba713c7c3bd8",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835042",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Zona austral: la Corte aclaró que no se confunde con el adicional por zona desfavorable",
+   "titulo_original": "Bonificación por zona austral y adicional por zona desfavorable: distinta naturaleza jurídica",
+   "bajada": "Revocó la sentencia que había negado a un retirado de la Policía de Río Negro el coeficiente de la Ley 19.485 por considerarlo análogo al adicional del personal en actividad.",
+   "tipo": "Fallo",
+   "materia": "Previsional",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "NICOLINI, DAVID ATILIO c/ ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSES) s/AMPARO LEY 16.986",
+   "identificador_legal": "FGR 020359/2015/CS001",
+   "id_legal_norm": "FGR 20359/2015",
+   "holding": "La bonificación por zona austral de la Ley 19.485 y el adicional por zona desfavorable tienen distinta naturaleza jurídica; asimilarlos para negar su acumulación es una interpretación restrictiva indebida del beneficio.",
+   "puntos_clave": [
+    "La Cámara había rechazado el amparo por entender que ambos adicionales tenían sentido y finalidad análogos.",
+    "La Corte dejó sin efecto esa sentencia por interpretar restrictivamente la bonificación.",
+    "El caso tramitó como amparo de la Ley 16.986 contra la ANSES."
+   ],
+   "impacto_practico": "Relevante para reclamos de retirados y pensionados patagónicos que además perciben otros suplementos zonales.",
+   "normas_citadas": [
+    "Ley 19.485",
+    "Ley 16.986"
+   ],
+   "etiquetas": [
+    "zona austral",
+    "haber de retiro",
+    "anses"
+   ],
+   "cita_sugerida": "CSJN, «Nicolini, David Atilio c/ ANSES s/ amparo Ley 16.986», FGR 20359/2015/CS1, 12/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "el coeficiente por zona austral creado por la ley 19.485",
+    "había efectuado una indebida interpretación restrictiva de esta bonificación"
+   ],
+   "extracto_oficial": "La cámara rechazó la acción de amparo promovida por un retirado de la Policía de la Provincia de Río Negro contra la Administración Nacional de la Seguridad Social, dirigida a que se incorpore a su haber de retiro el coeficiente por zona austral creado por la ley 19.485 . Fundó su decisión en que ese beneficio no podía acumularse en su totalidad con el adicional por \"zona desfavorable\" (otorgado al personal policial rionegrino en actividad) al entender que el sentido y finalidad de ambos adicionales guardaban sustancial analogía. La Corte dejó sin efecto esta sentencia. Consideró que ella habí",
+   "oficial": {
+    "materia_oficial": "PREVISIONAL",
+    "relevancia": 3,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8350421"
+   },
+   "fecha": "2026-11-12T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "e5ab595d597d",
+   "fuente": "csjn",
+   "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+   "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835111",
+   "prioridad": 100,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Caducidad contencioso administrativa: la Corte descalificó un cómputo con exceso de rigor formal",
+   "titulo_original": "In dubio pro actione y excesivo rigor formal",
+   "bajada": "El plazo se había contado desde un decreto notificado sin aclarar si agotaba la vía administrativa; la Corte priorizó el acceso a la jurisdicción.",
+   "tipo": "Fallo",
+   "materia": "Contencioso Administrativo",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "VIDELA, GUSTAVO LUIS c/ DIRECCION DE GEODESIA Y CATASTRO - CONTENCIOSO ADMINISTRATIVO s/inconstitucionalidad",
+   "identificador_legal": "CSJ 000446/2023/RH001",
+   "id_legal_norm": "CSJ 446/2023",
+   "holding": "Computar el plazo de caducidad desde la notificación de un acto que no indicó si agotaba la vía, y no desde el que resolvió la reconsideración, configura un injustificado rigor formal que lesiona la defensa en juicio.",
+   "puntos_clave": [
+    "El actor recurrió una resolución provincial y luego pidió reconsideración del decreto que la confirmó.",
+    "Los jueces locales tuvieron por vencido el plazo contándolo desde el primer decreto.",
+    "La Corte aplicó el principio in dubio pro actione."
+   ],
+   "impacto_practico": "Argumento útil frente a planteos de caducidad cuando la Administración notifica sin informar si el acto agota la vía.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "caducidad",
+    "in dubio pro actione",
+    "exceso de rigor formal"
+   ],
+   "cita_sugerida": "CSJN, «Videla, Gustavo Luis c/ Dirección de Geodesia y Catastro s/ inconstitucionalidad», CSJ 446/2023/RH1, 12/11/2026",
+   "alto_impacto": false,
+   "citas_textuales": [
+    "notificado sin explicitar si el acto agotaba la vía administrativa",
+    "incurrió en un injustificado rigor formal que atentó contra la defensa en juicio"
+   ],
+   "extracto_oficial": "El actor planteó un recurso jerárquico contra una resolución de una dirección del gobierno provincial que fue rechazado por un decreto, notificado sin explicitar si el acto agotaba la vía administrativa. Cuestionó este decreto mediante un recurso de reconsideración que fue rechazado por un nuevo decreto. Frente a ello, interpuso una acción judicial de nulidad de dichos actos administrativos, que fue rechazada porque se consideró que había sido planteada luego de fenecido el plazo de caducidad ya que estimaron que el mismo debía computarse desde la notificación del primer decreto y no desde la ",
+   "oficial": {
+    "materia_oficial": "ADMINISTRATIVO",
+    "relevancia": 3,
+    "sentencia_arbitraria": true,
+    "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8351111"
+   },
+   "fecha": "2026-11-12T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "9c169584316a",
+   "fuente": "csjn_noticias",
+   "fuente_nombre": "CSJN — Noticias institucionales",
+   "url": "https://www.csjn.gov.ar/novedades/detalle/15846",
+   "prioridad": 98,
+   "fuente_oficial": true,
+   "dominio_publico": false,
+   "titulo": "Contrataciones de la Corte: rige el registro digital de proveedores previsto en la Acordada 24/2026",
+   "titulo_original": "Más transparencia y control para las contrataciones",
+   "bajada": "La Corte habilitó la plataforma del Registro de Proveedores y publicó el texto ordenado de su régimen de contrataciones; la inscripción será obligatoria a los 90 días de la publicación oficial.",
+   "tipo": "Acordada",
+   "materia": "Institucional",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "",
+   "identificador_legal": "acordada 24/2026",
+   "id_legal_norm": "ACORDADA 24/2026",
+   "holding": "Quienes quieran contratar con el Tribunal deberán inscribirse y presentar su documentación a través de la nueva plataforma digital del Registro de Proveedores, conforme la Acordada 24/2026.",
+   "puntos_clave": [
+    "La plataforma ya está disponible.",
+    "La Resolución 2989/2026 publicó el texto ordenado del Régimen de Contrataciones y del Pliego Único.",
+    "La inscripción será obligatoria a partir de los 90 días de su publicación oficial."
+   ],
+   "impacto_practico": "Relevante para proveedores del Poder Judicial de la Nación y para el control de las contrataciones del Tribunal.",
+   "normas_citadas": [
+    "Acordada 24/2026",
+    "Acordada 38/2023",
+    "Acordada 31/2025"
+   ],
+   "etiquetas": [
+    "contrataciones",
+    "acordada",
+    "transparencia"
+   ],
+   "cita_sugerida": "CSJN, Acordada 24/2026 (Registro de Proveedores)",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T03:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "5bd6f2cb07d6",
+   "fuente": "bora",
+   "fuente_nombre": "Boletín Oficial (1.ª sección)",
+   "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350768/20261125",
+   "prioridad": 95,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Fondo de Asistencia Laboral de la Ley 27.802: ARCA modificó la Resolución General 5907",
+   "titulo_original": "Resolución General 5928/2026 — Agencia de Recaudación y Control Aduanero: Seguridad Social. Ley de Modernización Laboral N° 27.802. Título II. Fondo de Asistencia Laboral (FAL). Resolución Gener...",
+   "bajada": "Reemplaza el artículo 2° de esa norma, que regula cómo se considera a los empleadores para la contribución mensual al FAL: 1 % para grandes empresas y 2,5 % para mipymes.",
+   "tipo": "Norma",
+   "materia": "Laboral",
+   "instancia": "Poder Ejecutivo",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Agencia de Recaudación y Control Aduanero (ARCA)",
+   "caratula": "",
+   "identificador_legal": "Resolución General 5928/2026",
+   "id_legal_norm": "RESOLUCION GENERAL 5928/2026",
+   "holding": "La resolución sustituye el artículo 2° de la Resolución General 5907 en el marco del Título II de la Ley de Modernización Laboral 27.802, que creó los Fondos de Asistencia Laboral para cubrir indemnizaciones por despido y otros pagos laborales.",
+   "puntos_clave": [
+    "El FAL se integra con una contribución mensual obligatoria del 1 % (grandes empresas) o del 2,5 % (mipymes).",
+    "Cubre indemnizaciones de la Ley de Contrato de Trabajo de trabajadores registrados con al menos 12 meses de antigüedad.",
+    "Se publicó en el Boletín Oficial del 25 de noviembre de 2026."
+   ],
+   "impacto_practico": "Los empleadores tienen que revisar su encuadre para calcular la contribución al FAL.",
+   "normas_citadas": [
+    "Ley 27.802",
+    "Resolución General 5907",
+    "Ley 20.744"
+   ],
+   "etiquetas": [
+    "fondo de asistencia laboral",
+    "modernización laboral",
+    "arca",
+    "indemnizaciones"
+   ],
+   "cita_sugerida": "ARCA, Resolución General 5928/2026, B.O. 25/11/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "Sustituir el artículo 2° de la Resolución General N° 5.907",
+    "dispuso la creación de los Fondos de Asistencia Laboral (FAL) destinados exclusivamente a coadyuvar"
+   ],
+   "extracto_oficial": "Seguridad Social. Ley de Modernización Laboral N° 27.802. Título II. Fondo de Asistencia Laboral (FAL). Resolución Gener... ARTÍCULO 1°.- Sustituir el artículo 2° de la Resolución General N° 5.907 y su modificatoria, por el siguiente: “ARTÍCULO 2°.- Los empleadores, a efectos de ser considerados como Micro, Pequeñas y Medianas empresas conforme lo regulado en el tercer párrafo del artículo 2° del Decreto N° 408/26 y su modificatorio, deberán contar con el “Certificado MiPyME” vigente -en el período fiscal devengado correspondiente-, de acuerdo a lo establecido por la Resolución N° 220 del 12 d",
+   "oficial": {},
+   "fecha": "2026-11-25T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)",
+   "actualizado": "2026-11-25T23:25:00+00:00"
+  },
+  {
+   "id": "d2f967857388",
+   "fuente": "saij",
+   "fuente_nombre": "SAIJ — Leyes nacionales",
+   "url": "https://www.saij.gob.ar/reforma-tributaria-nuevos-criterios-fiscalizacion-cambios-regimen-simplificado-ganancias-reforma-tributaria-nuevos-criterios-fiscalizacion-cambios-regimen-simplificado-ganancias-nv52270-2026-09-27/123456789-0abc-072-25ti-lpssedadevon",
+   "prioridad": 95,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "Reforma tributaria: nuevos criterios de fiscalización y cambios en Ganancias simplificado",
+   "titulo_original": "Reforma tributaria: nuevos criterios de fiscalización y cambios en el régimen simplificado de Ganancias",
+   "bajada": "La Ley 27.826 modificó la declaración jurada simplificada de Ganancias, fijó criterios para las discrepancias fiscales significativas y redujo multas para mipymes, personas humanas y entidades sin fines de lucro.",
+   "tipo": "Norma",
+   "materia": "Tributario",
+   "instancia": "Poder Legislativo",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Congreso de la Nación",
+   "caratula": "",
+   "identificador_legal": "Ley 27826",
+   "id_legal_norm": "LEY 27826",
+   "holding": "Introduce nuevos criterios para determinar discrepancias fiscales significativas y mayores garantías para los contribuyentes frente a las fiscalizaciones de ARCA.",
+   "puntos_clave": [
+    "Cambia la declaración jurada simplificada del Impuesto a las Ganancias.",
+    "Define cuándo una discrepancia fiscal es significativa.",
+    "Reduce multas para micro, pequeñas y medianas empresas, personas humanas y entidades sin fines de lucro."
+   ],
+   "impacto_practico": "Conviene revisar las fiscalizaciones en curso a la luz de los nuevos criterios y de la reducción de multas.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "ganancias",
+    "arca",
+    "multas",
+    "fiscalización"
+   ],
+   "cita_sugerida": "Ley 27.826 (reforma tributaria), reseña del SAIJ, 27/09/2026",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "establecieron nuevos criterios para determinar discrepancias fiscales significativas"
+   ],
+   "extracto_oficial": "Modificaron la declaración jurada simplificada del Impuesto a las Ganancias, establecieron nuevos criterios para determinar discrepancias fiscales significativas y mayores garantías para los contribuyentes frente a las fiscalizaciones de ARCA. Además, dispusieron reducciones de multas para micro, pequeñas y medianas empresas, personas humanas y entidades sin fines de lucro.",
+   "oficial": {},
+   "fecha": "2026-09-27T03:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [
+    {
+     "fuente": "saij",
+     "fuente_nombre": "SAIJ — Leyes nacionales",
+     "url": "https://www.saij.gob.ar/27826-nacional-modificacion-al-regimen-penal-tributario-lns0007884-2026-09-17/123456789-0abc-defg-g48-87000scanyel",
+     "titulo": "LEY 27.826: Modificación al Régimen Penal Tributario",
+     "fecha": "2026-09-17T03:00:00+00:00"
+    }
+   ],
+   "verificacion": {
+    "citas_verificadas": 1,
+    "citas_total": 1,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)",
+   "actualizado": "2026-11-25T23:24:55+00:00"
+  },
+  {
+   "id": "792dbe120e1d",
+   "fuente": "saij_tdf",
+   "fuente_nombre": "SAIJ — Jurisprudencia de Tierra del Fuego",
+   "url": "https://www.saij.gob.ar/superior-tribunal-justicia-local-tierra-fuego-bianchini-isaias-santiago-lesiones-leves-agravadas-fa26350001-2026-05-13/123456789-100-0536-2ots-eupmocsollaf",
+   "prioridad": 94,
+   "fuente_oficial": true,
+   "dominio_publico": true,
+   "titulo": "El STJ fueguino admitió la reparación integral en un caso de violencia de género con conformidad de la víctima",
+   "titulo_original": "Superior Tribunal De Justicia (TDF): Bianchini Isaias Santiago s/ Lesiones Leves Agravadas",
+   "bajada": "Hizo lugar a la casación de la defensa: la extinción de la acción por reparación integral es viable si hay evaluación especializada previa y consentimiento libre e informado de la víctima.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "Tribunal Superior provincial",
+   "jurisdiccion": "Tierra del Fuego",
+   "tribunal": "Superior Tribunal de Justicia de Tierra del Fuego",
+   "caratula": "Bianchini Isaias Santiago s/ Lesiones Leves Agravadas",
+   "identificador_legal": "26350001",
+   "id_legal_norm": "26350001",
+   "holding": "La reparación integral del perjuicio puede extinguir la acción penal en casos de violencia de género cuando se acredita una evaluación especializada previa y el consentimiento libre, voluntario e informado de la víctima; el tribunal cuestionó la negativa sistemática a respetar esa voluntad así certificada.",
+   "puntos_clave": [
+    "Exige una evaluación especializada previa del caso.",
+    "Requiere el consentimiento libre, voluntario e informado de la víctima, certificado por una evaluación técnica.",
+    "Se admitió el recurso de casación de la defensa contra la denegatoria de la extinción."
+   ],
+   "impacto_practico": "Precedente local para defensas que propongan reparación integral en causas de violencia de género con respaldo técnico de la conformidad de la víctima.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "reparación integral",
+    "violencia de género",
+    "extinción de la acción",
+    "tierra del fuego"
+   ],
+   "cita_sugerida": "STJ Tierra del Fuego, «Bianchini, Isaías Santiago s/ lesiones leves agravadas», 13/05/2026 (SAIJ)",
+   "alto_impacto": true,
+   "citas_textuales": [
+    "La aplicación de la reparación integral del perjuicio en casos de violencia de género resulta jurídicamente viable"
+   ],
+   "extracto_oficial": "La aplicación de la reparación integral del perjuicio en casos de violencia de género resulta jurídicamente viable cuando se acredite fehacientemente la evaluación especializada previa del caso, el consentimiento libre, voluntario e informado de la...",
+   "oficial": {},
+   "fecha": "2026-05-13T03:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:55+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 1,
+    "citas_total": 1,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "d7d85e931c05",
+   "fuente": "mpf",
+   "fuente_nombre": "Ministerio Público Fiscal",
+   "url": "https://www.fiscales.gob.ar/fiscalias/procesaron-con-prision-preventiva-a-cuatro-personas-acusadas-por-el-homicidio-de-un-hombre-durante-un-robo-en-saavedra/",
+   "prioridad": 88,
+   "fuente_oficial": true,
+   "dominio_publico": false,
+   "titulo": "Saavedra: procesan con prisión preventiva a cuatro personas por el homicidio de un hombre durante un robo",
+   "titulo_original": "Procesaron con prisión preventiva a cuatro personas por el homicidio de un hombre durante un robo en Saavedra",
+   "bajada": "El Juzgado Criminal y Correccional N° 8 los procesó como coautores; la investigación estuvo a cargo de la Fiscalía de Distrito de Saavedra y Núñez, con apoyo en las cámaras del edificio.",
+   "tipo": "Noticia",
+   "materia": "Penal",
+   "instancia": "Primera instancia",
+   "jurisdiccion": "CABA",
+   "tribunal": "Juzgado Nacional en lo Criminal y Correccional N° 8",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "El juez valoró las pruebas reunidas por la fiscalía y procesó con prisión preventiva a una joven de 22 años y a tres presuntos cómplices como coautores del homicidio agravado de un hombre asaltado en su vivienda.",
+   "puntos_clave": [
+    "El hecho ocurrió entre el 3 y el 4 de septiembre en un departamento de Rómulo Naón al 3500.",
+    "La investigación la encabezó el fiscal José María Campagnoli.",
+    "Las cámaras de seguridad del edificio registraron los movimientos de los imputados."
+   ],
+   "impacto_practico": "Muestra el peso de la prueba de videovigilancia para fundar el procesamiento y la prisión preventiva en la etapa de instrucción.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "homicidio agravado",
+    "prisión preventiva",
+    "procesamiento"
+   ],
+   "cita_sugerida": "Juzgado Nacional en lo Criminal y Correccional N° 8, procesamiento por homicidio agravado (Saavedra), informado por el MPF el 25/11/2026",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T12:02:41+00:00",
+   "ingresado": "2026-11-25T23:24:56+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "5242b3a9f75a",
+   "fuente": "mpf",
+   "fuente_nombre": "Ministerio Público Fiscal",
+   "url": "https://www.fiscales.gob.ar/fiscalias/condenaron-a-12-anos-de-prision-a-pity-alvarez-por-haber-matado-a-un-hombre-en-el-barrio-samore-en-2018-y-ordenaron-su-detencion-domiciliaria/",
+   "prioridad": 88,
+   "fuente_oficial": true,
+   "dominio_publico": false,
+   "titulo": "Condenaron a 12 años de prisión a «Pity» Álvarez por el homicidio de 2018 en el Barrio Samoré",
+   "titulo_original": "Condenaron a 12 años de prisión a \"Pity\" Álvarez por haber matado a un hombre en el Barrio Samoré en 2018 y ordenaron su detención domiciliaria",
+   "bajada": "El TOC N° 29 lo consideró autor de homicidio agravado por el uso de arma de fuego y ordenó su detención domiciliaria, que regirá cuando cese su internación involuntaria.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "Primera instancia",
+   "jurisdiccion": "CABA",
+   "tribunal": "Tribunal Oral en lo Criminal y Correccional N° 29",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "El tribunal condenó al acusado como autor de homicidio agravado por haber sido cometido con arma de fuego, por debajo de los 18 años y 6 meses que había pedido la fiscalía, y dispuso que cumpla la detención en forma domiciliaria.",
+   "puntos_clave": [
+    "El fiscal general Sandro Abraldes había pedido 18 años y 6 meses de prisión.",
+    "La detención domiciliaria comenzará cuando termine la internación involuntaria fijada en un proceso civil.",
+    "El hecho ocurrió el 12 de julio de 2018 en Villa Lugano."
+   ],
+   "impacto_practico": "Ejemplo de articulación entre la condena penal y las medidas de salud mental dispuestas en sede civil para el modo de cumplimiento.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "homicidio agravado",
+    "arma de fuego",
+    "detención domiciliaria",
+    "salud mental"
+   ],
+   "cita_sugerida": "TOC N° 29 de la Capital Federal, condena a Cristián Álvarez por homicidio agravado, 20/11/2026",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-20T17:11:40+00:00",
+   "ingresado": "2026-11-25T23:24:56+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "8a9dbfa1f68c",
+   "fuente": "palabras_derecho",
+   "fuente_nombre": "Palabras del Derecho",
+   "url": "https://www.palabrasdelderecho.com.ar/articulo/7117/La-Procuracion-dictamino-que-las-provincias-no-pueden-fijar-sus-propios-plazos-de-prescripcion-tributaria",
+   "prioridad": 72,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "La Procuración dictaminó que las provincias no pueden fijar sus propios plazos de prescripción tributaria",
+   "titulo_original": "La Procuración dictaminó que las provincias no pueden fijar sus propios plazos de prescripción tributaria",
+   "bajada": "Propuso declarar inconstitucionales los arts. 2532 y 2560 del Código Civil y Comercial en una ejecución fiscal de Río Negro contra Travel Rock S.A.",
+   "tipo": "Dictamen",
+   "materia": "Tributario",
+   "instancia": "Ministerio Público",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Procuración General de la Nación",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "Las legislaturas provinciales carecen de competencia para regular plazos, inicio o causales de interrupción de la prescripción de tributos locales, por lo que las normas del Código Civil y Comercial que lo habilitan serían inconstitucionales.",
+   "puntos_clave": [
+    "El caso se originó en una ejecución fiscal por Ingresos Brutos (Convenio Multilateral).",
+    "La Procuración cuestionó los artículos 2532 y 2560 del Código Civil y Comercial.",
+    "La decisión final corresponde a la Corte Suprema."
+   ],
+   "impacto_practico": "Anticipa la discusión ante la Corte sobre la prescripción de tributos locales, clave en ejecuciones fiscales provinciales y municipales.",
+   "normas_citadas": [
+    "arts. 2532 y 2560 CCyCN"
+   ],
+   "etiquetas": [
+    "prescripción",
+    "tributos locales",
+    "ejecución fiscal",
+    "ingresos brutos"
+   ],
+   "cita_sugerida": "Procuración General de la Nación, dictamen en la ejecución fiscal del Fisco de Río Negro contra Travel Rock S.A. (Palabras del Derecho, 24/11/2026)",
+   "alto_impacto": true,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-24T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:58+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "9e1b49309464",
+   "fuente": "palabras_derecho",
+   "fuente_nombre": "Palabras del Derecho",
+   "url": "https://www.palabrasdelderecho.com.ar/articulo/7120/Cesantia-en-el-empleo-publico-el-Estado-no-esta-legitimado-para-plantear-la-inconstitucionalidad-de-las-leyes",
+   "prioridad": 72,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "Empleo público: anularon una cesantía prescripta y el Estado no pudo impugnar sus propias leyes",
+   "titulo_original": "Cesantía en el empleo público: el Estado no está legitimado para plantear la inconstitucionalidad de las leyes",
+   "bajada": "La Sala I del fuero Contencioso Administrativo Federal ordenó reinstalar a un empleado del Ministerio de Cultura sancionado fuera de plazo.",
+   "tipo": "Fallo",
+   "materia": "Contencioso Administrativo",
+   "instancia": "Cámara",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala I",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "El Estado Nacional no está legitimado para plantear la inconstitucionalidad de normas que él mismo dicta; por eso no puede desconocer los plazos de prescripción de la Ley Marco de Empleo Público para sostener una cesantía extemporánea.",
+   "puntos_clave": [
+    "La cesantía se dictó cuando la facultad disciplinaria ya estaba prescripta.",
+    "Se declaró la nulidad del acto y se ordenó la reinstalación del agente.",
+    "El Estado pretendía desconocer los plazos de la Ley Marco para rechazar la prescripción."
+   ],
+   "impacto_practico": "Refuerza la defensa de agentes públicos frente a sumarios tardíos: la prescripción disciplinaria opera aunque el Estado la cuestione.",
+   "normas_citadas": [
+    "Ley Marco de Empleo Público"
+   ],
+   "etiquetas": [
+    "empleo público",
+    "cesantía",
+    "prescripción",
+    "potestad disciplinaria"
+   ],
+   "cita_sugerida": "CNACAF, Sala I, nulidad de una cesantía por prescripción de la potestad disciplinaria (Palabras del Derecho, 25/11/2026)",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T15:00:00+00:00",
+   "ingresado": "2026-11-25T23:24:58+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "087f61595bcb",
+   "fuente": "pensamiento_penal",
+   "fuente_nombre": "Pensamiento Penal",
+   "url": "https://www.pensamientopenal.com.ar/fallos/92179-prohibicion-acercamiento-no-debe-limitarse-menor-victima-del-abuso-cuando-quien-pide",
+   "prioridad": 70,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "La prohibición de acercamiento puede extenderse a la madre de la niña víctima de abuso",
+   "titulo_original": "La prohibición de acercamiento no debe limitarse a la menor víctima del abuso cuando quien pide la medida es la madre",
+   "bajada": "La Cámara del Crimen extendió la medida que pesa sobre un acusado de abusar de su hija de tres años también respecto de la madre, que fue quien la pidió.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "Cámara",
+   "jurisdiccion": "CABA",
+   "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "La protección cautelar no se limita a la víctima directa del delito: puede alcanzar a la madre que solicita la medida.",
+   "puntos_clave": [
+    "El acusado está imputado por el presunto abuso sexual de su hija de tres años.",
+    "La Cámara extendió la prohibición de acercamiento a la progenitora.",
+    "Se trató de la prórroga de una medida cautelar."
+   ],
+   "impacto_practico": "Sirve para fundar pedidos de protección del entorno familiar de víctimas menores de edad.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "prohibición de acercamiento",
+    "abuso sexual",
+    "medidas cautelares"
+   ],
+   "cita_sugerida": "Cámara Nacional de Apelaciones en lo Criminal y Correccional, 28/09/2026 (reseña de Pensamiento Penal)",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-18T23:46:16+00:00",
+   "ingresado": "2026-11-25T23:24:59+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 1,
+    "citas_total": 1,
+    "modo": "referencia",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "9c151f6c4b43",
+   "fuente": "aldia",
+   "fuente_nombre": "Al Día Argentina (Microjuris)",
+   "url": "https://aldiaargentina.microjuris.com/2026/11/25/fallos-csjn-es-infundada-e-innecesaria-la-declaracion-de-inconstitucionalidad-de-las-leyes-23-928-y-25-561-en-tanto-el-tribunal-invoco-la-proteccion-contra-el-despido-arbitrario-pero-la-demanda-pers/",
+   "prioridad": 63,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "Riesgos del trabajo: la Corte revocó una inconstitucionalidad de la prohibición de indexar fundada en argumentos genéricos",
+   "titulo_original": "CSJN: Es infundada e innecesaria la declaración de inconstitucionalidad de las leyes 23.928 y 25.561 en tanto el tribunal invocó la protección contra el despido arbitrario pero la demanda persiguió una indemnización por un siniestro laboral",
+   "bajada": "La alzada había invocado la protección contra el despido arbitrario en un reclamo por un siniestro laboral y no examinó el sistema de ajuste propio del régimen de riesgos del trabajo.",
+   "tipo": "Fallo",
+   "materia": "Laboral",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "Encina Hilda Zulema (23819) c/ ART Interacción S.A. y otro s/ accidente – ley especial",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "Es manifiestamente infundada e innecesaria la declaración de inconstitucionalidad de las leyes 23.928 y 25.561 adoptada con argumentos genéricos e imprecisos, sin examinar las normas del régimen de Riesgos del Trabajo que prevén un sistema específico de ajuste de las prestaciones.",
+   "puntos_clave": [
+    "La demanda perseguía una indemnización por un siniestro laboral, no por despido.",
+    "La alzada omitió analizar la Resolución SRT 414/99, la Ley 27.348 y el DNU 669/2019.",
+    "El recurso extraordinario es admisible porque se cuestionó la validez del art. 7 de la Ley 23.928."
+   ],
+   "impacto_practico": "Obliga a fundar en concreto cualquier pedido de actualización por fuera del régimen de ajuste de la Ley de Riesgos del Trabajo.",
+   "normas_citadas": [
+    "Ley 23.928, art. 7",
+    "Ley 25.561",
+    "Ley 27.348",
+    "DNU 669/2019",
+    "Resolución SRT 414/99"
+   ],
+   "etiquetas": [
+    "riesgos del trabajo",
+    "actualización monetaria",
+    "inconstitucionalidad"
+   ],
+   "cita_sugerida": "CSJN, «Encina, Hilda Zulema c/ ART Interacción S.A. y otro s/ accidente – ley especial», 29/10/2026 (Al Día Argentina)",
+   "alto_impacto": true,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T09:00:16+00:00",
+   "ingresado": "2026-11-25T23:24:59+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "0694607ef7cf",
+   "fuente": "diario_judicial",
+   "fuente_nombre": "Diario Judicial",
+   "url": "https://www.diariojudicial.com/news-104959-las-empresas-no-son-victimas",
+   "prioridad": 60,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "Una sociedad anónima no puede apelar un sobreseimiento invocando la condición de víctima",
+   "titulo_original": "Las empresas no son víctimas",
+   "bajada": "La Cámara del Crimen rechazó la queja de una empresa que no había sido admitida como querellante: esa facultad recursiva se reserva a las personas físicas.",
+   "tipo": "Fallo",
+   "materia": "Penal",
+   "instancia": "Cámara",
+   "jurisdiccion": "CABA",
+   "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "Según el artículo 2 de la Ley 27.372, la condición de víctima que permite recurrir el sobreseimiento sin ser querellante corresponde a personas físicas; una persona jurídica no puede invocarla.",
+   "puntos_clave": [
+    "La misma Sala ya había rechazado a la empresa como parte querellante.",
+    "La firma intentó impugnar el sobreseimiento de dos personas en carácter de víctima.",
+    "El tribunal desestimó el recurso de queja."
+   ],
+   "impacto_practico": "Útil para defensas que enfrenten recursos de personas jurídicas no constituidas como querellantes contra sobreseimientos.",
+   "normas_citadas": [
+    "Ley 27.372, art. 2"
+   ],
+   "etiquetas": [
+    "víctima",
+    "personas jurídicas",
+    "sobreseimiento",
+    "querella"
+   ],
+   "cita_sugerida": "CNCrim. y Correc., rechazo de la queja de una sociedad anónima contra un sobreseimiento (Diario Judicial, 25/11/2026)",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T14:24:16+00:00",
+   "ingresado": "2026-11-25T23:25:00+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "d168cd4def0b",
+   "fuente": "diario_judicial",
+   "fuente_nombre": "Diario Judicial",
+   "url": "https://www.diariojudicial.com/news-104962-a-cada-ley-su-honorario",
+   "prioridad": 60,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "Honorarios en causas largas: la Cámara aplicó la ley arancelaria vigente al momento de cada tarea",
+   "titulo_original": "A cada Ley su honorario",
+   "bajada": "En un expediente iniciado en 2015, la Sala II reguló con la Ley 21.839 lo trabajado antes de la Ley 27.423 y con ésta lo posterior.",
+   "tipo": "Fallo",
+   "materia": "Contencioso Administrativo",
+   "instancia": "Cámara",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala II",
+   "caratula": "Prat, Juan Carlos y otros c/ EN - DIEA s/personal militar y civil de las FFAA y de Seguridad",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "El derecho a los honorarios se constituye cuando se realiza el trabajo profesional, por lo que cada etapa se regula según el régimen arancelario vigente en ese momento; la retribución no surge de aplicar porcentajes en forma automática.",
+   "puntos_clave": [
+    "La actuación ante la Alzada se reguló en 171 UMA.",
+    "Se distinguieron las tareas anteriores y posteriores a la Ley 27.423.",
+    "Para regular se pondera la magnitud del trabajo y la responsabilidad asumida."
+   ],
+   "impacto_practico": "Guía práctica para regulaciones en expedientes que atravesaron el cambio de régimen arancelario.",
+   "normas_citadas": [
+    "Ley 21.839",
+    "Ley 27.423"
+   ],
+   "etiquetas": [
+    "honorarios",
+    "uma",
+    "régimen arancelario"
+   ],
+   "cita_sugerida": "CNACAF, Sala II, «Prat, Juan Carlos y otros c/ EN - DIEA s/ personal militar y civil de las FFAA y de Seguridad» (Diario Judicial, 25/11/2026)",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T17:25:05+00:00",
+   "ingresado": "2026-11-25T23:25:00+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  },
+  {
+   "id": "7fbd9102374f",
+   "fuente": "infobae",
+   "fuente_nombre": "Infobae Judiciales",
+   "url": "https://www.infobae.com/judiciales/2026/11/25/la-corte-define-el-futuro-de-la-causa-por-presuntas-torturas-en-malvinas-los-militares-acusados-buscan-la-prescripcion/",
+   "prioridad": 40,
+   "fuente_oficial": false,
+   "dominio_publico": false,
+   "titulo": "Torturas en Malvinas: la Corte convocará conjueces para decidir si los hechos son de lesa humanidad o prescribieron",
+   "titulo_original": "La Corte define el futuro de la causa por presuntas torturas en Malvinas: los militares acusados buscan la prescripción",
+   "bajada": "Sin mayoría entre Rosatti, Rosenkrantz y Lorenzetti, el tribunal sorteará dos conjueces en la causa que tramita ante el Juzgado Federal de Río Grande.",
+   "tipo": "Noticia",
+   "materia": "Derechos Humanos",
+   "instancia": "CSJN",
+   "jurisdiccion": "Nacional/Federal",
+   "tribunal": "Corte Suprema de Justicia de la Nación",
+   "caratula": "",
+   "identificador_legal": "",
+   "id_legal_norm": null,
+   "holding": "La Corte todavía no resolvió: debe definir si los tormentos denunciados por más de 100 soldados conscriptos son delitos de lesa humanidad, imprescriptibles, o si la acción penal se extinguió por el paso del tiempo.",
+   "puntos_clave": [
+    "La causa se inició en 2007 y tramita ante el Juzgado Federal de Río Grande, Tierra del Fuego.",
+    "Se investigan estaqueamientos y enterramientos en pozos aplicados como castigos disciplinarios.",
+    "La jueza federal Mariel Borruto procesó sin prisión preventiva a cuatro exmiembros del Regimiento de Infantería 5."
+   ],
+   "impacto_practico": "Definirá si los delitos cometidos por militares contra sus propios subordinados durante la guerra pueden encuadrarse como lesa humanidad.",
+   "normas_citadas": [],
+   "etiquetas": [
+    "lesa humanidad",
+    "prescripción",
+    "malvinas",
+    "conjueces"
+   ],
+   "cita_sugerida": "CSJN, causa por torturas a soldados conscriptos en Malvinas (Juzgado Federal de Río Grande), según Infobae, 25/11/2026",
+   "alto_impacto": false,
+   "citas_textuales": [],
+   "extracto_oficial": "",
+   "oficial": {},
+   "fecha": "2026-11-25T21:21:05+00:00",
+   "ingresado": "2026-11-25T23:25:00+00:00",
+   "fuentes_adicionales": [],
+   "verificacion": {
+    "citas_verificadas": 2,
+    "citas_total": 2,
+    "modo": "completo",
+    "avisos": []
+   },
+   "modelo": "curaduría manual (demo)"
+  }
+ ],
+ "salud": {
+  "csjn": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:27+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:27+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:27+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 2.5
+  },
+  "csjn_noticias": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:29+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:29+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:29+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 1.5
+  },
+  "bora": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:29+00:00",
+     "ok": true,
+     "n": 80
+    }
+   ],
+   "ultima": "2026-11-25T23:24:29+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:29+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 0.6
+  },
+  "saij": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:30+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:30+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:30+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 0.8
+  },
+  "saij_tdf": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:32+00:00",
+     "ok": true,
+     "n": 9
+    }
+   ],
+   "ultima": "2026-11-25T23:24:32+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:32+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 2.0
+  },
+  "mpf": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:33+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:33+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:33+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 0.9
+  },
+  "pj_tdf": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:38+00:00",
+     "ok": true,
+     "n": 10
+    }
+   ],
+   "ultima": "2026-11-25T23:24:38+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:38+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 5.3
+  },
+  "palabras_derecho": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:39+00:00",
+     "ok": true,
+     "n": 18
+    }
+   ],
+   "ultima": "2026-11-25T23:24:39+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:39+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 1.1
+  },
+  "pensamiento_penal": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:40+00:00",
+     "ok": true,
+     "n": 10
+    }
+   ],
+   "ultima": "2026-11-25T23:24:40+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:40+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 0.7
+  },
+  "aldia": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:42+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:42+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:42+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 1.6
+  },
+  "diario_judicial": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:43+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:43+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:43+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 1.4
+  },
+  "infobae": {
+   "historial": [
+    {
+     "f": "2026-11-25T23:24:46+00:00",
+     "ok": true,
+     "n": 20
+    }
+   ],
+   "ultima": "2026-11-25T23:24:46+00:00",
+   "ultimo_estado": "ok",
+   "ultimo_ok": "2026-11-25T23:24:46+00:00",
+   "fallas_consecutivas": 0,
+   "duracion_s": 0.7
+  }
+ }
+}
