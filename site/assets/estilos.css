@@ -1,7 +1,7 @@
 /*
 VOICE   sobrio, de mesa de entradas: información primero, sin adornos.
 IDEA    la carátula del expediente y el sello de tinta violeta del tribunal.
-PICTURE la novedad principal se dibuja como carátula; lo verificado lleva sello.
+PICTURE la novedad principal se dibuja como carátula.
 COLOUR  papel blanco, tinta azul-negra, lacre (banda y Corte), sello violeta (acento).
 TYPE    Newsreader para titulares y lectura; Encode Sans (la letra del Estado argentino) para la interfaz.
 */
@@ -147,23 +147,6 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 22px max(4vw, 16px) 40p
 .caratula .bajada { font-family: var(--serif); font-size: 19px; line-height: 1.5; margin: 0; max-width: 62ch; }
 .caratula .botones { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
 
-/* El sello violeta: lo verificado contra la fuente. */
-.sello {
-  --giro: -7deg;
-  display: inline-grid; place-items: center; text-align: center; gap: 2px;
-  border: 2.5px solid var(--sello); border-radius: 12px; padding: 8px 14px 7px;
-  color: var(--sello); font-weight: 700; font-size: 15px; line-height: 1.1;
-  transform: rotate(var(--giro)); mix-blend-mode: multiply;
-  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--sello) 35%, transparent);
-  background-image: radial-gradient(circle at 30% 40%, transparent 0 55%, color-mix(in srgb, var(--papel) 35%, transparent) 56% 58%, transparent 59%);
-}
-:root[data-theme="dark"] .sello { mix-blend-mode: normal; background-image: none; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .sello { mix-blend-mode: normal; background-image: none; } }
-.sello small { font-weight: 500; font-size: 13px; }
-.caratula .sello { position: absolute; right: clamp(16px, 3vw, 34px); top: clamp(16px, 3vw, 30px); }
-.sello.estampar { animation: estampar .38s cubic-bezier(.2, .9, .3, 1.3) both; }
-@keyframes estampar { from { transform: rotate(var(--giro)) scale(1.6); opacity: 0; } to { transform: rotate(var(--giro)) scale(1); opacity: 1; } }
-.caratula-marco > .caratula-org { padding-right: 150px; }
 
 .boton {
   min-height: 44px; padding: 0 16px; border-radius: 8px; border: 1px solid var(--filete-fuerte); background: var(--papel);
@@ -204,9 +187,6 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 22px max(4vw, 16px) 40p
 .nota-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; font-size: 14px; color: var(--tenue); }
 .nota-meta .mat { display: inline-flex; align-items: center; gap: 6px; color: var(--tinta); font-weight: 500; }
 .nota-meta .mat::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c, var(--tenue)); }
-.nota-meta .impacto { color: var(--lacre); font-weight: 600; }
-:root[data-theme="dark"] .nota-meta .impacto { color: var(--lacre-tenue); }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .nota-meta .impacto { color: var(--lacre-tenue); } }
 .nota-meta .nuevo { color: var(--sello); font-weight: 600; }
 .nota h3 { margin: 0; font-family: var(--serif); font-size: 21px; line-height: 1.22; font-weight: 600; text-wrap: pretty; }
 .nota h3 a { text-decoration: none; }
@@ -218,7 +198,6 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 22px max(4vw, 16px) 40p
 .nota .autos .expte { font-family: var(--sans); font-size: 13px; color: var(--tenue); }
 .nota-pie { margin-top: auto; padding-top: 6px; display: flex; gap: 10px; align-items: center; font-size: 14px; color: var(--tenue); }
 .nota-pie .fuentes { flex: 1; }
-.marca-sello { color: var(--sello); font-weight: 600; font-size: 13px; border: 1.5px solid var(--sello); border-radius: 5px; padding: 0 6px; transform: rotate(-3deg); }
 .guardar { position: relative; z-index: 1; width: 40px; height: 40px; border-radius: 8px; border: 1px solid transparent; background: transparent; display: grid; place-items: center; color: var(--tenue); }
 .guardar:hover { border-color: var(--filete-fuerte); color: var(--sello); }
 .guardar[aria-pressed="true"] { color: var(--sello); }
@@ -294,7 +273,6 @@ mark { background: color-mix(in srgb, var(--sello) 22%, transparent); color: inh
 .ficha dt { color: var(--tenue); }
 .ficha dd { margin: 0; }
 .ficha dd.autos { font-family: var(--serif); font-size: 17px; }
-.ficha .sello { position: absolute; right: 18px; bottom: -22px; background-color: var(--papel); }
 .lector-cuerpo section { margin: 0 0 24px; }
 .lector-cuerpo h3 { margin: 0 0 8px; font-size: 15px; font-weight: 700; color: var(--lacre); }
 :root[data-theme="dark"] .lector-cuerpo h3 { color: var(--lacre-tenue); }
@@ -351,11 +329,9 @@ mark { background: color-mix(in srgb, var(--sello) 22%, transparent); color: inh
   .controles { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
   .controles > * { flex: none; }
   .caratula-marco > .caratula-org { padding-right: 0; }
-  .caratula .sello { position: static; justify-self: start; margin: 4px 0 0 4px; }
   .ficha dl { grid-template-columns: minmax(0, 1fr); gap: 2px; }
   .ficha dd { margin-bottom: 8px; }
-  .ficha .sello { position: static; margin: 12px 0 4px 8px; }
-  .grilla { grid-template-columns: minmax(0, 1fr); }
+    .grilla { grid-template-columns: minmax(0, 1fr); }
   .barras li { grid-template-columns: 7em minmax(0, 1fr) 2em; }
   .paleta { padding-top: 12px; }
 }
@@ -368,5 +344,4 @@ mark { background: color-mix(in srgb, var(--sello) 22%, transparent); color: inh
   .lector { position: static; box-shadow: none; width: auto; }
   .lector-cuerpo { overflow: visible; padding: 0; }
   a { text-decoration: none; }
-  .sello { mix-blend-mode: normal; }
 }

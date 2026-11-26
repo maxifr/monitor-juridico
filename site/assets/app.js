@@ -144,7 +144,7 @@
     items: [],
     cargado: false,
     error: null,
-    filtros: { materia: "", rango: 0, fuente: "", tipo: "", impacto: false, biblioteca: false, nuevas: false, q: "" },
+    filtros: { materia: "", rango: 0, fuente: "", tipo: "", biblioteca: false, nuevas: false, q: "" },
     vista: leer("vista", "tarjetas"),
     escala: leer("escala", 1),
     biblioteca: leer("biblioteca", {}),
@@ -200,7 +200,7 @@
   // ------------------------------------------------------------------ filtrado
   const sinFiltros = () => {
     const f = estado.filtros;
-    return !f.materia && !f.rango && !f.fuente && !f.tipo && !f.impacto && !f.biblioteca && !f.nuevas && !f.q;
+    return !f.materia && !f.rango && !f.fuente && !f.tipo && !f.biblioteca && !f.nuevas && !f.q;
   };
   function base() {
     if (!estado.filtros.biblioteca) return estado.items;
@@ -217,7 +217,6 @@
       if (f.rango === 1 ? it._dia !== hoy : (desde && it._t < desde)) return false;
       if (f.fuente && it.fuente !== f.fuente && !(it.fuentes_adicionales || []).some((a) => a.fuente === f.fuente)) return false;
       if (f.tipo && it.tipo !== f.tipo) return false;
-      if (f.impacto && !it.alto_impacto) return false;
       if (f.nuevas && !it._nuevo) return false;
       for (const t of tokens) if (!it._busq.includes(t)) return false;
       return true;
@@ -226,7 +225,6 @@
 
   // ------------------------------------------------------------------ piezas comunes
   const organo = (it) => it.instancia === "CSJN" ? "Corte Suprema" : (it.tribunal || "").slice(0, 60);
-  const verificado = (it) => it.verificacion && it.verificacion.citas_verificadas > 0;
   const enBiblioteca = (id) => Object.prototype.hasOwnProperty.call(estado.biblioteca, id);
 
   function textoFuentes(it) {
@@ -243,16 +241,6 @@
       dataset: { guardar: it.id },
     }, icono("guardar"));
     return b;
-  }
-
-  function sello(it, animar) {
-    const v = it.verificacion || {};
-    const ref = v.modo === "referencia";
-    return el("div", {
-      class: "sello" + (animar ? " estampar" : ""),
-      title: `${v.citas_verificadas} de ${v.citas_total} citas textuales de la IA coinciden con el texto publicado por la fuente`,
-    }, ref ? "Verificado con la bajada" : "Verificado en la fuente",
-    el("small", null, `${v.citas_verificadas} de ${v.citas_total} ${v.citas_total === 1 ? "cita" : "citas"}`));
   }
 
   function enlaceExterno(url, texto, clase) {
@@ -298,7 +286,6 @@
 
     for (const b of $$("#rango button")) b.setAttribute("aria-pressed", String(Number(b.dataset.rango) === f.rango));
     for (const b of $$("#vista button")) b.setAttribute("aria-pressed", String(b.dataset.vista === estado.vista));
-    $("#btn-impacto").setAttribute("aria-pressed", String(f.impacto));
 
     const selFuente = $("#fuente");
     if (estado.meta && selFuente.options.length === 1) {
@@ -337,7 +324,6 @@
     const fuente = enlaceExterno(hero.url, `Ir a ${CORTO_FUENTE[hero.fuente] || "la fuente"}`, "boton");
     const caratula = el("article", { class: "caratula", "aria-labelledby": "t-destacado" },
       el("div", { class: "caratula-marco" },
-        verificado(hero) && sello(hero, false),
         el("p", { class: "caratula-org" }, el("span", null, hero.tribunal || hero.fuente_nombre), el("time", { datetime: hero.fecha }, fechaLarga(hero.fecha))),
         el("h2", { id: "t-destacado" }, el("a", { href: "#n-" + hero.id }, hero.titulo)),
         (autos || expte) && el("div", { class: "caratula-autos" },
@@ -382,7 +368,6 @@
         el("span", { class: "mat", style: { "--c": COLOR[it.materia] || "var(--tenue)" } }, CORTO_MATERIA[it.materia] || it.materia || "Sin materia"),
         organo(it) && el("span", null, organo(it)),
         el("time", { datetime: it.fecha }, fechaCorta(it.fecha)),
-        it.alto_impacto && el("span", { class: "impacto" }, "Alto impacto"),
         it._nuevo && el("span", { class: "nuevo" }, "Nuevo")),
       el("h3", null, el("a", { href: "#n-" + it.id }, resaltar(it.titulo, tokens))),
       it.bajada && el("p", { class: "bajada" }, resaltar(it.bajada, tokens)),
@@ -391,7 +376,6 @@
         it.identificador_legal && el("span", { class: "expte" }, resaltar("Expte. " + it.identificador_legal, tokens))),
       el("div", { class: "nota-pie" },
         el("span", { class: "fuentes" }, textoFuentes(it)),
-        verificado(it) && el("span", { class: "marca-sello", title: "Citas verificadas contra la fuente" }, "Verificado"),
         botonGuardar(it)));
   }
 
@@ -565,7 +549,7 @@
     cuerpo.replaceChildren(...[
       el("p", { class: "tipo" },
         el("span", { class: "mat", style: { "--c": COLOR[it.materia] || "var(--tenue)" } }, it.materia),
-        el("span", null, it.tipo), it.alto_impacto && el("span", null, "Alto impacto"), it.jurisdiccion && el("span", null, it.jurisdiccion)),
+        el("span", null, it.tipo), it.jurisdiccion && el("span", null, it.jurisdiccion)),
       el("h2", { id: "lector-titulo", tabindex: "-1" }, it.titulo),
       it.bajada && el("p", { class: "bajada" }, it.bajada),
       el("div", { class: "ficha" },
@@ -575,8 +559,7 @@
           it.caratula && [el("dt", null, "Carátula"), el("dd", { class: "autos" }, it.caratula)],
           it.identificador_legal && [el("dt", null, it.tipo === "Norma" ? "Norma" : "Expediente"), el("dd", null, it.identificador_legal)],
           it.instancia && it.instancia !== "Otro" && [el("dt", null, "Instancia"), el("dd", null, it.instancia)],
-          el("dt", null, "Publicado por"), el("dd", null, it.fuente_nombre)),
-        verificado(it) && sello(it, true)),
+          el("dt", null, "Publicado por"), el("dd", null, it.fuente_nombre))),
       seccion("Qué se resolvió", it.holding && el("p", { class: "lectura" }, it.holding)),
       seccion("Puntos clave", (it.puntos_clave || []).length && el("ul", { class: "puntos" }, it.puntos_clave.map((p) => el("li", null, p)))),
       seccion("Impacto práctico", it.impacto_practico && el("p", { class: "lectura" }, it.impacto_practico)),
@@ -723,7 +706,6 @@
     const salida = [];
     if (!tokens.length) {
       salida.push({ grupo: "Atajos" });
-      salida.push({ accion: () => { estado.filtros.impacto = true; aplicar(); }, t: "Ver sólo lo de alto impacto" });
       salida.push({ accion: () => { estado.filtros.biblioteca = true; aplicar(); }, t: `Abrir mi biblioteca (${Object.keys(estado.biblioteca).length})` });
       salida.push({ accion: alternarTema, t: "Cambiar entre modo claro y oscuro" });
       for (const [m] of MATERIAS.slice(0, 6)) salida.push({ accion: () => { estado.filtros.materia = m; aplicar(); }, t: `Filtrar por ${m}` });
@@ -862,7 +844,7 @@
     }
     if (d.buscar) { cerrar(false); estado.filtros.q = d.buscar; aplicar(); return; }
     switch (d.accion) {
-      case "limpiar": Object.assign(estado.filtros, { materia: "", rango: 0, fuente: "", tipo: "", impacto: false, biblioteca: false, nuevas: false, q: "" }); aplicar(); break;
+      case "limpiar": Object.assign(estado.filtros, { materia: "", rango: 0, fuente: "", tipo: "", biblioteca: false, nuevas: false, q: "" }); aplicar(); break;
       case "mostrar-mas": estado.limite += PASO; pintarListado(sinFiltros() ? (elegirDestacado(estado.items) || {}).id : null); break;
       case "archivo": cargarMes(d.mes); break;
       case "reintentar": iniciar(); break;
@@ -876,7 +858,6 @@
 
   $("#fuente").addEventListener("change", (e) => { estado.filtros.fuente = e.target.value; aplicar(); });
   $("#tipo").addEventListener("change", (e) => { estado.filtros.tipo = e.target.value; aplicar(); });
-  $("#btn-impacto").addEventListener("click", () => { estado.filtros.impacto = !estado.filtros.impacto; aplicar(); });
   $("#btn-biblioteca").addEventListener("click", () => { estado.filtros.biblioteca = !estado.filtros.biblioteca; aplicar(); });
   $("#btn-tema").addEventListener("click", alternarTema);
   $("#btn-actualizar").addEventListener("click", actualizar);
