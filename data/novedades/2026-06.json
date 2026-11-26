@@ -1,0 +1,58 @@
+[
+ {
+  "id": "890010d1e28b",
+  "url_hash": "890010d1e28bae8afe93f7f2c0e4378e1d423bc8866eada44d6e0370b2343caa",
+  "fuente": "saij_tdf",
+  "fuente_nombre": "SAIJ — Jurisprudencia de Tierra del Fuego",
+  "url": "https://www.saij.gob.ar/juzgado-trabajo-nro-1-local-tierra-fuego-mercedes-quezada-arcadio-gas-soluciones-seguridad-sa-despido-fa26350000-2026-06-09/123456789-000-0536-2ots-eupmocsollaf",
+  "prioridad": 94,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Inconstitucionalidad del pago en cuotas de créditos laborales",
+  "titulo_original": "Juzgado Del Trabajo Nro 1 (TDF): Mercedes Quezada Arcadio c/ Gas Soluciones de Seguridad S.A. s/ Despido",
+  "bajada": "El Juzgado del Trabajo N° 1 de Tierra del Fuego declaró la inconstitucionalidad del pago en cuotas de condenas laborales previsto en la Ley 27.802.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Tierra del Fuego",
+  "tribunal": "Juzgado Del Trabajo Nro 1 de Tierra del Fuego",
+  "caratula": "Mercedes Quezada Arcadio c/ Gas Soluciones de Seguridad S.A. s/ Despido",
+  "identificador_legal": "26350000",
+  "id_legal_norm": "26350000",
+  "holding": "Se rechazó la pretensión de la demandada de cancelar créditos laborales en seis cuotas mensuales amparada en el art. 56 de la Ley 27.802, por considerar que vulnera la intangibilidad de la remuneración y el derecho de propiedad del trabajador consagrado en la Constitución Nacional.",
+  "puntos_clave": [
+   "Se declaró la inconstitucionalidad del pago en cuotas de los créditos laborales consagrado en la Ley de Modernización Laboral.",
+   "El tribunal sostuvo que obligar al trabajador a cobrar en cuotas vulnera los artículos 14 y 17 de la Constitución Nacional.",
+   "Se estableció que diferir el pago de la condena desnaturaliza la integridad del crédito alimentario de naturaleza laboral."
+  ],
+  "impacto_practico": "Permite a los litigantes objetar fundadamente la aplicación de normas que pretendan fraccionar judicialmente el pago de sentencias laborales firmes en perjuicio de la parte trabajadora.",
+  "normas_citadas": [
+   "art. 56 de la Ley 27.802",
+   "arts. 14 y 17 de la Constitución Nacional"
+  ],
+  "etiquetas": [
+   "despido",
+   "creditos laborales",
+   "inconstitucionalidad",
+   "pago en cuotas"
+  ],
+  "cita_sugerida": "Juzgado Del Trabajo Nro 1 — Tierra del Fuego, Mercedes Quezada Arcadio c/ Gas Soluciones de Seguridad S.A. s/ Despido, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "la declaración de inconstitucionalidad constituye un acto de suma gravedad institucional",
+   "Obligar al trabajador a cobrar en cuotas sus acreencias laborales violenta su derecho de propiedad"
+  ],
+  "extracto_oficial": "Si bien la declaración de inconstitucionalidad constituye un acto de suma gravedad institucional que debe ser considerado última ratio del orden jurídico, ese carácter excepcional no obsta a su procedencia cuando la norma impugnada vulnera en forma...",
+  "oficial": {},
+  "fecha": "2026-06-09T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:09:24+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ }
+]

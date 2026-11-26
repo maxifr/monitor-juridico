@@ -1,0 +1,1837 @@
+[
+ {
+  "id": "d2f300507196",
+  "url_hash": "d2f300507196ff35599bcaa7324163ed81b9fd4d7a0d0dc9d5dccf6cd84c3076",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350781/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Entrada en vigor de protocolos adicionales del Acuerdo de Complementación Económica N° 18",
+  "titulo_original": "Tratados y Convenios Internacionales — Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+  "bajada": "Se comunica la entrada en vigor de los apéndices 209, 210 y 211 del Centésimo Nonagésimo Protocolo Adicional del ACE N° 18 entre Argentina, Brasil, Paraguay y Uruguay.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+  "caratula": "",
+  "identificador_legal": "Tratados y Convenios Internacionales",
+  "id_legal_norm": null,
+  "holding": "Se informa la entrada en vigencia formal de diversos apéndices correspondientes al Centésimo Nonagésimo Protocolo Adicional del Acuerdo de Complementación Económica N° 18 celebrado entre los estados parte del Mercosur, conforme a los términos de la Ley Nº 24.080.",
+  "puntos_clave": [
+   "Publicación oficial de la entrada en vigor de instrumentos multilaterales bajo la Ley Nº 24.080.",
+   "Inclusión de los apéndices 209, 210 y 211 del Centésimo Nonagésimo Protocolo Adicional del ACE N° 18.",
+   "Vigor establecido a partir del 25 de noviembre de 2026 para los convenios celebrados con los países del Mercosur."
+  ],
+  "impacto_practico": "Permite a operadores de comercio exterior y asesores jurídicos verificar la operatividad y vigencia de las modificaciones arancelarias o normativas del ACE N° 18.",
+  "normas_citadas": [
+   "Ley Nº 24.080"
+  ],
+  "etiquetas": [
+   "mercosur",
+   "comercio exterior",
+   "tratados internacionales",
+   "acuerdo de complementación económica"
+  ],
+  "cita_sugerida": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, Ley Nº 24.080, Boletín Oficial, 25 de noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "FECHA DE ENTRADA EN VIGOR PARA LA REPÚBLICA DE INSTRUMENTOS MULTILATERALES",
+   "Centésimo Nonagésimo Protocolo Adicional - Apéndice 209. Celebración: 30 de septiembre de 2026."
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:02:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "caed52fda580",
+  "url_hash": "caed52fda5801f08d282d7a26faf53372419e60d51fd3b3d04744eecf9542fc9",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350760/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización de la escala de montos para contrataciones del Ministerio Público de la Defensa",
+  "titulo_original": "Resolución 1484/2026 — Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "bajada": "La Defensoría General de la Nación actualizó la escala de montos para los procedimientos de selección de contratistas debido a la inflación acumulada.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución 1484/2026",
+  "id_legal_norm": "RESOLUCION 1484/2026",
+  "holding": "Se aprueba una nueva escala de montos máximos para las contrataciones de bienes y servicios del Ministerio Público de la Defensa, en virtud de la depreciación monetaria y el índice de inflación acumulado, fundamentado en las facultades de administración general y autarquía financiera del organismo.",
+  "puntos_clave": [
+   "Se deja sin efecto la anterior escala de montos establecida por la RDGN-2025-247-E-MPD-DGN#MPD.",
+   "Se fijan nuevos topes monetarios para contratación directa por trámite simplificado, contratación directa, licitación privada, licitación pública y licitación pública agravada.",
+   "La norma rige desde su publicación en el Boletín Oficial y se aplica a los procedimientos pendientes de aprobación de pliegos."
+  ],
+  "impacto_practico": "Permite a las dependencias y operadores administrativos del Ministerio Público de la Defensa tramitar adquisiciones y contrataciones bajo parámetros económicos actualizados a la realidad inflacionaria.",
+  "normas_citadas": [
+   "Ley N° 27.149",
+   "Artículo 120 de la Constitución Nacional"
+  ],
+  "etiquetas": [
+   "contrataciones",
+   "ministerio público de la defensa",
+   "autarquía financiera",
+   "escala de montos"
+  ],
+  "cita_sugerida": "Resolución 1484/2026, Defensoría General de la Nación, Boletín Oficial 25 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "DEJAR SIN EFECTO la RDGN-2025-247-E-MPD-DGN#MPD",
+   "APROBAR la escala de montos máximos de los procedimientos de selección del contratista",
+   "DETERMINAR que la vigencia de las disposiciones contenidas en la presente tendrá lugar desde su publicación"
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO PÚBLICO DE LA DEFENSA DEFENSORÍA GENERAL DE LA NACIÓN - Resolución 1484/2026 - RDGN-2026-1484-E-MPD-DGN#MPD",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:59:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9c169584316a",
+  "url_hash": "9c169584316ae33594836b8916628f6c4d020b46a07b3dcc522850ccc9f84989",
+  "fuente": "csjn_noticias",
+  "fuente_nombre": "CSJN — Noticias institucionales",
+  "url": "https://www.csjn.gov.ar/novedades/detalle/15846",
+  "prioridad": 98,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Nueva plataforma digital del Registro de Proveedores de la CSJN",
+  "titulo_original": "Más transparencia y control para las contrataciones",
+  "bajada": "La Corte Suprema dispuso la puesta en marcha de la plataforma digital para la inscripción y gestión de proveedores del Tribunal mediante la acordada 24/2026.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Acordada 24/2026",
+  "id_legal_norm": "ACORDADA 24/2026",
+  "holding": "Se implementó la plataforma digital del Registro de Proveedores de la Corte Suprema de Justicia de la Nación en el marco de la acordada 24/2026, sustituyendo los medios convencionales por una inscripción electrónica y publicando el texto ordenado del Régimen de Contrataciones.",
+  "puntos_clave": [
+   "Se habilitó la plataforma digital del Registro de Proveedores de la Corte Suprema de Justicia de la Nación.",
+   "Se aprobó el texto ordenado del Régimen de Contrataciones y del Pliego Único de Bases y Condiciones Generales.",
+   "La iniciativa busca afianzar la transparencia, la trazabilidad y la eficiencia en los procedimientos de contratación."
+  ],
+  "impacto_practico": "Permite a los proveedores del máximo tribunal realizar gestiones de inscripción y presentaciones de forma electrónica en un entorno seguro.",
+  "normas_citadas": [
+   "acordada 24/2026",
+   "resolución N° 2989/2026",
+   "acordada 38/2023",
+   "acordada 31/2025"
+  ],
+  "etiquetas": [
+   "contrataciones",
+   "registro de proveedores",
+   "transparencia",
+   "csjn"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, Acordada 24/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:56:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "72f03253d43d",
+  "url_hash": "72f03253d43d6044019ee1c22939f05f584024db1fb00da2f76c8fd895be57e5",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350762/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Traslado definitivo de magistrada del Ministerio Público de la Defensa",
+  "titulo_original": "Resolución 1497/2026 — Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "bajada": "Se dispuso el traslado definitivo de la Defensora Pública Oficial Federal Silvina Andrea Costa a la ciudad de San Nicolás y se declaró vacante su anterior cargo en Venado Tuerto.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución 1497/2026",
+  "id_legal_norm": "RESOLUCION 1497/2026",
+  "holding": "El Defensor General de la Nación resolvió hacer lugar al pedido de traslado definitivo de una magistrada del Ministerio Público de la Defensa al comprobarse el cumplimiento de todos los requisitos legales y reglamentarios vigentes, tales como la conformidad de la interesada, la existencia de la vacante respectiva por el traslado previo de otro magistrado, la ausencia de procesos disciplinarios y la inexistencia de un concurso público en trámite para dicha cobertura.",
+  "puntos_clave": [
+   "Se concede el traslado definitivo de la Defensora Silvina Andrea Costa a la Unidad de defensa pública de San Nicolás.",
+   "Se constató el cumplimiento de los requisitos de antigüedad, materia, grado y ausencia de sanciones disciplinarias exigidos por la Ley 27.149.",
+   "Se declara vacante el cargo de Defensor Público Oficial Federal con asiento en Venado Tuerto a partir de la asunción."
+  ],
+  "impacto_practico": "Permite conocer los movimientos de magistrados y la consecuente apertura de vacantes dentro de las dependencias del Ministerio Público de la Defensa en el marco del sistema acusatorio.",
+  "normas_citadas": [
+   "art. 33 de la Ley Nº 27.149",
+   "Ley Nº 27.149",
+   "Resolución DGN Nº 1815/06",
+   "Res. DGN Nº 1344/15",
+   "Arts. 35 y 36, Inc. d), de la Ley Nº 27.149",
+   "Decreto Nº 560/2017"
+  ],
+  "etiquetas": [
+   "ministerio público de la defensa",
+   "traslado de magistrados",
+   "defensoría oficial",
+   "san nicolás",
+   "venado tuerto"
+  ],
+  "cita_sugerida": "Defensoría General de la Nación, Resolución 1497/2026, 13 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "DISPONER el traslado de la Dra. Silvina Andrea Costa",
+   "cumple con todos los requisitos exigidos en el artículo 33 de la Ley Nº 27.149",
+   "DECLARAR VACANTE el cargo de Defensor Público Oficial Federal"
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO PÚBLICO DE LA DEFENSA DEFENSORÍA GENERAL DE LA NACIÓN - Resolución 1497/2026 - RDGN-2026-1497-E-MPD-DGN#MPD",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:00:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5ff55701d625",
+  "url_hash": "5ff55701d625d4a9216b397dcb1abd9ac01c65776b4a07223b273f5356d40dcf",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350736/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Aprobación de Cláusulas Contractuales Modelo del Convenio 108",
+  "titulo_original": "Resolución 188/2026 — Agencia de Acceso a la Información Pública",
+  "bajada": "La Agencia de Acceso a la Información Pública aprobó las Cláusulas Contractuales Modelo del Comité Consultivo del Convenio 108 para la protección de datos personales en transferencias internacionales.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Agencia de Acceso a la Información Pública",
+  "caratula": "",
+  "identificador_legal": "Resolución 188/2026",
+  "id_legal_norm": "RESOLUCION 188/2026",
+  "holding": "Se aprueban las Cláusulas Contractuales Modelo del Convenio 108 para garantizar un nivel adecuado de protección en las transferencias internacionales de datos personales hacia jurisdicciones que no posean una legislación considerada adecuada, estructuradas en tres módulos según los vínculos entre responsables y encargados.",
+  "puntos_clave": [
+   "Se adoptan tres módulos de Cláusulas Contractuales Modelo elaborados por el Comité Consultivo del Convenio 108.",
+   "Buscan garantizar la protección de datos en transferencias internacionales a países sin legislación adecuada.",
+   "Complementan el marco normativo de la Ley N° 25.326 sobre flujos transfronterizos de información."
+  ],
+  "impacto_practico": "Permite a los responsables y encargados del tratamiento de datos personales utilizar un estándar contractual reconocido internacionalmente para realizar transferencias transfronterizas seguras y conformes a la normativa argentina.",
+  "normas_citadas": [
+   "Ley N° 25.326",
+   "Ley N° 27.275",
+   "Ley N° 27.483",
+   "Ley N° 27.699",
+   "Decreto N° 1558/01",
+   "Artículo 12 de la Ley N° 25.326"
+  ],
+  "etiquetas": [
+   "proteccion de datos",
+   "transferencia internacional",
+   "convenio 108",
+   "datos personales"
+  ],
+  "cita_sugerida": "Agencia de Acceso a la Información Pública, Resolución 188/2026, 20 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "tramita aprobar las Cláusulas Contractuales Modelo",
+   "actuar como Autoridad de Aplicación de la Ley de Protección de Datos Personales",
+   "las transferencias internacionales de datos personales se encuentran reguladas por el artículo 12 de la Ley N° 25.326"
+  ],
+  "extracto_oficial": "ARTÍCULO 1º.- Aprobar las Cláusulas Contractuales Modelo —entre los responsables del tratamien",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:59:17+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5bd6f2cb07d6",
+  "url_hash": "5bd6f2cb07d667b3670a48cabbd8ef5c974c293ff0016afa16b8cc1699bea6f2",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350768/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Adecuación del Fondo de Asistencia Laboral: inclusión de cooperativas y pautas para MiPyMEs",
+  "titulo_original": "Resolución General 5928/2026 — Agencia de Recaudación y Control Aduanero: Seguridad Social. Ley de Modernización Laboral N° 27.802. Título II. Fondo de Asistencia Laboral (FAL). Resolución Gener...",
+  "bajada": "La ARCA modificó la reglamentación sobre el Fondo de Asistencia Laboral (FAL) para incorporar previsiones sobre cooperativas y actualizar los requisitos de caracterización de entidades.",
+  "tipo": "Norma",
+  "materia": "Laboral",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Agencia de Recaudación y Control Aduanero",
+  "caratula": "",
+  "identificador_legal": "Resolución General 5928/2026",
+  "id_legal_norm": "RESOLUCION GENERAL 5928/2026",
+  "holding": "Se sustituye el artículo 2° de la Resolución General N° 5.907 a fin de adecuar los parámetros y procedimientos para la obtención del Certificado MiPyME y la caracterización en el Sistema Registral de los empleadores alcanzados por el Fondo de Asistencia Laboral (FAL) previsto en la Ley N° 27.802.",
+  "puntos_clave": [
+   "Se establecen los recaudos aplicables para la consideración de Micro, Pequeñas y Medianas empresas mediante el Certificado MiPyME vigente.",
+   "Se detallan los códigos de caracterización en el Sistema Registral para las distintas categorías empresariales y entidades sin fines de lucro.",
+   "Se fija la entrada en vigencia de la norma a partir del día de su publicación en el Boletín Oficial."
+  ],
+  "impacto_practico": "Permite a los empleadores, cooperativas y entidades sin fines de lucro verificar su correcta caracterización y cumplimiento respecto de los aportes obligatorios al Fondo de Asistencia Laboral (FAL).",
+  "normas_citadas": [
+   "Ley N° 27.802",
+   "Ley N° 20.744",
+   "Ley N° 26.727",
+   "Decreto N° 408/2026",
+   "Resolución N° 220/2019",
+   "Resolución General N° 5.907"
+  ],
+  "etiquetas": [
+   "fondo de asistencia laboral",
+   "arca",
+   "mipyme",
+   "seguridad social",
+   "ley 27802"
+  ],
+  "cita_sugerida": "Agencia de Recaudación y Control Aduanero, Resolución General 5928/2026, 24 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Los empleadores, a efectos de ser considerados como Micro, Pequeñas y Medianas empresas",
+   "Esta resolución general entrará en vigencia el día de su publicación en el Boletín Oficial"
+  ],
+  "extracto_oficial": "Seguridad Social. Ley de Modernización Laboral N° 27.802. Título II. Fondo de Asistencia Laboral (FAL). Resolución Gener... ARTÍCULO 1°.- Sustituir el artículo 2° de la Resolución General N° 5.907 y su modificatoria, por el siguiente: “ARTÍCULO 2°.- Los empleadores, a efectos de ser considerados como Micro, Pequeñas y Medianas empresas conforme lo regulado en el tercer párrafo del artículo 2° del Decreto N° 408/26 y su modificatorio, deberán contar con el “Certificado MiPyME” vigente -en el período fiscal devengado correspondiente-, de acuerdo a lo establecido por la Resolución N° 220 del 12 d",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:00:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "2ddfb6d424a9",
+  "url_hash": "2ddfb6d424a997f579947343864e29b25a7b5f5e4cc59a5f197eed2923f91aaf",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350780/20261125",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización de la suma fija del fondo fiduciario de enfermedades profesionales",
+  "titulo_original": "Disposición 11/2026 — Superintendencia de Riesgos del Trabajo - Gerencia de Control Prestacional",
+  "bajada": "La Superintendencia de Riesgos del Trabajo fijó el nuevo valor de la suma fija destinada al Fondo Fiduciario de Enfermedades Profesionales para el Régimen General.",
+  "tipo": "Norma",
+  "materia": "Laboral",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Superintendencia de Riesgos del Trabajo - Gerencia de Control Prestacional",
+  "caratula": "",
+  "identificador_legal": "Disposición 11/2026",
+  "id_legal_norm": "DISPOSICION 11/2026",
+  "holding": "Se establece que el valor de la suma fija prevista en el artículo 5° del Decreto N° 590/97 será de PESOS DOS MIL DIEZ ($ 2.010) para el devengado del mes de noviembre de 2026, aplicable a partir del mes de diciembre de 2026 conforme la variación del índice RIPTE.",
+  "puntos_clave": [
+   "Actualización de la suma fija del Decreto N° 590/97 para el Régimen General.",
+   "El nuevo monto se fija en PESOS DOS MIL DIEZ ($ 2.010) para el devengado de noviembre de 2026.",
+   "Comienza a abonarse a partir del mes de diciembre de 2026."
+  ],
+  "impacto_practico": "Permite a empleadores y asesores previsionales y laborales conocer el monto exacto de la suma fija destinada al Fondo Fiduciario de Enfermedades Profesionales para liquidar correctamente los aportes correspondientes.",
+  "normas_citadas": [
+   "Ley N° 24.557",
+   "Ley N° 26.773",
+   "Ley N° 27.348",
+   "Decreto N° 590/97",
+   "Resolución M.T.E. y S.S. N° 649/2022"
+  ],
+  "etiquetas": [
+   "riesgos del trabajo",
+   "suma fija",
+   "art. 5 decreto 590/97",
+   "fondo fiduciario de enfermedades profesi"
+  ],
+  "cita_sugerida": "Superintendencia de Riesgos del Trabajo, Disposición 11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "será de PESOS DOS MIL DIEZ ($ 2.010) para el devengado del mes de noviembre de 2026",
+   "La nueva suma determinada en el artículo precedente se abonará a partir del mes de diciembre de 2026"
+  ],
+  "extracto_oficial": "ARTÍCULO 1°.- Establécese que el valor de la suma fija prevista en el artículo 5° del Decreto N° 590 de fecha 30 de junio de 1997 y sus normas modificatorias y complementarias, calculada conforme lo dispuesto en el artículo 2° de la Resolución del entonces MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL (M.T.E. Y S.S.) N° 649 de fecha 13 de junio de 2022, será de PESOS DOS MIL DIEZ ($ 2.010) para el devengado del mes de noviembre de 2026 respecto del Régimen General. ARTÍCULO 2°.- La nueva sum",
+  "oficial": {},
+  "fecha": "2026-11-25T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:01:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "cd30c90e1b85",
+  "url_hash": "cd30c90e1b857487b9c09aa11f9146c57131a2a72647050bfc496b2eb98c8937",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432487",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nuevos requisitos para entidades que ofrecen préstamos a estatales",
+  "titulo_original": "Nuevos requisitos para entidades que ofrecen préstamos y servicios a empleados estatales",
+  "bajada": "Se aprobaron los procedimientos para implementar el régimen de deducción de haberes de empleados de la Administración Pública Nacional.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría de Transformación del Estado y Función Pública",
+  "caratula": "",
+  "identificador_legal": "Resolución 54/26",
+  "id_legal_norm": "RESOLUCION 54/2026",
+  "holding": "La Secretaría de Transformación del Estado y Función Pública aprobó los procedimientos destinados a implementar el nuevo régimen de deducción de haberes para el personal de la Administración Pública Nacional, en el marco de lo dispuesto por el Decreto 352/2026.",
+  "puntos_clave": [
+   "Aprobación de procedimientos para deducción de haberes",
+   "Alcance dirigido a empleados de la Administración Pública Nacional",
+   "Implementación del régimen establecido por el Decreto 352/2026"
+  ],
+  "impacto_practico": "Permite conocer los nuevos recaudos y procedimientos que deben cumplir las entidades proveedoras de préstamos y servicios para operar con los haberes del personal estatal.",
+  "normas_citadas": [
+   "Decreto 352/2026",
+   "Resolución 54/26"
+  ],
+  "etiquetas": [
+   "empleados públicos",
+   "deducción de haberes",
+   "préstamos",
+   "administración pública nacional"
+  ],
+  "cita_sugerida": "Secretaría de Transformación del Estado y Función Pública, Resolución 54/26, 24/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "aprobó los procedimientos para implementar el nuevo régimen",
+   "creado por el Decreto 352/2026"
+  ],
+  "extracto_oficial": "La Secretaría de Transformación del Estado y Función Pública aprobó los procedimientos para implementar el nuevo régimen de deducción de haberes de los empleados de la Administración Pública Nacional, creado por el Decreto 352/2026.",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T02:11:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "7479a08cd52c",
+  "url_hash": "7479a08cd52cb74322dbfb70c1437ac7e6af537cf9355262904fba850db9925e",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432478",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Modificación de la regulación de los vuelos de drones",
+  "titulo_original": "Modificaron la regulación de los vuelos de drones",
+  "bajada": "La Administración Nacional de Aviación Civil aprobó modificaciones a la normativa de aeronaves no tripuladas para simplificar los requisitos operativos.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Administración Nacional de Aviación Civil",
+  "caratula": "",
+  "identificador_legal": "Resolución 904/26",
+  "id_legal_norm": "RESOLUCION 904/2026",
+  "holding": "Se aprobaron modificaciones a las regulaciones que rigen la operación de aeronaves no tripuladas con el fin de adecuar y simplificar los requisitos exigidos a los operadores manteniendo los estándares de seguridad operacional.",
+  "puntos_clave": [
+   "Modificación de la normativa aplicable a drones",
+   "Adecuación y simplificación de los requisitos operacionales",
+   "Mantenimiento de los estándares de seguridad operacional"
+  ],
+  "impacto_practico": "Facilita la operación de aeronaves no tripuladas al simplificar los requisitos normativos para los operadores del sector.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "drones",
+   "anac",
+   "aeronaves no tripuladas",
+   "transporte aéreo"
+  ],
+  "cita_sugerida": "Administración Nacional de Aviación Civil, Resolución 904/26, 24/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Modificaron la regulación de los vuelos de drones",
+   "La ANAC aprobó una serie de modificaciones a las regulaciones"
+  ],
+  "extracto_oficial": "La ANAC aprobó una serie de modificaciones a las regulaciones que rigen la operación de aeronaves no tripuladas (drones), con el objetivo de adecuar y simplificar los requisitos para sus operadores sin comprometer la seguridad operacional, incorporando ...",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T02:10:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "1fd03d8f117d",
+  "url_hash": "1fd03d8f117d13a04dda7c68f0a346401365455151edd06023162f6334d7eae0",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432477",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Eliminación del vencimiento de certificados para operadores aéreos",
+  "titulo_original": "La Administración Nacional de Aviación Civil eliminó el vencimiento de los certificados para operadores aéreos",
+  "bajada": "La ANAC dispuso que los certificados de operadores aéreos no tengan fecha de vencimiento, supeditando su vigencia al cumplimiento continuo de los requisitos de seguridad.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Administración Nacional de Aviación Civil",
+  "caratula": "",
+  "identificador_legal": "Resolución 903/26",
+  "id_legal_norm": "RESOLUCION 903/2026",
+  "holding": "Se eliminó el plazo de caducidad formal de los certificados para operadores aéreos, estableciendo un sistema de validez indefinida condicionado a la fiscalización permanente y al cumplimiento de los estándares técnicos y operativos.",
+  "puntos_clave": [
+   "Se elimina el vencimiento de los certificados para operadores aéreos.",
+   "La validez se extiende mientras se cumplan los requisitos exigidos.",
+   "Se instrumenta un esquema de supervisión continua por parte del organismo."
+  ],
+  "impacto_practico": "Modifica el régimen operativo de las líneas aéreas y operadores, eliminando trámites de renovación temporal y trasladando el foco al control de cumplimiento permanente.",
+  "normas_citadas": [
+   "Resolución 903/26"
+  ],
+  "etiquetas": [
+   "aviación civil",
+   "operadores aéreos",
+   "certificados",
+   "anac"
+  ],
+  "cita_sugerida": "Administración Nacional de Aviación Civil, Resolución 903/26, B.O. 24/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Administración Nacional de Aviación Civil eliminó el vencimiento de los certificados para operadores aéreos",
+   "los certificados mantendrán su validez mientras las empresas cumplan con los requisitos técnicos",
+   "bajo un esquema de supervisión continua"
+  ],
+  "extracto_oficial": "El organismo estableció que los certificados mantendrán su validez mientras las empresas cumplan con los requisitos técnicos, operativos y de seguridad exigidos, bajo un esquema de supervisión continua. Además, los certificados vigentes y aquellos que ...",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T02:10:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "34cd5b9399e1",
+  "url_hash": "34cd5b9399e10c7869d9f40ad21faecc58c874489426deb01c790a2ae5cc5e09",
+  "fuente": "csjn_noticias",
+  "fuente_nombre": "CSJN — Noticias institucionales",
+  "url": "https://www.csjn.gov.ar/novedades/detalle/15762",
+  "prioridad": 98,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Sistema acusatorio: creación de cargos para la Justicia Federal de Paraná",
+  "titulo_original": "Sistema acusatorio: la Corte refuerza la dotación de la Justicia Federal de Paraná",
+  "bajada": "La Corte Suprema dispuso la creación de 16 cargos para la Oficina Judicial ante la Cámara Federal de Apelaciones de Paraná por la implementación del Código Procesal Penal Federal.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución Nº 3026/2026",
+  "id_legal_norm": "RESOLUCION No 3026/2026",
+  "holding": "La Corte Suprema de Justicia de la Nación resolvió crear 16 cargos de funcionarios y personal administrativo, técnico y de servicio destinados a la Oficina Judicial ante la Cámara Federal de Apelaciones de Paraná, en cumplimiento de la Ley 27.150 y con motivo de la plena entrada en vigencia del Código Procesal Penal Federal en dicha jurisdicción.",
+  "puntos_clave": [
+   "Se crearon 16 cargos de funcionarios y personal administrativo, técnico y de servicio.",
+   "La medida se instrumentó mediante la resolución Nº 3026/2026 de la CSJN.",
+   "Responde a la plena vigencia del Código Procesal Penal Federal y lo previsto en la Ley 27.150."
+  ],
+  "impacto_practico": "Permite dotar de estructura de personal a la Oficina Judicial y sus subsedes en la jurisdicción federal de Paraná en el marco del sistema acusatorio.",
+  "normas_citadas": [
+   "Ley 27.150"
+  ],
+  "etiquetas": [
+   "sistema acusatorio",
+   "justicia federal",
+   "paraná",
+   "código procesal penal federal"
+  ],
+  "cita_sugerida": "CSJN, Resolución Nº 3026/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:56:54+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "35ebe7cec039",
+  "url_hash": "35ebe7cec039f00d6ad7d1b110f2b02483cbc7a1c1a418a3e71fe82a27c3fc08",
+  "fuente": "csjn_noticias",
+  "fuente_nombre": "CSJN — Noticias institucionales",
+  "url": "https://www.csjn.gov.ar/novedades/detalle/15742",
+  "prioridad": 98,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Actualización del valor de la UMA a partir de octubre de 2026",
+  "titulo_original": "Actualización del valor de la UMA",
+  "bajada": "La Corte Suprema fijó el nuevo valor de la Unidad de Medida Arancelaria en $110.381 desde el 1 de octubre de 2026.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución de la Secretaría General de Administración N° 3006/2026",
+  "id_legal_norm": "RESOLUCION DE LA SECRETARIA GENERAL DE ADMINISTRACION 3006/2026",
+  "holding": "La Corte Suprema de Justicia de la Nación dispuso la actualización de la Unidad de Medida Arancelaria (UMA) elevando su valor a $110.381 a partir del 1 de octubre de 2026, conforme a la Acordada N° 37/2026 y en el marco de la publicación inmediata vinculada a las modificaciones salariales.",
+  "puntos_clave": [
+   "Se fijó el valor de la UMA en $110.381.",
+   "Rige a partir del 1 de octubre de 2026.",
+   "La medida se instrumentó mediante la resolución de la Secretaría General de Administración N° 3006/2026."
+  ],
+  "impacto_practico": "Permite a los profesionales de la abogacía calcular y actualizar los honorarios judiciales regulados conforme a la Unidad de Medida Arancelaria.",
+  "normas_citadas": [
+   "Acordada N° 37/2026",
+   "Resolución de la Secretaría General de Administración N° 3006/2026"
+  ],
+  "etiquetas": [
+   "uma",
+   "honorarios",
+   "actualizacion",
+   "csjn"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, Resolución de la Secretaría General de Administración N° 3006/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:57:47+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e3b4a96d711f",
+  "url_hash": "e3b4a96d711f34a9aa26cd9497e0143511c6624d7a1fd8f9e8a6b4dd8f874b30",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835873",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Acceso a la información pública: publicidad de resultados de los operativos Aprender y Enseñar",
+  "titulo_original": "Acceso a la información pública: resultados de evaluaciones del sistema educativo",
+  "bajada": "La Corte Suprema confirmó por mayoría la condena al Estado Nacional para que entregue los reportes de resultado por establecimiento educativo de los operativos Aprender y Enseñar 2016 y 2017.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "ARGAÑARAZ OLIVERO, RAFAEL AURELIO c/ MINISTERIO DE EDUCACION CULTURA CIENCIA Y TECNOLOGIA DE LA NACION s/AMPARO LEY 16.986",
+  "identificador_legal": "FSA 000517/2019/CS001",
+  "id_legal_norm": "FSA 517/2019",
+  "holding": "El Máximo Tribunal determinó que el derecho de acceso a la información pública comprende los reportes de resultados por escuela de las evaluaciones educativas, toda vez que la demandada no logró demostrar con elementos concretos que dicha divulgación vulnere el secreto estadístico o genere una estigmatización real de alumnos y docentes.",
+  "puntos_clave": [
+   "El principio de máxima divulgación rige en materia de acceso a la información, siendo las excepciones de interpretación restrictiva y debiendo ser debidamente probadas por el Estado.",
+   "La mera cita dogmática y abstracta de normas generales o la invocación conjetural de una posible estigmatización no justifica denegar la información requerida.",
+   "La publicidad de los resultados educativos constituye un instrumento esencial para el control social y para exigir a las autoridades políticas públicas orientadas a superar déficits."
+  ],
+  "impacto_practico": "Constituye un precedente relevante en materia de transparencia activa y acceso a la información pública educativa, fijando un estándar estricto para los organismos estatales que pretendan oponerse a la difusión de datos institucionales mediante argumentos genéricos.",
+  "normas_citadas": [
+   "Ley 16.986",
+   "Ley 26.206",
+   "art. 97 de la ley 26.206"
+  ],
+  "etiquetas": [
+   "acceso a la información pública",
+   "operativos aprender",
+   "educación",
+   "secreto estadístico",
+   "control social"
+  ],
+  "cita_sugerida": "CSJN, FSA 000517/2019/CS001, 'Argañaraz Olivero, Rafael Aurelio c/ Ministerio de Educacion Cultura Ciencia y Tecnologia de la Nacion s/ amparo ley 16.986', 19/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "el derecho de acceso a la información no es un derecho absoluto y su ejercicio puede estar sujeto a restricciones",
+   "la mera cita dogmática y abstracta de normas generales que habilitarían excepciones no puede considerarse suficiente",
+   "acceder a los resultados de los operativos Aprender y Enseñar es un instrumento esencial para el control social"
+  ],
+  "extracto_oficial": "El actor promovió “acción de amparo de acceso a la información pública” contra el Poder Ejecutivo Nacional y pidió que se ordenara la entrega de los Reportes de Resultado correspondientes a todos los Establecimientos Educativos o Instituciones de la Provincia de Salta que hayan participado de los Operativos Aprender y Enseñar 2016 y 2017. El Estado Nacional se opuso a la pretensión argumentando que publicar los resultados expondría a alumnas y alumnos a una posible estigmatización y que permitiría realizar un \"sistema de rankings de escuelas\" que produciría un menoscabo para la dignidad de los",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - CONSTITUCIONAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8358731"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:47:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a85718f6d73a",
+  "url_hash": "a85718f6d73af6be28097541526a23a5fae5bc89ea43842e12b6669c35b69062",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835975",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Lavado de activos: la Corte definió la competencia territorial y revocó fallo de Casación",
+  "titulo_original": "Lavado de activos de origen ilícito: determinación de la competencia",
+  "bajada": "La CSJN dejó sin efecto la sentencia de la Cámara Federal de Casación Penal que había atribuido la competencia a Campana, ratificando la intervención del Juzgado Nacional en lo Criminal y Correccional Federal n° 3.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Recurso Queja Nº 1 - Incidente Nº 1 - PANTANO, LUCIANO NICOLAS s/INCIDENTE DE RECURSO EXTRAORDINARIO",
+  "identificador_legal": "FSM 063507/2025/3/1/1/RH003",
+  "id_legal_norm": "FSM 63507/2025",
+  "holding": "La Corte Suprema determinó que en una pesquisa compleja de lavado de activos vinculada a un entramado societario y financiero, la ubicación de un inmueble adquirido no resulta suficiente para fijar la competencia territorial cuando los actos centrales de la operatoria y las sedes de las personas jurídicas involucradas se ubican en la Ciudad Autónoma de Buenos Aires.",
+  "puntos_clave": [
+   "Se dejó sin efecto el fallo de Casación por violación a las reglas de competencia y afectación de la garantía de juez natural.",
+   "La investigación abarca un entramado societario y financiero cuyos actos centrales se desarrollaron en la Ciudad Autónoma de Buenos Aires.",
+   "Se estableció que el Juzgado Nacional en lo Criminal y Correccional Federal n° 3 continúe con el trámite de las actuaciones."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales delimitar adecuadamente la competencia territorial en causas complejas de lavado de activos, priorizando el centro de dirección y desenvolvimiento de la actividad ilícita investigada por sobre la mera ubicación de bienes inmuebles.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "competencia territorial",
+   "lavado de activos",
+   "juez natural",
+   "proceso penal"
+  ],
+  "cita_sugerida": "CSJN, Recurso Queja Nº 1 - Incidente Nº 1 - PANTANO, LUCIANO NICOLAS s/INCIDENTE DE RECURSO EXTRAORDINARIO, FSM 063507/2025/3/1/1/RH003",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la garantía de juez natural se vio afectada de modo severo e inequívoco",
+   "la existencia del inmueble en dicha localidad constituyó el primer indicador patrimonial",
+   "la competencia federal del delito de lavado de activos de origen ilícito nunca estuvo controvertida"
+  ],
+  "extracto_oficial": "A partir de una denuncia en la que se atribuyó la adquisición de un inmueble ubicado en el partido de Pilar, Provincia de Buenos Aires sin que existiera capacidad económica suficiente y se postuló la posible comisión del delito de lavado de activos, se originó una serie de conflictos de competencia que determinó que, en su segunda intervención, la Cámara Federal de Casación Penal declarara competente al Juzgado Federal de Campana. La Corte dejó sin efecto esta sentencia al entender que la garantía de juez natural se vio afectada de modo severo e inequívoco a través de una grosera violación a l",
+  "oficial": {
+   "materia_oficial": "COMPETENCIA - PENAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359751"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:47:03+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "60cd6a9c730a",
+  "url_hash": "60cd6a9c730ad9618db69ccc04d31f6c9d81710ec10ee52eb484d8249c927c32",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835565",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Límites a la revisión judicial de las decisiones del Jurado de Enjuiciamiento",
+  "titulo_original": "Destitución de juez federal por mal desempeño: rigurosos límites de la revisión judicial",
+  "bajada": "La Corte Suprema desestimó el recurso contra la destitución de un juez federal y ratificó la validez de la integración del Jurado de Enjuiciamiento.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "BENTO, WALTER RICARDO s/remoción",
+  "identificador_legal": "CSJ 002698/2023/RH001",
+  "id_legal_norm": "CSJ 2698/2023",
+  "holding": "La Corte Suprema estableció que los agravios contra la destitución dictada por el Jurado de Enjuiciamiento de Magistrados no demostraron una afectación al debido proceso ni una vulneración de los límites de la revisión judicial. Sostuvo que el uso del plural en el artículo 115 de la Constitución Nacional constituye un plural genérico y no un mandato cuantitativo estricto sobre la cantidad de representantes por estamento, rechazando así la inconstitucionalidad de la ley 26.080. Asimismo, descartó afectaciones a la imparcialidad por falta de fundamentación y aclaró que la remoción por mal desempeño no implica juzgamiento penal.",
+  "puntos_clave": [
+   "La revisión judicial de las decisiones del Jurado de Enjuiciamiento posee rigurosos límites institucionales.",
+   "El empleo del plural en el artículo 115 de la Constitución Nacional es genérico y no fija un número mínimo estricto de representantes por estamento.",
+   "La remoción por mal desempeño por conductas impropias es independiente de la calificación de ilícitos penales y respeta el principio de inocencia."
+  ],
+  "impacto_practico": "Establece un estándar restrictivo para la revisión judicial de las sentencias del Jurado de Enjuiciamiento de Magistrados y confirma la constitucionalidad de la conformación de dicho órgano bajo la ley 26.080.",
+  "normas_citadas": [
+   "art. 110 CN",
+   "art. 115 CN",
+   "art. 25 inc. 2 y 5 ley 24.937",
+   "ley 26.080"
+  ],
+  "etiquetas": [
+   "jurado de enjuiciamiento",
+   "mal desempeño",
+   "remoción de jueces",
+   "debido proceso",
+   "ley 26.080"
+  ],
+  "cita_sugerida": "CSJN, CSJ 002698/2023/RH001, \"BENTO, WALTER RICARDO s/remoción\"",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la Corte desestimó el recurso intentado por el magistrado destituido por considerar que los agravios no eran suficientes",
+   "el empleo del plural en el artículo mencionado no podía entenderse como un indicador de cantidad",
+   "los agravios que tachaban la decisión de arbitraria, pues remitían a cuestiones no revisables en la instancia extraordinaria"
+  ],
+  "extracto_oficial": "El Jurado de Enjuiciamiento de Magistrados de la Nación resolvió destituir al titular de un juzgado federal por considerar que había incurrido en la causal constitucional de mal desempeño, de conformidad con lo establecido en los artículos 110 y 115 de la Constitución Nacional y en el artículo 25, incisos 2 y 5, de la ley 24.937 . La Corte desestimó el recurso intentado por el magistrado destituido por considerar que los agravios no eran suficientes para demostrar una afectación al debido proceso de entidad constitucional que habilite su intervención en el marco de los rigurosos límites que ti",
+  "oficial": {
+   "materia_oficial": "CONSTITUCIONAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8355651"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:48:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "550a24853868",
+  "url_hash": "550a2485386864eb5ba610ab4efc3a95ff288b9a0ae9d2d25ae37be79a715092",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835902",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Prisión y multa conjunta: improcedencia de invocar afectación del principio acusatorio",
+  "titulo_original": "Aplicación conjunta de prisión y multa - Inapropiada invocación de afectación del principio acusatorio",
+  "bajada": "La Corte Suprema revocó la decisión de Casación que había anulado la pena de multa por no haber sido requerida expresamente por el fiscal.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Recurso Queja Nº 1 - Incidente Nº 59 - NN: GALLARDO, LUIS ALBERTO Y OTROS s/INCIDENTE DE RECURSO EXTRAORDINARIO",
+  "identificador_legal": "FSM 125486/2017/TO01/59/1/RH009",
+  "id_legal_norm": "FSM 125486/2017",
+  "holding": "La Corte Suprema estableció que la aplicación conjunta de las penas de prisión y multa previstas en el artículo 5, inciso c), de la ley 23.737 es obligatoria por imperativo legal, por lo que el tribunal no puede omitir la multa bajo el argumento de que el fiscal no la solicitó, siendo inapropiada la invocación del principio acusatorio para anularla.",
+  "puntos_clave": [
+   "Las penas de prisión y multa de la ley 23.737 son principales y deben aplicarse en forma conjunta.",
+   "El tribunal de alzada no puede declarar la nulidad de la multa basándose en la falta de pedido fiscal sin lesionar un interés legítimo.",
+   "La invocación del principio acusatorio resulta inapropiada para apartarse de la manda legal imperativa."
+  ],
+  "impacto_practico": "Permite a los fiscales y tribunales sostener la obligatoriedad de la imposición conjunta de multa y prisión en delitos de estupefacientes aun si el acusador omitió especificar su monto en alguna instancia previa.",
+  "normas_citadas": [
+   "artículo 5, inciso c), de la ley 23.737"
+  ],
+  "etiquetas": [
+   "principio acusatorio",
+   "pena de multa",
+   "estupefacientes",
+   "nulidades procesales"
+  ],
+  "cita_sugerida": "CSJN, Recurso Queja Nº 1 - Incidente Nº 59 - NN: GALLARDO, LUIS ALBERTO Y OTROS s/INCIDENTE DE RECURSO EXTRAORDINARIO, FSM 125486/2017/TO01/59/1/RH009",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "las dos son efecto de la sentencia condenatoria y proceden por imperativo legal",
+   "bajo la pretendida e inapropiada invocación de la afectación del principio acusatorio",
+   "en materia de nulidades debe primar un criterio de interpretación restrictiva"
+  ],
+  "extracto_oficial": "La Cámara Federal de Casación anuló la sentencia recurrida en lo que respecta al monto de la pena de multa impuesta a los condenados por el delito de tenencia de estupefacientes con fines de comercialización. Basó su decisión en que el fiscal no había solicitado su imposición y por ende tampoco había establecido su monto. La Corte, por mayoría, dejó sin efecto este pronunciamiento. Afirmó que, bajo la pretendida e inapropiada invocación de la afectación del principio acusatorio, había invalidado la imposición de la pena de multa, prescindiendo de la norma aplicable pues el artículo 5, inciso c",
+  "oficial": {
+   "materia_oficial": "PENAL",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359021"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:47:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "51273499562a",
+  "url_hash": "51273499562a4be4320ac30f71ba1bb0c23c239cb52148dcac9440a78440b1fa",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835804",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Rechazo de demanda contra multa en régimen de promoción no industrial",
+  "titulo_original": "Programa de promoción no industrial - Cuestionamiento de una multa",
+  "bajada": "La Corte Suprema rechazó la demanda de nulidad contra una multa impuesta por incumplimientos en un régimen de promoción no industrial, al considerar inadmisible que la actora consintiera los incumplimientos tributarios pero impugnara la sanción derivada de estos.",
+  "tipo": "Fallo",
+  "materia": "Tributario",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "ESTABLECIMIENTO LAS MARIAS S.A.C.I.F.A. Y OTRO c/ ESTADO NACIONAL s/NULIDAD DE ACTO ADMINISTRATIVO",
+  "identificador_legal": "E. 245. XLVIII. ORI",
+  "id_legal_norm": "E. 245. XLVIII. ORI",
+  "holding": "El Tribunal determinó que el decaimiento de beneficios fiscales y la multa aplicada por incumplimientos al régimen de promoción son consecuencias inescindibles. Desestimó la pretensión de la actora por violar la regla de la buena fe que impide actuar en contradicción con actos anteriores deliberados, y señaló que el régimen promocional se halla excluido expresamente del régimen de regularización impositiva invocado.",
+  "puntos_clave": [
+   "La actora consintió el decaimiento de beneficios fiscales y la obligación de reintegro de tributos.",
+   "Resulta contradictorio y contrario a la buena fe impugnar la multa subsiguiente basada en los mismos incumplimientos ya consentidos.",
+   "El régimen promocional regulado por la ley 22.021 se encuentra excluido de la ley de regularización impositiva 26.476."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para litigantes y asesores fiscales sobre la imposibilidad de cuestionar sanciones administrativas cuando se han consentido los incumplimientos de base que les dan origen.",
+  "normas_citadas": [
+   "art. 3° del decreto nacional 664/2012",
+   "art. 51, último párrafo, de la ley 24.938",
+   "decreto 1074/1998",
+   "art. 1° y el Anexo I del decreto 1535/1998",
+   "art. 17 de la ley 22.021",
+   "ley 26.476"
+  ],
+  "etiquetas": [
+   "régimen de promoción",
+   "multa fiscal",
+   "actos propios",
+   "buena fe"
+  ],
+  "cita_sugerida": "CSJN, ESTABLECIMIENTO LAS MARIAS S.A.C.I.F.A. Y OTRO c/ ESTADO NACIONAL s/NULIDAD DE ACTO ADMINISTRATIVO, E. 245. XLVIII. ORI",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la multa aplicada en su art. 3°, son dos consecuencias necesarias e inescindibles de los mismos incumplimientos",
+   "nadie puede ponerse en contradicción con sus propios actos",
+   "la multa fue aplicada según lo dispuesto en el art. 17 de la ley 22.021"
+  ],
+  "extracto_oficial": "La empresa actora promovió demanda contra el Estado Nacional a fin de obtener la declaración de nulidad del artículo 3° del decreto nacional 664/2012 en cuanto le impuso una multa por incumplimiento del programa de promoción no industrial implementado en el marco del artículo 51, último párrafo, de la ley 24.938 y del decreto 1074/1998 del que resultó beneficiaria. La Corte, en el marco de su competencia originaria, rechazó esta demanda. Expresó que el decaimiento de los beneficios fiscales y el reintegro y/o devolución de los tributos adeudados dispuestos en el art. 1° del decreto 664/2012, c",
+  "oficial": {
+   "materia_oficial": "TRIBUTARIO/ADUANERO",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8358041"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:48:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "00dcf985e7bf",
+  "url_hash": "00dcf985e7bfa213bcba862ccca5ddd4dcbd04b9177f9c9eeab5da33334b9cdc",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835986",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CSJN confirmó inconstitucionalidad de los artículos 267 y 269 del DNU 70/2023 sobre medicina prepaga",
+  "titulo_original": "Cuotas de los planes de medicina prepaga y decreto de necesidad y urgencia",
+  "bajada": "La Corte Suprema confirmó parcialmente la sentencia que declaró la inconstitucionalidad de la desregulación de cuotas de prepagas al advertir falta de justificación válida sobre la urgencia en los considerandos del DNU.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "BOBBIO, MARIA DEL CARMEN c/ SWISS MEDICAL SA Y OTRO s/AMPARO LEY 16.986",
+  "identificador_legal": "FLP 001221/2024/CS001",
+  "id_legal_norm": "FLP 1221/2024",
+  "holding": "La Corte Suprema estableció que el ejercicio válido de facultades legislativas por parte del Poder Ejecutivo mediante DNU requiere la acreditación de un estado de necesidad y urgencia que impida el trámite ordinario de las leyes. Declaró la inconstitucionalidad de los artículos 267 y 269 del DNU 70/2023 porque los considerandos del decreto no demostraron mínimamente una situación de urgencia incompatible con el Congreso ni justificaron la relación concreta entre la emergencia invocada y la supresión del control estatal de cuotas.",
+  "puntos_clave": [
+   "El Poder Ejecutivo debe justificar adecuadamente la necesidad y urgencia que impiden el trámite legislativo ordinario.",
+   "Los considerandos del DNU 70/2023 no fundamentaron la relación entre la crisis de salud y la supresión del control de precios.",
+   "Se confirmó parcialmente la sentencia que limitaba los aumentos de cuotas aplicando el Índice de Precios al Consumidor."
+  ],
+  "impacto_practico": "Permite a los litigantes y magistrados cuestionar la validez constitucional de normas de emergencia dictadas por el Poder Ejecutivo cuando carezcan de la debida fundamentación sobre la urgencia que impidió la intervención del Congreso.",
+  "normas_citadas": [
+   "DNU 70/2023",
+   "artículo 5°, inciso g, ley 26.682",
+   "artículo 17 de ley 26.682"
+  ],
+  "etiquetas": [
+   "medicina prepaga",
+   "dnu",
+   "control de constitucionalidad",
+   "poder ejecutivo"
+  ],
+  "cita_sugerida": "CSJN, \"BOBBIO, MARIA DEL CARMEN c/ SWISS MEDICAL SA Y OTRO s/AMPARO LEY 16.986\", FLP 001221/2024/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "el ejercicio válido de las facultades legislativas por parte del Poder Ejecutivo exige que exista un estado de necesidad y urgencia",
+   "de la lectura de los considerandos del decreto no surge una mínima justificación",
+   "lo resuelto no implicó en modo alguno, emitir opinión respecto de otros aspectos del decreto"
+  ],
+  "extracto_oficial": "La actora interpuso una acción de amparo contra una entidad de medicina privada a fin de que se declare la inconstitucionalidad de los artículos 267 y 269 del decreto de necesidad y urgencia 70/2023 , que derogaron el artículo 5°, inciso g, y sustituyeron el artículo 17 de ley 26.682 que imponían el control estatal respecto de los valores de las cuotas de los planes prestacionales de los servicios de salud a cargo de la demandada. La cámara declaró la inconstitucionalidad planteada y ordenó a la demandada limitar los aumentos de las cuotas al porcentaje que arrojase el Índice de Precios al Con",
+  "oficial": {
+   "materia_oficial": "CONSTITUCIONAL - CONSUMO - SALUD",
+   "relevancia": 3,
+   "inconstitucional": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8359861"
+  },
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:46:56+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e5ab595d597d",
+  "url_hash": "e5ab595d597d2b0097c88142ddc9405c6e3566fec90bc8a218d1889e1e5d593b",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835111",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Exceso ritual manifiesto y caducidad de la acción procesal administrativa",
+  "titulo_original": "In dubio pro actione y excesivo rigor formal",
+  "bajada": "La Corte dejó sin efecto una sentencia que computó erróneamente el plazo de caducidad y afectó el derecho de acceso a la justicia.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "VIDELA, GUSTAVO LUIS c/ DIRECCION DE GEODESIA Y CATASTRO - CONTENCIOSO ADMINISTRATIVO s/inconstitucionalidad",
+  "identificador_legal": "CSJ 000446/2023/RH001",
+  "id_legal_norm": "CSJ 446/2023",
+  "holding": "La interposición de un recurso administrativo innecesario para agotar la vía no puede desmejorar la situación procesal del administrado ni coartar su acceso a la jurisdicción, debiendo aplicarse el principio in dubio pro actione frente a interpretaciones de rigor formal excesivo.",
+  "puntos_clave": [
+   "Un recurso administrativo optativo o no prohibido no puede perjudicar el plazo para iniciar la acción judicial.",
+   "La interpretación que conduce a la pérdida definitiva del derecho por rigor formal vulnera la defensa en juicio.",
+   "Corresponde aplicar el principio in dubio pro actione en materia contencioso administrativa para garantizar el acceso a la jurisdicción."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar interpretaciones restrictivas sobre plazos de caducidad cuando la administración genera confusión con la notificación de sus vías recursivas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "in dubio pro actione",
+   "exceso ritual",
+   "contencioso administrativo",
+   "caducidad"
+  ],
+  "cita_sugerida": "CSJN, CSJ 000446/2023/RH001, 'Videla, Gustavo Luis c/ Direccion de Geodesia y Catastro - Contencioso Administrativo s/inconstitucionalidad'",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte dejó sin efecto esta sentencia que incurrió en un injustificado rigor formal que atentó contra la defensa en juicio",
+   "la interposición de un recurso administrativo que no era necesario para habilitar la instancia judicial no puede, de ninguna manera, desmejorar la situación procesal del interesado",
+   "la interpretación efectuada por el superior tribunal provincial importaba una decisión de injustificado rigor formal"
+  ],
+  "extracto_oficial": "El actor planteó un recurso jerárquico contra una resolución de una dirección del gobierno provincial que fue rechazado por un decreto, notificado sin explicitar si el acto agotaba la vía administrativa. Cuestionó este decreto mediante un recurso de reconsideración que fue rechazado por un nuevo decreto. Frente a ello, interpuso una acción judicial de nulidad de dichos actos administrativos, que fue rechazada porque se consideró que había sido planteada luego de fenecido el plazo de caducidad ya que estimaron que el mismo debía computarse desde la notificación del primer decreto y no desde la ",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8351111"
+  },
+  "fecha": "2026-11-12T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:50:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ba713c7c3bd8",
+  "url_hash": "ba713c7c3bd850d3beebbea9097804f34e48033d7134e6503ce3b08d6116f356",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835042",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Bonificación por zona austral y adicional por zona desfavorable: distinta naturaleza jurídica",
+  "titulo_original": "Bonificación por zona austral y adicional por zona desfavorable: distinta naturaleza jurídica",
+  "bajada": "La Corte Suprema revocó la sentencia que impedía acumular la bonificación por zona austral con el adicional por zona desfavorable percibido en actividad por un policía retirado.",
+  "tipo": "Fallo",
+  "materia": "Previsional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "NICOLINI, DAVID ATILIO c/ ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSES) s/AMPARO LEY 16.986",
+  "identificador_legal": "FGR 020359/2015/CS001",
+  "id_legal_norm": "FGR 20359/2015",
+  "holding": "El Tribunal determinó que la bonificación por zona austral y el adicional por zona desfavorable poseen distinta naturaleza jurídica y no son incompatibles, ya que la ley 19.485 no estableció limitaciones al respecto y el segundo ítem constituyó un suplemento salarial regular sobre el cual se efectuaron aportes.",
+  "puntos_clave": [
+   "La bonificación por zona austral (ley 19.485) está supeditada únicamente a la residencia en las regiones contempladas y no prevé incompatibilidades.",
+   "El adicional por zona desfavorable cobrado en actividad era un suplemento general que integraba el haber mensual y sobre el cual se realizaban aportes previsionales.",
+   "No existe doble percepción de beneficios con idéntica causa jurídica, por lo que corresponde incorporar el coeficiente de zona austral al haber de retiro."
+  ],
+  "impacto_practico": "Permite a los retirados y jubilados bajo regímenes provinciales o especiales acumular la bonificación por zona austral con adicionales por zona desfavorable percibidos en actividad, siempre que tengan distinta causa y naturaleza.",
+  "normas_citadas": [
+   "Ley 19.485",
+   "Ley 16.986"
+  ],
+  "etiquetas": [
+   "zona austral",
+   "zona desfavorable",
+   "haber de retiro",
+   "previsional",
+   "incompatibilidad"
+  ],
+  "cita_sugerida": "CSJN, \"Nicolini, David Atilio c/ Administración Nacional de la Seguridad Social s/ amparo ley 16.986\", FGR 020359/2015/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la bonificación creada por ley nacional, aplicable a la generalidad de los jubilados, está supeditada solamente a la residencia en las zonas allí determinadas",
+   "no existía una doble percepción de beneficios con una misma causa en tanto estos no poseen igual naturaleza jurídica"
+  ],
+  "extracto_oficial": "La cámara rechazó la acción de amparo promovida por un retirado de la Policía de la Provincia de Río Negro contra la Administración Nacional de la Seguridad Social, dirigida a que se incorpore a su haber de retiro el coeficiente por zona austral creado por la ley 19.485 . Fundó su decisión en que ese beneficio no podía acumularse en su totalidad con el adicional por \"zona desfavorable\" (otorgado al personal policial rionegrino en actividad) al entender que el sentido y finalidad de ambos adicionales guardaban sustancial analogía. La Corte dejó sin efecto esta sentencia. Consideró que ella habí",
+  "oficial": {
+   "materia_oficial": "PREVISIONAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8350421"
+  },
+  "fecha": "2026-11-12T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:49:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "57f3ea4c8ac0",
+  "url_hash": "57f3ea4c8ac0c16951c26a2c4b2189052ba85f4172986595602b418e7fefbce7",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835679",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Discapacidad: revocan sentencia que rechazó amparo por trámite administrativo previo",
+  "titulo_original": "Discapacidad y derecho a la educación: vulneración del derecho a una tutela judicial efectiva",
+  "bajada": "La Corte Suprema dejó sin efecto el fallo que había rechazado una acción de amparo por la existencia de un procedimiento administrativo, al considerar que la decisión se basó en afirmaciones dogmáticas y afectó la tutela judicial efectiva.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "A., L. P. c/ CONSEJO GENERAL DE EDUCACION DE ENTRE RIOS s/acción de amparo",
+  "identificador_legal": "CSJ 003313/2025/RH001",
+  "id_legal_norm": "CSJ 3313/2025",
+  "holding": "La Corte Suprema resolvió que la existencia de vías procesales paralelas o administrativas que obstan a la procedencia del amparo no puede formularse en abstracto ni de manera ritual, exigiendo a los tribunales analizar si dichas instancias constituyen canales idóneos y útiles para la efectiva salvaguarda de derechos fundamentales, especialmente cuando se encuentran en juego garantías de menores con discapacidad y el derecho a la educación inclusiva.",
+  "puntos_clave": [
+   "La admisibilidad de la acción de amparo no puede fundarse en una apreciación meramente ritual e insuficiente.",
+   "La existencia de otras vías procesales debe examinarse en la situación concreta y no en abstracto.",
+   "Los jueces tienen el deber de actuar con premura y evitar formalismos que priven el acceso a la jurisdicción en casos de derechos de menores."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar aquellas decisiones judiciales que rechazan arbitrariamente acciones de amparo escudándose en la mera existencia de trámites administrativos previos sin evaluar su idoneidad real.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "amparo",
+   "discapacidad",
+   "educación inclusiva",
+   "tutela judicial efectiva",
+   "acceso a la jurisdicción"
+  ],
+  "cita_sugerida": "CSJN, CSJ 003313/2025/RH001, A., L. P. c/ CONSEJO GENERAL DE EDUCACION DE ENTRE RIOS s/acción de amparo",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la admisibilidad de la acción no puede fundarse en una apreciación meramente ritual e insuficiente",
+   "la existencia de otras vías procesales que obstan a su procedencia no puede formularse en abstracto",
+   "los jueces intervinientes, entonces, tenían el deber de actuar con premura y brindar una respuesta jurisdiccional"
+  ],
+  "extracto_oficial": "La actora, en representación de su hija menor titular de un certificado de discapacidad, promovió acción de amparo a fin de que se ordene el cese inmediato de la conducta lesiva y omisiva consistente en denegarle el derecho a la educación inclusiva y se disponga la implementación de un Proyecto Pedagógico Individual que garantice su trayectoria educativa completa, según la normativa vigente. El superior tribunal provincial rechazó esta acción con fundamento en que se encontraba en trámite un procedimiento administrativo en el que también se estaba examinando la cuestión debatida. La Corte dejó",
+  "oficial": {
+   "materia_oficial": "CONSTITUCIONAL - SALUD",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8356791"
+  },
+  "fecha": "2026-11-12T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:50:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "4d1e40931d2c",
+  "url_hash": "4d1e40931d2c24239a1058816146366d74bbb14d3ad940e339a5fd987b3f3087",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=834698",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Legitimación procesal de cámaras empresarias frente a derechos individuales",
+  "titulo_original": "Legitimación procesal de una entidad civil - Derechos puramente individuales",
+  "bajada": "La Corte Suprema estableció que una cámara empresaria carece de legitimación para impugnar normas que afectan derechos puramente individuales de sus asociados si las demandas particulares no resultan inviables.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "CAMARA EMPRESARIA DE TRANSPORTE INTERURBANO EN JURISDICCION NACIONAL DE PASAJEROS c/ EN-CNRT s/PROCESO DE CONOCIMIENTO",
+  "identificador_legal": "CAF 008137/2014/CS001",
+  "id_legal_norm": "CAF 8137/2014",
+  "holding": "El Tribunal revocó la sentencia apelada y rechazó la demanda por falta de legitimación activa. Sostuvo que la entidad actora pretendía defender derechos puramente individuales de sus empresas nucleadas, los cuales deben ser tutelados por sus titulares. Asimismo, descartó la aplicación de la acción colectiva por intereses individuales homogéneos ya que no se acreditó la inviabilidad o dificultad excesiva para la promoción de acciones individuales.",
+  "puntos_clave": [
+   "La intervención judicial requiere la existencia de un caso y legitimación del accionante.",
+   "Las entidades civiles no pueden asumir la representación judicial de derechos puramente individuales de sus miembros por regla general.",
+   "Para habilitar una acción colectiva por intereses individuales homogéneos debe demostrarse que el acceso a la justicia de los afectados se halla comprometido."
+  ],
+  "impacto_practico": "Permite a los litigantes y asesores jurídicos evaluar la viabilidad formal de las demandas entabladas por cámaras o asociaciones en representación de sus agremiados.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "legitimación procesal",
+   "acción colectiva",
+   "derechos individuales",
+   "cámara empresaria"
+  ],
+  "cita_sugerida": "CSJN, \"CAMARA EMPRESARIA DE TRANSPORTE INTERURBANO EN JURISDICCION NACIONAL DE PASAJEROS c/ EN-CNRT s/PROCESO DE CONOCIMIENTO\", CAF 008137/2014/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la intervención de los tribunales federales se encuentra subordinada a la existencia de un “caso”",
+   "la legitimación procesal activa corresponde, por principio, a cada una de las empresas",
+   "no se advertía que la promoción de acciones individuales respecto de la cuestión planteada resultara inviable"
+  ],
+  "extracto_oficial": "La cámara empresaria actora promovió una demanda con el objeto de obtener la declaración de nulidad de las normas dictadas por la Cámara Nacional de Transporte que exigen que se debe presentar el libre deuda de multas para realizar trámites ante dicho organismo. La Corte revocó la sentencia apelada y rechazó la demanda. Señaló que, previo a analizar la cuestión de fondo, correspondía recordar que la intervención de los tribunales federales se encuentra subordinada a la existencia de un “caso”, “causa” o “controversia” y que para que ello ocurra, resulta imprescindible que quien promueve la acc",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - PROCESAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8346981"
+  },
+  "fecha": "2026-11-12T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:49:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f6b3064e3193",
+  "url_hash": "f6b3064e31933c3dce2079563c183d3fac8583cd90c0e54860b4468e7c2c72c0",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=833812",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CSJN: Exigencia de legitimación procesal y existencia de caso en materia universitaria",
+  "titulo_original": "Necesidad de existencia de un \"caso\" - Legitimación procesal",
+  "bajada": "La Corte revocó la sentencia que había anulado modificaciones al reglamento electoral de la Universidad Nacional de Formosa, al concluir que los actores carecían de legitimación procesal adecuada.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "GOMEZ NAVARRO, OMAR FABRICIO Y OTROS c/ UNIVERSIDAD NACIONAL DE FORMOSA s/RECURSO DIRECTO LEY DE EDUCACION SUPERIOR LEY 24.521",
+  "identificador_legal": "FRE 000008/2021/CS001",
+  "id_legal_norm": "FRE 8/2021",
+  "holding": "La Corte Suprema estableció que la existencia de un \"caso\" requiere inexorablemente la acreditación de legitimación procesal. Por un lado, los miembros de un cuerpo colegiado no pueden ejercer el control de legitimidad de forma individual o aislada fuera del ámbito deliberativo propio, salvo afectación personal y concreta. Por otro lado, las asociaciones gremiales deben explicar mínimamente a quiénes representan y la naturaleza del derecho que intentan proteger, constituyendo esta exigencia una garantía del debido proceso y no un rigorismo formal.",
+  "puntos_clave": [
+   "Los integrantes de un cuerpo colegiado carecen de legitimación individual para cuestionar decisiones administrativas del cuerpo por fuera de sus canales deliberativos institucionales sin demostrar afectación personal.",
+   "Las asociaciones sindicales tienen la carga procesal de fundamentar adecuadamente a quiénes representan y qué derecho protegen para estar legitimadas.",
+   "La demostración del interés jurídico y la legitimación procesal son presupuestos esenciales de la existencia de 'causa' y del debido proceso."
+  ],
+  "impacto_practico": "Obliga a los litigantes y representantes gremiales a fundar estrictamente su legitimación procesal y la afectación concreta en demandas contra decisiones universitarias, bajo pena de rechazo de la acción por ausencia de caso.",
+  "normas_citadas": [
+   "art. 34 de la ley 24.521"
+  ],
+  "etiquetas": [
+   "legitimación procesal",
+   "universidades",
+   "asociaciones sindicales",
+   "debido proceso"
+  ],
+  "cita_sugerida": "CSJN, GOMEZ NAVARRO, OMAR FABRICIO Y OTROS c/ UNIVERSIDAD NACIONAL DE FORMOSA s/RECURSO DIRECTO LEY DE EDUCACION SUPERIOR LEY 24.521, FRE 000008/2021/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Entendió que correspondía, en primer lugar, determinar si los actores estaban legitimados para cuestionar la validez de las normas ya que tal extremo constituía un presupuesto necesario para que exista 'causa'.",
+   "Recordó el Tribunal que, por regla, quien se presenta ante los tribunales de justicia debe fundar y justificar de modo apropiado su legitimación procesal"
+  ],
+  "extracto_oficial": "La cámara hizo lugar al recurso interpuesto por los actores a fin de que se declare la nulidad de la resolución 61/2020 dictada por el Consejo Superior de la Universidad Nacional de Formosa (UNaF), que modifica diversos artículos del Reglamento General Electoral que atañen a la conformación del padrón docente (incluyendo docentes interinos) y del padrón del personal no docente (incluyendo al personal contratado y transitorio), como así también de una sesión ordinaria del Consejo Superior, por considerar que contenían vicios graves y que resultarían violatorias de los principios de legalidad y ",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - PROCESAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8338121"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:52:14+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "caf52672f7e7",
+  "url_hash": "caf52672f7e76ee66f676d4dbc707961844ad9d38355516d41b55f136b538eb6",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=834699",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Corte Suprema: topes jubilatorios y cómputo de mayores aportes",
+  "titulo_original": "Topes jubilatorios y cómputo de mayores aportes",
+  "bajada": "La Corte revocó una sentencia que declaró la inconstitucionalidad dogmática del artículo 25 de la ley 24.241, ordenando computar los mayores aportes realizados por encima de la base imponible máxima.",
+  "tipo": "Fallo",
+  "materia": "Previsional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "OLIVA ARMANDO JULIO c/ ANSES s/REAJUSTES VARIOS",
+  "identificador_legal": "CSS 077168/2014/CS001",
+  "id_legal_norm": "CSS 77168/2014",
+  "holding": "El Tribunal estableció que la validez del tope legal no depende de que su aplicación genere una merma confiscatoria, sino de que impida computar los mayores aportes ingresados, cercenando el derecho a una prestación representativa del esfuerzo contributivo. Por ello, declaró inaplicable el tope a los períodos con aportes superiores a la base imponible y ordenó una nueva determinación del haber inicial.",
+  "puntos_clave": [
+   "Se revocó la sentencia de cámara por considerar dogmática y de fundamentación aparente la declaración de inconstitucionalidad.",
+   "Se determinó que el tope del artículo 25 de la ley 24.241 no debe impedir el cómputo de aportes efectuados por encima de la base imponible máxima.",
+   "Se ordenó a la ANSES realizar una nueva determinación del haber inicial teniendo en cuenta las cotizaciones efectivamente ingresadas al sistema."
+  ],
+  "impacto_practico": "Permite a los litigantes y operadores jurídicos exigir el reconocimiento de mayores aportes realizados por encima de la base imponible máxima sin necesidad de acreditar una confiscatoriedad general, logrando que el haber inicial refleje el verdadero esfuerzo contributivo.",
+  "normas_citadas": [
+   "artículo 25 de la ley 24.241"
+  ],
+  "etiquetas": [
+   "topes jubilatorios",
+   "haber inicial",
+   "aportes previsionales",
+   "esfuerzo contributivo"
+  ],
+  "cita_sugerida": "CSJN, OLIVA ARMANDO JULIO c/ ANSES s/REAJUSTES VARIOS, CSS 077168/2014/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte revocó este pronunciamiento.",
+   "afirmó que la validez del tope cuestionado no depende de que su aplicación traduzca o no una merma confiscatoria",
+   "declarando inaplicable el tope previsto en la norma cuestionada a los períodos en los que el aporte previsional se haya efectuado"
+  ],
+  "extracto_oficial": "La cámara dispuso una nueva determinación del haber inicial y declaró la inconstitucionalidad del artículo 25 de la ley 24.241 . La Administración Nacional de la Seguridad Social interpuso un recurso extraordinario en el cual se agravió de lo resuelto por considerar que la existencia del límite de aportes para los trabajadores establecido en dicha norma fue impuesto por razones de solidaridad y equidad, con la finalidad de preservar en el tiempo el pago de las prestaciones a su cargo. La Corte revocó este pronunciamiento. Consideró que la declaración de inconstitucionalidad resultaba dogmática",
+  "oficial": {
+   "materia_oficial": "PREVISIONAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8346991"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:54:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "c87fb490acbd",
+  "url_hash": "c87fb490acbdbaa4d12611c741dd6532fabefe10b2b0c45b530fc25849155c7e",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835584",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Competencia de la IGJ y alcance del traslado de domicilio social de asociaciones civiles",
+  "titulo_original": "Potestades fiscalizadoras y cambio de domicilio social",
+  "bajada": "La Corte Suprema revocó un fallo que negaba las potestades fiscalizadoras de la IGJ sobre la AFA, al aclarar que el cambio de domicilio requiere la cancelación registral previa en la jurisdicción de origen.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Recurso Queja Nº 1 - ASOCIACION DEL FUTBOL ARGENTINO c/ INSPECCION GENERAL DE JUSTICIA s/RECURSO DIRECTO A CAMARA",
+  "identificador_legal": "CIV 019728/2026/1/RH002",
+  "id_legal_norm": "CIV 19728/2026",
+  "holding": "El Tribunal determinó que el procedimiento de cambio de domicilio exige la cancelación registral previa en la jurisdicción de origen aprobada por el órgano de control. Mientras dicha cancelación no se concrete, la entidad permanece bajo la fiscalización del organismo original, sin que exista superposición temporal ni desplazamiento automático de competencias hacia la nueva jurisdicción.",
+  "puntos_clave": [
+   "El cambio de domicilio social requiere la cancelación registral en la jurisdicción de origen previo cumplimiento de recaudos normativos.",
+   "La IGJ conserva sus facultades de fiscalización hasta que se complete efectivamente el trámite de traslado y cancelación.",
+   "Se dejó sin efecto la sentencia de cámara por incurrir en defectos graves de fundamentación al considerar falazmente desplazada la competencia."
+  ],
+  "impacto_practico": "Permite a los organismos de control de origen mantener su órbita fiscalizadora sobre entidades hasta tanto se perfeccione de manera íntegra y formal el cambio de jurisdicción mediante la cancelación registral correspondiente.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "igj",
+   "afa",
+   "domicilio social",
+   "fiscalización",
+   "competencia"
+  ],
+  "cita_sugerida": "CSJN, Recurso Queja Nº 1 - ASOCIACION DEL FUTBOL ARGENTINO c/ INSPECCION GENERAL DE JUSTICIA s/RECURSO DIRECTO A CAMARA, CIV 019728/2026/1/RH002",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la cancelación de la inscripción en la jurisdicción de origen era requisito necesario para la culminación del trámite",
+   "la IGJ conserva aún las facultades de fiscalización que la ley prevé sobre la AFA"
+  ],
+  "extracto_oficial": "La cámara declaró la nulidad de una resolución de la Inspección General de Justicia (IGJ) y tuvo por cancelada la inscripción de la asociación civil “Asociación del Fútbol Argentino” (AFA) en el Registro Público a cargo de aquella entidad. Declaró también la nulidad de la resolución del Ministerio de Justicia de la Nación por la cual dispuso la intervención de la AFA en grado de veeduría por el plazo de 180 días hábiles. La Inspección General de Justicia y el Estado Nacional interpusieron recursos extraordinarios y la Corte dejó sin efecto la sentencia recurrida por incurrir en defectos de fun",
+  "oficial": {
+   "materia_oficial": "CIVIL",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8355841"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:54:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b7413891905d",
+  "url_hash": "b7413891905da3384636054a4016681849ce971241ed7ea4c3ad0569b1b703ac",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835011",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CSJN: improcedencia de alterar el fondo de la sentencia mediante vía de aclaratoria",
+  "titulo_original": "Aclaratoria que altera lo ya resuelto: pérdida de jurisdicción del tribunal",
+  "bajada": "La Corte Suprema dejó sin efecto una resolución aclaratoria que modificó sustancialmente la condena inicial, recordando que dicha vía no puede utilizarse para alterar lo ya resuelto.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Recurso Queja Nº 1 - CALVI, ALEJANDRO JAVIER c/ AGROFINA S.A. s/DIFERENCIAS DE SALARIOS",
+  "identificador_legal": "CNT 030163/2019/1/RH001",
+  "id_legal_norm": "CNT 30163/2019",
+  "holding": "La Corte Suprema resolvió que la cámara desnaturalizó la vía de la aclaratoria al modificar sustancialmente el monto de la condena bajo el pretexto de un error previo, alterando lo ya decidido y privando de sustento al pronunciamiento. Asimismo, respecto a la aplicación de actas de la CNAT sobre intereses, remitió al criterio fijado en el precedente 'Oliva'.",
+  "puntos_clave": [
+   "La aclaratoria no puede ser utilizada para alterar sustancialmente una decisión anterior del tribunal.",
+   "Modificar el fondo de lo resuelto mediante una aclaratoria priva de sustento legal a la resolución.",
+   "Se ratifica la doctrina del precedente 'Oliva' (Fallos: 347:100) en materia de intereses y actas de la CNAT."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar aquellas resoluciones aclaratorias que excedan su objeto procesal legítimo y alteren el contenido principal de una sentencia firme.",
+  "normas_citadas": [
+   "Fallos: 347:100"
+  ],
+  "etiquetas": [
+   "aclaratoria",
+   "procedimiento laboral",
+   "diferencias de salarios",
+   "intereses"
+  ],
+  "cita_sugerida": "CSJN, Recurso Queja Nº 1 - CALVI, ALEJANDRO JAVIER c/ AGROFINA S.A. s/DIFERENCIAS DE SALARIOS, CNT 030163/2019/1/RH001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "no cumplió con el propósito propio de esta vía",
+   "la había alterado sustancialmente",
+   "encontraban adecuada respuesta en el pronunciamiento dictado en la causa Oliva"
+  ],
+  "extracto_oficial": "La cámara decidió, en su sentencia de fondo, modificar el monto de la diferencia salarial mensual fijado en la anterior instancia y computar los períodos que se siguieran devengando hasta el dictado de la sentencia, debido a que la actora en su escrito de demanda se había reservado ese derecho y la demandada no se había opuesto a ello al momento de la contestación. Sin embargo, frente al pedido de aclaratoria de la demandada decidió luego reducir el monto de condena, en razón de que no había advertido que en la contestación de demanda la accionada se había opuesto a la reserva de ampliar las d",
+  "oficial": {
+   "materia_oficial": "PROCESAL - LABORAL",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8350111"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:52:44+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9f42de50f356",
+  "url_hash": "9f42de50f356f9df9f4c5f572a3b0f48738293e00ea5efd7ae30c38271568519",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835348",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Inconstitucionalidad de decreto provincial y derecho público local ante la CSJN",
+  "titulo_original": "Planteo de inconstitucionalidad de decreto provincial: cuestión regida por el derecho público local",
+  "bajada": "La Corte Suprema desestimó un recurso extraordinario contra una sentencia que rechazó un amparo sobre caza deportiva con jauría por tratarse de cuestiones de derecho público local.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "MINISTERIO PUBLICO DE LA DEFENSA c/ PROVINCIA DE LA PAMPA s/amparo",
+  "identificador_legal": "CSJ 001955/2023/RH001",
+  "id_legal_norm": "CSJ 1955/2023",
+  "holding": "La Corte Suprema resolvió desestimar el recurso extraordinario interpuesto por considerar que los agravios referidos a la inconstitucionalidad de normas provinciales sobre caza deportiva con jauría remiten al examen de cuestiones de derecho público local y no configuran un supuesto de arbitrariedad ni una cuestión federal directa e inmediata conforme el artículo 15 de la ley 48.",
+  "puntos_clave": [
+   "La impugnación de normas provinciales reglamentarias en materia de caza deportiva pertenece al ámbito del derecho público local.",
+   "La genérica invocación de derechos constitucionales y ambientales no habilita por sí misma la instancia extraordinaria federal.",
+   "Se requiere que la cuestión federal tenga una relación directa e inmediata con la materia litigiosa según el artículo 15 de la ley 48."
+  ],
+  "impacto_practico": "Reitera los límites de la competencia de la CSJN frente a litigios fundados en normativa provincial y la insuficiencia de invocaciones constitucionales genéricas para habilitar la vía extraordinaria.",
+  "normas_citadas": [
+   "art. 26 del decreto 2218/94",
+   "ley 1194",
+   "artículo 15 de la ley 48"
+  ],
+  "etiquetas": [
+   "derecho público local",
+   "recurso extraordinario",
+   "caza deportiva",
+   "derecho ambiental"
+  ],
+  "cita_sugerida": "CSJN, CSJ 001955/2023/RH001, MINISTERIO PUBLICO DE LA DEFENSA c/ PROVINCIA DE LA PAMPA s/amparo",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "los agravios remitían al examen de cuestiones regidas por el derecho público local",
+   "la genérica invocación de derechos constitucionales —a la preservación de la diversidad biológica",
+   "el artículo 15 de la ley 48 demanda que la cuestión federal tenga relación directa"
+  ],
+  "extracto_oficial": "El superior tribunal provincial rechazó la acción de amparo deducida por la representante del Ministerio Público de la Defensa con el objeto de que se declare la inconstitucionalidad del artículo 26 del decreto 2218/94, reglamentario de la ley 1194 -ambos de la Provincia de La Pampa- en cuanto habilita la caza deportiva con jauría, y de las disposiciones dictadas a partir de aquel precepto. La actora interpuso un recurso extraordinario que fue desestimado por la Corte por entender que los agravios remitían al examen de cuestiones regidas por el derecho público local, con relación a las cuales ",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - CONSTITUCIONAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8353481"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:53:23+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "961d01a45d1c",
+  "url_hash": "961d01a45d1c5e93064057b79d510f15857da448c04f79542ea74b1d462b4420",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835355",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CSJN: rechazo de acción por falta de legitimación de cámara empresarial para defender derechos individuales",
+  "titulo_original": "Legitimación procesal: inexistencia de norma que habilite a una persona jurídica a defender derechos puramente individuales",
+  "bajada": "La Corte Suprema desestimó la demanda promovida por una cámara empresaria al concluir que su estatuto no la habilitaba a defender en juicio derechos puramente individuales de sus asociados.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "CAMARA ARGENTINA DE LA ENERGIA c/ CORDOBA, PROVINCIA DE Y OTRO s/ACCION DECLARATIVA DE INCONSTITUCIONALIDAD - (EXPEDIENTE DIGITAL)",
+  "identificador_legal": "CSJ 302/2021",
+  "id_legal_norm": "CSJ 302/2021",
+  "holding": "La Corte Suprema resolvió que las asociaciones y personas jurídicas carecen de legitimación procesal para demandar en defensa de derechos puramente individuales de sus miembros si no existe una norma expresa que las habilite o un acto válido de apoderamiento, y tampoco se configuran los recaudos de la acción de clase establecidos en el precedente Halabi.",
+  "puntos_clave": [
+   "Las personas jurídicas son sujetos distintos de sus socios y su objeto social delimita su capacidad para representar intereses en juicio.",
+   "No procede una acción por derechos individuales homogéneos si no se demuestra la afectación al acceso a la justicia que justifique prescindir de litigios individuales.",
+   "La adhesión individual prestada en reuniones de comisión directiva no convalida la representación procesal omitida."
+  ],
+  "impacto_practico": "Obliga a las asociaciones y cámaras empresariales a verificar estrictamente sus estatutos y los requisitos de legitimación colectiva antes de iniciar acciones judiciales en representación de sus asociados.",
+  "normas_citadas": [
+   "Ley 10.721",
+   "Ley 14.010"
+  ],
+  "etiquetas": [
+   "legitimación procesal",
+   "acción declarativa de inconstitucionalid",
+   "derechos individuales homogéneos",
+   "competencia originaria"
+  ],
+  "cita_sugerida": "CSJN, CSJ 302/2021, 'CAMARA ARGENTINA DE LA ENERGIA c/ CORDOBA, PROVINCIA DE Y OTRO s/ACCION DECLARATIVA DE INCONSTITUCIONALIDAD'",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "el estatuto social de la actora no le otorgaba legitimación procesal para defender en juicio los derechos o intereses individuales de sus asociados",
+   "no existía una previsión normativa que habilitara a la actora a defender derechos puramente individuales de sus integrantes",
+   "la ausencia de las condiciones exigidas no podía verse salvada por la adhesión individual prestada por empresas del sector"
+  ],
+  "extracto_oficial": "La Cámara Argentina de la Energía Asociación Civil (CADE) promovió demanda contra la Provincia de Córdoba a fin de que se decrete la inconstitucionalidad de la ley 10.721 -en su totalidad, o, en subsidio, de los artículos 2°, incisos a, n y q, a 7°, normas concordantes y reglamentarias que se dicten en su consecuencia- y la Provincia de Santa Fe para que se declare la inconstitucionalidad de la ley 14.010 -en su totalidad, o, en subsidio, de los artículos 1° a 7°, 10° y 11, normas concordantes y reglamentarias-. Expresó que, a través de la normativa impugnada, se crean programas provinciales t",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - PROCESAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8353551"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:51:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3f52b9275087",
+  "url_hash": "3f52b9275087a47dc002f5b904162df717e25dabe9b664117960be6d142b1efc",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835059",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CSJN: Caducidad de instancia y alcance de la inhabilitación del art. 12 del Código Penal",
+  "titulo_original": "Caducidad de instancia: capacidad de las personas recluidas en virtud del artículo 12 del Código Penal",
+  "bajada": "La Corte dejó sin efecto una sentencia que declaró la caducidad de instancia sin tratar los efectos de la inhabilitación absoluta del condenado a prisión sobre la actuación por derecho propio en causas patrimoniales.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Recurso Queja Nº 1 - MARTOS MARIO FABIAN Y OTROS c/ EMPRESA SAN JOSE SA Y OTRO s/DAÑOS Y PERJUICIOS(ACC.TRAN. C/LES. O MUERTE)",
+  "identificador_legal": "CIV 041610/2007/1/RH001",
+  "id_legal_norm": "CIV 41610/2007",
+  "holding": "La CSJN revocó el fallo que declaró la caducidad de instancia porque la cámara omitió tratar debidamente los efectos de la inhabilitación absoluta prevista en el artículo 12 del Código Penal sobre la actuación por derecho propio del actor privado de su libertad, afectando la garantía de defensa en juicio al incurrir en fundamentación dogmática.",
+  "puntos_clave": [
+   "Se cuestiona la declaración de caducidad de instancia frente a un actor privado de su libertad con condena superior a tres años.",
+   "El tribunal omitió analizar el alcance de la inhabilitación absoluta del artículo 12 del Código Penal sobre intereses patrimoniales.",
+   "La falta de tratamiento de argumentos conducentes y la ausencia de curador afectan la defensa en juicio y el debido proceso."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar la declaración de caducidad de instancia en procesos civiles cuando la inactividad procesal coincide con el período de privación de libertad del actor condenado a prisión por más de tres años y sin curador designado.",
+  "normas_citadas": [
+   "art. 12 del Código Penal"
+  ],
+  "etiquetas": [
+   "caducidad de instancia",
+   "inhabilitación absoluta",
+   "defensa en juicio",
+   "derecho de propiedad"
+  ],
+  "cita_sugerida": "CSJN, Recurso Queja Nº 1 - MARTOS MARIO FABIAN Y OTROS c/ EMPRESA SAN JOSE SA Y OTRO s/DAÑOS Y PERJUICIOS(ACC.TRAN. C/LES. O MUERTE), CIV 041610/2007/1/RH001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte dejó sin efecto la sentencia recurrida por afectar la garantía de defensa en juicio",
+   "se pronunciara sobre el alcance de la inhabilitación absoluta de los condenados a prisión",
+   "no obstante que no se le había designado un curador"
+  ],
+  "extracto_oficial": "La cámara confirmó la sentencia que, en el marco de una demanda por daños y perjuicios derivados de un accidente de tránsito, había declarado operada la caducidad de instancia acusada por los demandados. El actor interpuso recurso extraordinario donde señaló que él actuaba por derecho propio y que durante el período de inactividad considerado por el tribunal se encontraba inhabilitado civilmente en virtud de hallarse privado de su libertad a raíz de una condena en sede penal, por lo que el procedimiento debería considerarse suspendido en razón de lo dispuesto en el artículo 12 del Código Penal",
+  "oficial": {
+   "materia_oficial": "PROCESAL - CIVIL",
+   "relevancia": 3,
+   "sentencia_arbitraria": true,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8350591"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:51:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "0a547c40c5ec",
+  "url_hash": "0a547c40c5ec81a6dc25f2ffd09b68be5308f0f5bbd4293e720d8676f7238359",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835371",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Delitos de lesa humanidad: necesidad de refutar todos los argumentos de la sentencia apelada",
+  "titulo_original": "Delitos de lesa humanidad: necesidad de refutar todos los argumentos de la sentencia apelada",
+  "bajada": "La Corte Suprema declaró mal concedido un recurso extraordinario al advertir que la defensa omitió refutar la totalidad de los elementos probatorios y argumentos que sustentaban la condena.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Incidente Nº 19 - QUERELLANTE: LOPEZ TOME, NORA - CABEZA DE UNIFICACION Y OTROS IMPUTADO: MÛLLER, PEDRO Y OTROS s/INCIDENTE DE RECURSO EXTRAORDINARIO",
+  "identificador_legal": "FSM 027004012/2003/TO04/19/CS001",
+  "id_legal_norm": "FSM 027004012/2003/TO04/19/CS001",
+  "holding": "El Tribunal determinó por mayoría que la admisibilidad de un recurso extraordinario basado en la presunción de inocencia exige que los agravios concreten una refutación de todos y cada uno de los elementos probatorios e indicios tenidos en cuenta en la sentencia recurrida para fundar la participación dolosa del imputado, resultando insuficiente la alegación genérica de un castigo vicario sin desvirtuar las conductas concretas acreditadas.",
+  "puntos_clave": [
+   "Es inadmisible el recurso extraordinario que no rebate la totalidad de los fundamentos y pruebas de la sentencia impugnada.",
+   "La alegación de violación a la presunción de inocencia requiere impugnar los elementos que convalidaron la participación personal.",
+   "El voto en disidencia advirtió sobre la exigencia de certeza positiva y la insuficiencia de meras suposiciones para fundar una condena penal."
+  ],
+  "impacto_practico": "Obliga a los recurrentes en instancia extraordinaria a realizar una crítica razonada y concreta que abarque todos los pilares argumentativos y probatorios del fallo condenatorio, bajo pena de inadmisibilidad.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "recurso extraordinario",
+   "lesa humanidad",
+   "participación criminal",
+   "presunción de inocencia",
+   "carga argumentativa"
+  ],
+  "cita_sugerida": "CSJN, FSM 027004012/2003/TO04/19/CS001, Incidente Nº 19 - QUERELLANTE: LOPEZ TOME, NORA s/INCIDENTE DE RECURSO EXTRAORDINARIO.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "los planteos del recurrente omitían refutar las pruebas que tuvo en cuenta la sentencia recurrida",
+   "la admisibilidad de esa cuestión exigía que rebatiera todos y cada uno de los elementos en que se fundaba la sentencia"
+  ],
+  "extracto_oficial": "El tribunal oral condenó al recurrente como partícipe necesario de las privaciones ilegítimas de la libertad agravadas y de los tormentos agravados de trabajadores vinculados a una empresa cuando él se desempeñaba como su gerente de manufactura y calificó estos delitos como crímenes de lesa humanidad. La cámara de casación rechazó el recurso intentado por la defensa y ello derivó en la interposición de un recurso extraordinario. La Corte, por mayoría, lo declaró mal concedido por no rebatir la motivación de la sentencia impugnada. Consideró que la cámara concedió el recurso en cuanto allí se h",
+  "oficial": {
+   "materia_oficial": "DERECHOS HUMANOS - PENAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8353711"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:53:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "01ee591c0007",
+  "url_hash": "01ee591c0007c890c87ae0c1c1231601d0cc17dc0bd7e168632b3f6050f1ab50",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=835363",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "La Corte Suprema aplica la Ley de Modernización Laboral en materia de actualización de créditos",
+  "titulo_original": "Ajuste de créditos en causas laborales - Ley de Modernización Laboral",
+  "bajada": "El Máximo Tribunal dejó sin efecto una sentencia de cámara aplicando la ley 27.802 sobre ajuste de créditos laborales sin sentencia firme.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "CABANA OPANASIUK, LEONARDO c/ UNIR SA Y OTROS s/DESPIDO",
+  "identificador_legal": "CNT 027766/2020/CS001",
+  "id_legal_norm": "CNT 27766/2020",
+  "holding": "La Corte Suprema resolvió que deben aplicarse las directivas de la ley 27.802 y su artículo 55 a las causas laborales sin sentencia definitiva firme sobrevinientes al recurso, dejando sin efecto el fallo recurrido y ordenando un nuevo pronunciamiento conforme a la normativa vigente.",
+  "puntos_clave": [
+   "La CSJN recordó que sus fallos deben contemplar circunstancias sobrevinientes y nuevas normas dictadas durante el proceso.",
+   "Se consideró la operatividad del artículo 55 de la ley 27.802 respecto al ajuste de créditos laborales.",
+   "Se dejó sin efecto la sentencia anterior y se devolvieron las actuaciones al tribunal de origen para un nuevo pronunciamiento."
+  ],
+  "impacto_practico": "Permite a los litigantes y tribunales inferiores aplicar los criterios de actualización de la ley 27.802 en causas laborales sin sentencia firme.",
+  "normas_citadas": [
+   "Ley 23.928",
+   "Ley 25.561",
+   "Ley 27.802",
+   "artículo 55"
+  ],
+  "etiquetas": [
+   "créditos laborales",
+   "actualización monetaria",
+   "ley de modernización laboral",
+   "recurso extraordinario"
+  ],
+  "cita_sugerida": "CSJN, CABANA OPANASIUK, LEONARDO c/ UNIR SA Y OTROS s/DESPIDO, CNT 027766/2020/CS001",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Consideró entonces la aplicación de las directivas fijadas en la ley 27.802",
+   "dejó sin efecto las decisiones recurridas y dispuso la devolución de las actuaciones"
+  ],
+  "extracto_oficial": "La cámara declaró la inconstitucionalidad de las leyes 23.928 y 25.561 en cuanto prohíben la actualización monetaria, por variación de costos o por cualquier otra forma de repotenciación de las deudas y determinó que los créditos laborales implicados deberían reajustarse por aplicación del Índice de Precios al Consumidor más un interés del tres por ciento (3%) anual. Las demandadas dedujeron recursos extraordinarios y la Corte declaró inoficioso pronunciarse. Recordó que sus sentencias deben ceñirse a las circunstancias existentes al momento de la decisión aunque ellas sean sobrevinientes a la",
+  "oficial": {
+   "materia_oficial": "PROCESAL - LABORAL",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8353631"
+  },
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:55:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ }
+]

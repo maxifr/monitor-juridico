@@ -1,0 +1,254 @@
+{
+ "csjn": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:20+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:41:20+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:20+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 6.2
+ },
+ "csjn_noticias": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:22+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:41:22+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:22+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 2.3
+ },
+ "infoleg": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:24+00:00",
+    "ok": true,
+    "n": 6
+   }
+  ],
+  "ultima": "2026-11-26T01:41:24+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:24+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 2.0
+ },
+ "bora": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:26+00:00",
+    "ok": true,
+    "n": 80
+   }
+  ],
+  "ultima": "2026-11-26T01:41:26+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:26+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.8
+ },
+ "saij": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:28+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:41:28+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:28+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.9
+ },
+ "saij_tdf": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:31+00:00",
+    "ok": true,
+    "n": 9
+   }
+  ],
+  "ultima": "2026-11-26T01:41:31+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:31+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 3.3
+ },
+ "saij_boletin": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:33+00:00",
+    "ok": true,
+    "n": 86
+   }
+  ],
+  "ultima": "2026-11-26T01:41:33+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:33+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 2.2
+ },
+ "mpf": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:41:35+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:41:35+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:41:35+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.7
+ },
+ "mpd": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:43:12+00:00",
+    "ok": false,
+    "n": 0
+   }
+  ],
+  "ultima": "2026-11-26T01:43:12+00:00",
+  "ultimo_estado": "error",
+  "fallas_consecutivas": 1,
+  "ultimo_error": "ErrorHTTP: No se pudo obtener https://www.mpd.gov.ar/index.php/noticias-h: timed out",
+  "duracion_s": 97.7
+ },
+ "pj_tdf": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:50+00:00",
+    "ok": false,
+    "n": 0
+   }
+  ],
+  "ultima": "2026-11-26T01:44:50+00:00",
+  "ultimo_estado": "error",
+  "fallas_consecutivas": 1,
+  "ultimo_error": "ErrorHTTP: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out",
+  "duracion_s": 98.1
+ },
+ "justicia_ar": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:54+00:00",
+    "ok": true,
+    "n": 8
+   }
+  ],
+  "ultima": "2026-11-26T01:44:54+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:44:54+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 3.8
+ },
+ "ijudicial": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:56+00:00",
+    "ok": true,
+    "n": 10
+   }
+  ],
+  "ultima": "2026-11-26T01:44:56+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:44:56+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.3
+ },
+ "palabras_derecho": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:56+00:00",
+    "ok": true,
+    "n": 18
+   }
+  ],
+  "ultima": "2026-11-26T01:44:56+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:44:56+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 0.7
+ },
+ "pensamiento_penal": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:57+00:00",
+    "ok": true,
+    "n": 10
+   }
+  ],
+  "ultima": "2026-11-26T01:44:57+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:44:57+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 0.6
+ },
+ "app": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:44:58+00:00",
+    "ok": true,
+    "n": 10
+   }
+  ],
+  "ultima": "2026-11-26T01:44:58+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:44:58+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.2
+ },
+ "aldia": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:45:00+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:45:00+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:45:00+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 1.6
+ },
+ "diario_judicial": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:45:00+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:45:00+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:45:00+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 0.5
+ },
+ "infobae": {
+  "historial": [
+   {
+    "f": "2026-11-26T01:45:01+00:00",
+    "ok": true,
+    "n": 20
+   }
+  ],
+  "ultima": "2026-11-26T01:45:01+00:00",
+  "ultimo_estado": "ok",
+  "ultimo_ok": "2026-11-26T01:45:01+00:00",
+  "fallas_consecutivas": 0,
+  "duracion_s": 0.6
+ }
+}

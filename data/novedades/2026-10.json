@@ -1,0 +1,115 @@
+[
+ {
+  "id": "8ba59aaa771c",
+  "url_hash": "8ba59aaa771c7865d9ecd0237e0830ae11a531152f7fce64868eaeeba7df4292",
+  "fuente": "csjn_noticias",
+  "fuente_nombre": "CSJN — Noticias institucionales",
+  "url": "https://www.csjn.gov.ar/novedades/detalle/15442",
+  "prioridad": 98,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "La Corte Suprema puso en marcha la interoperabilidad del Bus Federal de Justicia",
+  "titulo_original": "La Corte dio un nuevo paso en la digitalización federal",
+  "bajada": "La Corte Suprema de Justicia de la Nación integró su sistema LEX100 al Bus Federal de Justicia para permitir el intercambio digital de oficios y expedientes.",
+  "tipo": "Noticia",
+  "materia": "Institucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Corte Suprema de Justicia de la Nación implementó la interoperabilidad del Bus Federal de Justicia en su Mesa de Entradas Judicial, conectando el sistema LEX100 para formalizar el envío y recepción de oficios, recursos, conflictos de competencia y expedientes electrónicos con otros poderes judiciales.",
+  "puntos_clave": [
+   "Se integró el sistema LEX100 de la Corte con el Bus Federal de Justicia en su Mesa de Entradas Judicial.",
+   "Permite el envío y recepción digital de recursos, conflictos de competencia y oficios con otros poderes judiciales.",
+   "Todo el intercambio documental cuenta con firma digital, trazabilidad en tiempo real y validez formal."
+  ],
+  "impacto_practico": "Facilita a los litigantes y tribunales la tramitación electrónica y segura de recursos extraordinarios, oficios y conflictos de competencia con la Corte Suprema, eliminando el soporte papel.",
+  "normas_citadas": [
+   "Ley 22.172"
+  ],
+  "etiquetas": [
+   "bus federal de justicia",
+   "lex100",
+   "digitalizacion",
+   "oficios electronicos",
+   "mesa de entradas"
+  ],
+  "cita_sugerida": "CSJN, Implementación del Bus Federal de Justicia en la Mesa de Entradas Judicial, 30/10/2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-10-30T03:00:00+00:00",
+  "ingresado": "2026-11-26T01:58:40+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "02e2bd843d6a",
+  "url_hash": "02e2bd843d6ac3a864639604f3e15ba135fa887e869cac71397e51d759165267",
+  "fuente": "csjn",
+  "fuente_nombre": "CSJN — Secretaría de Jurisprudencia",
+  "url": "https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html?id=834955",
+  "prioridad": 100,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Competencia de la justicia provincial en apremios municipales por gravámenes locales",
+  "titulo_original": "La justicia provincial debe entender en las causas promovidas por los municipios por cobro de gravámenes",
+  "bajada": "La Corte Suprema determinó que corresponde a la justicia provincial entender en las demandas de apremio promovidas por municipios por cobro de gravámenes.",
+  "tipo": "Fallo",
+  "materia": "Tributario",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "MUNICIPALIDAD DE AVELLANEDA c/ TELECOM DE ARGENTINA SOCIEDAD ANONIMA s/APREMIO",
+  "identificador_legal": "CSJ 001200/2024/RH001",
+  "id_legal_norm": "CSJ 1200/2024",
+  "holding": "La Corte confirmó la sentencia que declaró la competencia de la justicia provincial al señalar que el reclamo de gravámenes municipales fundado en su legislación no justifica la intervención del fuero federal, garantizando de este modo el respeto por el sistema federal y las autonomías provinciales.",
+  "puntos_clave": [
+   "Las cuestiones de competencia no habilitan por regla la instancia extraordinaria, salvo cuando media denegación del fuero federal.",
+   "La competencia federal requiere que el derecho se funde directa e inmediatamente en la Constitución Nacional, leyes federales o tratados.",
+   "La recaudación de rentas y el cobro de gravámenes por un municipio corresponden a su derecho público local y deben tramitar ante la justicia provincial."
+  ],
+  "impacto_practico": "Permite delimitar claramente la competencia judicial en ejecuciones fiscales municipales, reafirmando que los litigios sobre tributos locales corresponden a los magistrados provinciales en resguardo de las autonomías locales.",
+  "normas_citadas": [
+   "artículo 14 de la ley 48"
+  ],
+  "etiquetas": [
+   "competencia federal",
+   "derecho público local",
+   "apremio municipal",
+   "autonomía provincial"
+  ],
+  "cita_sugerida": "CSJN, CSJ 001200/2024/RH001, MUNICIPALIDAD DE AVELLANEDA c/ TELECOM DE ARGENTINA SOCIEDAD ANONIMA s/APREMIO",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "la recaudación de sus rentas es una función que sólo le incumbe al Estado local",
+   "el respeto del sistema federal y de las autonomías provinciales",
+   "no corresponde que el fuero federal asuma la competencia en una causa promovida por un municipio por cobro de gravámenes"
+  ],
+  "extracto_oficial": "El superior tribunal provincial admitió el recurso de inaplicabilidad de ley interpuesto por la municipalidad —que había iniciado una demanda de apremio—, revocó la sentencia de la instancia anterior y declaró la competencia de la justicia provincial para conocer en la causa. La empresa demandada dedujo recurso extraordinario y la Corte confirmó esta sentencia. En primer lugar aclaró que, si bien las cuestiones de competencia no habilitan la instancia del artículo 14 de la ley 48, por no estar satisfecho el recaudo de sentencia definitiva, tal regla admite excepción en los asuntos en los cuale",
+  "oficial": {
+   "materia_oficial": "ADMINISTRATIVO - COMPETENCIA - TRIBUTARIO/ADUANERO",
+   "relevancia": 3,
+   "url_fallo": "https://sjconsulta.csjn.gov.ar/sjconsulta/documentos/verDocumentoByIdLinksJSP.html?idDocumento=8349551"
+  },
+  "fecha": "2026-10-29T15:00:00+00:00",
+  "ingresado": "2026-11-26T01:55:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ }
+]

@@ -1,0 +1,55 @@
+[
+ {
+  "id": "792dbe120e1d",
+  "url_hash": "792dbe120e1dffa7d321ae5fe333810afd90e593a9abd84f3b213547875ae512",
+  "fuente": "saij_tdf",
+  "fuente_nombre": "SAIJ — Jurisprudencia de Tierra del Fuego",
+  "url": "https://www.saij.gob.ar/superior-tribunal-justicia-local-tierra-fuego-bianchini-isaias-santiago-lesiones-leves-agravadas-fa26350001-2026-05-13/123456789-100-0536-2ots-eupmocsollaf",
+  "prioridad": 94,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Procedencia de la reparación integral en violencia de género",
+  "titulo_original": "Superior Tribunal De Justicia (TDF): Bianchini Isaias Santiago s/ Lesiones Leves Agravadas",
+  "bajada": "El STJ de Tierra del Fuego admitió el recurso de casación contra la negativa a extinguir la acción penal por reparación integral en un caso de violencia de género.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Tierra del Fuego",
+  "tribunal": "Superior Tribunal De Justicia — Tierra del Fuego",
+  "caratula": "Bianchini Isaias Santiago s/ Lesiones Leves Agravadas",
+  "identificador_legal": "26350001",
+  "id_legal_norm": "26350001",
+  "holding": "El Superior Tribunal de Justicia estableció que la reparación integral del perjuicio resulta jurídicamente viable en casos de violencia de género siempre que exista evaluación especializada previa y consentimiento libre e informado de la víctima, cuya voluntad no debe ser negada sistemáticamente.",
+  "puntos_clave": [
+   "Se admite el recurso de casación interpuesto por la defensa del encartado.",
+   "La reparación integral en violencia de género requiere evaluación especializada y consentimiento informado.",
+   "La negativa sistemática a respetar la voluntad libre de la víctima vulnera sus derechos."
+  ],
+  "impacto_practico": "Permite a los defensores solicitar la extinción de la acción penal por reparación integral en contextos de violencia de género cuando se acredite el consentimiento válido de la víctima y el informe técnico correspondiente.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "reparación integral",
+   "violencia de género",
+   "extinción de la acción penal",
+   "casación"
+  ],
+  "cita_sugerida": "STJ Tierra del Fuego, Bianchini Isaias Santiago s/ Lesiones Leves Agravadas, 13/05/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La aplicación de la reparación integral del perjuicio en casos de violencia de género resulta jurídicamente viable",
+   "Corresponde admitir el recurso de casación interpuesto por la defensa del encartado"
+  ],
+  "extracto_oficial": "La aplicación de la reparación integral del perjuicio en casos de violencia de género resulta jurídicamente viable cuando se acredite fehacientemente la evaluación especializada previa del caso, el consentimiento libre, voluntario e informado de la...",
+  "oficial": {},
+  "fecha": "2026-05-13T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:09:54+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ }
+]

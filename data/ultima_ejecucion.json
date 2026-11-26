@@ -1,0 +1,163 @@
+{
+ "inicio": "2026-11-26T01:41:13+00:00",
+ "fin": "2026-11-26T02:11:47+00:00",
+ "duracion_s": 1833.7,
+ "modelo": "gemini-3.5-flash-lite",
+ "candidatos": 377,
+ "ya_vistos": 0,
+ "prefiltrados": 75,
+ "antiguos": 28,
+ "descartados_triage": 52,
+ "curados": 60,
+ "descartados_ia": 5,
+ "cuarentena": 0,
+ "publicados": 45,
+ "fusionados": 10,
+ "pendientes": 162,
+ "sin_cuota": false,
+ "por_fuente": {
+  "csjn": {
+   "candidatos": 20,
+   "nuevos": 20,
+   "ok": true
+  },
+  "csjn_noticias": {
+   "candidatos": 20,
+   "nuevos": 19,
+   "ok": true
+  },
+  "infoleg": {
+   "candidatos": 6,
+   "nuevos": 6,
+   "ok": true
+  },
+  "bora": {
+   "candidatos": 80,
+   "nuevos": 13,
+   "ok": true
+  },
+  "saij": {
+   "candidatos": 20,
+   "nuevos": 20,
+   "ok": true
+  },
+  "saij_tdf": {
+   "candidatos": 9,
+   "nuevos": 2,
+   "ok": true
+  },
+  "saij_boletin": {
+   "candidatos": 86,
+   "nuevos": 86,
+   "ok": true
+  },
+  "mpf": {
+   "candidatos": 20,
+   "nuevos": 17,
+   "ok": true
+  },
+  "mpd": {
+   "candidatos": 0,
+   "nuevos": 0,
+   "ok": false,
+   "error": "ErrorHTTP: No se pudo obtener https://www.mpd.gov.ar/index.php/noticias-h: timed out"
+  },
+  "pj_tdf": {
+   "candidatos": 0,
+   "nuevos": 0,
+   "ok": false,
+   "error": "ErrorHTTP: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out"
+  },
+  "justicia_ar": {
+   "candidatos": 8,
+   "nuevos": 8,
+   "ok": true
+  },
+  "ijudicial": {
+   "candidatos": 10,
+   "nuevos": 3,
+   "ok": true
+  },
+  "palabras_derecho": {
+   "candidatos": 18,
+   "nuevos": 18,
+   "ok": true
+  },
+  "pensamiento_penal": {
+   "candidatos": 10,
+   "nuevos": 10,
+   "ok": true
+  },
+  "app": {
+   "candidatos": 10,
+   "nuevos": 0,
+   "ok": true
+  },
+  "aldia": {
+   "candidatos": 20,
+   "nuevos": 20,
+   "ok": true
+  },
+  "diario_judicial": {
+   "candidatos": 20,
+   "nuevos": 20,
+   "ok": true
+  },
+  "infobae": {
+   "candidatos": 20,
+   "nuevos": 20,
+   "ok": true
+  }
+ },
+ "errores": [
+  "mpd: No se pudo obtener https://www.mpd.gov.ar/index.php/noticias-h: timed out",
+  "pj_tdf: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out"
+ ],
+ "nuevas": [
+  "00dcf985e7bf",
+  "a85718f6d73a",
+  "e3b4a96d711f",
+  "550a24853868",
+  "51273499562a",
+  "60cd6a9c730a",
+  "ba713c7c3bd8",
+  "4d1e40931d2c",
+  "57f3ea4c8ac0",
+  "e5ab595d597d",
+  "961d01a45d1c",
+  "3f52b9275087",
+  "f6b3064e3193",
+  "b7413891905d",
+  "9f42de50f356",
+  "0a547c40c5ec",
+  "c87fb490acbd",
+  "caf52672f7e7",
+  "01ee591c0007",
+  "02e2bd843d6a",
+  "9c169584316a",
+  "34cd5b9399e1",
+  "35ebe7cec039",
+  "8ba59aaa771c",
+  "5ff55701d625",
+  "caed52fda580",
+  "72f03253d43d",
+  "5bd6f2cb07d6",
+  "2ddfb6d424a9",
+  "d2f300507196",
+  "d2f967857388",
+  "f9b508faa430",
+  "3fc1bc390b62",
+  "a79a374c116d",
+  "3fa8cf5ac77a",
+  "9e6646ea7a23",
+  "93c24c4cb66d",
+  "5649e2aa9ce6",
+  "9d8f024a8139",
+  "b79cce7a417f",
+  "890010d1e28b",
+  "792dbe120e1d",
+  "7479a08cd52c",
+  "1fd03d8f117d",
+  "cd30c90e1b85"
+ ]
+}

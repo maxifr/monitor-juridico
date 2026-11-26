@@ -1,0 +1,449 @@
+[
+ {
+  "id": "a79a374c116d",
+  "url_hash": "a79a374c116df05effbb46b34632b7a13d8aabca8e0bbb10e0da19d474b7e2cc",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/27825-nacional-aprobacion-tratado-relativo-transmision-electronica-solicitudes-cooperacion-juridica-internacional-entre-autoridades-centrales-celebrado-ciudad-medellin-lnt0007883-2026-08-27/123456789-0abc-defg-g38-87000tcanyel",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Aprobación del Tratado de Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional",
+  "titulo_original": "LEY 27.825: Aprobación del Tratado Relativo a la Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional entre Autoridades Centrales, celebrado en la ciudad de Medellín",
+  "bajada": "Se aprueba el tratado internacional celebrado en Medellín para agilizar la cooperación jurídica mediante plataformas electrónicas.",
+  "tipo": "Norma",
+  "materia": "Penal",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27825",
+  "id_legal_norm": "LEY 27825",
+  "holding": "El Congreso de la Nación sancionó la Ley 27.825 mediante la cual se aprueba el Tratado Relativo a la Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional entre Autoridades Centrales, celebrado en la ciudad de Medellín, con el propósito de optimizar los procedimientos de cooperación y combatir la delincuencia transnacional.",
+  "puntos_clave": [
+   "Aprobación legislativa del tratado internacional sobre transmisión electrónica de solicitudes.",
+   "Alcance general y estado vigente de la norma en el ordenamiento nacional.",
+   "Implementación de herramientas orientadas a la cooperación iberoamericana y penal."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales y autoridades centrales utilizar canales electrónicos seguros para agilizar pedidos de cooperación jurídica internacional en el marco de causas penales y de delincuencia transnacional.",
+  "normas_citadas": [
+   "Ley 27.825"
+  ],
+  "etiquetas": [
+   "cooperacion internacional",
+   "tratado internacional",
+   "delincuencia transnacional",
+   "procedimiento penal"
+  ],
+  "cita_sugerida": "Congreso de la Nación, Ley 27.825, Tratado Relativo a la Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Aprobación del Tratado Relativo a la Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional entre Autoridades Centrales",
+   "Estado: Vigente, de alcance general",
+   "Temas: Tratados internacionales cooperacion juridica internacional delincuencia trasnacional"
+  ],
+  "extracto_oficial": "Tratados internacionales cooperacion juridica internacional delincuencia trasnacional procedimiento penal cooperacion iberoamericana plataformas electronicas",
+  "oficial": {},
+  "fecha": "2026-08-27T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:05:02+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/se-aprobo-acuerdo-para-agilizar-cooperacion-juridica-internacional-mediante-medios-electronicos-se-aprobo-acuerdo-para-agilizar-cooperacion-juridica-internacional-mediante-medios-electronicos-nv51990-2026-08-27/123456789-0abc-099-15ti-lpssedadevon",
+    "titulo": "Se aprobó un acuerdo para agilizar la cooperación jurídica internacional mediante medios electrónicos",
+    "fecha": "2026-08-27T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:06:04+00:00"
+ },
+ {
+  "id": "3fa8cf5ac77a",
+  "url_hash": "3fa8cf5ac77a7796c780edab37ebfcac7db90b13e8fbb9d6d99d14bac0cbf472",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/27824-nacional-aprobacion-tratado-extradicion-entre-republica-argentina-republica-chile-lnt0007882-2026-08-27/123456789-0abc-defg-g28-87000tcanyel",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Ley 27.824: Aprobación del Tratado de Extradición con Chile",
+  "titulo_original": "LEY 27.824: Aprobación del Tratado de Extradición entre la República Argentina y la República de Chile",
+  "bajada": "El Congreso de la Nación aprobó el Tratado de Extradición celebrado entre la República Argentina y la República de Chile.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27824",
+  "id_legal_norm": "LEY 27824",
+  "holding": "Se aprueba formalmente el Tratado de Extradición entre la República Argentina y la República de Chile, consolidando la cooperación jurídica internacional y los procedimientos de extradición bilaterales.",
+  "puntos_clave": [
+   "Aprobación parlamentaria del Tratado de Extradición bilateral con Chile.",
+   "Alcance general y estado vigente de la normativa aprobada.",
+   "Fortalecimiento de la cooperación jurídica internacional entre ambos Estados."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales aplicar el nuevo marco normativo bilateral para la tramitación de extradiciones con la República de Chile.",
+  "normas_citadas": [
+   "Ley 27.824"
+  ],
+  "etiquetas": [
+   "extradición",
+   "tratado internacional",
+   "cooperación jurídica",
+   "chile"
+  ],
+  "cita_sugerida": "Ley 27.824, Congreso de la Nación, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Aprobación del Tratado de Extradición entre la República Argentina y la República de Chile",
+   "Estado: Vigente, de alcance general"
+  ],
+  "extracto_oficial": "Tratados internacionales chile extradicion cooperacion juridica internacional",
+  "oficial": {},
+  "fecha": "2026-08-27T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:05:32+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/congreso-nacional-aprobo-tratado-extradicion-chile-congreso-nacional-aprobo-tratado-extradicion-chile-nv51989-2026-08-27/123456789-0abc-989-15ti-lpssedadevon",
+    "titulo": "El Congreso nacional aprobó un tratado de extradición con Chile",
+    "fecha": "2026-08-27T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:06:13+00:00"
+ },
+ {
+  "id": "b79cce7a417f",
+  "url_hash": "b79cce7a417f387150741019e9da3c91b4a39f7b3d77dd0be2abd1a422500833",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/camara-federal-apelaciones-mar-plata-tendra-una-segunda-sala-camara-federal-apelaciones-mar-plata-tendra-una-segunda-sala-nv51947-2026-08-26/123456789-0abc-749-15ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Creación de la Sala II en la Cámara Federal de Apelaciones de Mar del Plata",
+  "titulo_original": "La Cámara Federal de Apelaciones de Mar del Plata tendrá una segunda sala",
+  "bajada": "Se dispuso la creación de una segunda sala en la Cámara Federal de Apelaciones de Mar del Plata con sus respectivas secretarías y nuevos cargos.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27822",
+  "id_legal_norm": "LEY 27822",
+  "holding": "Se creó la Sala II de la Cámara Federal de Apelaciones de Mar del Plata junto con tres Secretarías de Cámara y nuevos cargos judiciales, quedando su implementación sujeta a la disponibilidad presupuestaria.",
+  "puntos_clave": [
+   "Creación formal de la Sala II en la Cámara Federal de Apelaciones de Mar del Plata.",
+   "Incorporación de tres Secretarías de Cámara y nuevos cargos de jueces, funcionarios y personal.",
+   "Condicionamiento de la puesta en marcha a la disponibilidad del crédito presupuestario correspondiente."
+  ],
+  "impacto_practico": "Modifica la estructura orgánica del fuero federal en la jurisdicción de Mar del Plata, ampliando su capacidad de atención una vez operativo el presupuesto.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "camara federal",
+   "mar del plata",
+   "organizacion judicial"
+  ],
+  "cita_sugerida": "Ley 27.822, Congreso de la Nación",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Crearon la Sala II de la Cámara Federal de Apelaciones de Mar del Plata",
+   "La implementación quedará supeditada a la disponibilidad del crédito presupuestario"
+  ],
+  "extracto_oficial": "Crearon la Sala II de la Cámara Federal de Apelaciones de Mar del Plata, que contará con tres Secretarías de Cámara para atender los asuntos correspondientes a la jurisdicción y nuevos cargos de jueces, funcionarios y personal administrativo y de servicio. La implementación quedará supeditada a la disponibilidad del crédito presupuestario para afrontar los gastos del nuevo esquema judicial.",
+  "oficial": {},
+  "fecha": "2026-08-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:08:25+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27822-nacional-creacion-una-segunda-sala-camara-federal-apelaciones-mar-plata-lns0007880-2026-08-26/123456789-0abc-defg-g08-87000scanyel",
+    "titulo": "LEY 27.822: Creación de una segunda Sala en la Cámara Federal de Apelaciones de Mar del Plata",
+    "fecha": "2026-08-26T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: Ley 27822"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:09:15+00:00"
+ },
+ {
+  "id": "9e6646ea7a23",
+  "url_hash": "9e6646ea7a23f960052ebb13458807ec15802147e7341c5c7943effdbb757a86",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/27823-nacional-camino-brochero-lns0007881-2026-08-26/123456789-0abc-defg-g18-87000scanyel",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Ley 27.823: Declaración de interés cultural del Camino de Brochero",
+  "titulo_original": "LEY 27.823: Camino de Brochero",
+  "bajada": "Se sancionó la Ley 27.823 que declara de interés cultural al Camino de Brochero en el marco de la normativa vigente.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27823",
+  "id_legal_norm": "LEY 27823",
+  "holding": "El Congreso de la Nación estableció la vigencia de la Ley 27.823, disponiendo la declaración de interés cultural del Camino de Brochero.",
+  "puntos_clave": [
+   "Sanción de la Ley 27.823 de alcance general.",
+   "Declaración oficial de interés cultural vinculada al Camino de Brochero.",
+   "Referencia al marco de la convención para la salvaguardia del patrimonio cultural inmaterial."
+  ],
+  "impacto_practico": "Permite reconocer formalmente el valor cultural e histórico del Camino de Brochero a nivel nacional.",
+  "normas_citadas": [
+   "Ley 27.823"
+  ],
+  "etiquetas": [
+   "camino de brochero",
+   "patrimonio cultural",
+   "ley nacional",
+   "interes cultural"
+  ],
+  "cita_sugerida": "Congreso de la Nación, Ley 27.823",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "LEY 27.823: Camino de Brochero",
+   "Estado: Vigente, de alcance general",
+   "declaracion de interes cultural camino de brochero"
+  ],
+  "extracto_oficial": "Declaraciones oficiales declaracion de interes cultural camino de brochero convencion para la salvaguardia del patrimonio cultural inmaterial cordoba camino de santiago de compostela españa",
+  "oficial": {},
+  "fecha": "2026-08-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:06:17+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/camino-brochero-es-declarado-patrimonio-inmaterial-argentina-camino-brochero-es-declarado-patrimonio-inmaterial-argentina-nv51946-2026-08-26/123456789-0abc-649-15ti-lpssedadevon",
+    "titulo": "El Camino de Brochero es declarado patrimonio inmaterial de la Argentina",
+    "fecha": "2026-08-26T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:07:47+00:00"
+ },
+ {
+  "id": "9d8f024a8139",
+  "url_hash": "9d8f024a81395680b48fc91072ed98c6741ee3f317e177f1b1f5b9b2408853e1",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/congreso-avalo-tratado-libre-comercio-entre-mercosur-singapur-congreso-avalo-tratado-libre-comercio-entre-mercosur-singapur-nv51949-2026-08-26/123456789-0abc-949-15ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Aprobación del Tratado de Libre Comercio entre el MERCOSUR y Singapur",
+  "titulo_original": "El Congreso avaló el Tratado de Libre Comercio entre el MERCOSUR y Singapur",
+  "bajada": "El Congreso de la Nación aprobó el acuerdo de libre comercio suscripto entre el bloque regional y Singapur.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27819",
+  "id_legal_norm": "LEY 27819",
+  "holding": "El Congreso aprobó formalmente el Acuerdo de Libre Comercio firmado el 7 de diciembre de 2023 en Río de Janeiro, con la finalidad de potenciar la vinculación comercial y el intercambio económico internacional entre los Estados parte del MERCOSUR y Singapur.",
+  "puntos_clave": [
+   "Aprobación parlamentaria del tratado internacional",
+   "Acuerdo firmado originalmente el 7 de diciembre de 2023",
+   "Fomento de las relaciones comerciales del MERCOSUR con Singapur"
+  ],
+  "impacto_practico": "Permite avanzar en la integración comercial internacional del país y establece el marco legal para las operaciones comerciales bilaterales con Singapur.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "comercio internacional",
+   "mercosur",
+   "tratado internacional",
+   "singapur"
+  ],
+  "cita_sugerida": "Ley 27.819, Congreso de la Nación.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "El Congreso avaló el Tratado de Libre Comercio entre el MERCOSUR y Singapur",
+   "Se aprobó el Acuerdo de Libre Comercio, firmado el 7 de diciembre de 2023 en Río de Janeiro"
+  ],
+  "extracto_oficial": "Se aprobó el Acuerdo de Libre Comercio, firmado el 7 de diciembre de 2023 en Río de Janeiro, con el objetivo de ampliar las relaciones comerciales entre los países del bloque regional y Singapur.",
+  "oficial": {},
+  "fecha": "2026-08-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:07:55+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27819-nacional-aprobacion-acuerdo-libre-comercio-entre-mercado-comun-sur-mercosur-republica-singapur-lnt0007877-2026-08-26/123456789-0abc-defg-g77-87000tcanyel",
+    "titulo": "LEY 27.819: Aprobación del Acuerdo de Libre Comercio entre el Mercado Común del Sur (MERCOSUR) y la República de Singapur",
+    "fecha": "2026-08-26T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:09:09+00:00"
+ },
+ {
+  "id": "93c24c4cb66d",
+  "url_hash": "93c24c4cb66d1397cb7963d6e9b2b8ba1080f9446231dbf2c21829c1a45ba651",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/san-miguel-tucuman-sera-capital-simbolica-argentina-cada-9-julio-san-miguel-tucuman-sera-capital-simbolica-argentina-cada-9-julio-nv51945-2026-08-26/123456789-0abc-549-15ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "San Miguel de Tucumán declarada Capital simbólica de la Nación cada 9 de julio",
+  "titulo_original": "San Miguel de Tucumán será la Capital simbólica de la Argentina cada 9 de julio",
+  "bajada": "La Ley 27.820 establece que San Miguel de Tucumán sea la Capital simbólica de la República Argentina cada 9 de julio y fija allí los actos centrales de gobierno.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27820",
+  "id_legal_norm": "LEY 27820",
+  "holding": "Se sancionó la Ley 27.820 mediante la cual se declara a San Miguel de Tucumán como Capital simbólica de la República Argentina todos los 9 de julio, disponiendo que los actos centrales del Gobierno nacional por el aniversario de la Independencia se realicen en dicha ciudad.",
+  "puntos_clave": [
+   "Declara a San Miguel de Tucumán como Capital simbólica de la República Argentina cada 9 de julio.",
+   "La medida conmemora la histórica Declaración de la Independencia nacional.",
+   "Establece la realización de los actos centrales del Gobierno nacional en dicha ciudad."
+  ],
+  "impacto_practico": "Modifica la organización institucional de los actos oficiales patrios del 9 de julio, trasladando las ceremonias centrales del Gobierno nacional hacia la ciudad de San Miguel de Tucumán.",
+  "normas_citadas": [
+   "Ley 27.820"
+  ],
+  "etiquetas": [
+   "capital simbólica",
+   "tucumán",
+   "9 de julio",
+   "ley 27.820"
+  ],
+  "cita_sugerida": "Ley 27.820, Congreso de la Nación, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Mediante la Ley 27.820, declararon a la ciudad como Capital simbólica",
+   "los actos centrales del Gobierno nacional por el aniversario de la Independencia se realizarán en esa ciudad"
+  ],
+  "extracto_oficial": "Mediante la Ley 27.820, declararon a la ciudad como Capital simbólica de la República Argentina todos los 9 de julio, en conmemoración de la Declaración de la Independencia y, en adelante, los actos centrales del Gobierno nacional por el aniversario de la Independencia se realizarán en esa ciudad.",
+  "oficial": {},
+  "fecha": "2026-08-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:06:47+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27820-nacional-declarar-ciudad-san-miguel-tucuman-capital-simbolica-republica-argentina-9-julio-cada-ano-lns0007878-2026-08-26/123456789-0abc-defg-g87-87000scanyel",
+    "titulo": "LEY 27.820: Declarar a la Ciudad de San Miguel de Tucumán Capital Simbólica de la República Argentina los 9 de Julio de Cada Año",
+    "fecha": "2026-08-26T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:09:02+00:00"
+ },
+ {
+  "id": "5649e2aa9ce6",
+  "url_hash": "5649e2aa9ce6dce317689580a36fd9649af8c644b2461c0468e879aff989d990",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/camara-federal-apelaciones-tucuman-tendra-dos-salas-permanentes-camara-federal-apelaciones-tucuman-tendra-dos-salas-permanentes-nv51948-2026-08-26/123456789-0abc-849-15ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Cámara Federal de Apelaciones de Tucumán: reorganización en dos salas permanentes",
+  "titulo_original": "La Cámara Federal de Apelaciones de Tucumán tendrá dos salas permanentes",
+  "bajada": "Se dispuso la reorganización de la Cámara Federal de Apelaciones de Tucumán en dos salas permanentes y la creación de un nuevo cargo de juez.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27821",
+  "id_legal_norm": "LEY 27821",
+  "holding": "Se reorganizó la Cámara Federal de Apelaciones de Tucumán en dos salas permanentes con el fin de optimizar el servicio de justicia, creando a su vez un nuevo cargo de juez de Cámara para totalizar seis magistrados y manteniendo las competencias actuales.",
+  "puntos_clave": [
+   "Reorganización de la Cámara Federal de Apelaciones de Tucumán en dos salas permanentes.",
+   "Creación de un nuevo cargo de juez de Cámara, elevando a seis el total de magistrados.",
+   "Mantenimiento de las competencias actuales para ambas salas."
+  ],
+  "impacto_practico": "Modifica la estructura organizativa de la Cámara Federal de Apelaciones de Tucumán, impactando en la distribución de causas y en la operatividad del tribunal.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "cámara federal",
+   "tucumán",
+   "salas permanentes",
+   "poder judicial"
+  ],
+  "cita_sugerida": "Ley 27.821, Congreso de la Nación",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Cámara Federal de Apelaciones de Tucumán tendrá dos salas permanentes",
+   "crearon un nuevo cargo de juez de Cámara, elevando a seis el total de magistrados"
+  ],
+  "extracto_oficial": "Reorganizaron la Cámara en dos salas permanentes, con el objetivo de optimizar el funcionamiento del servicio de justicia. Además, crearon un nuevo cargo de juez de Cámara, elevando a seis el total de magistrados, y mantienen para ambas salas las competencias actuales.",
+  "oficial": {},
+  "fecha": "2026-08-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:07:17+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27821-nacional-organizan-dos-salas-camara-federal-apelaciones-tucuman-lns0007879-2026-08-26/123456789-0abc-defg-g97-87000scanyel",
+    "titulo": "LEY 27.821: Organizan en dos Salas la Cámara Federal de Apelaciones de Tucumán",
+    "fecha": "2026-08-26T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: Ley 27821"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:08:53+00:00"
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+  "id": "d2f967857388",
+  "url_hash": "d2f9678573888d4c229414cfe9bfd56ee68327805e6ceff6febdba21b7a873ea",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/reforma-tributaria-nuevos-criterios-fiscalizacion-cambios-regimen-simplificado-ganancias-reforma-tributaria-nuevos-criterios-fiscalizacion-cambios-regimen-simplificado-ganancias-nv52270-2026-09-27/123456789-0abc-072-25ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Reforma tributaria: cambios en Ganancias y fiscalización",
+  "titulo_original": "Reforma tributaria: nuevos criterios de fiscalización y cambios en el régimen simplificado de Ganancias",
+  "bajada": "Se modificó la declaración jurada simplificada de Ganancias, se establecieron nuevos criterios de fiscalización de ARCA y se redujeron multas para MiPyMEs.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27826",
+  "id_legal_norm": "LEY 27826",
+  "holding": "La norma introduce modificaciones en la declaración jurada simplificada del Impuesto a las Ganancias, fija nuevos parámetros para determinar discrepancias fiscales significativas, otorga mayores garantías a los contribuyentes ante fiscalizaciones de ARCA y dispone reducciones de multas para micro, pequeñas y medianas empresas, personas humanas y entidades sin fines de lucro.",
+  "puntos_clave": [
+   "Modificación de la declaración jurada simplificada del Impuesto a las Ganancias.",
+   "Nuevos criterios para determinar discrepancias fiscales significativas y garantías frente a fiscalizaciones de ARCA.",
+   "Reducción de multas aplicables a MiPyMEs, personas humanas y entidades sin fines de lucro."
+  ],
+  "impacto_practico": "Permite a los contribuyentes y asesores fiscales contar con nuevas pautas para la liquidación simplificada de Ganancias, mayores resguardos procedimentales ante auditorías de ARCA y un régimen aliviado de sanciones pecuniarias.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "impuesto a las ganancias",
+   "reforma tributaria",
+   "arca",
+   "mipymes",
+   "fiscalizacion"
+  ],
+  "cita_sugerida": "Ley 27826, Congreso de la Nación",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Modificaron la declaración jurada simplificada del Impuesto a las Ganancias",
+   "establecieron nuevos criterios para determinar discrepancias fiscales significativas",
+   "dispusieron reducciones de multas para micro, pequeñas y medianas empresas"
+  ],
+  "extracto_oficial": "Modificaron la declaración jurada simplificada del Impuesto a las Ganancias, establecieron nuevos criterios para determinar discrepancias fiscales significativas y mayores garantías para los contribuyentes frente a las fiscalizaciones de ARCA. Además, dispusieron reducciones de multas para micro, pequeñas y medianas empresas, personas humanas y entidades sin fines de lucro.",
+  "oficial": {},
+  "fecha": "2026-09-27T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:03:05+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27826-nacional-modificacion-al-regimen-penal-tributario-lns0007884-2026-09-17/123456789-0abc-defg-g48-87000scanyel",
+    "titulo": "LEY 27.826: Modificación al Régimen Penal Tributario",
+    "fecha": "2026-09-17T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:04:17+00:00"
+ },
+ {
+  "id": "f9b508faa430",
+  "url_hash": "f9b508faa430c1897441e3ff71174c7e617eb05edb3f51f770887b697e536956",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/cambios-regimen-zona-fria-incentivos-energias-renovables-cambios-regimen-zona-fria-incentivos-energias-renovables-nv52298-2026-09-24/123456789-0abc-892-25ti-lpssedadevon",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Modificaciones al régimen de Zona Fría e incentivos para energías renovables",
+  "titulo_original": "Cambios en el régimen de Zona Fría e incentivos a las energías renovables",
+  "bajada": "Establecieron nuevos criterios de bonificación por Zona Fría, prorrogaron incentivos a energías renovables y habilitaron compensación de deudas.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27828",
+  "id_legal_norm": "LEY 27828",
+  "holding": "La norma introduce nuevos criterios de acceso a las bonificaciones por Zona Fría manteniendo beneficios focalizados hasta diciembre de 2031, prorroga el régimen de promoción de energías renovables hasta el año 2045, habilita mecanismos para compensar deudas de las distribuidoras con CAMMESA y deroga regímenes de promoción de inversiones en hidrocarburos.",
+  "puntos_clave": [
+   "Se fijaron nuevos criterios de acceso a las bonificaciones tarifarias por Zona Fría con vigencia hasta el 31 de diciembre de 2031 para regiones específicas.",
+   "Se prorrogó el régimen de promoción de energías renovables hasta el año 2045.",
+   "Se implementaron mecanismos de compensación de deudas de distribuidoras eléctricas con CAMMESA y se derogaron normas de hidrocarburos."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y empresas del sector energético conocer las nuevas pautas tarifarias regionales, los plazos extendidos de promoción renovable y las herramientas de saneamiento financiero con CAMMESA.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "zona fría",
+   "energías renovables",
+   "cammesa",
+   "régimen de promoción"
+  ],
+  "cita_sugerida": "Ley 27.828, Congreso de la Nación, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Establecieron nuevos criterios de acceso a las bonificaciones por Zona Fría",
+   "prorrogaron hasta 2045 el régimen de promoción de energías renovables"
+  ],
+  "extracto_oficial": "Establecieron nuevos criterios de acceso a las bonificaciones por Zona Fría, manteniendo los beneficios para la Patagonia, Malargüe y la región de la Puna hasta el 31 de diciembre de 2031. Habilitaron mecanismos de compensación de deudas de distribuidoras eléctricas con CAMMESA. Además, prorrogaron hasta 2045 el régimen de promoción de energías renovables y derogaron normas vinculadas con la promoción de inversiones en hidrocarburos.",
+  "oficial": {},
+  "fecha": "2026-09-24T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:03:35+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/27828-nacional-modificacion-al-regimen-zona-fria-lns0007886-2026-09-24/123456789-0abc-defg-g68-87000scanyel",
+    "titulo": "LEY 27.828: Modificación al Régimen de Zona Fría",
+    "fecha": "2026-09-24T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: Ley 27828"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:04:02+00:00"
+ },
+ {
+  "id": "3fc1bc390b62",
+  "url_hash": "3fc1bc390b623a92ef833bd7e9d2b0f7f9d7ced551271ef5db596def10210086",
+  "fuente": "saij",
+  "fuente_nombre": "SAIJ — Leyes nacionales",
+  "url": "https://www.saij.gob.ar/27827-nacional-declaran-heroe-nacional-al-brigadier-estanislao-lopez-patriarca-federalismo-argentino-lns0007885-2026-09-17/123456789-0abc-defg-g58-87000scanyel",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Ley 27.827: Declaran Héroe Nacional al Brigadier Estanislao López",
+  "titulo_original": "LEY 27.827: Declaran Héroe Nacional al Brigadier Estanislao López Patriarca del Federalismo Argentino",
+  "bajada": "El Congreso de la Nación declaró Héroe Nacional al Brigadier Estanislao López, reconocido como patriarca del federalismo argentino.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27827",
+  "id_legal_norm": "LEY 27827",
+  "holding": "Se establece mediante la Ley 27.827 la declaración oficial de Héroe Nacional al Brigadier Estanislao López por su rol histórico como patriarca del federalismo argentino.",
+  "puntos_clave": [
+   "Sanción de la Ley 27.827 de alcance general y estado vigente.",
+   "Declaración oficial del Brigadier Estanislao López como Héroe Nacional.",
+   "Reconocimiento institucional a su figura como patriarca del federalismo argentino."
+  ],
+  "impacto_practico": "Permite dimensionar los reconocimientos oficiales e históricos otorgados a próceres provinciales en el marco de la legislación nacional y la historia constitucional argentina.",
+  "normas_citadas": [
+   "Ley 27.827"
+  ],
+  "etiquetas": [
+   "héroe nacional",
+   "federalismo",
+   "estanislao lópez",
+   "declaraciones oficiales"
+  ],
+  "cita_sugerida": "Congreso de la Nación, Ley 27.827",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Declaran Héroe Nacional al Brigadier Estanislao López Patriarca del Federalismo Argentino",
+   "Estado: Vigente, de alcance general"
+  ],
+  "extracto_oficial": "Declaraciones oficiales federalismo provincia de santa fe declaracion de heroe nacional",
+  "oficial": {},
+  "fecha": "2026-09-17T03:00:00+00:00",
+  "ingresado": "2026-11-26T02:04:23+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij",
+    "fuente_nombre": "SAIJ — Leyes nacionales",
+    "url": "https://www.saij.gob.ar/declaran-heroe-nacional-al-brigadier-estanislao-lopez-declaran-heroe-nacional-al-brigadier-estanislao-lopez-nv52276-2026-09-17/123456789-0abc-672-25ti-lpssedadevon",
+    "titulo": "Declaran Héroe Nacional al brigadier Estanislao López",
+    "fecha": "2026-09-17T03:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-26T02:04:55+00:00"
+ }
+]
