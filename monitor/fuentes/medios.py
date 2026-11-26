@@ -207,17 +207,6 @@ class PensamientoPenal(FuenteRSS):
         return salida
 
 
-class PoderJudicialTDF(FuenteRSS):
-    clave = "pj_tdf"
-    nombre = "Poder Judicial de Tierra del Fuego"
-    portada = "https://www.justierradelfuego.gov.ar/"
-    feed = "https://www.justierradelfuego.gov.ar/feed/"
-    dominios = frozenset({"justierradelfuego.gov.ar"})
-    prioridad = 86
-    oficial = True
-    selectores_cuerpo = ("div.entry-content", "article")
-
-
 class APPInstitucional(FuenteRSS):
     """Comunicados y posicionamientos de la Asociación Pensamiento Penal (sitio .org)."""
 

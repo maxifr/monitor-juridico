@@ -18,9 +18,8 @@ from .medios import (
     InfobaeJudiciales,
     PalabrasDelDerecho,
     PensamientoPenal,
-    PoderJudicialTDF,
 )
-from .ministerios_publicos import MPD, MPF
+from .ministerios_publicos import MPF
 from .oficiales import BoletinOficial, InfoLeg, SAIJBoletin, SAIJJurisprudenciaTDF, SAIJLegislacion
 from .poderes_judiciales import IJudicial, JusticiaAR
 
@@ -37,8 +36,6 @@ CLASES: tuple[type[Fuente], ...] = (
     SAIJJurisprudenciaTDF,
     SAIJBoletin,
     MPF,
-    MPD,
-    PoderJudicialTDF,
     JusticiaAR,
     IJudicial,
     PalabrasDelDerecho,

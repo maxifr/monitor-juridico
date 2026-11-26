@@ -15,13 +15,13 @@
   const TIPOS = ["Fallo", "Dictamen", "Norma", "Acordada", "Doctrina", "Noticia"];
   const CORTO_FUENTE = {
     csjn: "CSJN", csjn_noticias: "CSJN", infoleg: "InfoLeg", bora: "Boletín Oficial", saij: "SAIJ",
-    saij_tdf: "SAIJ (TDF)", saij_boletin: "Boletín del SAIJ", mpf: "MPF", mpd: "MPD", pj_tdf: "Poder Judicial TDF",
+    saij_tdf: "SAIJ (TDF)", saij_boletin: "Boletín del SAIJ", mpf: "MPF",
     justicia_ar: "Justicia.ar", ijudicial: "iJudicial", palabras_derecho: "Palabras del Derecho",
     pensamiento_penal: "Pensamiento Penal", app: "APP", aldia: "Al Día (Microjuris)", diario_judicial: "Diario Judicial",
     eldial: "elDial", infobae: "Infobae",
   };
-  let DOMINIOS = ["csjn.gov.ar", "infoleg.gob.ar", "boletinoficial.gob.ar", "saij.gob.ar", "fiscales.gob.ar", "mpd.gov.ar",
-    "justierradelfuego.gov.ar", "justicia.ar", "ijudicial.gob.ar", "palabrasdelderecho.com.ar", "pensamientopenal.com.ar",
+  let DOMINIOS = ["csjn.gov.ar", "infoleg.gob.ar", "boletinoficial.gob.ar", "saij.gob.ar", "fiscales.gob.ar",
+    "justicia.ar", "ijudicial.gob.ar", "palabrasdelderecho.com.ar", "pensamientopenal.com.ar",
     "pensamientopenal.org", "aldiaargentina.microjuris.com", "diariojudicial.com", "eldial.com", "infobae.com"];
   const ZONA = "America/Argentina/Buenos_Aires";
   const PASO = 60;
