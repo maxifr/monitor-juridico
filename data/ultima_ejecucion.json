@@ -1,59 +1,61 @@
 {
- "inicio": "2026-11-26T01:41:13+00:00",
- "fin": "2026-11-26T02:11:47+00:00",
- "duracion_s": 1833.7,
+ "inicio": "2026-11-26T20:12:31+00:00",
+ "fin": "2026-11-26T20:51:56+00:00",
+ "duracion_s": 2365.8,
  "modelo": "gemini-3.5-flash-lite",
- "candidatos": 377,
- "ya_vistos": 0,
- "prefiltrados": 75,
- "antiguos": 28,
- "descartados_triage": 52,
+ "candidatos": 311,
+ "ya_vistos": 86,
+ "prefiltrados": 52,
+ "antiguos": 0,
+ "descartados_triage": 3,
  "curados": 60,
- "descartados_ia": 5,
+ "descartados_ia": 3,
  "cuarentena": 0,
- "publicados": 45,
- "fusionados": 10,
- "pendientes": 162,
+ "publicados": 57,
+ "fusionados": 0,
+ "pendientes": 130,
  "sin_cuota": false,
  "por_fuente": {
   "csjn": {
-   "candidatos": 20,
-   "nuevos": 20,
-   "ok": true
+   "candidatos": 0,
+   "nuevos": 0,
+   "ok": false,
+   "error": "ErrorHTTP: No se pudo obtener https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html: timed out"
   },
   "csjn_noticias": {
-   "candidatos": 20,
-   "nuevos": 19,
-   "ok": true
+   "candidatos": 0,
+   "nuevos": 0,
+   "ok": false,
+   "error": "ErrorHTTP: No se pudo obtener https://www.csjn.gov.ar/novedades: timed out"
   },
   "infoleg": {
    "candidatos": 6,
-   "nuevos": 6,
+   "nuevos": 0,
    "ok": true
   },
   "bora": {
-   "candidatos": 80,
-   "nuevos": 13,
+   "candidatos": 62,
+   "nuevos": 12,
    "ok": true
   },
   "saij": {
    "candidatos": 20,
-   "nuevos": 20,
+   "nuevos": 0,
    "ok": true
   },
   "saij_tdf": {
    "candidatos": 9,
-   "nuevos": 2,
+   "nuevos": 0,
    "ok": true
   },
   "saij_boletin": {
    "candidatos": 86,
-   "nuevos": 86,
+   "nuevos": 73,
    "ok": true
   },
   "mpf": {
    "candidatos": 20,
-   "nuevos": 17,
+   "nuevos": 18,
    "ok": true
   },
   "mpd": {
@@ -69,23 +71,24 @@
    "error": "ErrorHTTP: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out"
   },
   "justicia_ar": {
-   "candidatos": 8,
-   "nuevos": 8,
-   "ok": true
+   "candidatos": 0,
+   "nuevos": 1,
+   "ok": false,
+   "error": "ErrorHTTP: No se pudo obtener https://www.justicia.ar/novedades: timed out"
   },
   "ijudicial": {
    "candidatos": 10,
-   "nuevos": 3,
+   "nuevos": 2,
    "ok": true
   },
   "palabras_derecho": {
    "candidatos": 18,
-   "nuevos": 18,
+   "nuevos": 16,
    "ok": true
   },
   "pensamiento_penal": {
    "candidatos": 10,
-   "nuevos": 10,
+   "nuevos": 8,
    "ok": true
   },
   "app": {
@@ -95,69 +98,84 @@
   },
   "aldia": {
    "candidatos": 20,
-   "nuevos": 20,
+   "nuevos": 23,
    "ok": true
   },
   "diario_judicial": {
    "candidatos": 20,
-   "nuevos": 20,
+   "nuevos": 15,
    "ok": true
   },
   "infobae": {
    "candidatos": 20,
-   "nuevos": 20,
+   "nuevos": 26,
    "ok": true
   }
  },
  "errores": [
+  "csjn: No se pudo obtener https://sjconsulta.csjn.gov.ar/sjconsulta/novedades/consulta.html: timed out",
+  "csjn_noticias: No se pudo obtener https://www.csjn.gov.ar/novedades: timed out",
   "mpd: No se pudo obtener https://www.mpd.gov.ar/index.php/noticias-h: timed out",
-  "pj_tdf: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out"
+  "pj_tdf: No se pudo obtener https://www.justierradelfuego.gov.ar/feed/: timed out",
+  "justicia_ar: No se pudo obtener https://www.justicia.ar/novedades: timed out"
  ],
  "nuevas": [
-  "00dcf985e7bf",
-  "a85718f6d73a",
-  "e3b4a96d711f",
-  "550a24853868",
-  "51273499562a",
-  "60cd6a9c730a",
-  "ba713c7c3bd8",
-  "4d1e40931d2c",
-  "57f3ea4c8ac0",
-  "e5ab595d597d",
-  "961d01a45d1c",
-  "3f52b9275087",
-  "f6b3064e3193",
-  "b7413891905d",
-  "9f42de50f356",
-  "0a547c40c5ec",
-  "c87fb490acbd",
-  "caf52672f7e7",
-  "01ee591c0007",
-  "02e2bd843d6a",
-  "9c169584316a",
-  "34cd5b9399e1",
-  "35ebe7cec039",
-  "8ba59aaa771c",
-  "5ff55701d625",
-  "caed52fda580",
-  "72f03253d43d",
-  "5bd6f2cb07d6",
-  "2ddfb6d424a9",
-  "d2f300507196",
-  "d2f967857388",
-  "f9b508faa430",
-  "3fc1bc390b62",
-  "a79a374c116d",
-  "3fa8cf5ac77a",
-  "9e6646ea7a23",
-  "93c24c4cb66d",
-  "5649e2aa9ce6",
-  "9d8f024a8139",
-  "b79cce7a417f",
-  "890010d1e28b",
-  "792dbe120e1d",
-  "7479a08cd52c",
-  "1fd03d8f117d",
-  "cd30c90e1b85"
+  "5638220a03fd",
+  "260c117bcdba",
+  "9ed63cab3259",
+  "649fe539502a",
+  "a0f10bc96e30",
+  "05605411ff1d",
+  "e135f9af7019",
+  "c9241f390bca",
+  "1b4ac1614733",
+  "563a9e99b836",
+  "42547c314c39",
+  "306b0befefb2",
+  "a20dd9517f72",
+  "fd8fa117249b",
+  "0ace75f643ac",
+  "7f8ea1e2eaae",
+  "5418b333b86a",
+  "74406f6b140b",
+  "65195fc56c2c",
+  "d5fd47ea5256",
+  "9730ebe77ddd",
+  "8802eca09f47",
+  "e97b2501d671",
+  "5bf63f252955",
+  "666fa9f85843",
+  "0f28c53d07d0",
+  "bf332fb9e29a",
+  "798c40b73c93",
+  "6d686ec161ac",
+  "742596a51ab8",
+  "c6945406f538",
+  "4e59e84b4cd5",
+  "a4518a9361d2",
+  "87c41a1e9cfc",
+  "3f41c90ffa07",
+  "d7db46bd545b",
+  "01dbf48289ad",
+  "dfa5f7a0c086",
+  "26e62c6db3d7",
+  "408d956b1f4f",
+  "9f4ce2b16952",
+  "dccd6acaa6fc",
+  "a3243e48a79d",
+  "41e8b0edbff7",
+  "3dd137bedf5c",
+  "59e7778227a0",
+  "73bcfb07d0c5",
+  "1e688e0b2e1a",
+  "a7cdb1b37f32",
+  "72a3cd2b0334",
+  "f64802dfb872",
+  "67e0f2e64384",
+  "ea58394602f2",
+  "b300f13a3698",
+  "19788d93aa50",
+  "abbfdf11024e",
+  "22ef3bc128ec"
  ]
 }

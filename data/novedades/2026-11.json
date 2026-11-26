@@ -1,5 +1,696 @@
 [
  {
+  "id": "22ef3bc128ec",
+  "url_hash": "22ef3bc128ec22281b4b7131b0a57239dbcf7bcd53c8d72abfebd50d65633550",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52810",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Falso testimonio: confirman procesamiento por ocultar vínculo",
+  "titulo_original": "Falso testimonio: confirman el procesamiento de una testigo que ocultó su relación con el imputado para favorecerlo",
+  "bajada": "La Cámara Nacional de Apelaciones en lo Criminal y Correccional confirmó el procesamiento de una testigo por falso testimonio tras ocultar su relación con el imputado.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 07",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+  "id_legal_norm": null,
+  "holding": "Se confirma el procesamiento por el delito de falso testimonio de una testigo que, al declarar en una investigación por homicidio, ocultó su relación de pareja con el acusado y su vínculo laboral con el comercio donde ocurrieron los hechos.",
+  "puntos_clave": [
+   "Confirmación de procesamiento por falso testimonio.",
+   "Ocultamiento deliberado de relación de pareja y vínculo laboral con el imputado.",
+   "Declaración testimonial falsa prestada en el marco de una investigación por homicidio."
+  ],
+  "impacto_practico": "Sirve para los operadores judiciales que investigan delitos contra la administración de justicia, específicamente el falso testimonio cometido mediante el ocultamiento de vínculos con el imputado para favorecerlo.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "falso testimonio",
+   "procesamiento",
+   "testigo",
+   "ocultamiento de vínculo"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 07, 27/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "confirman el procesamiento de una testigo que ocultó su relación con el imputado",
+   "modificando"
+  ],
+  "extracto_oficial": "La Cámara Criminal y Correccional confirmó el procesamiento de una mujer que, al declarar en una investigación por homicidio, ocultó que era empleada del comercio donde ocurrieron los hechos y que mantenía una relación de pareja con el acusado, modificando ...",
+  "oficial": {},
+  "fecha": "2026-11-26T20:51:35+00:00",
+  "ingresado": "2026-11-26T20:51:35+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 1,
+   "citas_total": 1,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "abbfdf11024e",
+  "url_hash": "abbfdf11024ed933c0a73e7ad70123d7ab21550f53f18c17874951095a9d67bb",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52811",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Deficiente registración salarial y daño a familiares de trabajador fallecido",
+  "titulo_original": "La deficiente registración salarial genera un daño reparable a los familiares del trabajador fallecido",
+  "bajada": "La justicia laboral condenó solidariamente a una empresa de seguridad y a sus directivos a indemnizar a los familiares de un trabajador fallecido por deficiente registración.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Nacional de Primera Instancia del Trabajo nro 77",
+  "caratula": "",
+  "identificador_legal": "Juzgado Nacional de Primera Instancia del Trabajo nro 77",
+  "id_legal_norm": "JUZGADO NACIONAL DE PRIMERA INSTANCIA DEL TRABAJO 77",
+  "holding": "Se determinó la condena solidaria a una empresa de seguridad y a sus directivos para indemnizar por daños materiales y morales a la conviviente y a los hijos de un trabajador fallecido, derivado de una deficiente registración salarial.",
+  "puntos_clave": [
+   "Condena solidaria a empresa de seguridad y directivos.",
+   "Reconocimiento de indemnización por daños materiales y morales.",
+   "Legitimación de la conviviente y los hijos del trabajador fallecido."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos fundamentar reclamos indemnizatorios por daños y perjuicios materiales y morales ante la deficiente registración laboral que afecta a los derechohabientes tras el fallecimiento del trabajador.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "registración laboral",
+   "daños y perjuicios",
+   "responsabilidad solidaria",
+   "derecho laboral"
+  ],
+  "cita_sugerida": "Juzgado Nacional de Primera Instancia del Trabajo nro 77, 28/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La deficiente registración salarial genera un daño reparable a los familiares del trabajador fallecido",
+   "La justicia laboral condenó solidariamente a una empresa de seguridad y a sus directivos"
+  ],
+  "extracto_oficial": "La justicia laboral condenó solidariamente a una empresa de seguridad y a sus directivos a indemnizar a la conviviente y a los hijos de un trabajador fallecido, por los daños materiales y morales ocasionados como consecuencia de la deficiente registración ...",
+  "oficial": {},
+  "fecha": "2026-11-26T20:51:05+00:00",
+  "ingresado": "2026-11-26T20:51:05+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "19788d93aa50",
+  "url_hash": "19788d93aa505cd8ce6ff5bad985ef95fac68165aee8f9ddbf93d44eb3960eea",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52812",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Intereses sobre honorarios: rige la misma tasa del capital de condena",
+  "titulo_original": "Los intereses sobre los honorarios deben calcularse con la misma tasa aplicada al capital de condena",
+  "bajada": "La Cámara Comercial dispuso que los intereses sobre los honorarios profesionales deben calcularse aplicando la misma tasa fijada para el capital de condena.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Comercial - Sala B",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Comercial",
+  "id_legal_norm": null,
+  "holding": "La Cámara Nacional de Apelaciones en lo Comercial resolvió revocar la resolución anterior que fijaba una tasa del 6 por ciento anual para los honorarios, estableciendo que corresponde aplicar la misma tasa de interés prevista en la sentencia definitiva para el capital de condena.",
+  "puntos_clave": [
+   "Se revoca la resolución que fijaba una tasa anual del 6 por ciento para honorarios.",
+   "Se establece que los honorarios deben actualizarse con la tasa del capital principal.",
+   "Se unifican los criterios aplicados a los accesorios de capital y honorarios."
+  ],
+  "impacto_practico": "Permite a los profesionales del derecho exigir que los intereses de sus honorarios sigan la misma suerte que el capital de condena, evitando desfasajes inflacionarios cuando la tasa del capital es superior a la fija.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "honorarios",
+   "intereses",
+   "comercial",
+   "capital de condena"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Comercial - Sala B, 02/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Los intereses sobre los honorarios deben calcularse con la misma tasa aplicada al capital de condena.",
+   "La Cámara Comercial revocó la resolución que había establecido una tasa de interés del 6 por ciento anual"
+  ],
+  "extracto_oficial": "La Cámara Comercial revocó la resolución que había establecido una tasa de interés del 6 por ciento anual para los honorarios profesionales y dispuso que debía aplicarse la misma tasa prevista en la sentencia definitiva para actualizar el capital de condena. ...",
+  "oficial": {},
+  "fecha": "2026-11-26T20:50:35+00:00",
+  "ingresado": "2026-11-26T20:50:35+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b300f13a3698",
+  "url_hash": "b300f13a369833d4eaaf0cf17e6cef59fb23baf63f47f53bfc76b32e092340c4",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52846",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Prisión perpetua por homicidio agravado y declaración de inconstitucionalidad",
+  "titulo_original": "Prisión perpetua por homicidio agravado por odio a la orientación sexual e inconstitucionalidad del art. 14 CP",
+  "bajada": "Un tribunal condenó a prisión perpetua por múltiples homicidios agravados y declaró la inconstitucionalidad del artículo 14 del Código Penal.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Oral en lo Criminal y Correccional nro 5",
+  "caratula": "",
+  "identificador_legal": "Tribunal Oral en lo Criminal y Correccional nro 5",
+  "id_legal_norm": "TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL 5",
+  "holding": "El Tribunal condenó a prisión perpetua al autor de tres homicidios y una tentativa de homicidio calificados por ensañamiento, alevosía, odio a la orientación sexual y empleo de un medio idóneo, declarando asimismo la inconstitucionalidad del art. 14 del Código Penal.",
+  "puntos_clave": [
+   "Condena a prisión perpetua por homicidios calificados.",
+   "Reconocimiento del agravante por odio a la orientación sexual.",
+   "Declaración de inconstitucionalidad del artículo 14 del Código Penal."
+  ],
+  "impacto_practico": "Constituye un precedente relevante en materia de crímenes de odio y en el debate sobre la constitucionalidad del régimen de ejecución de penas previsto en el art. 14 del Código Penal.",
+  "normas_citadas": [
+   "art. 14 CP"
+  ],
+  "etiquetas": [
+   "prisión perpetua",
+   "homicidio agravado",
+   "crimen de odio",
+   "inconstitucionalidad"
+  ],
+  "cita_sugerida": "Tribunal Oral en lo Criminal y Correccional nro 5, 18/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Prisión perpetua por homicidio agravado por odio a la orientación sexual e inconstitucionalidad",
+   "condenó a prisión perpetua al autor de tres homicidios y una tentativa de homicidio"
+  ],
+  "extracto_oficial": "Un tribunal oral en lo criminal y correccional de la Capital Federal condenó a prisión perpetua al autor de tres homicidios y una tentativa de homicidio agravados por ensañamiento, alevosía, odio a la orientación sexual de las víctimas y empleo de un ...",
+  "oficial": {},
+  "fecha": "2026-11-26T20:50:05+00:00",
+  "ingresado": "2026-11-26T20:50:05+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e135f9af7019",
+  "url_hash": "e135f9af7019e3f7de94232f29618be14934015b32a58210e4220f30d1ec98a6",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350832/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Resolución Conjunta 68/2026 - Ampliación de emisión de títulos públicos",
+  "titulo_original": "Resolución Conjunta 68/2026 — Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "bajada": "Se dispone la ampliación de emisión de bonos y letras del Tesoro Nacional para cancelar obligaciones en el marco del Régimen Simplificado de Extinción de Obligaciones de Contratos de Obra Pública.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "caratula": "",
+  "identificador_legal": "Resolución Conjunta 68/2026",
+  "id_legal_norm": "RESOLUCION CONJUNTA 68/2026",
+  "holding": "La Secretaría de Finanzas y la Secretaría de Hacienda disponen la ampliación de emisión de instrumentos financieros (BONCAP y LECAP) por un valor efectivo de hasta pesos ciento ochenta y dos mil cuatrocientos cincuenta y ocho millones novecientos tres mil ochocientos sesenta y tres ($ 182.458.903.863), con el objeto de atender el pago de deudas de contratos de obra pública en el marco del régimen simplificado correspondiente.",
+  "puntos_clave": [
+   "Ampliación de emisión de títulos públicos nacionales destinados a cancelar acreencias por obra pública.",
+   "Utilización de BONCAP y LECAP integrados en una canasta con porcentajes específicos para cada título.",
+   "Imputación presupuestaria a las aplicaciones financieras del Ministerio de Economía y la Dirección de Vialidad."
+  ],
+  "impacto_practico": "Permite a los contratistas de obra pública adheridos al régimen simplificado cobrar sus acreencias mediante la entrega de títulos públicos capitalizables del Tesoro Nacional.",
+  "normas_citadas": [
+   "Ley 24.156",
+   "Ley 27.798",
+   "Decreto 1344/2007",
+   "Decreto 820/2020",
+   "Decreto 1391/2026",
+   "Ley 13.064"
+  ],
+  "etiquetas": [
+   "obra pública",
+   "títulos públicos",
+   "boncap",
+   "lecap",
+   "deuda pública"
+  ],
+  "cita_sugerida": "Resolución Conjunta 68/2026, Secretaría de Finanzas y Secretaría de Hacienda, 25 de noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Dispónese la ampliación de la emisión de los instrumentos que se detallan a continuación",
+   "la cancelación de las acreencias a cargo del comitente",
+   "Régimen Simplificado de Extinción de Obligaciones de Contratos de Obra Pública"
+  ],
+  "extracto_oficial": "ARTÍCULO 1º.- Dispónese la ampliación de la emisión de los instrumentos que se detallan a continuación, por hasta la suma de valor nominal original necesaria para cubrir un total de valor efectivo pesos ciento ochenta y dos mil cuatrocientos cincuenta y ocho millones novecientos tres mil ochocientos sesenta y tres ($ 182.458.903.863), que no podrá superar el monto de valor nominal original que se detalla seguidamente para cada uno de los títulos involucrados, con cargo a los créditos presupuest",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:24:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "c9241f390bca",
+  "url_hash": "c9241f390bcaebb576a61d0e80b3facf4dc3780395419395fab23089cefbbd0e",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350835/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Inicio del procedimiento de revisión de topes arancelarios de derechos de autor",
+  "titulo_original": "Disposición 7/2026 — Ministerio de Justicia - Dirección Nacional del Derecho de Autor",
+  "bajada": "La Dirección Nacional del Derecho de Autor dispuso iniciar la revisión de los topes máximos arancelarios para radiodifusión, televisión y espectáculos en vivo, abriendo una instancia participativa no vinculante.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Justicia - Dirección Nacional del Derecho de Autor",
+  "caratula": "",
+  "identificador_legal": "Disposición 7/2026",
+  "id_legal_norm": "DISPOSICION 7/2026",
+  "holding": "Se instrumenta formalmente el procedimiento de evaluación y revisión de los topes máximos arancelarios aprobados por las Resoluciones ministeriales Nros. 1135/2025 y 1136/2025, garantizando la participación de usuarios, sociedades de gestión colectiva e interesados mediante opiniones de carácter no vinculante, con el fin de analizar la razonabilidad y proporcionalidad de las tarifas en función de la actividad económica.",
+  "puntos_clave": [
+   "Se inicia el procedimiento de revisión de los topes arancelarios para radiodifusión, televisión y espectáculos en vivo.",
+   "Se convoca a usuarios, sociedades de gestión colectiva y terceros con interés legítimo a participar del proceso.",
+   "Las opiniones y propuestas presentadas por los participantes tienen carácter estrictamente no vinculante para la autoridad."
+  ],
+  "impacto_practico": "Permite a los usuarios y sociedades de gestión colectiva intervenir aportando información sobre costos e incidencia de los aranceles de propiedad intelectual en la actividad económica.",
+  "normas_citadas": [
+   "Ley N° 11.723",
+   "Decreto N° 138/2025",
+   "Resolución del MINISTERIO DE JUSTICIA N° 1135/2025",
+   "Resolución del MINISTERIO DE JUSTICIA N° 1136/2025"
+  ],
+  "etiquetas": [
+   "derechos de autor",
+   "aranceles",
+   "sociedades de gestión colectiva",
+   "propiedad intelectual"
+  ],
+  "cita_sugerida": "Dirección Nacional del Derecho de Autor, Disposición 7/2026, 23 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Iníciese el procedimiento de evaluación y revisión de los topes máximos arancelarios aprobados",
+   "las opiniones, observaciones y propuestas que se formulen en el marco del procedimiento tendrán carácter no vinculante"
+  ],
+  "extracto_oficial": "ARTÍCULO 1°.- Iníciese el procedimiento de evaluación y revisión de los topes máximos arancelarios aprobados por las Resoluciones del MINISTERIO DE JUSTICIA Nros. 1135/2025 y 1136/2025, conforme lo previsto por los artículos 7º y 16 respectivamente. ARTÍCULO 2°.- Apruébase el procedimiento de evaluación y revisión de los topes máximos arancelarios establecidos por las Resoluciones del MINISTERIO DE JUSTICIA Nros. 1135/2025 y 1136/2025, que como ANEXO I (IF-2026-112980884-APN-DNDA#MJ) forma part",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:25:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a0f10bc96e30",
+  "url_hash": "a0f10bc96e30f5fde39efe4470e5c8df9ec973e86197cc6a70af201bfd196ca3",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350830/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CNV: Elaboración Participativa de Normas sobre el Régimen Informativo de Tenencias",
+  "titulo_original": "Resolución General 1179/2026 — Comisión Nacional de Valores: Elaboración Participativa de Normas. Aplicación.",
+  "bajada": "La Comisión Nacional de Valores dispuso someter a consulta pública el proyecto de resolución para dar publicidad a las tenencias accionarias declaradas por directores, administradores y accionistas controlantes.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Comisión Nacional de Valores",
+  "caratula": "MODIFICACIÓN DEL CAPÍTULO I, SECCIÓN VI DEL TÍTULO XII DE LAS NORMAS - RÉGIMEN INFORMATIVO DE TENENCIAS",
+  "identificador_legal": "Resolución General 1179/2026",
+  "id_legal_norm": "RESOLUCION GENERAL 1179/2026",
+  "holding": "Se instrumenta el procedimiento de Elaboración Participativa de Normas previsto en el Decreto N° 1172/2003 con el objeto de modificar el régimen informativo de tenencias, permitiendo la visualización pública de las declaraciones juradas que ya presentan los directores, administradores, síndicos y accionistas controlantes de las emisoras, en consonancia con estándares internacionales de la OCDE.",
+  "puntos_clave": [
+   "Se aplica el procedimiento de Elaboración Participativa de Normas instituido por el Decreto N° 1172/2003.",
+   "El proyecto propone establecer la publicidad de las tenencias accionarias de directores, administradores, síndicos y accionistas controlantes de emisoras con oferta pública.",
+   "Se designó a la funcionaria Yanina Belen Leureyro Maidana para dirigir el referido procedimiento consultivo."
+  ],
+  "impacto_practico": "Permite a los inversores y al público en general acceder a la estructura de propiedad y posibles conflictos de interés de los administradores de emisoras sin generar nuevas cargas obligacionales para los sujetos regulados.",
+  "normas_citadas": [
+   "Decreto N° 1172/2003",
+   "Ley de Mercado de Capitales",
+   "Decreto N° 891/2017",
+   "Ley Nº 25.326"
+  ],
+  "etiquetas": [
+   "mercado de capitales",
+   "gobierno corporativo",
+   "transparencia informativa",
+   "cnv"
+  ],
+  "cita_sugerida": "Comisión Nacional de Valores, Resolución General 1179/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Establecer la aplicación del procedimiento de Elaboración Participativa de Normas aprobado por el Decreto N° 1172/2003",
+   "invitando a la ciudadanía a expresar sus opiniones o propuestas respecto de la adopción de una reglamentación",
+   "Designar a Yanina Belen Leureyro Maidana, DNI N° 38.840.272, para dirigir el procedimiento"
+  ],
+  "extracto_oficial": "Elaboración Participativa de Normas. Aplicación. ARTÍCULO 1°.- Establecer la aplicación del procedimiento de “Elaboración Participativa de Normas” aprobado por el Decreto N° 1172/2003, invitando a la ciudadanía a expresar sus opiniones o propuestas respecto de la adopción de una reglamentación sobre “MODIFICACIÓN DEL CAPÍTULO I, SECCIÓN VI DEL TÍTULO XII DE LAS NORMAS - RÉGIMEN INFORMATIVO DE TENENCIAS”, tomando en consideración el texto contenido en el Anexo I (IF-2026-113431396-APN-GAL#CNV) que forma parte integrante de la presente Resoluci",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:23:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9ed63cab3259",
+  "url_hash": "9ed63cab3259a18cc14de6583792e04f6705636b4158ee80005b8e91ce1260ba",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350825/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Asignación de subsidio nacional a asociaciones de bomberos voluntarios",
+  "titulo_original": "Resolución 1217/2026 — Ministerio de Seguridad Nacional",
+  "bajada": "El Ministerio de Seguridad Nacional destinó más de 46 mil millones de pesos para asociaciones de bomberos voluntarios en el marco de la Ley N° 25.054.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Seguridad Nacional",
+  "caratula": "",
+  "identificador_legal": "Resolución 1217/2026",
+  "id_legal_norm": "RESOLUCION 1217/2026",
+  "holding": "Se dispone la asignación y distribución de fondos presupuestarios entre las entidades de bomberos voluntarios con reconocimiento vigente, destinados a la adquisición de equipamiento y mantenimiento, bajo la fiscalización de la Agencia Federal de Emergencias y exigiendo la identificación pública de los bienes adquiridos.",
+  "puntos_clave": [
+   "Destino de fondos por más de 46 mil millones de pesos a 1076 asociaciones de bomberos voluntarios.",
+   "Obligación de destinar los fondos a equipamiento, materiales, vestuario y conservación.",
+   "Exigencia de identificar los bienes muebles e inmuebles adquiridos con una leyenda específica."
+  ],
+  "impacto_practico": "Permite a las asociaciones de bomberos voluntarios beneficiarias percibir y ejecutar los fondos correspondientes al subsidio nacional, cumpliendo con los recaudos de rendición de cuentas y registración patrimonial.",
+  "normas_citadas": [
+   "Ley N° 22.520",
+   "Ley N° 25.054",
+   "Ley N° 27.798",
+   "Decreto N° 636/2013",
+   "Decreto N° 225/2025",
+   "Decreto N° 1391/2026"
+  ],
+  "etiquetas": [
+   "bomberos voluntarios",
+   "subsidio nacional",
+   "ministerio de seguridad nacional",
+   "ley 25054"
+  ],
+  "cita_sugerida": "Ministerio de Seguridad Nacional, Resolución 1217/2026, 25 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Destínase a las ASOCIACIONES DE BOMBEROS VOLUNTARIOS, como entes de primer grado, la suma de PESOS CUARENTA Y SEIS MIL DOSCIENTOS SETENTA Y SIETE MILLONES NOVECIENTOS OCHENTA Y TRES MIL CUATROCIENTOS OCHENTA CON OCHO CENTAVOS",
+   "las entidades de bomberos voluntarios beneficiarias del subsidio otorgado por la Ley Nacional Nº 25.054 y sus modificatorias, deberán identificar todos los bienes inmuebles o móviles adquiridos por dicho subsidio"
+  ],
+  "extracto_oficial": "ARTÍCULO 1°.- Destínase a las ASOCIACIONES DE BOMBEROS VOLUNTARIOS, como entes de primer grado, la suma de PESOS CUARENTA Y SEIS MIL DOSCIENTOS SETENTA Y SIETE MILLONES NOVECIENTOS OCHENTA Y TRES MIL CUATROCIENTOS OCHENTA CON OCHO CENTAVOS ($ 46.277.983.480,08) distribuidos entre las MIL SETENTA Y SEIS (1076) entidades que figuran en el ANEXO I (IF-2026-112306249-APN-AFE#MSG) que forma parte de la presente, correspondiéndole a cada uno la suma de PESOS CUARENTA Y TRES MILLONES NUEVE MIL DOSCIEN",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:22:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "649fe539502a",
+  "url_hash": "649fe539502a5cd4c0d0b07fb8ffd988cace885737527ecd3b167bb58a75538b",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350826/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización del monto para contrataciones por procedimiento abreviado en el MPD",
+  "titulo_original": "Resolución 1546/2026 — Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "bajada": "La Defensoría General de la Nación elevó a diez millones de pesos el monto máximo para gestionar contrataciones mediante el procedimiento abreviado.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio Público de la Defensa - Defensoría General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución 1546/2026",
+  "id_legal_norm": "RESOLUCION 1546/2026",
+  "holding": "Se dispuso incrementar el tope cuantitativo aplicable al procedimiento abreviado de compras y contrataciones del Ministerio Público de la Defensa de la Nación debido a la depreciación monetaria y al aumento de precios, fijándolo en la suma de diez millones de pesos con sustento en las facultades de administración general y financiera de la institución.",
+  "puntos_clave": [
+   "Se incrementa de cinco millones a diez millones de pesos el monto máximo para los procedimientos abreviados de contratación.",
+   "La medida se fundamenta en la variación inflacionaria acumulada y la necesidad de dotar de mayor eficacia a las gestiones de compras.",
+   "La norma rige a partir de su publicación en el Boletín Oficial de la República Argentina."
+  ],
+  "impacto_practico": "Permite a las áreas de compras y contrataciones del Ministerio Público de la Defensa agilizar procesos de menor cuantía elevando el tope dinerario habilitado para el procedimiento abreviado.",
+  "normas_citadas": [
+   "Ley N° 27.149",
+   "Ley N° 24.156",
+   "art. 120 de la Constitución Nacional"
+  ],
+  "etiquetas": [
+   "contrataciones",
+   "ministerio público de la defensa",
+   "procedimiento abreviado",
+   "autarquía financiera"
+  ],
+  "cita_sugerida": "Resolución 1546/2026, Defensoría General de la Nación, 24 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "APROBAR la modificación del monto máximo de los procedimientos abreviados reglamentados",
+   "DISPONER que la presente modificación regirá a partir de su publicación en el Boletín Oficial"
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO PÚBLICO DE LA DEFENSA DEFENSORÍA GENERAL DE LA NACIÓN - Resolución 1546/2026 - RDGN-2026-1546-E-MPD-DGN#MPD",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:23:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5638220a03fd",
+  "url_hash": "5638220a03fdab7480c5476e2b92973b9025f5a4adbd18a3dbf38cedfa6b6187",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350819/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Remoción de Encargado de Registro Seccional por incumplimiento en depósitos",
+  "titulo_original": "Resolución 568/2026 — Ministerio de Justicia",
+  "bajada": "El Ministerio de Justicia dispuso la remoción del Encargado Titular del Registro Seccional de la Propiedad del Automotor de Villa Carlos Paz N° 1 tras constatarse la falta de depósito de remanentes de recaudación correspondientes a diversos períodos.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Justicia",
+  "caratula": "",
+  "identificador_legal": "Resolución 568/2026",
+  "id_legal_norm": "RESOLUCION 568/2026",
+  "holding": "La falta de depósito íntegro y oportuno de los remanentes de recaudación pertenecientes al Estado Nacional constituye una causal de remoción para los Encargados de Registros Seccionales, sin que resulte admisible invocar resultados económicos desfavorables o desequilibrios operativos de gestión para justificar la retención de dichos fondos.",
+  "puntos_clave": [
+   "Se impuso la sanción de remoción al Encargado Titular del Registro Seccional de la Propiedad del Automotor de Villa Carlos Paz N° 1.",
+   "Se acreditó la omisión en el depósito de remanentes de recaudación correspondientes a múltiples meses entre 2024 y 2025.",
+   "Se ratificó que las eventuales pérdidas operativas de la gestión particular integran el riesgo propio del Encargado y no eximen de la obligación de girar los fondos al Estado."
+  ],
+  "impacto_practico": "Establece un precedente riguroso sobre la responsabilidad disciplinaria de los Encargados de Registros Seccionales ante la retención de fondos recaudados, ratificando la imposibilidad de compensar déficits operativos con recursos destinados a la Administración Central.",
+  "normas_citadas": [
+   "Decreto-Ley N° 6582/1958",
+   "Decreto N° 644/1989",
+   "Decreto N° 2265/1994",
+   "Disposición N° 54/1998"
+  ],
+  "etiquetas": [
+   "registro del automotor",
+   "sumario administrativo",
+   "remoción",
+   "recaudación"
+  ],
+  "cita_sugerida": "Ministerio de Justicia, Resolución 568/2026, 24 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "aconsejó aplicar al sumariado la sanción de REMOCIÓN",
+   "la obligación de depositar íntegra y/u oportunamente en favor de la Administración Central los remanentes de recaudación",
+   "el riesgo propio de la gestión del Encargado y no autoriza, en ningún caso, a retener o aplicar a otros fines sumas dinerarias"
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO DE JUSTICIA - Resolución 568/2026 - RESOL-2026-568-APN-MJ",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:21:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "260c117bcdba",
+  "url_hash": "260c117bcdba567e75668744a3c6c4efc8cc6e34e9624aa150a0fcaeafbaa4e5",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350820/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Remoción de Encargado de Registro Seccional por falta de depósito de recaudación",
+  "titulo_original": "Resolución 570/2026 — Ministerio de Justicia",
+  "bajada": "El Ministerio de Justicia dispuso la remoción de la Encargada Titular del Registro Seccional de la Propiedad del Automotor de Córdoba N° 21 por no depositar íntegra y oportunamente los remanentes de recaudación correspondientes al Estado Nacional.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Justicia",
+  "caratula": "",
+  "identificador_legal": "Resolución 570/2026",
+  "id_legal_norm": "RESOLUCION 570/2026",
+  "holding": "La obligación de depositar los remanentes de recaudación de los registros seccionales en favor de la Administración Central es inexcusable y no puede ser compensada ni justificada mediante la alegación de desequilibrios financieros o déficit operativo de la oficina, ya que el riesgo de la gestión es propio del Encargado.",
+  "puntos_clave": [
+   "Se impuso la sanción de remoción a la Encargada Titular de un Registro Seccional de la Propiedad del Automotor.",
+   "Se acreditó la falta de depósito oportuno de los remanentes de recaudación correspondientes a diversos períodos de los años 2024 y 2025.",
+   "Se estableció que la alegada crisis económico-financiera del registro no constituye una causal exculpatoria ni justifica la retención de fondos que pertenecen al Estado Nacional."
+  ],
+  "impacto_practico": "Resulta de utilidad para comprender el criterio sobre la responsabilidad administrativa de los encargados de registros seccionales y la improcedencia de invocar el déficit de gestión para incumplir obligaciones de depósito fiscal.",
+  "normas_citadas": [
+   "Decreto-Ley N° 6582/1958",
+   "Decreto N° 644/1989",
+   "Decreto N° 2265/1994",
+   "Disposición N° 54/1998",
+   "Disposición N° 108/2023"
+  ],
+  "etiquetas": [
+   "registro del automotor",
+   "remoción",
+   "responsabilidad administrativa",
+   "recaudación",
+   "ministerio de justicia"
+  ],
+  "cita_sugerida": "Ministerio de Justicia, Resolución 570/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "la invocación de los supuestos resultados económicos desfavorables no constituye excusa jurídicamente válida",
+   "las sumas que en concepto de aranceles por los trámites registrales recaudan los Registros Seccionales corresponden al ESTADO NACIONAL",
+   "se aconsejó aplicar a la señora LURASCHI la sanción de REMOCIÓN"
+  ],
+  "extracto_oficial": "BOLETIN OFICIAL REPUBLICA ARGENTINA - MINISTERIO DE JUSTICIA - Resolución 570/2026 - RESOL-2026-570-APN-MJ",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:22:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "05605411ff1d",
+  "url_hash": "05605411ff1dc71a2c1808debc91f002a1b39948404359866397c66eb72f35e1",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350831/20261126",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Resolución Conjunta 67/2026 - Conversión de títulos públicos y ampliación de emisión",
+  "titulo_original": "Resolución Conjunta 67/2026 — Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "bajada": "Se dispone la ampliación de emisión de instrumentos de deuda pública y se aprueba una operación de conversión de tenencias del Banco Central de la República Argentina.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "caratula": "",
+  "identificador_legal": "Resolución Conjunta 67/2026",
+  "id_legal_norm": "RESOLUCION CONJUNTA 67/2026",
+  "holding": "Se aprueba la conversión de tenencias de letras y bonos del Tesoro Nacional en poder del Banco Central de la República Argentina por nuevos instrumentos, disponiéndose la ampliación de emisión correspondiente en el marco de la normativa vigente de administración financiera.",
+  "puntos_clave": [
+   "Se amplía la emisión de letras del Tesoro vinculadas al dólar estadounidense (LELINK) y bonos capitalizables en pesos (BONCAP).",
+   "Se instrumenta una operación de conversión de títulos públicos orientada al Banco Central de la República Argentina.",
+   "La medida se dicta en el marco de las facultades conferidas por la Ley de Presupuesto 27.798 y normas complementarias de administración financiera."
+  ],
+  "impacto_practico": "Permite al Ministerio de Economía reordenar los vencimientos de la deuda pública mediante la conversión de títulos en poder del BCRA y la ampliación de instrumentos financieros autorizados.",
+  "normas_citadas": [
+   "Ley 24.156",
+   "Ley 27.798",
+   "Decreto 1344/2007",
+   "Decreto 820/2020",
+   "Decreto 331/2022",
+   "Decreto 846/2024"
+  ],
+  "etiquetas": [
+   "deuda pública",
+   "canje",
+   "finanzas públicas",
+   "tesoro nacional"
+  ],
+  "cita_sugerida": "Resolución Conjunta 67/2026, Secretaría de Finanzas y Secretaría de Hacienda",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Dispónese la ampliación de la emisión de Letra del Tesoro Nacional vinculada al dólar estadounidense",
+   "se ha considerado conveniente ofrecer al Banco Central de la República Argentina la conversión de sus tenencias",
+   "para llevar a cabo la conversión aludida resulta necesario proceder a su aprobación"
+  ],
+  "extracto_oficial": "ARTÍCULO 1º.- Dispónese la ampliación de la emisión de “Letra del Tesoro Nacional vinculada al dólar estadounidense cero cupón con vencimiento 15 de enero de 2027”, en adelante LELINK D15E7, emitida originalmente mediante el artículo 2° de la resolución conjunta 46 del 29 de julio de 2026 de la Secretaría de Finanzas y de la Secretaría de Hacienda, ambas del Ministerio de Economía (RESFC-2026-46-APN-SH#MEC), por hasta el monto necesario para llevar a cabo la operación de conversión que se aprue",
+  "oficial": {},
+  "fecha": "2026-11-26T03:00:00+00:00",
+  "ingresado": "2026-11-26T20:24:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "d2f300507196",
   "url_hash": "d2f300507196ff35599bcaa7324163ed81b9fd4d7a0d0dc9d5dccf6cd84c3076",
   "fuente": "bora",
@@ -519,6 +1210,171 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "563a9e99b836",
+  "url_hash": "563a9e99b836d5ae3f01f2c951a4cd959cde7fac785ca4713752bee382a97999",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432483",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización del sistema de información para el régimen de Zona Fría",
+  "titulo_original": "El Ente Regulador actualizó el sistema de información para implementar los cambios en el régimen de Zona Fría",
+  "bajada": "El Ente Nacional Regulador del Gas y la Electricidad aprobó un nuevo protocolo de facturación y pagos de gas para adecuar los controles a la Ley 27.828.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ente Nacional Regulador del Gas y la Electricidad",
+  "caratula": "",
+  "identificador_legal": "Resolución 969/26",
+  "id_legal_norm": "RESOLUCION 969/2026",
+  "holding": "Se aprobó un nuevo protocolo de facturación y pagos de gas natural y gas licuado de petróleo con el fin de adecuar los mecanismos de información y control a las modificaciones introducidas en el régimen de Zona Fría por la Ley 27.828 y su decreto reglamentario.",
+  "puntos_clave": [
+   "Aprobación de un nuevo protocolo de facturación y pagos de gas natural y GLP.",
+   "Adecuación de los mecanismos de información y control al régimen de Zona Fría.",
+   "Implementación de los cambios introducidos por la Ley 27.828 y su decreto reglamentario."
+  ],
+  "impacto_practico": "Permite a las distribuidoras y operadores del servicio adecuar sus sistemas de facturación y control a las exigencias normativas vigentes del régimen de Zona Fría.",
+  "normas_citadas": [
+   "Ley 27.828",
+   "Resolución 969/26"
+  ],
+  "etiquetas": [
+   "zona fría",
+   "gas natural",
+   "facturación",
+   "ente regulador"
+  ],
+  "cita_sugerida": "Ente Nacional Regulador del Gas y la Electricidad, Resolución 969/26, 24/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Se aprobó un nuevo protocolo de facturación y pagos de gas natural",
+   "cambios introducidos en el régimen de Zona Fría por la Ley 27.828"
+  ],
+  "extracto_oficial": "Se aprobó un nuevo protocolo de facturación y pagos de gas natural y gas licuado de petróleo (GLP) para adecuar los mecanismos de información y control a los cambios introducidos en el régimen de Zona Fría por la Ley 27.828 y su decreto reglamentario. ...",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:26:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "42547c314c39",
+  "url_hash": "42547c314c3952ef02307e6ec4f72d6b84f556ac3485cbb29514dff478a78c33",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432486",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Aprobación del Informe Nacional de Personas en Situación de Calle 2025",
+  "titulo_original": "Personas en situación de calle: publicaron el informe nacional correspondiente a 2025",
+  "bajada": "La Secretaría Nacional de Niñez, Adolescencia y Familia aprobó el Informe Anual del Relevamiento Nacional de Personas en Situación de Calle correspondiente al año 2025.",
+  "tipo": "Norma",
+  "materia": "Derechos Humanos",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría Nacional de Niñez, Adolescencia y Familia",
+  "caratula": "",
+  "identificador_legal": "Resolución 354/26",
+  "id_legal_norm": "RESOLUCION 354/2026",
+  "holding": "Se aprobó el Informe Anual del Relevamiento Nacional de Personas en Situación de Calle correspondiente a 2025 en cumplimiento de la normativa vigente.",
+  "puntos_clave": [
+   "Aprobación del informe anual del relevamiento nacional.",
+   "Cumplimiento de las disposiciones de la Ley 27.654.",
+   "Emisión a cargo de la Secretaría Nacional de Niñez, Adolescencia y Familia."
+  ],
+  "impacto_practico": "Permite conocer los datos oficiales actualizados sobre personas en situación de calle conforme al relevamiento anual obligatorio.",
+  "normas_citadas": [
+   "Ley 27.654"
+  ],
+  "etiquetas": [
+   "personas en situación de calle",
+   "relevamiento nacional",
+   "derechos humanos"
+  ],
+  "cita_sugerida": "Secretaría Nacional de Niñez, Adolescencia y Familia, Resolución 354/26, 24/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "aprobó el Informe Anual del Relevamiento Nacional de Personas en Situación de Calle",
+   "en cumplimiento de la Ley 27.654"
+  ],
+  "extracto_oficial": "La Secretaría Nacional de Niñez, Adolescencia y Familia, dependiente del Ministerio de Capital Humano, aprobó el Informe Anual del Relevamiento Nacional de Personas en Situación de Calle correspondiente a 2025, en cumplimiento de la Ley 27.654, dando ...",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:26:54+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "306b0befefb2",
+  "url_hash": "306b0befefb2bd9bf3666973650c612afc190868ba19f6830286e069543f13be",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52859",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "INAES: retiro de autorización a cooperativas por falta de documentación",
+  "titulo_original": "El INAES retira la autorización para funcionar a numerosas cooperativas por incumplimientos administrativos",
+  "bajada": "El INAES dispuso el retiro de la autorización para funcionar a numerosas cooperativas tras constatar incumplimientos en la presentación de documentación.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Instituto Nacional de Asociativismo y Economía Social",
+  "caratula": "",
+  "identificador_legal": "Resolución 2401/26",
+  "id_legal_norm": "RESOLUCION 2401/2026",
+  "holding": "Se retira la autorización para funcionar a diversas cooperativas debido a la falta de regularización en la presentación de su documentación asamblearia y de estados contables exigidos por la normativa vigente, conforme lo constatado por el organismo.",
+  "puntos_clave": [
+   "Retiro de autorización para funcionar a cooperativas.",
+   "Incumplimiento en la presentación de estados contables y documentación asamblearia.",
+   "Aplicación de exigencias previstas en la normativa cooperativa."
+  ],
+  "impacto_practico": "Advierte a las entidades cooperativas sobre la necesidad imperiosa de mantener al día sus obligaciones documentales y contables para evitar la pérdida de su personería jurídica.",
+  "normas_citadas": [
+   "Ley 20.337"
+  ],
+  "etiquetas": [
+   "cooperativas",
+   "inaes",
+   "estados contables",
+   "autorización"
+  ],
+  "cita_sugerida": "Instituto Nacional de Asociativismo y Economía Social, Resolución 2401/26",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Retiraron la autorización para funcionar a las cooperativas incluidas en un anexo",
+   "no regularizaron la presentación de documentación asamblearia y estados contables exigidos por la Ley 20.337"
+  ],
+  "extracto_oficial": "Retiraron la autorización para funcionar a las cooperativas incluidas en un anexo, tras constatar que no regularizaron la presentación de documentación asamblearia y estados contables exigidos por la Ley 20.337.",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:27:24+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "1fd03d8f117d",
   "url_hash": "1fd03d8f117d13a04dda7c68f0a346401365455151edd06023162f6334d7eae0",
   "fuente": "saij_boletin",
@@ -575,6 +1431,59 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "1b4ac1614733",
+  "url_hash": "1b4ac1614733823e415f0da7e1f0667889c1fff8344be46349afb1443ab1ef2d",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432484",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Reconocimiento de derechos adquiridos a instaladores de gas matriculados antes de 1983",
+  "titulo_original": "El ENREGE reconoce derechos adquiridos de instaladores de gas matriculados antes de 1983",
+  "bajada": "El ENREGE dispuso preservar las habilitaciones de los instaladores matriculados con anterioridad al 2 de mayo de 1983 bajo determinadas condiciones.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ente Nacional Regulador del Gas y la Electricidad",
+  "caratula": "",
+  "identificador_legal": "Resolución 970/26",
+  "id_legal_norm": "RESOLUCION 970/2026",
+  "holding": "Se resolvió preservar las habilitaciones de los instaladores matriculados antes del 2 de mayo de 1983 que posean autorización para intervenir en instalaciones de gas con presiones superiores a 10 bar y hayan ejercido efectivamente la actividad.",
+  "puntos_clave": [
+   "Preservación de habilitaciones para instaladores matriculados antes del 2 de mayo de 1983.",
+   "Alcance limitado a quienes posean autorización para instalaciones de gas con presiones superiores a 10 bar.",
+   "Exige acreditación de ejercicio efectivo de la actividad."
+  ],
+  "impacto_practico": "Permite a los instaladores matriculados históricos con anterioridad a 1983 mantener sus incumbencias y habilitaciones para operar en redes de alta presión.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "instaladores de gas",
+   "derechos adquiridos",
+   "enrege",
+   "matriculados"
+  ],
+  "cita_sugerida": "Ente Nacional Regulador del Gas y la Electricidad, Resolución 970/26, 24 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "reconoce derechos adquiridos de instaladores de gas matriculados antes de 1983",
+   "preservar las habilitaciones de los instaladores matriculados antes del 2 de mayo de 1983"
+  ],
+  "extracto_oficial": "Dispusieron preservar las habilitaciones de los instaladores matriculados antes del 2 de mayo de 1983 que cuenten con autorización para intervenir en instalaciones de gas con presiones superiores a 10 bar y hayan ejercido efectivamente esa actividad antes ...",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:25:55+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "34cd5b9399e1",
   "url_hash": "34cd5b9399e10c7869d9f40ad21faecc58c874489426deb01c790a2ae5cc5e09",
   "fuente": "csjn_noticias",
@@ -621,6 +1530,608 @@
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "fd8fa117249b",
+  "url_hash": "fd8fa117249b2d71747d87b19ac8d4936dad8aa534e9c4385d22cb0930c10a5c",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432441",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Procedimiento para tramitar acuerdos mutuos por doble imposición",
+  "titulo_original": "El Ministerio de Economía aprobó un procedimiento para tramitar acuerdos mutuos por conflictos de doble imposición",
+  "bajada": "El Ministerio de Economía aprobó los criterios operativos para gestionar controversias tributarias vinculadas con la doble imposición internacional.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía",
+  "caratula": "",
+  "identificador_legal": "Resolución 2009/26",
+  "id_legal_norm": "RESOLUCION 2009/2026",
+  "holding": "Se fijaron los criterios operativos para tramitar acuerdos mutuos por conflictos de doble imposición, facilitando la gestión de controversias tributarias entre contribuyentes y autoridades fiscales de los Estados contratantes en el marco de la aplicación de convenios.",
+  "puntos_clave": [
+   "Aprobación de un procedimiento para acuerdos mutuos sobre doble imposición.",
+   "Establecimiento de criterios operativos para gestionar controversias tributarias.",
+   "Regulación vinculada con la correcta aplicación de convenios y distribución de potestades."
+  ],
+  "impacto_practico": "Permite a los contribuyentes y operadores jurídicos contar con un marco procedimental claro para resolver conflictos de doble imposición y controversias derivadas de convenios internacionales.",
+  "normas_citadas": [
+   "Resolución 2009/26"
+  ],
+  "etiquetas": [
+   "doble imposición",
+   "derecho tributario",
+   "acuerdo mutuo",
+   "ministerio de economía"
+  ],
+  "cita_sugerida": "Ministerio de Economía, Resolución 2009/26, 20/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "aprobó un procedimiento para tramitar acuerdos mutuos por conflictos de doble imposición",
+   "Fijaron los criterios operativos para gestionar las controversias tributarias"
+  ],
+  "extracto_oficial": "Fijaron los criterios operativos para gestionar las controversias tributarias entre contribuyentes y autoridades fiscales de los Estados contratantes, especialmente aquellas vinculadas con la correcta aplicación de los convenios y la distribución de potestades ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:28:24+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e97b2501d671",
+  "url_hash": "e97b2501d6713d8616c2f0df71ec6fd0034dd9c8abd3d02889106f4db16be97e",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/M20260002504",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Mendoza reglamentó la Administración Pública Digital",
+  "titulo_original": "Mendoza reglamentó la Administración Pública Digital y establece nuevas obligaciones para los organismos provinciales",
+  "bajada": "El Poder Ejecutivo provincial aprobó la reglamentación de la Ley 9.625 estableciendo el marco operativo del Ecosistema Digital de Integrabilidad.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Poder Ejecutivo de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Decreto 2504/26 de Mendoza",
+  "id_legal_norm": "DECRETO 2504/2026",
+  "holding": "Se aprobó la reglamentación de la Ley 9.625, estableciendo el marco operativo del Ecosistema Digital de Integrabilidad (EDI Mza) y la plataforma ciudadana Mendoza por Mí, regulando la Identidad Digital Única.",
+  "puntos_clave": [
+   "Se reglamentó la Ley 9.625 de la provincia de Mendoza.",
+   "Se estableció el marco operativo del Ecosistema Digital de Integrabilidad (EDI Mza).",
+   "Se regula la plataforma ciudadana Mendoza por Mí y la Identidad Digital Única."
+  ],
+  "impacto_practico": "Establece nuevas obligaciones para los organismos provinciales en el marco de la digitalización y el Ecosistema Digital de Integrabilidad.",
+  "normas_citadas": [
+   "Ley 9.625",
+   "Decreto 2504/26"
+  ],
+  "etiquetas": [
+   "administracion publica digital",
+   "mendoza",
+   "identidad digital",
+   "ecosistema digital"
+  ],
+  "cita_sugerida": "Decreto 2504/26 de Mendoza, B.O. 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Mendoza reglamentó la Administración Pública Digital y establece nuevas obligaciones para los organismos provinciales",
+   "El Poder Ejecutivo provincial aprobó la reglamentación de la Ley 9.625"
+  ],
+  "extracto_oficial": "El Poder Ejecutivo provincial aprobó la reglamentación de la Ley 9.625 estableciendo el marco operativo del Ecosistema Digital de Integrabilidad (EDI Mza) y la plataforma ciudadana Mendoza por Mí, regulando herramientas como la Identidad Digital Única, ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:33:06+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "d5fd47ea5256",
+  "url_hash": "d5fd47ea5256351e319fd6970d2dfcd1a03b3859d25701d3d55c17daa68c201f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432431",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Modificación del procedimiento de control para resarcimientos a extrabajadores de YPF",
+  "titulo_original": "La SIGEN agilizó los procedimientos de control de los resarcimientos previstos para extrabajadores de YPF",
+  "bajada": "La Sindicatura General de la Nación modificó el procedimiento de control de los expedientes administrativos sobre indemnizaciones de la Ley 27.133 para exagentes de YPF.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Sindicatura General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución 328/26",
+  "id_legal_norm": "RESOLUCION 328/2026",
+  "holding": "Se agilizaron los procedimientos de control de los expedientes administrativos correspondientes al pago de las indemnizaciones previstas en la Ley 27.133, dirigidas a exagentes de YPF, sus herederos o derechohabientes que no fueron incorporados al Programa.",
+  "puntos_clave": [
+   "Modificación del procedimiento de control administrativo.",
+   "Alcance sobre expedientes de indemnizaciones de la Ley 27.133.",
+   "Destinado a exagentes de YPF, herederos o derechohabientes excluidos del Programa."
+  ],
+  "impacto_practico": "Permite agilizar la tramitación y control de los pagos indemnizatorios previstos para extrabajadores de YPF y sus derechohabientes.",
+  "normas_citadas": [
+   "Ley 27.133"
+  ],
+  "etiquetas": [
+   "sigen",
+   "ypf",
+   "indemnización",
+   "procedimiento administrativo"
+  ],
+  "cita_sugerida": "Resolución 328/26, Sindicatura General de la Nación, B.O. 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La SIGEN agilizó los procedimientos de control de los resarcimientos previstos para extrabajadores de YPF",
+   "Modificaron el procedimiento de control de los expedientes administrativos correspondientes al pago de las indemnizaciones previstas en la Ley 27.133"
+  ],
+  "extracto_oficial": "Modificaron el procedimiento de control de los expedientes administrativos correspondientes al pago de las indemnizaciones previstas en la Ley 27.133, destinadas a exagentes de YPF, sus herederos o derechohabientes que no fueron incorporados al Programa ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:31:36+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a20dd9517f72",
+  "url_hash": "a20dd9517f72d56c3650d9e1c0b79195c38dc77e6dd0ccec4fa0565b272573c8",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432430",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Modificación del plazo para solicitar la extensión de la Prestación por Desempleo rural",
+  "titulo_original": "Los trabajadores rurales mayores de 45 años tendrán 10 días para solicitar seis meses adicionales de prestación",
+  "bajada": "El Registro Nacional de Trabajadores Rurales y Empleadores redujo a diez días el plazo para que los trabajadores mayores de 45 años soliciten seis meses adicionales de prestación.",
+  "tipo": "Norma",
+  "materia": "Laboral",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Registro Nacional de Trabajadores Rurales y Empleadores",
+  "caratula": "",
+  "identificador_legal": "Resolución 108/26",
+  "id_legal_norm": "RESOLUCION 108/2026",
+  "holding": "Se modificó el régimen de extensión de la Prestación por Desempleo para trabajadores rurales mayores de 45 años, reduciendo el plazo de noventa a diez días para requerir seis meses adicionales del beneficio previsto por la normativa aplicable.",
+  "puntos_clave": [
+   "Modificación del régimen de extensión de la Prestación por Desempleo.",
+   "Reducción del plazo de noventa a diez días para la solicitud.",
+   "Alcance exclusivo para trabajadores rurales mayores de 45 años."
+  ],
+  "impacto_practico": "Obliga a los litigantes y asesores legales a advertir a sus clientes rurales la necesidad de actuar con mayor celeridad tras el cese laboral para no perder el beneficio adicional.",
+  "normas_citadas": [
+   "Ley 25.191"
+  ],
+  "etiquetas": [
+   "trabajadores rurales",
+   "prestación por desempleo",
+   "renatre",
+   "plazos"
+  ],
+  "cita_sugerida": "Registro Nacional de Trabajadores Rurales y Empleadores, Resolución 108/26, 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "reduciendo de 90 a 10 días el plazo para solicitar el beneficio adicional",
+   "modificó el régimen de extensión de la Prestación por Desempleo"
+  ],
+  "extracto_oficial": "El Registro Nacional de Trabajadores Rurales y Empleadores modificó el régimen de extensión de la Prestación por Desempleo establecido por la Ley 25.191, reduciendo de 90 a 10 días el plazo para solicitar el beneficio adicional.",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:27:55+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9730ebe77ddd",
+  "url_hash": "9730ebe77dddd880c23e5ef3a75528674ba0c0a61228f9b0b629e03236193523",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432433",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "SIRCIP: se posterga la incorporación de Mendoza",
+  "titulo_original": "SIRCIP: se posterga la incorporación de Mendoza por dificultades técnicas y operativas",
+  "bajada": "La Comisión Arbitral modificó el anexo de la Disposición 12/2026 y postergó la incorporación de la provincia de Mendoza al SIRCIP debido a dificultades técnicas.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Comisión Arbitral de Convenio Multilateral del 18.8.77",
+  "caratula": "",
+  "identificador_legal": "Disposición 13/26",
+  "id_legal_norm": "DISPOSICION 13/2026",
+  "holding": "Se dispuso excluir temporalmente a la provincia de Mendoza del cronograma de inicio de uso del Sistema Informático de Recaudación, Control e Información de Percepciones (SIRCIP) por inconvenientes técnicos y operativos.",
+  "puntos_clave": [
+   "Modificación del anexo de la Disposición 12/2026.",
+   "Postergación de la incorporación de Mendoza al SIRCIP.",
+   "Fundamento en dificultades técnicas y operativas."
+  ],
+  "impacto_practico": "Permite a los contribuyentes y profesionales en Ciencias Económicas advertir la modificación en el calendario de implementación del régimen de percepciones en dicha jurisdicción.",
+  "normas_citadas": [
+   "Disposición 13/26",
+   "Disposición 12/2026"
+  ],
+  "etiquetas": [
+   "sircip",
+   "comision arbitral",
+   "mendoza",
+   "convenio multilateral"
+  ],
+  "cita_sugerida": "Comisión Arbitral de Convenio Multilateral, Disposición 13/26, B.O. 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "se posterga la incorporación de Mendoza por dificultades técnicas y operativas",
+   "excluyó a la provincia de Mendoza de las jurisdicciones",
+   "Sistema Informático de Recaudación, Control e Información de Percepciones"
+  ],
+  "extracto_oficial": "La Comisión Arbitral modificó el anexo de la Disposición 12/2026 y excluyó a la provincia de Mendoza de las jurisdicciones que comenzarán a utilizar el Sistema Informático de Recaudación, Control e Información de Percepciones (SIRCIP) a partir del 1 de ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:32:06+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "8802eca09f47",
+  "url_hash": "8802eca09f47ffc2ed80ff9f7bb728afb1f4f3d221e4ea1983c95249c2da0c26",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPX0007017",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "CABA modificó el sistema de scoring en licencias de conducir",
+  "titulo_original": "CABA modificó el sistema de scoring: nuevos descuentos y recuperación de puntos en las licencias de conducir",
+  "bajada": "La norma introduce modificaciones en el Código de Tránsito y Transporte y en el Régimen de Faltas de la Ciudad de Buenos Aires respecto al sistema de scoring.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "CABA",
+  "tribunal": "Legislatura de la Ciudad de Buenos Aires",
+  "caratula": "",
+  "identificador_legal": "Ley 7017 de Ciudad de Buenos Aires",
+  "id_legal_norm": "LEY 7017",
+  "holding": "Se establecieron nuevas condiciones para el descuento y la reasignación de puntos en las licencias de conducir, modificando el Código de Tránsito y Transporte y el Régimen de Faltas local.",
+  "puntos_clave": [
+   "Modificación del Código de Tránsito y Transporte de la Ciudad de Buenos Aires.",
+   "Actualización del Régimen de Faltas en materia de licencias de conducir.",
+   "Establecimiento de nuevas condiciones para el descuento y recuperación de puntos."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y ciudadanos conocer el nuevo marco regulatorio aplicable al sistema de scoring y faltas de tránsito en CABA.",
+  "normas_citadas": [
+   "Ley 7017"
+  ],
+  "etiquetas": [
+   "scoring",
+   "licencia de conducir",
+   "faltas de tránsito",
+   "caba"
+  ],
+  "cita_sugerida": "Ley 7017 de Ciudad de Buenos Aires, B.O. 20/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Modificaron el Código de Tránsito y Transporte de la Ciudad de Buenos Aires",
+   "estableciendo nuevas condiciones para el descuento y la reasignación de puntos"
+  ],
+  "extracto_oficial": "Modificaron el Código de Tránsito y Transporte de la Ciudad de Buenos Aires y el Régimen de Faltas, estableciendo nuevas condiciones para el descuento y la reasignación de puntos en las licencias de conducir. La quita de puntos solo podrá efectuarse cuando ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:32:36+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "7f8ea1e2eaae",
+  "url_hash": "7f8ea1e2eaaee094ef9ca8613b83ec7cf425c32270e3aac38efcbcaf6f15a882",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432429",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Ampliación de obligaciones de gestión ambiental a sistemas de almacenamiento",
+  "titulo_original": "El ENReGE extendió las obligaciones de gestión ambiental a los sistemas de almacenamiento de energía en baterías",
+  "bajada": "El ENReGE extendió las obligaciones de gestión ambiental a los sistemas de almacenamiento de energía en baterías.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ente Nacional Regulador del Gas y la Electricidad",
+  "caratula": "",
+  "identificador_legal": "Resolución 957/26",
+  "id_legal_norm": "RESOLUCION 957/2026",
+  "holding": "Se ampliaron las obligaciones de gestión ambiental establecidas previamente por la normativa para abarcar a los agentes del Mercado Eléctrico Mayorista responsables de centrales y sistemas de almacenamiento de energía eléctrica en baterías.",
+  "puntos_clave": [
+   "Ampliación de obligaciones de gestión ambiental a sistemas de almacenamiento",
+   "Alcance a agentes del Mercado Eléctrico Mayorista con baterías",
+   "Obligación de elaborar, implementar y certificar la gestión ambiental"
+  ],
+  "impacto_practico": "Obliga a los agentes del Mercado Eléctrico Mayorista responsables de sistemas de almacenamiento en baterías a cumplir con estándares formales de gestión ambiental.",
+  "normas_citadas": [
+   "Resolución ENRE 558/2022"
+  ],
+  "etiquetas": [
+   "gestión ambiental",
+   "energía",
+   "baterías",
+   "mercado eléctrico mayorista"
+  ],
+  "cita_sugerida": "Ente Nacional Regulador del Gas y la Electricidad, Resolución 957/26, 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El ENReGE extendió las obligaciones de gestión ambiental",
+   "Resolución 957/26 - Ente Nacional Regulador del Gas y la Electricidad"
+  ],
+  "extracto_oficial": "Ampliaron las obligaciones establecidas por la Resolución ENRE 558/2022 a los agentes del Mercado Eléctrico Mayorista responsables de centrales y sistemas de almacenamiento de energía eléctrica en baterías, quienes deberán elaborar, implementar y certificar ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:29:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "74406f6b140b",
+  "url_hash": "74406f6b140bd40a14f1922501253c4f6a09390371b7cc56401d5ff82b811822",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432436",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nuevo Reglamento del Usuario de los servicios de agua y cloacas de AySA",
+  "titulo_original": "El ERAS aprobó un nuevo Reglamento del Usuario de los servicios de agua y cloacas de AySA",
+  "bajada": "El ERAS aprobó un nuevo reglamento que fija derechos, obligaciones, mecanismos de reclamo y pautas para la restricción del suministro por falta de pago.",
+  "tipo": "Norma",
+  "materia": "Consumo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ente Regulador de Agua y Saneamiento",
+  "caratula": "",
+  "identificador_legal": "Resolución 46/26",
+  "id_legal_norm": "RESOLUCION 46/2026",
+  "holding": "El Ente Regulador de Agua y Saneamiento aprobó un nuevo Reglamento del Usuario para los servicios prestados por AySA, estableciendo de manera obligatoria que, previo al corte del suministro a usuarios residenciales por falta de pago, deberá aplicarse una restricción del servicio durante al menos un plazo determinado.",
+  "puntos_clave": [
+   "Se fijan nuevos derechos y obligaciones para los usuarios de agua y cloacas.",
+   "Se establecen procedimientos de reclamo y mecanismos específicos de protección.",
+   "Se exige una restricción previa del suministro antes de proceder al corte por falta de pago en usuarios residenciales."
+  ],
+  "impacto_practico": "Permite a los usuarios residenciales y a sus letrados contar con un marco protector normativo frente a cortes de servicios sanitarios por falta de pago, exigiendo etapas previas de restricción.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "servicios públicos",
+   "agua potable",
+   "derechos del consumidor",
+   "cortes de suministro"
+  ],
+  "cita_sugerida": "Ente Regulador de Agua y Saneamiento, Resolución 46/26, 20/11/2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El ERAS aprobó un nuevo Reglamento del Usuario de los servicios de agua y cloacas de AySA",
+   "Antes de cortar el suministro a usuarios residenciales por falta de pago deberá aplicarse una restricción del servicio"
+  ],
+  "extracto_oficial": "El Ente estableció derechos y obligaciones, procedimientos de reclamo y mecanismos de protección para los usuarios. Antes de cortar el suministro a usuarios residenciales por falta de pago deberá aplicarse una restricción del servicio durante al menos ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:30:36+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "65195fc56c2c",
+  "url_hash": "65195fc56c2c69da11f430ab548eb3580e29886627efdaced504c89c7fa3063f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432435",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nuevos coeficientes zonales y actualización tarifaria de AySA",
+  "titulo_original": "El ERAS establece nuevos coeficientes zonales y un esquema gradual de actualización tarifaria de agua",
+  "bajada": "El ERAS aprobó nuevos coeficientes zonales y valores tarifarios para AySA, con vigencia desde el 1 de febrero de 2027.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ente Regulador de Agua y Saneamiento",
+  "caratula": "",
+  "identificador_legal": "Resolución 45/26",
+  "id_legal_norm": "RESOLUCION 45/2026",
+  "holding": "Se aprobaron nuevos coeficientes zonales y valores para los servicios de agua, cloacas y sistema pluvio-cloacal prestados por AySA, estableciendo un esquema gradual de actualización con topes mensuales.",
+  "puntos_clave": [
+   "Aprobación de nuevos coeficientes zonales y valores para AySA.",
+   "Inicio de aplicación fijado para el 1 de febrero de 2027.",
+   "Establecimiento de esquemas de descuentos para limitar el incremento efectivo."
+  ],
+  "impacto_practico": "Permite a los usuarios y operadores conocer el nuevo cuadro tarifario y los topes de incremento aplicables a los servicios sanitarios en el área regulada.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "tarifas",
+   "agua",
+   "aysa",
+   "servicios públicos"
+  ],
+  "cita_sugerida": "Ente Regulador de Agua y Saneamiento, Resolución 45/26, 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Aprobaron nuevos coeficientes zonales y valores para los servicios de agua, cloacas y sistema pluvio-cloacal de AySA",
+   "Dispusieron esquemas de descuentos para limitar al 1,5% mensual el incremento efectivo"
+  ],
+  "extracto_oficial": "Aprobaron nuevos coeficientes zonales y valores para los servicios de agua, cloacas y sistema pluvio-cloacal de AySA, cuya aplicación comenzará el 1 de febrero de 2027. Dispusieron esquemas de descuentos para limitar al 1,5% mensual el incremento efectivo ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:31:06+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5418b333b86a",
+  "url_hash": "5418b333b86a888eb5302323b80605ee80cd628c43271ea200c1dc6c6a5cae5f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52825",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Comercialización autorizada de levadura genéticamente modificada para bioetanol",
+  "titulo_original": "Habilitaron la comercialización de una levadura genéticamente modificada para producir bioetanol",
+  "bajada": "La Secretaría de Agricultura, Ganadería y Pesca autorizó a Danisco Argentina S.A. la comercialización de la levadura Saccharomyces cerevisiae PRCH20080.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría de Agricultura, Ganadería y Pesca",
+  "caratula": "",
+  "identificador_legal": "Resolución 234/26",
+  "id_legal_norm": "RESOLUCION 234/2026",
+  "holding": "Se autorizó formalmente a la firma Danisco Argentina S.A. la comercialización de la levadura genéticamente modificada Saccharomyces cerevisiae PRCH20080 destinada a optimizar la producción de bioetanol.",
+  "puntos_clave": [
+   "Autorización de comercialización de organismo genéticamente modificado.",
+   "Otorgado a la firma Danisco Argentina S.A.",
+   "Aplicación específica en la producción de bioetanol."
+  ],
+  "impacto_practico": "Permite a los operadores del sector industrial y de biocombustibles la utilización legal de este insumo biotecnológico específico.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "biotecnología",
+   "bioetanol",
+   "organismos genéticamente modificados",
+   "agricultura"
+  ],
+  "cita_sugerida": "Resolución 234/26, Secretaría de Agricultura, Ganadería y Pesca, 20/11/2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "autorizó a la firma Danisco Argentina S.A. a comercializar",
+   "la levadura genéticamente modificada Saccharomyces cerevisiae PRCH20080"
+  ],
+  "extracto_oficial": "La Secretaría de Agricultura, Ganadería y Pesca autorizó a la firma Danisco Argentina S.A. a comercializar la levadura genéticamente modificada Saccharomyces cerevisiae PRCH20080 (FS0436), desarrollada para mejorar la producción de etanol mediante la ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:30:09+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "0ace75f643ac",
+  "url_hash": "0ace75f643ac6217de5964ca272f00e195940dc85a0779ff66d4dfaa0926b84e",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432438",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización de controles para exportación de carne vacuna a la UE",
+  "titulo_original": "El Ministerio de Economía actualizó los controles para la exportación de carne vacuna de alta calidad a la Unión Europea",
+  "bajada": "El Ministerio de Economía estableció un nuevo régimen mediante la Resolución 2003/26 para el control de la exportación de carne vacuna de alta calidad a la Unión Europea.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía",
+  "caratula": "",
+  "identificador_legal": "Resolución 2003/26",
+  "id_legal_norm": "RESOLUCION 2003/2026",
+  "holding": "Se dispuso la implementación de un nuevo régimen normativo que incorpora herramientas digitales y sistemas de trazabilidad obligatorios para los frigoríficos exportadores hacia la Unión Europea, exigiendo el registro de faena y la identificación de medias reses aptas.",
+  "puntos_clave": [
+   "Incorporación de herramientas digitales y sistemas de trazabilidad para exportaciones.",
+   "Obligación de los frigoríficos de registrar la faena e identificar medias reses.",
+   "Requisito de separación, clasificación y evaluación por parte de tipificadores."
+  ],
+  "impacto_practico": "Permite a los operadores de la industria frigorífica y exportadores conocer las nuevas exigencias de trazabilidad y control digital para operar con la cuota de carne vacuna de alta calidad hacia la Unión Europea.",
+  "normas_citadas": [
+   "Resolución 2003/26"
+  ],
+  "etiquetas": [
+   "exportación",
+   "carne vacuna",
+   "trazabilidad",
+   "ministerio de economía"
+  ],
+  "cita_sugerida": "Ministerio de Economía, Resolución 2003/26, 20/11/2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Establecieron un nuevo régimen que incorpora herramientas digitales y sistemas de trazabilidad.",
+   "Los frigoríficos deberán registrar la faena, identificar las medias reses aptas"
+  ],
+  "extracto_oficial": "Establecieron un nuevo régimen que incorpora herramientas digitales y sistemas de trazabilidad. Los frigoríficos deberán registrar la faena, identificar las medias reses aptas y garantizar su separación, clasificación y evaluación por parte de tipificadores ...",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:28:55+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -743,6 +2254,116 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "c6945406f538",
+  "url_hash": "c6945406f53876229ab9b8103c54509aa436148f27b51257d47578924d55e228",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPM0009743",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Mendoza: nuevo marco regulatorio para las Escuelas de Verano",
+  "titulo_original": "Mendoza establece un nuevo marco regulatorio para las Escuelas de Verano en toda la provincia",
+  "bajada": "La provincia de Mendoza sancionó la Ley 9743 que establece un nuevo marco regulatorio para las Escuelas de Verano.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Legislatura de la Provincia de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Ley 9743 de Mendoza",
+  "id_legal_norm": "LEY 9743",
+  "holding": "Se creó una nómina de Escuelas de Verano dentro del Registro Provincial de Instituciones Deportivas y se fijaron los requisitos de inscripción obligatorios, tales como habilitaciones municipales, seguros de responsabilidad civil y cobertura de emergencias médicas.",
+  "puntos_clave": [
+   "Creación de una nómina específica de Escuelas de Verano en el Registro Provincial de Instituciones Deportivas.",
+   "Exigencia de habilitaciones municipales para el funcionamiento de los establecimientos.",
+   "Obligatoriedad de contar con seguros de responsabilidad civil y cobertura de emergencias médicas."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y prestadores conocer las exigencias normativas obligatorias para la habilitación y funcionamiento legal de las Escuelas de Verano en la provincia de Mendoza.",
+  "normas_citadas": [
+   "Ley 9743 de Mendoza"
+  ],
+  "etiquetas": [
+   "escuelas de verano",
+   "mendoza",
+   "registro provincial",
+   "habilitación municipal"
+  ],
+  "cita_sugerida": "Ley 9743 de Mendoza, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Mendoza establece un nuevo marco regulatorio para las Escuelas de Verano en toda la provincia",
+   "Crearon una nómina de Escuelas de Verano dentro del Registro Provincial de Instituciones Deportivas"
+  ],
+  "extracto_oficial": "Crearon una nómina de Escuelas de Verano dentro del Registro Provincial de Instituciones Deportivas y establecieron los requisitos de inscripción relacionados con habilitaciones municipales, seguros de responsabilidad civil, cobertura de emergencias médicas ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:37:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "bf332fb9e29a",
+  "url_hash": "bf332fb9e29a81bb6215fac79ec4028b8f215e62a67ddb9787e36d3403732c41",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432385",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nuevo reglamento de la Zona Franca de San Juan para el desarrollo minero y logístico",
+  "titulo_original": "San Juan tendrá un nuevo reglamento para su Zona Franca orientado al desarrollo minero y logístico",
+  "bajada": "El Ministerio de Economía aprobó un nuevo reglamento para la Zona Franca de San Juan orientado al perfil minero-industrial y logístico.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía",
+  "caratula": "",
+  "identificador_legal": "Resolución 2000/26",
+  "id_legal_norm": "RESOLUCION 2000/2026",
+  "holding": "Se aprueba un nuevo reglamento para adecuar el marco operativo de la Zona Franca de San Juan al perfil minero-industrial proyectado y a las necesidades logísticas de los proyectos de cobre y oro en la provincia.",
+  "puntos_clave": [
+   "Aprobación de la Resolución 2000/26 por el Ministerio de Economía.",
+   "Adecuación del marco operativo al perfil minero-industrial de San Juan.",
+   "Enfoque en las necesidades logísticas de proyectos de cobre y oro."
+  ],
+  "impacto_practico": "Permite a los operadores y empresas vinculadas a proyectos mineros en San Juan contar con un marco operativo y logístico actualizado en la Zona Franca.",
+  "normas_citadas": [
+   "Resolución 2000/26"
+  ],
+  "etiquetas": [
+   "zona franca",
+   "minería",
+   "san juan",
+   "logística"
+  ],
+  "cita_sugerida": "Ministerio de Economía, Resolución 2000/26, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "San Juan tendrá un nuevo reglamento para su Zona Franca orientado al desarrollo minero y logístico",
+   "El Ministerio de Economía aprobó el Reglamento a fin de adecuar su marco operativo"
+  ],
+  "extracto_oficial": "El Ministerio de Economía aprobó el Reglamento a fin de adecuar su marco operativo al perfil minero-industrial proyectado para el área y a las necesidades logísticas de los proyectos de cobre y oro que se desarrollan en la provincia.",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:35:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "a85718f6d73a",
   "url_hash": "a85718f6d73af6be28097541526a23a5fae5bc89ea43842e12b6669c35b69062",
   "fuente": "csjn",
@@ -795,6 +2416,227 @@
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "798c40b73c93",
+  "url_hash": "798c40b73c9370005001ada3f79858a695a655e3f9cbaf113da8523b6a0d0f48",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/RSRSCGV700056320261117",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Plan integral para digitalizar el Registro Nacional de Reincidencia",
+  "titulo_original": "El Ministerio de Justicia aprobó un plan integral para digitalizar y modernizar el Registro Nacional de Reincidencia",
+  "bajada": "El Ministerio de Justicia aprobó un plan integral para modernizar y digitalizar el Registro Nacional de Reincidencia mediante la Resolución 563/26.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Justicia",
+  "caratula": "",
+  "identificador_legal": "Resolución 563/26",
+  "id_legal_norm": "RESOLUCION 563/2026",
+  "holding": "Se dispuso la aprobación de un plan destinado a modernizar los procesos del organismo, disminuir el uso de soporte papel y correo electrónico, y optimizar el intercambio de información.",
+  "puntos_clave": [
+   "Aprobación del Plan Nacional de Digitalización, Interoperabilidad y Reorganización Integral del Registro Nacional de Reincidencia.",
+   "Reducción progresiva del uso de papel y de correo electrónico en los trámites y gestiones.",
+   "Fortalecimiento del intercambio de información y modernización de los procesos internos."
+  ],
+  "impacto_practico": "Optimiza la gestión y los tiempos operativos vinculados a los certificados y trámites del Registro Nacional de Reincidencia.",
+  "normas_citadas": [
+   "Resolución 563/26"
+  ],
+  "etiquetas": [
+   "reincidencia",
+   "digitalización",
+   "ministerio de justicia",
+   "modernización"
+  ],
+  "cita_sugerida": "Ministerio de Justicia, Resolución 563/26, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El Ministerio de Justicia aprobó un plan integral para digitalizar y modernizar el Registro Nacional de Reincidencia",
+   "El Plan Nacional de Digitalización, Interoperabilidad y Reorganización Integral del Registro Nacional de Reincidencia"
+  ],
+  "extracto_oficial": "El Plan Nacional de Digitalización, Interoperabilidad y Reorganización Integral del Registro Nacional de Reincidencia, está destinado a modernizar procesos, reducir progresivamente el uso de papel y correo electrónico y fortalecer el intercambio de información ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:35:58+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "742596a51ab8",
+  "url_hash": "742596a51ab85d2f76a3db511e7ce0ce4c70ab04693b94e2decbd68986aed5b5",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPO0011152",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Córdoba: restitución de inmueble a la Municipalidad de Deán Funes",
+  "titulo_original": "La Legislatura cordobesa autorizó la devolución de un inmueble a Deán Funes",
+  "bajada": "La Legislatura de Córdoba sancionó la Ley 11152 mediante la cual se dispone la restitución y donación de un inmueble a favor de la Municipalidad de Deán Funes.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Legislatura de la Provincia de Córdoba",
+  "caratula": "",
+  "identificador_legal": "Ley 11152 de Córdoba",
+  "id_legal_norm": "LEY 11152",
+  "holding": "Se autorizó la donación y devolución a favor de la Municipalidad de Deán Funes de un inmueble de 1,2 hectáreas ubicado en el paraje Los Algarrobos, departamento Ischilín, el cual había sido donado originalmente a la provincia en el año 2013 bajo cargo específico.",
+  "puntos_clave": [
+   "Sanción de la Ley 11152 por la Legislatura de Córdoba.",
+   "Objeto: devolución y donación de un terreno a la Municipalidad de Deán Funes.",
+   "Ubicación del inmueble: paraje Los Algarrobos, departamento Ischilín (1,2 hectáreas)."
+  ],
+  "impacto_practico": "Permite regularizar la situación dominial de un inmueble de 1,2 hectáreas en el departamento Ischilín, reintegrándolo al patrimonio municipal de Deán Funes.",
+  "normas_citadas": [
+   "Ley 11152 de Córdoba"
+  ],
+  "etiquetas": [
+   "inmueble",
+   "deán funes",
+   "córdoba",
+   "dominio público"
+  ],
+  "cita_sugerida": "Ley 11152 de Córdoba, B.O. 19/11/2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Dispusieron la donación a favor de la Municipalidad de Deán Funes",
+   "inmueble de 1,2 hectáreas ubicado en el paraje Los Algarrobos"
+  ],
+  "extracto_oficial": "Dispusieron la donación a favor de la Municipalidad de Deán Funes de un inmueble de 1,2 hectáreas ubicado en el paraje Los Algarrobos, departamento Ischilín. Se restituye el terreno, que había sido donado a la provincia en 2013 con el cargo específico ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:36:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "6d686ec161ac",
+  "url_hash": "6d686ec161ac238f1bcdd7e418aa28adf1689aee69ee5471305644c5dd2f3900",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432398",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Instrumentación de canje de deuda y emisión de Letra del Tesoro Nacional",
+  "titulo_original": "Las Secretarías de Finanzas y Hacienda instrumentan un canje de deuda",
+  "bajada": "Las Secretarías de Finanzas y Hacienda dispusieron la emisión de una nueva Letra del Tesoro Nacional vinculada al dólar estadounidense mediante la Resolución 66/26.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría de Finanzas",
+  "caratula": "",
+  "identificador_legal": "Resolución 66/26",
+  "id_legal_norm": "RESOLUCION 66/2026",
+  "holding": "Se dispuso la emisión de una nueva Letra del Tesoro Nacional vinculada al dólar estadounidense, denominada LELINK D29E7, con vencimiento el 29 de enero de 2027, por un monto máximo de valor nominal de USD 4.800 millones, aprobando una operación de conversión en el marco de un canje de deuda.",
+  "puntos_clave": [
+   "Instrumentación de un canje de deuda por parte de las Secretarías de Finanzas y Hacienda.",
+   "Creación de la Letra del Tesoro Nacional LELINK D29E7 vinculada al dólar estadounidense.",
+   "Fijación del vencimiento para el 29 de enero de 2027 por un valor nominal máximo de USD 4.800 millones."
+  ],
+  "impacto_practico": "Permite a los operadores económicos y financieros conocer los detalles de la nueva emisión de títulos públicos y la operatoria de conversión dispuesta por el Gobierno Nacional.",
+  "normas_citadas": [
+   "Resolución 66/26"
+  ],
+  "etiquetas": [
+   "canje de deuda",
+   "letra del tesoro",
+   "finanzas",
+   "deuda pública"
+  ],
+  "cita_sugerida": "Resolución 66/26 de la Secretaría de Finanzas, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Las Secretarías de Finanzas y Hacienda instrumentan un canje de deuda",
+   "Dispusieron la emisión de una nueva Letra del Tesoro Nacional vinculada al dólar estadounidense",
+   "con vencimiento el 29 de enero de 2027"
+  ],
+  "extracto_oficial": "Dispusieron la emisión de una nueva Letra del Tesoro Nacional vinculada al dólar estadounidense, denominada LELINK D29E7, con vencimiento el 29 de enero de 2027, por un monto máximo de valor nominal de USD 4.800 millones, aprobando una operación de conversión ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:36:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "666fa9f85843",
+  "url_hash": "666fa9f8584329dc4a17340095a4d6a148fd71b7645591d397fe003501ebb288",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432381",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Adopción de estándares internacionales en estadísticas oficiales",
+  "titulo_original": "El INDEC adoptó estándares internacionales para la producción y difusión de estadísticas oficiales",
+  "bajada": "El INDEC estableció el Código de Prácticas Estadísticas de la República Argentina mediante la Resolución 157/26.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Instituto Nacional de Estadística y Censos",
+  "caratula": "",
+  "identificador_legal": "Resolución 157/26",
+  "id_legal_norm": "RESOLUCION 157/2026",
+  "holding": "Se adoptaron estándares internacionales para la producción y difusión de estadísticas oficiales mediante el establecimiento del Código de Prácticas Estadísticas de la República Argentina, el cual regula el entorno institucional, el proceso estadístico y la producción estadística.",
+  "puntos_clave": [
+   "Se aprobó el Código de Prácticas Estadísticas de la República Argentina.",
+   "El código comprende 18 principios organizados en tres dimensiones distintas.",
+   "Su aplicación es de carácter obligatorio en el ámbito del Instituto Nacional de Estadística y Censos."
+  ],
+  "impacto_practico": "Obliga a la institución a regir su producción y difusión estadística bajo lineamientos estandarizados de carácter internacional.",
+  "normas_citadas": [
+   "Resolución 157/26"
+  ],
+  "etiquetas": [
+   "estadísticas oficiales",
+   "indec",
+   "resolución",
+   "normativa institucional"
+  ],
+  "cita_sugerida": "Instituto Nacional de Estadística y Censos, Resolución 157/26, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Establecieron el Código de Prácticas Estadísticas de la República Argentina",
+   "con 18 principios organizados en tres dimensiones: entorno institucional, proceso estadístico y producción estadística"
+  ],
+  "extracto_oficial": "Establecieron el Código de Prácticas Estadísticas de la República Argentina, con 18 principios organizados en tres dimensiones: entorno institucional, proceso estadístico y producción estadística. Será de aplicación obligatoria en el ámbito del Instituto, ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:34:06+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -859,6 +2701,61 @@
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5bf63f252955",
+  "url_hash": "5bf63f25295577421039c4fcc4a3b7e817dec7c3d2ed7126dccd443beb52dc27",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/DN20260001391",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Modificación presupuestaria: jubilaciones y seguridad social",
+  "titulo_original": "El PEN reforzó el presupuesto para jubilaciones, seguridad social, organismos públicos y empresas estatales",
+  "bajada": "El Poder Ejecutivo Nacional modificó por decreto el Presupuesto General de la Administración Nacional para el ejercicio 2026.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Poder Ejecutivo Nacional",
+  "caratula": "",
+  "identificador_legal": "Decreto 1391/26",
+  "id_legal_norm": "DECRETO 1391/2026",
+  "holding": "El Poder Ejecutivo modificó el Presupuesto General de la Administración Nacional para el ejercicio 2026 con el objeto de adecuar las partidas presupuestarias correspondientes a gastos de personal, funcionamiento, jubilaciones, pensiones, organismos públicos y empresas estatales.",
+  "puntos_clave": [
+   "Modificación del Presupuesto General de la Administración Nacional para 2026.",
+   "Adecuación de partidas para gastos de personal y funcionamiento.",
+   "Refuerzo presupuestario destinado a jubilaciones, pensiones y empresas estatales."
+  ],
+  "impacto_practico": "Permite conocer la reasignación de partidas presupuestarias que impactan en la seguridad social y en el funcionamiento de organismos públicos y empresas del Estado durante el ejercicio fiscal 2026.",
+  "normas_citadas": [
+   "Decreto 1391/26"
+  ],
+  "etiquetas": [
+   "presupuesto",
+   "jubilaciones",
+   "seguridad social",
+   "poder ejecutivo"
+  ],
+  "cita_sugerida": "Decreto 1391/26, B.O. 19/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "El PEN reforzó el presupuesto para jubilaciones, seguridad social, organismos públicos y empresas estatales",
+   "el Poder Ejecutivo modificó el Presupuesto General de la Administración Nacional para el ejercicio 2026"
+  ],
+  "extracto_oficial": "Por decreto de necesidad y urgencia el Poder Ejecutivo modificó el Presupuesto General de la Administración Nacional para el ejercicio 2026, con el objetivo de adecuar partidas destinadas a gastos de personal, funcionamiento, jubilaciones y pensiones, ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:33:36+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -991,6 +2888,114 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "4e59e84b4cd5",
+  "url_hash": "4e59e84b4cd57426fa9bf52d5de851af1cc5bd877e4f7fca6826f42ac0d25e0d",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPN0800126",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Misiones: creación del registro estadístico de alimentos extraprovinciales",
+  "titulo_original": "Misiones implementará un registro estadístico de alimentos provenientes de otras jurisdicciones",
+  "bajada": "Se creó el Registro Provincial de Ingreso de Productos Alimenticios de Origen Extraprovincial para identificar productos, cantidades y procedencia.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Misiones",
+  "tribunal": "Legislatura de la Provincia de Misiones",
+  "caratula": "",
+  "identificador_legal": "Ley 126 de Misiones",
+  "id_legal_norm": "LEY 126",
+  "holding": "La norma establece la creación de un registro obligatorio para identificar y contabilizar el ingreso de productos alimenticios provenientes de otras jurisdicciones a la provincia de Misiones, con el fin de analizar el abastecimiento local.",
+  "puntos_clave": [
+   "Creación del Registro Provincial de Ingreso de Productos Alimenticios de Origen Extraprovincial.",
+   "Obligación de identificar productos, cantidades y procedencia que ingresan a la provincia.",
+   "Finalidad orientada al análisis del abastecimiento de alimentos."
+  ],
+  "impacto_practico": "Permite a los operadores económicos y jurídicos conocer la nueva obligación de registración y control estadístico para la introducción de alimentos desde otras jurisdicciones a Misiones.",
+  "normas_citadas": [
+   "Ley 126"
+  ],
+  "etiquetas": [
+   "alimentos",
+   "registro estadístico",
+   "misiones",
+   "comercio interjurisdiccional"
+  ],
+  "cita_sugerida": "Ley 126 de Misiones, B.O. 19/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Crearon el Registro Provincial de Ingreso de Productos Alimenticios de Origen Extraprovincial",
+   "identificar los productos que ingresan a la provincia, sus cantidades y procedencia"
+  ],
+  "extracto_oficial": "Crearon el Registro Provincial de Ingreso de Productos Alimenticios de Origen Extraprovincial, con el objetivo de identificar los productos que ingresan a la provincia, sus cantidades y procedencia. La información permitirá analizar el abastecimiento ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:37:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "0f28c53d07d0",
+  "url_hash": "0f28c53d07d03d02fb01ce2de79095f9ede96844a4c543f67e3f972a2acc53fc",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432379",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Prorrogan la intervención del Puerto de Ushuaia",
+  "titulo_original": "Prorrogan la intervención del Puerto de Ushuaia y aprueban un nuevo plan de obras de infraestructura",
+  "bajada": "La Agencia Nacional de Puertos y Navegación extendió la intervención administrativa y aprobó un nuevo plan de obras.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Agencia Nacional de Puertos y Navegación",
+  "caratula": "",
+  "identificador_legal": "Resolución 69/26",
+  "id_legal_norm": "RESOLUCION 69/2026",
+  "holding": "Se dispuso la prórroga de la intervención administrativa del Puerto de Ushuaia junto con la aprobación de un plan de obras debido a deficiencias estructurales persistentes.",
+  "puntos_clave": [
+   "Prórroga de la intervención administrativa del Puerto de Ushuaia.",
+   "Aprobación de un nuevo plan de obras de infraestructura.",
+   "Fundamentación basada en la persistencia de deficiencias estructurales."
+  ],
+  "impacto_practico": "Permite conocer el mantenimiento de la intervención y las obras proyectadas para el Puerto de Ushuaia bajo órbita nacional.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "puerto de ushuaia",
+   "intervención",
+   "infraestructura",
+   "puertos"
+  ],
+  "cita_sugerida": "Agencia Nacional de Puertos y Navegación, Resolución 69/26",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Prorrogan la intervención del Puerto de Ushuaia y aprueban un nuevo plan de obras de infraestructura",
+   "debido a que aún persisten deficiencias estructurales"
+  ],
+  "extracto_oficial": "La Agencia Nacional de Puertos y Navegación aprobó un Plan de Obras de Infraestructura para el Puerto de Ushuaia y extendió las medidas de intervención administrativa dispuestas en enero de 2026, debido a que aún persisten deficiencias estructurales, ...",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:34:47+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "00dcf985e7bf",
   "url_hash": "00dcf985e7bfa213bcba862ccca5ddd4dcbd04b9177f9c9eeab5da33334b9cdc",
   "fuente": "csjn",
@@ -1048,6 +3053,825 @@
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "dfa5f7a0c086",
+  "url_hash": "dfa5f7a0c086604b877198a21228b991fa543020f3c5130223f85a84902cd75b",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432343",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "SIRCUPA: se elimina la exclusividad de Interbanking y se crea Pago Electrónico COMARB",
+  "titulo_original": "El Sistema Informático de Recaudación y Control dejará de operar exclusivamente con Interbanking",
+  "bajada": "La Comisión Arbitral modificó el procedimiento de cancelación de obligaciones del SIRCUPA, incorporando un nuevo esquema de pago electrónico.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Comisión Arbitral de Convenio Multilateral del 18.8.77",
+  "caratula": "",
+  "identificador_legal": "Resolución 13/26",
+  "id_legal_norm": "RESOLUCION 13/2026",
+  "holding": "Se modificó el procedimiento de cancelación de obligaciones del sistema SIRCUPA al dejar sin efecto la exigencia de operar exclusivamente con Interbanking y establecer un nuevo esquema denominado Pago Electrónico COMARB.",
+  "puntos_clave": [
+   "Modificación del procedimiento de cancelación de obligaciones en el sistema SIRCUPA.",
+   "Eliminación de la exclusividad operativa con Interbanking.",
+   "Implementación del nuevo esquema Pago Electrónico COMARB."
+  ],
+  "impacto_practico": "Permite a los contribuyentes y operadores del sistema SIRCUPA utilizar un nuevo mecanismo de pago electrónico alternativo a Interbanking para cancelar obligaciones fiscales.",
+  "normas_citadas": [
+   "Resolución 13/26"
+  ],
+  "etiquetas": [
+   "sircupa",
+   "comarb",
+   "tributario",
+   "interbanking"
+  ],
+  "cita_sugerida": "Comisión Arbitral de Convenio Multilateral del 18.8.77, Resolución 13/26",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El Sistema Informático de Recaudación y Control dejará de operar exclusivamente con Interbanking",
+   "Modificaron el procedimiento de cancelación de obligaciones del sistema SIRCUPA"
+  ],
+  "extracto_oficial": "Modificaron el procedimiento de cancelación de obligaciones del sistema SIRCUPA, reemplazando el mecanismo que exigía realizar los pagos exclusivamente a través de Interbanking por el nuevo esquema denominado Pago Electrónico COMARB. A partir del cambio, ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:40:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "dccd6acaa6fc",
+  "url_hash": "dccd6acaa6fcffd9779c0ef43b0b4a2f011aeaff5bbc179fa4b9fccc2e1c3671",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPS0014495",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Santa Fe: Registro obligatorio y trazabilidad de dispositivos tecnológicos",
+  "titulo_original": "Santa Fe establece un registro obligatorio y controles de trazabilidad para la compraventa de dispositivos tecnológicos",
+  "bajada": "Se creó el Sistema Provincial de Intervención de los Mercados Ilícitos de Dispositivos Tecnológicos para prevenir la comercialización ilegal.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Santa Fe",
+  "tribunal": "Legislatura de la Provincia de Santa Fe",
+  "caratula": "",
+  "identificador_legal": "Ley 14495 de Santa Fe",
+  "id_legal_norm": "LEY 14495",
+  "holding": "Se sancionó la Ley 14495 que crea el Sistema Provincial de Intervención de los Mercados Ilícitos de Dispositivos Tecnológicos, estableciendo un registro obligatorio y controles de trazabilidad orientados a combatir la venta ilegal de celulares y equipos informáticos.",
+  "puntos_clave": [
+   "Creación del Sistema Provincial de Intervención de los Mercados Ilícitos de Dispositivos Tecnológicos.",
+   "Establecimiento de un registro obligatorio de compraventa.",
+   "Implementación de controles de trazabilidad para prevenir el comercio de equipos de origen ilícito."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales y fuerzas de seguridad contar con herramientas de trazabilidad para combatir el mercado ilegal de tecnología y facilitar la recuperación de equipos sustraídos.",
+  "normas_citadas": [
+   "Ley 14495"
+  ],
+  "etiquetas": [
+   "dispositivos tecnológicos",
+   "seguridad pública",
+   "trazabilidad",
+   "santa fe"
+  ],
+  "cita_sugerida": "Ley 14495 de Santa Fe, B.O. 18/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Santa Fe establece un registro obligatorio y controles de trazabilidad para la compraventa de dispositivos tecnológicos",
+   "Crearon el Sistema Provincial de Intervención de los Mercados Ilícitos de Dispositivos Tecnológicos"
+  ],
+  "extracto_oficial": "Crearon el Sistema Provincial de Intervención de los Mercados Ilícitos de Dispositivos Tecnológicos, con el objetivo de prevenir y combatir la comercialización de celulares y equipos de origen ilícito, fortalecer la seguridad pública y facilitar la recuperación ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:43:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "d7db46bd545b",
+  "url_hash": "d7db46bd545b46290afe37cf3d917fef41f8865f8fdb4814c02fdbf94ff2e105",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52783",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Habilitación comercial de microorganismo modificado por Res. 233/26",
+  "titulo_original": "La Secretaría de Agricultura habilitó el uso comercial de un microorganismo modificado",
+  "bajada": "La Secretaría de Agricultura autorizó la comercialización del microorganismo genéticamente modificado Bacillus subtilis AP514.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría de Agricultura, Ganadería y Pesca",
+  "caratula": "",
+  "identificador_legal": "Resolución 233/26",
+  "id_legal_norm": "RESOLUCION 233/2026",
+  "holding": "Se autorizó a Danisco Argentina S.A. la comercialización del microorganismo genéticamente modificado Bacillus subtilis AP514 tras los informes favorables de la CONABIA.",
+  "puntos_clave": [
+   "Autorización de comercialización de microorganismo modificado",
+   "Intervención previa de la CONABIA",
+   "Destinado a la producción de la enzima proteasa"
+  ],
+  "impacto_practico": "Permite a la empresa interesada operar comercialmente con el microorganismo aprobado para la producción enzimática en el ámbito nacional.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "biotecnologia",
+   "agricultura",
+   "microorganismos",
+   "conabia"
+  ],
+  "cita_sugerida": "Resolución 233/26, Secretaría de Agricultura, Ganadería y Pesca, B.O. 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Secretaría de Agricultura habilitó el uso comercial de un microorganismo modificado",
+   "Autorizaron a Danisco Argentina S.A. la comercialización del microorganismo genéticamente modificado"
+  ],
+  "extracto_oficial": "Autorizaron a Danisco Argentina S.A. la comercialización del microorganismo genéticamente modificado Bacillus subtilis AP514 (GICC03687), destinado a la producción de la enzima proteasa. La decisión se adoptó luego de que la CONABIA concluyera que su ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:39:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a4518a9361d2",
+  "url_hash": "a4518a9361d2cb932c8b86e4408b261a778147fbb48bc73e56d98b41d669db84",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432341",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Programas de asistencia para personas con discapacidad: aprobación de planes",
+  "titulo_original": "Personas con discapacidad: habilitarán la presentación de proyectos para acceder a nuevos programas de asistencia",
+  "bajada": "Se aprobaron el Programa de Apoyos Técnicos para Personas con Discapacidad y el Programa de Apoyo a Emprendedores con Discapacidad para el ejercicio 2026.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría Nacional de Discapacidad",
+  "caratula": "",
+  "identificador_legal": "Resolución 3716/26",
+  "id_legal_norm": "RESOLUCION 3716/2026",
+  "holding": "Se dispuso la aprobación de los nuevos programas de asistencia, estableciendo un período de difusión de 30 días para la presentación de proyectos destinados a acceder a dichas herramientas.",
+  "puntos_clave": [
+   "Aprobación de programas de asistencia para el ejercicio 2026.",
+   "Implementación del Programa de Apoyos Técnicos y del Programa de Apoyo a Emprendedores con Discapacidad.",
+   "Establecimiento de un período de difusión de treinta días para la presentación de proyectos."
+  ],
+  "impacto_practico": "Permite a las personas con discapacidad y a sus asesores conocer las nuevas líneas de asistencia y preparar la presentación de proyectos en el plazo establecido.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "discapacidad",
+   "asistencia",
+   "emprendedores",
+   "programas sociales"
+  ],
+  "cita_sugerida": "Secretaría Nacional de Discapacidad, Resolución 3716/26, 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Aprobaron el Programa de Apoyos Técnicos para Personas con Discapacidad",
+   "La Secretaría Nacional de la Discapacidad dispuso de un período de difusión"
+  ],
+  "extracto_oficial": "Aprobaron el Programa de Apoyos Técnicos para Personas con Discapacidad y el Programa de Apoyo a Emprendedores con Discapacidad, correspondientes al ejercicio 2026. La Secretaría Nacional de la Discapacidad dispuso de un período de difusión de 30 días ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:38:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a3243e48a79d",
+  "url_hash": "a3243e48a79dcb506d23eeb3655df31e471de6613f30cecf2aacbae2e72ba3f1",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/M20260002522",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Mendoza reglamenta la Ley de la Emergencia por Riesgo Hidrometeorológico",
+  "titulo_original": "Mendoza reglamenta la Ley de la Emergencia por Riesgo Hidrometeorológico y Climático",
+  "bajada": "El Poder Ejecutivo provincial reglamentó los procedimientos de contratación y ejecución de obras previstos en el marco de la emergencia.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Poder Ejecutivo de la Provincia de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Decreto 2522/26 de Mendoza",
+  "id_legal_norm": "DECRETO 2522/2026",
+  "holding": "Se establecieron los mecanismos de contratación de emergencia y adjudicación directa para montos menores con el fin de agilizar las intervenciones necesarias ante riesgos hidrometeorológicos y climáticos.",
+  "puntos_clave": [
+   "Reglamentación de la Ley de Emergencia por Riesgo Hidrometeorológico y Climático.",
+   "Implementación de procedimientos de contratación de emergencia.",
+   "Habilitación de adjudicación directa para montos menores."
+  ],
+  "impacto_practico": "Facilita a la administración pública provincial la agilización de compras y contrataciones urgentes en el marco de la emergencia climática.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "emergencia climática",
+   "contrataciones",
+   "mendoza",
+   "decreto"
+  ],
+  "cita_sugerida": "Decreto 2522/26 de Mendoza, B.O. 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Mendoza reglamenta la Ley de la Emergencia por Riesgo Hidrometeorológico y Climático",
+   "El Poder Ejecutivo estableció los procedimientos para la contratación, adquisición y ejecución"
+  ],
+  "extracto_oficial": "El Poder Ejecutivo estableció los procedimientos para la contratación, adquisición y ejecución de las intervenciones necesarias, habilitando mecanismos de contratación de emergencia y adjudicación directa para montos menores, y procurando la participación ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:43:45+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9f4ce2b16952",
+  "url_hash": "9f4ce2b16952a5496c79460e1da503cd04ed17d02346b3e71c0d2c83a003e476",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPN0700113",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Mecenazgo en Misiones: financiamiento de proyectos y crédito fiscal",
+  "titulo_original": "Mecenazgo en Misiones: las empresas podrán financiar proyectos y obtener crédito fiscal",
+  "bajada": "Se sancionó la Ley 113 que permite a las empresas financiar proyectos culturales y sociales a cambio de un régimen de crédito fiscal.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Misiones",
+  "tribunal": "Legislatura de la Provincia de Misiones",
+  "caratula": "",
+  "identificador_legal": "Ley 113 de Misiones",
+  "id_legal_norm": "LEY 113",
+  "holding": "La norma establece un régimen de mecenazgo que habilita al sector privado a financiar iniciativas de diversos actores sociales y obtener certificados de crédito fiscal en compensación.",
+  "puntos_clave": [
+   "Promueve la participación del sector privado en el desarrollo de talento local.",
+   "Permite financiar iniciativas de personas, clubes, asociaciones, instituciones educativas y centros tecnológicos.",
+   "Implementa la emisión de certificados de crédito fiscal para los aportantes."
+  ],
+  "impacto_practico": "Permite a los contribuyentes locales aplicar aportes a proyectos específicos deduciéndolos mediante certificados de crédito fiscal.",
+  "normas_citadas": [
+   "Ley 113"
+  ],
+  "etiquetas": [
+   "mecenazgo",
+   "credito fiscal",
+   "misiones",
+   "financiamiento"
+  ],
+  "cita_sugerida": "Ley 113 de Misiones, B.O. 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La ley promueve la participación del sector privado",
+   "El beneficio contempla la emisión de certificados"
+  ],
+  "extracto_oficial": "La ley promueve la participación del sector privado en el desarrollo del talento misionero, permitiendo financiar iniciativas de personas, clubes, asociaciones, instituciones educativas y centros tecnológicos. El beneficio contempla la emisión de certificados ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:42:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "87c41a1e9cfc",
+  "url_hash": "87c41a1e9cfce753a0714ef343317cbf89b99a863d408925e8d54bc5da0651a5",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432340",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Actualización de aranceles del Sistema de Prestaciones Básicas en Discapacidad",
+  "titulo_original": "La Secretaría Nacional de Discapacidad actualizó el valor de las prestaciones",
+  "bajada": "Se dispuso un incremento del 2,20% en los aranceles del Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad para noviembre de 2026.",
+  "tipo": "Norma",
+  "materia": "Derechos Humanos",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Secretaría Nacional de Discapacidad",
+  "caratula": "",
+  "identificador_legal": "Resolución 3715/26",
+  "id_legal_norm": "RESOLUCION 3715/2026",
+  "holding": "La Secretaría Nacional de Discapacidad determinó una actualización arancelaria del 2,20% aplicable al Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad, calculada en función de la variación del Índice de Precios.",
+  "puntos_clave": [
+   "Incremento arancelario del 2,20% para noviembre de 2026.",
+   "Aplica sobre el Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad.",
+   "La actualización se calculó en base a la variación del Índice de Precios."
+  ],
+  "impacto_practico": "Permite a los prestadores y efectores del sistema adecuar la facturación y los valores de las prestaciones básicas para personas con discapacidad conforme al nuevo porcentaje oficial.",
+  "normas_citadas": [
+   "Resolución 3715/26"
+  ],
+  "etiquetas": [
+   "discapacidad",
+   "prestaciones básicas",
+   "actualización arancelaria",
+   "índice de precios"
+  ],
+  "cita_sugerida": "Secretaría Nacional de Discapacidad, Resolución 3715/26, B.O. 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Dispusieron un incremento del 2,20% en los aranceles",
+   "La actualización se calculó sobre la base de la variación del Índice de Precios"
+  ],
+  "extracto_oficial": "Dispusieron un incremento del 2,20% en los aranceles del Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad para noviembre de 2026. La actualización se calculó sobre la base de la variación del Índice de Precios ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:38:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "408d956b1f4f",
+  "url_hash": "408d956b1f4fbd2d6840e0930ef302f42a9158844822b07ce999cec535144ad0",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPM0009742",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Mendoza: Convalidación legislativa de decretos de homologación salarial",
+  "titulo_original": "La Legislatura mendocina convalidó decretos de homologación de acuerdos salariales con sindicatos estatales",
+  "bajada": "La Legislatura provincial ratificó diversos decretos que homologan actas acuerdo celebradas con sindicatos estatales.",
+  "tipo": "Norma",
+  "materia": "Laboral",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Legislatura de la Provincia de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Ley 9742 de Mendoza",
+  "id_legal_norm": "LEY 9742",
+  "holding": "Se ratificaron normativamente los decretos del Poder Ejecutivo que homologaron acuerdos paritarios y actas celebradas en el ámbito de la Subsecretaría de Trabajo y Empleo con representantes de sindicatos estatales de Mendoza.",
+  "puntos_clave": [
+   "Sanción de la Ley 9742 en la provincia de Mendoza.",
+   "Ratificación formal de decretos de homologación de acuerdos salariales.",
+   "Alcance a las actas acuerdo celebradas con sindicatos estatales."
+  ],
+  "impacto_practico": "Permite verificar la validez y vigencia legal de los acuerdos paritarios y decretos salariales del sector público provincial involucrados.",
+  "normas_citadas": [
+   "Ley 9742"
+  ],
+  "etiquetas": [
+   "empleo público",
+   "paritarias",
+   "mendoza",
+   "salarios"
+  ],
+  "cita_sugerida": "Ley 9742 de Mendoza, B.O. 18/11/2026.",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Legislatura mendocina convalidó decretos de homologación de acuerdos salariales con sindicatos estatales.",
+   "Ratificaron los Decretos 972/26, 1.375/26, 1.518/26"
+  ],
+  "extracto_oficial": "Ratificaron los Decretos 972/26, 1.375/26, 1.518/26, 1.741/26, 1.767/26, 1.926/26, 1.969/26, 1.970/26 y 2.243/26, mediante los cuales se homologaron actas acuerdo celebradas en el ámbito de la Subsecretaría de Trabajo y Empleo entre representantes del ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:41:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3f41c90ffa07",
+  "url_hash": "3f41c90ffa0766d7746b5f119f2918a96ee8e048364c04e144be60d018adda58",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432352",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Prohibición de ractopamina y beta agonistas en producción porcina",
+  "titulo_original": "El SENASA eliminó la excepción que permitía utilizar ractopamina en la producción porcina",
+  "bajada": "El SENASA eliminó la excepción que permitía utilizar ractopamina y prohibió el uso y comercialización de productos veterinarios con sustancias beta agonistas o tirostáticas.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "caratula": "",
+  "identificador_legal": "Resolución 956/26",
+  "id_legal_norm": "RESOLUCION 956/2026",
+  "holding": "Se prohibió en todo el territorio nacional el uso y la comercialización de productos veterinarios destinados a promover el crecimiento animal que contengan sustancias de acción beta agonista o tirostática, eliminando la excepción que permitía el uso de ractopamina en la producción porcina.",
+  "puntos_clave": [
+   "Se prohíbe el uso y comercialización de productos veterinarios promotores del crecimiento con beta agonistas o tirostáticas.",
+   "Se elimina la excepción vigente que permitía la utilización de ractopamina en la producción porcina.",
+   "La medida rige en todo el territorio de la Nación a partir de su publicación oficial."
+  ],
+  "impacto_practico": "Impacta de forma directa en los productores porcinos y en la industria farmacéutica veterinaria, exigiendo la adecuación inmediata de los métodos de producción y la reformulación de productos destinados al crecimiento animal.",
+  "normas_citadas": [
+   "Resolución 956/26"
+  ],
+  "etiquetas": [
+   "senasa",
+   "ractopamina",
+   "producción porcina",
+   "sanidad animal"
+  ],
+  "cita_sugerida": "Servicio Nacional de Sanidad y Calidad Agroalimentaria, Resolución 956/26, B.O. 18/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Prohibieron en todo el territorio nacional el uso y la comercialización",
+   "eliminando la excepción que permitía utilizarla"
+  ],
+  "extracto_oficial": "Prohibieron en todo el territorio nacional el uso y la comercialización de productos veterinarios destinados a promover el crecimiento animal que contengan sustancias de acción beta agonista o tirostática, eliminando la excepción que permitía utilizarla ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:39:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "26e62c6db3d7",
+  "url_hash": "26e62c6db3d71c2ed5890ffc049db234c56af432e66b7053a2ac15cfae1fa63b",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/encuestas/GetInfoleg?id=432354",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Pago Electrónico COMARB: nuevos canales de cancelación tributaria",
+  "titulo_original": "La Comisión Arbitral amplía y organiza los canales electrónicos para cancelar obligaciones tributarias",
+  "bajada": "La Comisión Arbitral estableció el sistema de transferencia electrónica de fondos Pago Electrónico COMARB como marco general para cancelar obligaciones tributarias.",
+  "tipo": "Norma",
+  "materia": "Tributario",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Comisión Arbitral de Convenio Multilateral del 18.8.77",
+  "caratula": "",
+  "identificador_legal": "Resolución 12/26",
+  "id_legal_norm": "RESOLUCION 12/2026",
+  "holding": "Se dispuso la creación del sistema de transferencia electrónica de fondos denominado Pago Electrónico COMARB para unificar y organizar la cancelación de las obligaciones de pago de los sistemas administrados por el organismo.",
+  "puntos_clave": [
+   "Creación del sistema Pago Electrónico COMARB.",
+   "Funcionamiento como marco general para cancelar obligaciones tributarias.",
+   "Unificación de los pagos generados por los sistemas del organismo."
+  ],
+  "impacto_practico": "Facilita a los contribuyentes y profesionales la cancelación centralizada de obligaciones fiscales bajo el régimen del Convenio Multilateral mediante canales electrónicos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "comarb",
+   "convenio multilateral",
+   "pago electrónico",
+   "tributario"
+  ],
+  "cita_sugerida": "Comisión Arbitral de Convenio Multilateral del 18.8.77, Resolución 12/26",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Establecieron el sistema de transferencia electrónica de fondos denominado Pago Electrónico COMARB",
+   "como marco general para cancelar las obligaciones de pago generadas"
+  ],
+  "extracto_oficial": "Establecieron el sistema de transferencia electrónica de fondos denominado Pago Electrónico COMARB, que funcionará como marco general para cancelar las obligaciones de pago generadas por los distintos sistemas administrados por el organismo, entre ellos ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:41:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "01dbf48289ad",
+  "url_hash": "01dbf48289ad3bc6b5eaf815fa053fbbfe3ae094c02c3cdac21b56b1a9409c8f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/RSRSCGV700055920261113",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Perjuicio fiscal y responsabilidad disciplinaria en registro automotor",
+  "titulo_original": "El Ministerio de Justicia determinó la existencia de perjuicio fiscal en un registro automotor de Rosario",
+  "bajada": "El Ministerio de Justicia concluyó un sumario administrativo y declaró la responsabilidad disciplinaria de un exencargado de un registro automotor por retener indebidamente fondos.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Justicia",
+  "caratula": "",
+  "identificador_legal": "Resolución 559/26",
+  "id_legal_norm": "RESOLUCION 559/2026",
+  "holding": "Se determinó la existencia de perjuicio fiscal y se declaró la responsabilidad disciplinaria del exencargado titular del Registro Seccional de la Propiedad del Automotor de Rosario Nro. 12 tras comprobarse la retención indebida de remanentes de recaudación.",
+  "puntos_clave": [
+   "Conclusión de sumario administrativo contra exencargado titular.",
+   "Declaración de responsabilidad disciplinaria por retención de fondos.",
+   "Determinación formal de perjuicio fiscal en registro automotor."
+  ],
+  "impacto_practico": "Permite conocer los criterios de persecución y sanción administrativa ante faltas patrimoniales en registros seccionales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "sumario administrativo",
+   "perjuicio fiscal",
+   "registro automotor",
+   "responsabilidad disciplinaria"
+  ],
+  "cita_sugerida": "Ministerio de Justicia, Resolución 559/26, 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "determinó la existencia de perjuicio fiscal en un registro automotor de Rosario",
+   "Concluyeron el sumario administrativo contra Alejo Uribe Escobar",
+   "declararon su responsabilidad disciplinaria por retener indebidamente remanentes de recaudación"
+  ],
+  "extracto_oficial": "Concluyeron el sumario administrativo contra Alejo Uribe Escobar, exencargado titular del Registro Seccional de la Propiedad del Automotor de Rosario Nro. 12, y declararon su responsabilidad disciplinaria por retener indebidamente remanentes de recaudación ...",
+  "oficial": {},
+  "fecha": "2026-11-18T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:40:27+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "41e8b0edbff7",
+  "url_hash": "41e8b0edbff79a62305b8f5f9986c7e461da7285402b3c8e753d3cb4b8a929e0",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/X20260000397",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nuevo régimen para incentivar el desarrollo urbano y espacios verdes en CABA",
+  "titulo_original": "Nuevo régimen para incentivar el desarrollo urbano y la generación de espacios verdes en la Ciudad de Buenos Aires",
+  "bajada": "Se reformuló la reglamentación del Código Urbanístico porteño en materia de capacidad constructiva y áreas de espacios verdes.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "CABA",
+  "tribunal": "Poder Ejecutivo de la Ciudad de Buenos Aires",
+  "caratula": "",
+  "identificador_legal": "Decreto 397/26 de Ciudad de Buenos Aires",
+  "id_legal_norm": "DECRETO 397/2026",
+  "holding": "El Poder Ejecutivo de la Ciudad de Buenos Aires dictó el Decreto 397/26 para reformular la reglamentación de los puntos 10.1, sobre Capacidad Constructiva Adicional, y 10.13, referido a las Áreas de Promoción de Espacios Verdes, del Código Urbanístico de la Ciudad de Buenos Aires, con el propósito de optimizar los procedimientos.",
+  "puntos_clave": [
+   "Reformulación de la reglamentación del Código Urbanístico porteño.",
+   "Modificación del punto 10.1 sobre Capacidad Constructiva Adicional.",
+   "Actualización del punto 10.13 referido a las Áreas de Promoción de Espacios Verdes."
+  ],
+  "impacto_practico": "Permite a operadores jurídicos, urbanistas y desarrolladores conocer las nuevas pautas procedimentales sobre capacidad constructiva y espacios verdes en la Ciudad de Buenos Aires.",
+  "normas_citadas": [
+   "Decreto 397/26",
+   "Código Urbanístico de la Ciudad de Buenos Aires"
+  ],
+  "etiquetas": [
+   "desarrollo urbano",
+   "espacios verdes",
+   "caba",
+   "código urbanístico"
+  ],
+  "cita_sugerida": "Decreto 397/26 de Ciudad de Buenos Aires, B.O. 17/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Reformularon la reglamentación de los puntos 10.1, sobre Capacidad Constructiva Adicional",
+   "Áreas de Promoción de Espacios Verdes (APEV), del Código Urbanístico de la Ciudad de Buenos Aires"
+  ],
+  "extracto_oficial": "Reformularon la reglamentación de los puntos 10.1, sobre Capacidad Constructiva Adicional (CCA), y 10.13, referido a las Áreas de Promoción de Espacios Verdes (APEV), del Código Urbanístico de la Ciudad de Buenos Aires a fin de optimizar los procedimientos ...",
+  "oficial": {},
+  "fecha": "2026-11-17T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:44:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3dd137bedf5c",
+  "url_hash": "3dd137bedf5cfb253ff02ef7ea626850ebea2d95ff97fad77d79fa4c7868a98f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/M20260002476",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Reglamentación de protección contra incendios en Mendoza",
+  "titulo_original": "Mendoza establece inspecciones anuales, sanciones y medidas preventivas para la protección contra incendios",
+  "bajada": "El Poder Ejecutivo provincial reglamentó la Ley 7.499 fijando inspecciones anuales, sanciones y medidas preventivas.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Poder Ejecutivo de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Decreto 2476/26 de Mendoza",
+  "id_legal_norm": "DECRETO 2476/2026",
+  "holding": "Se reglamentó la Ley 7.499 determinando las competencias de la Dirección de Bomberos de Mendoza, los municipios y los organismos habilitados para emitir el Certificado de Medidas de Protección Aptas Contra Incendios.",
+  "puntos_clave": [
+   "Establece inspecciones anuales obligatorias para la protección contra incendios.",
+   "Determina el régimen de sanciones y medidas preventivas aplicables en la provincia.",
+   "Precisa las competencias de la Dirección de Bomberos y los municipios."
+  ],
+  "impacto_practico": "Define el marco de actuación para organismos de control y obligados en materia de seguridad contra incendios en la provincia de Mendoza.",
+  "normas_citadas": [
+   "Ley 7.499",
+   "Decreto 2476/26"
+  ],
+  "etiquetas": [
+   "incendios",
+   "mendoza",
+   "seguridad",
+   "reglamentación"
+  ],
+  "cita_sugerida": "Decreto 2476/26 de Mendoza, B.O. 17/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Mendoza establece inspecciones anuales, sanciones y medidas preventivas para la protección contra incendios",
+   "El Poder ejecutivo provincial reglamentó la Ley 7.499"
+  ],
+  "extracto_oficial": "El Poder ejecutivo provincial reglamentó la Ley 7.499, determinando las competencias de la Dirección de Bomberos de Mendoza, los municipios y los organismos habilitados para emitir el Certificado de Medidas de Protección Aptas Contra Incendios (Ce.Me.P.A.C.I.). ...",
+  "oficial": {},
+  "fecha": "2026-11-17T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:44:45+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "59e7778227a0",
+  "url_hash": "59e7778227a01ab8c91662265b9f48d235bfbb87619700d134c407a4f76e042a",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPO0011154",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Córdoba: ampliación del radio comunal de San Roque",
+  "titulo_original": "San Roque amplía y redefine sus límites jurisdiccionales",
+  "bajada": "Se modificó el radio comunal de la localidad de San Roque, en el departamento Punilla, estableciendo una superficie total de 1.008 hectáreas.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Legislatura de la Provincia de Córdoba",
+  "caratula": "",
+  "identificador_legal": "Ley 11154 de Córdoba",
+  "id_legal_norm": "LEY 11154",
+  "holding": "Mediante la Ley 11154, la Provincia de Córdoba redefinió los límites jurisdiccionales y el radio comunal de la localidad de San Roque, fijando una superficie total de 1.008 hectáreas delimitada por un polígono de 90 vértices georreferenciados.",
+  "puntos_clave": [
+   "Modificación del radio comunal de la localidad de San Roque.",
+   "Establecimiento de una superficie total de 1.008 hectáreas.",
+   "Delimitación mediante un polígono definido por 90 vértices georreferenciados."
+  ],
+  "impacto_practico": "Permite delimitar con precisión la jurisdicción territorial y administrativa de la comuna de San Roque para la gestión local y el ejercicio de competencias municipales.",
+  "normas_citadas": [
+   "Ley 11154"
+  ],
+  "etiquetas": [
+   "limites jurisdiccionales",
+   "radio comunal",
+   "cordoba",
+   "san roque"
+  ],
+  "cita_sugerida": "Ley 11154 de Córdoba, B.O. 16/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Ley 11154 de Córdoba",
+   "estableciendo una superficie total de 1.008 hectáreas"
+  ],
+  "extracto_oficial": "Modificaron el radio comunal de la localidad del departamento Punilla, estableciendo una superficie total de 1.008 hectáreas. La nueva delimitación comprende un polígono definido por 90 vértices georreferenciados, cuyas coordenadas y extensiones lineales ...",
+  "oficial": {},
+  "fecha": "2026-11-16T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:45:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "73bcfb07d0c5",
+  "url_hash": "73bcfb07d0c50a5e77c98435ef715ea47fdb04e4233d310c64598da5f883a266",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPL0003661",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "La Pampa: obligatoriedad de la educación inicial desde los tres años",
+  "titulo_original": "La Pampa establece la obligatoriedad de la educación inicial desde los tres años a partir de 2027",
+  "bajada": "Se modificó la Ley de Educación Provincial para establecer la escolaridad obligatoria desde los tres años a partir del ciclo 2027.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "La Pampa",
+  "tribunal": "Legislatura de la Provincia de La Pampa",
+  "caratula": "",
+  "identificador_legal": "Ley 3661 de La Pampa",
+  "id_legal_norm": "LEY 3661",
+  "holding": "La provincia de La Pampa modificó la Ley de Educación Provincial 2511 mediante la Ley 3661, estableciendo la obligatoriedad de la educación inicial desde los tres años hasta la finalización de la educación secundaria, reorganizando además la estructura institucional en jardines maternales y jardines de infantes.",
+  "puntos_clave": [
+   "Se establece la obligatoriedad de la educación inicial desde los tres años.",
+   "La medida entra en vigencia a partir del año 2027.",
+   "Se modificó la Ley de Educación Provincial 2511 y se reorganizó la estructura en jardines maternales y de infantes."
+  ],
+  "impacto_practico": "Obliga al Estado provincial a reorganizar la infraestructura y los recursos pedagógicos para garantizar la cobertura escolar desde los tres años de edad.",
+  "normas_citadas": [
+   "Ley 3661",
+   "Ley de Educación Provincial 2511"
+  ],
+  "etiquetas": [
+   "educación inicial",
+   "la pampa",
+   "ley provincial",
+   "escolaridad obligatoria"
+  ],
+  "cita_sugerida": "Ley 3661 de La Pampa, B.O. 13/11/2026.",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Modificaron la Ley de Educación Provincial 2511",
+   "extendiendo la escolaridad obligatoria desde los tres años"
+  ],
+  "extracto_oficial": "Modificaron la Ley de Educación Provincial 2511, extendiendo la escolaridad obligatoria desde los tres años hasta la finalización de la educación secundaria, y reorganizaron la estructura en jardines maternales y jardines de infantes.",
+  "oficial": {},
+  "fecha": "2026-11-13T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:45:45+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -1292,6 +4116,117 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "a7cdb1b37f32",
+  "url_hash": "a7cdb1b37f326dc305cc58ca99022073d36a435a9d94bd012d35bb67fef65f79",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPW0006763",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Incorporación de la Casa Manos Correntinas al Patrimonio Cultural",
+  "titulo_original": "La Casa Manos Correntinas se incorpora al Patrimonio Cultural de Corrientes",
+  "bajada": "Se declaró Monumento Histórico e integrante del Patrimonio Cultural provincial al edificio de la Casa Manos Correntina en la ciudad de Mercedes mediante la Ley 6763.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Corrientes",
+  "tribunal": "Poder Legislativo de la Provincia de Corrientes",
+  "caratula": "",
+  "identificador_legal": "Ley 6763 de Corrientes",
+  "id_legal_norm": "LEY 6763",
+  "holding": "Mediante la Ley 6763, la provincia de Corrientes declaró Monumento Histórico e integrante de su Patrimonio Cultural provincial al edificio de la Casa Manos Correntina, ubicado en la intersección de las calles San Martín y Batalla de Salta, en la ciudad de Mercedes.",
+  "puntos_clave": [
+   "Sanción de la Ley 6763 en la provincia de Corrientes.",
+   "Declaración del edificio como Monumento Histórico.",
+   "Integración del inmueble al Patrimonio Cultural provincial."
+  ],
+  "impacto_practico": "Otorga protección legal al inmueble bajo el régimen de patrimonio cultural e histórico provincial, limitando modificaciones que afecten su valor.",
+  "normas_citadas": [
+   "Ley 6763"
+  ],
+  "etiquetas": [
+   "patrimonio cultural",
+   "monumento histórico",
+   "corrientes",
+   "mercedes"
+  ],
+  "cita_sugerida": "Ley 6763 de Corrientes, B.O. 06/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Declararon Monumento Histórico e integrante del Patrimonio Cultural provincial al edificio",
+   "ubicado en la intersección de las calles San Martín y Batalla de Salta"
+  ],
+  "extracto_oficial": "Declararon Monumento Histórico e integrante del Patrimonio Cultural provincial al edificio de la Casa Manos Correntina, ubicado en la intersección de las calles San Martín y Batalla de Salta, en la ciudad de Mercedes.",
+  "oficial": {},
+  "fecha": "2026-11-06T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:46:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "1e688e0b2e1a",
+  "url_hash": "1e688e0b2e1a103a9084bae2d0529d769e78f87bf817e939d5969c509eb54974",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPW0006765",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Incorporación de la Piedra Ita Pucú al Patrimonio Natural de Corrientes",
+  "titulo_original": "Piedra Ita Pucú se incorpora al Patrimonio Natural de Corrientes",
+  "bajada": "La norma declara a la Piedra Ita Pucú como Monumento Natural Provincial para garantizar su conservación y protección.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Corrientes",
+  "tribunal": "Legislatura de la Provincia de Corrientes",
+  "caratula": "",
+  "identificador_legal": "Ley 6765 de Corrientes",
+  "id_legal_norm": "LEY 6765",
+  "holding": "Se dispone la incorporación de la Piedra Ita Pucú al artículo 13 de la Ley 4.736 y al circuito turístico provincial bajo la categoría de Monumento Natural Provincial con el fin de asegurar su preservación y promoción turística.",
+  "puntos_clave": [
+   "Incorporación de la Piedra Ita Pucú al Patrimonio Natural de la Provincia de Corrientes.",
+   "Catalogación bajo la categoría de Monumento Natural Provincial.",
+   "Modificación del artículo 13 de la Ley 4.736 e integración al circuito turístico provincial."
+  ],
+  "impacto_practico": "Otorga protección legal específica y categoría de monumento natural a un sitio patrimonial, integrándolo formalmente a las políticas provinciales de conservación y turismo.",
+  "normas_citadas": [
+   "Ley 6765",
+   "Ley 4.736"
+  ],
+  "etiquetas": [
+   "patrimonio natural",
+   "monumento natural",
+   "corrientes",
+   "medio ambiente"
+  ],
+  "cita_sugerida": "Ley 6765 de Corrientes, B.O. 06/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Piedra Ita Pucú se incorpora al Patrimonio Natural de Corrientes",
+   "garantizar su conservación, protección y promoción turística"
+  ],
+  "extracto_oficial": "La ley tiene como objetivo garantizar su conservación, protección y promoción turística. Asimismo, dispusieron su incorporación al artículo 13 de la Ley 4.736 y al circuito turístico provincial bajo la categoría de Monumento Natural Provincial, designando ...",
+  "oficial": {},
+  "fecha": "2026-11-06T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:46:23+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "f6b3064e3193",
   "url_hash": "f6b3064e31933c3dce2079563c183d3fac8583cd90c0e54860b4468e7c2c72c0",
   "fuente": "csjn",
@@ -1341,6 +4276,63 @@
   },
   "fecha": "2026-11-05T15:00:00+00:00",
   "ingresado": "2026-11-26T01:52:14+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f64802dfb872",
+  "url_hash": "f64802dfb8726219a7ad79240a8d94a9e1bef8fa3d87310237ebfc1bcbdbca86",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPZ0004036",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Santa Cruz: Ley 4036 sobre asignaciones familiares",
+  "titulo_original": "Santa Cruz actualiza las asignaciones por hijo y escolaridad de los empleados públicos provinciales",
+  "bajada": "La norma introduce modificaciones en el régimen de asignaciones familiares para empleados públicos provinciales, las cuales fueron objeto de veto por parte del Poder Ejecutivo mediante el Decreto 1094/2026.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Santa Cruz",
+  "tribunal": "Legislatura de la Provincia de Santa Cruz",
+  "caratula": "",
+  "identificador_legal": "Ley 4036 de Santa Cruz",
+  "id_legal_norm": "LEY 4036",
+  "holding": "Se modificaron los arts. 8, 10 y 11 de la Ley 1.863 sobre asignaciones por hijo y escolaridad, encontrándose tales modificaciones sujetas al veto dispuesto por el Decreto 1094/2026 del Poder Ejecutivo provincial.",
+  "puntos_clave": [
+   "Modificación de los artículos 8, 10 y 11 de la Ley 1.863.",
+   "Actualización del régimen de asignaciones por hijo y escolaridad para agentes públicos.",
+   "Intervención del Poder Ejecutivo mediante el veto instrumentado por el Decreto 1094/2026."
+  ],
+  "impacto_practico": "Permite conocer la alteración del esquema de asignaciones familiares para la administración pública provincial y el impacto institucional del veto ejecutivo.",
+  "normas_citadas": [
+   "Ley 4036",
+   "Ley 1863",
+   "Decreto 1094/2026"
+  ],
+  "etiquetas": [
+   "asignaciones familiares",
+   "empleados públicos",
+   "santa cruz",
+   "veto"
+  ],
+  "cita_sugerida": "Ley 4036 de Santa Cruz, B.O. 05/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Modificaron los arts. 8, 10 y 11 de la Ley 1.863",
+   "El Poder Ejecutivo provincial mediante Decreto 1094/2026 vetó las modificaciones"
+  ],
+  "extracto_oficial": "Modificaron los arts. 8, 10 y 11 de la Ley 1.863, introduciendo cambios en el régimen de asignaciones familiares para los agentes de la Administración Pública Provincial. El Poder Ejecutivo provincial mediante Decreto 1094/2026 vetó las modificaciones ...",
+  "oficial": {},
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:47:53+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 2,
@@ -1654,6 +4646,117 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "72a3cd2b0334",
+  "url_hash": "72a3cd2b0334bcdbe84879d10b9a28e8e3999167bfcfa80c01404e16b2ed1a84",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPN1600188",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Misiones: manejo sostenible en bosques nativos de categorías II y III",
+  "titulo_original": "Misiones habilita nuevas actividades productivas bajo criterios de manejo sostenible del bosque nativo",
+  "bajada": "Se modificó la normativa provincial para autorizar nuevas actividades productivas de manejo sostenible en bosques nativos de categoría amarilla y verde.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Misiones",
+  "tribunal": "Legislatura de la Provincia de Misiones",
+  "caratula": "",
+  "identificador_legal": "Ley 188 de Misiones",
+  "id_legal_norm": "LEY 188",
+  "holding": "La provincia de Misiones habilitó nuevas actividades productivas bajo criterios de manejo sostenible en bosques nativos clasificados en las categorías II (Amarillo) y III (Verde), condicionadas estrictamente a que no constituyan desmontes ni provoquen la pérdida de la condición de bosque nativo.",
+  "puntos_clave": [
+   "Incorporación de nuevas disposiciones a la Ley XVI - 105 de Misiones.",
+   "Habilitación de actividades productivas sostenibles en bosques nativos de categorías II y III.",
+   "Prohibición expresa de desmontes y de la pérdida de la condición de bosque nativo."
+  ],
+  "impacto_practico": "Permite a los operadores económicos y productores desarrollar actividades productivas reguladas en zonas de bosque nativo amarillo y verde, siempre que se respeten los límites de conservación y manejo sostenible establecidos por la ley.",
+  "normas_citadas": [
+   "Ley XVI - 105",
+   "Ley 188"
+  ],
+  "etiquetas": [
+   "bosque nativo",
+   "misiones",
+   "manejo sostenible",
+   "ambiente"
+  ],
+  "cita_sugerida": "Ley 188 de Misiones, B.O. 05/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Modificaron la Ley XVI - 105 incorporando nuevas disposiciones para autorizar actividades de manejo sostenible",
+   "bosques nativos de las categorías II (Amarillo) y III (Verde), siempre que no impliquen desmontes"
+  ],
+  "extracto_oficial": "Modificaron la Ley XVI - 105 incorporando nuevas disposiciones para autorizar actividades de manejo sostenible en bosques nativos de las categorías II (Amarillo) y III (Verde), siempre que no impliquen desmontes ni pérdida de su condición de bosque nativo ...",
+  "oficial": {},
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:47:23+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "67e0f2e64384",
+  "url_hash": "67e0f2e64384f98d9937444e647c6700973e3f7acba7bcc7adf00e5746852f8d",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/LPZ0004037",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Creación de la Mesa Minera Santacruceña",
+  "titulo_original": "Santa Cruz establece un ámbito de articulación entre el Estado provincial, las empresas y los trabajadores mineros",
+  "bajada": "La provincia de Santa Cruz creó un órgano permanente de coordinación intersectorial para promover el desarrollo sustentable de la actividad minera.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Santa Cruz",
+  "tribunal": "Legislatura de la Provincia de Santa Cruz",
+  "caratula": "",
+  "identificador_legal": "Ley 4037 de Santa Cruz",
+  "id_legal_norm": "LEY 4037",
+  "holding": "Se estableció la creación de la Mesa Minera Santacruceña como un ámbito institucional de articulación entre el Estado provincial, las empresas y los trabajadores mineros para debatir y consensuar políticas del sector, priorizando la contratación de mano de obra y proveedores locales.",
+  "puntos_clave": [
+   "Creación de la Mesa Minera Santacruceña como órgano permanente de coordinación intersectorial.",
+   "Participación conjunta del Estado provincial, empresas y trabajadores mineros.",
+   "Promoción del desarrollo sustentable y priorización de mano de obra y proveedores locales."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos, empresas y trabajadores del sector minero contar con un marco institucional de articulación y consenso para las políticas de la actividad en la provincia.",
+  "normas_citadas": [
+   "Ley 4037"
+  ],
+  "etiquetas": [
+   "minería",
+   "santa cruz",
+   "desarrollo sustentable",
+   "empleo local"
+  ],
+  "cita_sugerida": "Ley 4037 de Santa Cruz, B.O. 05/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "Crearon la Mesa Minera Santacruceña como órgano permanente de coordinación intersectorial",
+   "priorizar la contratación de mano de obra y proveedores"
+  ],
+  "extracto_oficial": "Crearon la Mesa Minera Santacruceña como órgano permanente de coordinación intersectorial para debatir y consensuar políticas destinadas a promover el desarrollo sustentable de la actividad minera, priorizar la contratación de mano de obra y proveedores ...",
+  "oficial": {},
+  "fecha": "2026-11-05T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:48:34+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "3f52b9275087",
   "url_hash": "3f52b9275087a47dc002f5b904162df717e25dabe9b664117960be6d142b1efc",
   "fuente": "csjn",
@@ -1825,6 +4928,61 @@
   },
   "fecha": "2026-11-05T15:00:00+00:00",
   "ingresado": "2026-11-26T01:55:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ea58394602f2",
+  "url_hash": "ea58394602f2b8b4e3dce3d3bb184c77704c13669ea89e65acb1267eaeb609b1",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/M20260001723",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Aprobación del Acta Acuerdo para la creación del Ente Regional Cuyo Cultura",
+  "titulo_original": "Acuerdo interprovincial para fortalecer las industrias culturales y preservar el patrimonio de Cuyo",
+  "bajada": "El Poder Ejecutivo provincial aprobó mediante el Decreto 1723/26 el acuerdo interprovincial junto a San Juan, San Luis y el CFI.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Mendoza",
+  "tribunal": "Poder Ejecutivo de Mendoza",
+  "caratula": "",
+  "identificador_legal": "Decreto 1723/26 de Mendoza",
+  "id_legal_norm": "DECRETO 1723/2026",
+  "holding": "Se aprobó el Acta Acuerdo suscripta entre las provincias de Mendoza, San Juan y San Luis y el Consejo Federal de Inversiones (CFI) para la creación del Ente Regional Cuyo Cultura, un ámbito interjurisdiccional destinado a fortalecer las industrias culturales y preservar el patrimonio regional.",
+  "puntos_clave": [
+   "Aprobación del Acta Acuerdo interprovincial mediante decreto del Poder Ejecutivo.",
+   "Participación de las provincias de Mendoza, San Juan y San Luis junto al CFI.",
+   "Creación del Ente Regional Cuyo Cultura como ámbito interjurisdiccional."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y administrativos contar con el marco formal de creación del Ente Regional Cuyo Cultura para la gestión asociada de industrias culturales y patrimonio en la región.",
+  "normas_citadas": [
+   "Decreto 1723/26"
+  ],
+  "etiquetas": [
+   "cultura",
+   "patrimonio",
+   "region cuyo",
+   "cfi"
+  ],
+  "cita_sugerida": "Decreto 1723/26 de Mendoza, B.O. 02/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El Poder Ejecutivo provincial aprobó el Acta Acuerdo",
+   "para la creación del Ente Regional Cuyo Cultura"
+  ],
+  "extracto_oficial": "El Poder Ejecutivo provincial aprobó el Acta Acuerdo suscripta entre las provincias de Mendoza, San Juan y San Luis y el Consejo Federal de Inversiones (CFI) para la creación del Ente Regional Cuyo Cultura. El organismo funcionará como un ámbito interjurisdiccional ...",
+  "oficial": {},
+  "fecha": "2026-11-02T15:00:00+00:00",
+  "ingresado": "2026-11-26T20:49:35+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 2,
