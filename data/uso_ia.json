@@ -8,5 +8,10 @@
   "texto": 241,
   "gemini-3.5-flash-lite": 241,
   "embedding": 57
+ },
+ "2026-11-27": {
+  "texto": 207,
+  "gemini-3.5-flash-lite": 207,
+  "embedding": 43
  }
 }

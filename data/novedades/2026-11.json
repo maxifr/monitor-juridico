@@ -1,5 +1,926 @@
 [
  {
+  "id": "59459f6640ab",
+  "url_hash": "59459f6640ab7ac8ba590f6d571f0fee5728da8395cf92c13446c883aba9157a",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52813",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Incremento salarial para el Poder Judicial de la Nación",
+  "titulo_original": "La Corte Suprema dispuso un nuevo incremento salarial para el Poder Judicial",
+  "bajada": "La Corte Suprema dispuso un incremento salarial del 2,2 por ciento, a partir del 1 de octubre de 2026, para todas las categorías del escalafón judicial.",
+  "tipo": "Acordada",
+  "materia": "Institucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Acordada Nº37",
+  "id_legal_norm": "ACORDADA No37",
+  "holding": "El máximo tribunal determinó un aumento salarial de carácter remunerativo y bonificable del 2,2 por ciento aplicable a todas las categorías del escalafón del Poder Judicial de la Nación, con vigencia desde el primero de octubre de 2026.",
+  "puntos_clave": [
+   "Aumento salarial del 2,2 por ciento para el Poder Judicial de la Nación.",
+   "El incremento posee carácter remunerativo y bonificable.",
+   "Rige a partir del primero de octubre de 2026 para todas las categorías del escalafón."
+  ],
+  "impacto_practico": "Permite a los integrantes del Poder Judicial de la Nación conocer la actualización en sus haberes y su alcance retroactivo desde octubre de 2026.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "salario",
+   "poder judicial",
+   "acordada",
+   "escalafón"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, Acordada Nº37, 18/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Corte Suprema dispuso un nuevo incremento salarial para el Poder Judicial",
+   "El máximo tribunal determinó un aumento salarial del 2,2 por ciento"
+  ],
+  "extracto_oficial": "El máximo tribunal determinó un aumento salarial del 2,2 por ciento, a partir del primero de octubre de 2026, remunerativo y bonificable, para todas las categorías del escalafón del Poder Judicial de la Nación.",
+  "oficial": {},
+  "fecha": "2026-11-27T09:53:13+00:00",
+  "ingresado": "2026-11-27T09:53:13+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "90eacc8c0608",
+  "url_hash": "90eacc8c06083993c835e350e2b181dab254038e1c5137dacc085aae640e76ff",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52780",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Cronogramas de feria judicial hasta 2038 en Tucumán",
+  "titulo_original": "La Corte Suprema de Justicia de Tucumán aprobó los cronogramas de feria judicial de enero y julio hasta el año 2038",
+  "bajada": "La Corte Suprema de Justicia de Tucumán aprobó los cronogramas de feria judicial de enero y julio para el período comprendido entre 2026 y 2038.",
+  "tipo": "Acordada",
+  "materia": "Institucional",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Tucumán",
+  "tribunal": "Corte Suprema de Justicia de Tucumán",
+  "caratula": "",
+  "identificador_legal": "Acordada Nº840",
+  "id_legal_norm": "ACORDADA No840",
+  "holding": "Se aprobaron y dispusieron los cronogramas de feria judicial de enero y julio aplicables desde el año 2026 hasta el 2038 para las unidades judiciales no penales de los cuatro centros judiciales provinciales, estableciendo qué órgano jurisdiccional intervendrá en cada quincena.",
+  "puntos_clave": [
+   "Aprobación de cronogramas de feria de enero y julio hasta el año 2038.",
+   "Alcance para las unidades judiciales no penales de todos los centros judiciales provinciales.",
+   "Determinación previa de los juzgados y salas que atenderán en cada quincena."
+  ],
+  "impacto_practico": "Permite a los profesionales del derecho y litigantes planificar con antelación la actividad procesal y los plazos ante los tribunales no penales de Tucumán durante los recesos judiciales de largo plazo.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "feria judicial",
+   "cronograma",
+   "tucumán",
+   "poder judicial"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de Tucumán, Acordada Nº840, 11/09/2025",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "aprobó los cronogramas de feria judicial de enero y julio hasta el año 2038",
+   "dispuso que desde 2026 hasta 2038 rijan los cronogramas de feria",
+   "estableció qué juzgado o sala atenderá cada quincena"
+  ],
+  "extracto_oficial": "La Corte Suprema de Justicia de Tucumán dispuso que desde 2026 hasta 2038 rijan los cronogramas de feria de las unidades judiciales no penales de los cuatro centros judiciales de la provincia. Asimismo, estableció qué juzgado o sala atenderá cada quincena ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:52:43+00:00",
+  "ingresado": "2026-11-27T09:52:43+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "48c196f792b8",
+  "url_hash": "48c196f792b873db4cc9bcb31571612a82b2827086940174ce638a38a60cab45",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52768",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Cirugía urgente a un niño sin DNI ni partida de nacimiento",
+  "titulo_original": "Ordenaron realizar una cirugía urgente a un niño pese a la falta de DNI y partida de nacimiento",
+  "bajada": "El juzgado hizo lugar a una medida autosatisfactiva y suplió el consentimiento informado para una cirugía cardíaca urgente.",
+  "tipo": "Fallo",
+  "materia": "Familia",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Tucumán",
+  "tribunal": "Oficina de Gestión Asociada de Familia nro 1 de Monteros",
+  "caratula": "",
+  "identificador_legal": "Oficina de Gestión Asociada de Familia nro 1 de MONTEROS",
+  "id_legal_norm": "OFICINA DE GESTION ASOCIADA DE FAMILIA 1 DE MONTEROS",
+  "holding": "Se ordenó realizar una cirugía urgente a un niño con cardiopatía congénita suprimiendo excepcionalmente los recaudos documentales y el consentimiento informado ante el riesgo de vida.",
+  "puntos_clave": [
+   "Se admitió una medida autosatisfactiva ante la urgencia médica.",
+   "Se suplió excepcionalmente la falta de DNI y partida de nacimiento.",
+   "Se autorizó la intervención quirúrgica pese a la ausencia del consentimiento informado formal."
+  ],
+  "impacto_practico": "Brinda una herramienta procesal a los operadores jurídicos y de salud para priorizar el interés superior del niño en situaciones de extrema urgencia médica, obviando trabas documentales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "salud",
+   "menores",
+   "medida autosatisfactiva",
+   "derecho a la salud"
+  ],
+  "cita_sugerida": "Oficina de Gestión Asociada de Familia nro 1 de Monteros, Tucumán, 09/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El juzgado hizo lugar a una medida autosatisfactiva",
+   "para que un niño con una cardiopatía congénita"
+  ],
+  "extracto_oficial": "El juzgado hizo lugar a una medida autosatisfactiva y suplió excepcionalmente el consentimiento informado para que un niño con una cardiopatía congénita fuera sometido a la intervención quirúrgica indicada, al considerar que la falta de DNI y partida ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:51:25+00:00",
+  "ingresado": "2026-11-27T09:51:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "11a056c1269b",
+  "url_hash": "11a056c1269bf0bcdf4ef2c3f477a2384ee88d4be1a3e676362bed6db54a0429",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52814",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Ploteo y uniforme no prueban relación de dependencia",
+  "titulo_original": "El ploteo del vehículo y el uso del uniforme de la empresa no prueban la relación de dependencia",
+  "bajada": "La Cámara del Trabajo determinó que el uso de uniforme y vehículo ploteado no acreditan por sí solos la existencia de un vínculo laboral.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Río Negro",
+  "tribunal": "Cámara 2da del Trabajo de San Carlos de Bariloche",
+  "caratula": "",
+  "identificador_legal": "Cámara 2da del Trabajo de SAN CARLOS DE BARILOCHE",
+  "id_legal_norm": "CAMARA 2DA DEL TRABAJO DE SAN CARLOS DE BARILOCHE",
+  "holding": "La cámara desestimó la demanda por despido indirecto al concluir que la vinculación jurídica configuró un contrato comercial de transporte de cargas autónomo y no una relación de dependencia.",
+  "puntos_clave": [
+   "Se desestimó una demanda por despido indirecto promovida por un transportista.",
+   "El ploteo del vehículo y el uso de uniforme no constituyen prueba suficiente de relación laboral.",
+   "El vínculo fue encuadrado como un contrato comercial de transporte de cargas autónomo."
+  ],
+  "impacto_practico": "Permite a los litigantes y empresas sostener que la exigencia de elementos estéticos corporativos en el transporte de cargas no desvirtúa por sí misma la naturaleza comercial del vínculo autónomo.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "relación de dependencia",
+   "transporte de cargas",
+   "contrato comercial",
+   "despido indirecto"
+  ],
+  "cita_sugerida": "Cámara 2da del Trabajo de San Carlos de Bariloche, 12/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El ploteo del vehículo y el uso del uniforme de la empresa no prueban la relación de dependencia",
+   "La cámara desestimó la demanda por despido indirecto promovida por un transportista contra una empresa de logística"
+  ],
+  "extracto_oficial": "La cámara desestimó la demanda por despido indirecto promovida por un transportista contra una empresa de logística, al concluir que el vínculo entre las partes configuró un contrato comercial de transporte de cargas autónomo y no una relación de trabajo ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:50:55+00:00",
+  "ingresado": "2026-11-27T09:50:55+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f1d260421e89",
+  "url_hash": "f1d260421e898e529d4e57c5afd0f842a15fd3fcdca2f6691229801c09df57ff",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52762",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Alimentación saludable en escuelas: alcance de la obligación estatal",
+  "titulo_original": "El STJ de Entre Ríos amplió el alcance de la obligación estatal de garantizar alimentación saludable en las escuelas",
+  "bajada": "El Superior Tribunal de Justicia de Entre Ríos hizo lugar parcialmente a una apelación sobre la exclusión de productos de comedores escolares.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Entre Ríos",
+  "tribunal": "Superior Tribunal de Justicia de Paraná",
+  "caratula": "",
+  "identificador_legal": "Superior Tribunal de Justicia de PARANA",
+  "id_legal_norm": null,
+  "holding": "El Superior Tribunal de Justicia resolvió hacer lugar parcialmente al recurso de apelación contra la sentencia que disponía la exclusión de comedores escolares de los productos alcanzados por la normativa de promoción de alimentación saludable.",
+  "puntos_clave": [
+   "El Superior Tribunal de Justicia de Entre Ríos analizó la obligación estatal de garantizar alimentación saludable.",
+   "Se resolvió un recurso de apelación sobre la exclusión de productos en comedores escolares.",
+   "Se precisaron los alcances de la normativa aplicable en materia de salud y educación."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y estatales dimensionar las obligaciones de control y suministro de alimentos en establecimientos educativos provinciales bajo los parámetros de la ley de etiquetado y alimentación saludable.",
+  "normas_citadas": [
+   "art. 12 de la Ley 27.642"
+  ],
+  "etiquetas": [
+   "alimentación saludable",
+   "comedores escolares",
+   "derecho a la salud",
+   "entre ríos"
+  ],
+  "cita_sugerida": "Superior Tribunal de Justicia de Paraná, Entre Ríos, 24/09/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "El STJ de Entre Ríos amplió el alcance de la obligación estatal de garantizar alimentación saludable en las escuelas",
+   "El Superior Tribunal de Justicia hizo lugar parcialmente al recurso de apelación"
+  ],
+  "extracto_oficial": "El Superior Tribunal de Justicia hizo lugar parcialmente al recurso de apelación interpuesto contra la sentencia que había ordenado excluir de los comedores escolares los productos alcanzados por el art. 12 de la Ley 27.642. Precisó que la obligación ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:50:25+00:00",
+  "ingresado": "2026-11-27T09:50:25+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "99159076b1e3",
+  "url_hash": "99159076b1e3ee6de0452a6a9532be60cff3b6f94dcb6ae824fa9febb8bbebc0",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52766",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Cautelar: obra social debe proveer cannabidiol a adulta mayor",
+  "titulo_original": "La Justicia ordenó a una obra social suministrar cannabidiol a una adulta mayor con discapacidad y dolor crónico",
+  "bajada": "La Cámara de Apelaciones confirmó una medida cautelar que ordena a una obra social suministrar cannabidiol a una afiliada con discapacidad y dolor crónico.",
+  "tipo": "Fallo",
+  "materia": "Consumo",
+  "instancia": "Cámara",
+  "jurisdiccion": "CABA",
+  "tribunal": "Cámara de Apelaciones en lo Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+  "caratula": "",
+  "identificador_legal": "Cámara de Apel. Contencioso Adm., Tributario y de Relac.de Consumo",
+  "id_legal_norm": null,
+  "holding": "Se confirmó la medida cautelar que ordena a una obra social suministrar cannabidiol a una afiliada adulta mayor con discapacidad, al considerar que restringir su entrega vulnera los derechos a la salud y a una vida digna frente al dolor crónico.",
+  "puntos_clave": [
+   "Confirmación de medida cautelar contra obra social.",
+   "Provisión de cannabidiol para adulta mayor con discapacidad.",
+   "Tutela de la salud y cobertura frente al dolor crónico."
+  ],
+  "impacto_practico": "Permite a los litigantes fundamentar la procedencia de medidas cautelares para la cobertura de cannabidiol en prestaciones de salud de afiliados con discapacidad.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "cannabidiol",
+   "obra social",
+   "medida cautelar",
+   "discapacidad",
+   "salud"
+  ],
+  "cita_sugerida": "Cámara de Apelaciones en lo Contencioso Administrativo, Tributario y de Relaciones de Consumo de la Ciudad de Buenos Aires, 14/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "confirmó la medida cautelar que ordenó a una obra social suministrar cannabidiol",
+   "aliviar el dolor crónico y progresivo que padece"
+  ],
+  "extracto_oficial": "La Cámara de Apelaciones de la Ciudad de Buenos Aires confirmó la medida cautelar que ordenó a una obra social suministrar cannabidiol a una afiliada adulta mayor con discapacidad, para aliviar el dolor crónico y progresivo que padece. Consideró que restringir ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:49:45+00:00",
+  "ingresado": "2026-11-27T09:49:45+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "7f3580c18f98",
+  "url_hash": "7f3580c18f98f4b9e4852b460689e7a3e33349738e438e6a08c26023f9d574b1",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52767",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Nulidad por impedir a la víctima ser oída sobre medidas restrictivas",
+  "titulo_original": "Es nula la decisión que impidió a la víctima ser oída sobre las medidas restrictivas impuestas al imputado",
+  "bajada": "La Cámara declaró nula la providencia que rechazó el pedido de la víctima de ser oída en audiencia respecto a medidas restrictivas del imputado.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "CABA",
+  "tribunal": "Cámara de Casacion, Apel. en lo Penal, Juvenil, Contrav. y de Faltas - Sala 02",
+  "caratula": "",
+  "identificador_legal": "Cámara de Casacion, Apel. en lo Penal, Juvenil, Contrav. y de Faltas",
+  "id_legal_norm": null,
+  "holding": "Se declara la nulidad de la decisión que impidió a la víctima ser escuchada en una audiencia para debatir sobre el cese o la atenuación de las medidas restrictivas impuestas al imputado.",
+  "puntos_clave": [
+   "Se declaró la nulidad de la providencia que rechazaba la participación de la víctima.",
+   "La víctima solicitó ser oída en una audiencia sobre medidas restrictivas.",
+   "La Cámara resolvió por mayoría hacer lugar al planteo."
+  ],
+  "impacto_practico": "Permite a los litigantes invocar este precedente para garantizar la participación activa de la víctima en decisiones relativas a restricciones del imputado.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "víctima",
+   "nulidad",
+   "medidas restrictivas",
+   "casación penal"
+  ],
+  "cita_sugerida": "Cámara de Casacion, Apel. en lo Penal, Juvenil, Contrav. y de Faltas, Sala 02, CABA, 20/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Es nula la decisión que impidió a la víctima ser oída",
+   "La Cámara, por mayoría, declaró nula la providencia"
+  ],
+  "extracto_oficial": "La Cámara, por mayoría, declaró nula la providencia que había rechazado el pedido de la víctima de ser oída en una audiencia para solicitar el cese o la atenuación de las medidas restrictivas impuestas al imputado. Consideró que, aun cuando no revista ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:49:15+00:00",
+  "ingresado": "2026-11-27T09:49:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "cadf85dd5529",
+  "url_hash": "cadf85dd5529dd40486f9da8b75ce0d88eee53bda7e89f1e20031c3468bd35a5",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52761",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "La Corte bonaerense avaló el régimen de actualización de créditos laborales",
+  "titulo_original": "La Corte bonaerense avaló el régimen de actualización de créditos laborales previsto en la Ley 27.802",
+  "bajada": "La Suprema Corte de Justicia rechazó el planteo de inconstitucionalidad del art. 55 de la Ley de Modernización Laboral y dispuso su aplicación.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Suprema Corte de Justicia de LA PLATA",
+  "caratula": "",
+  "identificador_legal": "Suprema Corte de Justicia de LA PLATA",
+  "id_legal_norm": null,
+  "holding": "La Suprema Corte de Justicia bonaerense rechazó el planteo de inconstitucionalidad contra el artículo 55 de la Ley de Modernización Laboral, convalidando la aplicación del régimen de actualización de créditos laborales previsto en dicha norma para juicios en trámite.",
+  "puntos_clave": [
+   "Se rechazó la inconstitucionalidad del art. 55 de la Ley 27.802.",
+   "La Suprema Corte avaló el régimen de actualización de créditos laborales.",
+   "Se dispuso la aplicación de la normativa a los juicios en trámite."
+  ],
+  "impacto_practico": "Permite a los litigantes conocer el criterio del máximo tribunal provincial sobre la aplicabilidad del régimen de actualización de créditos laborales en causas en curso.",
+  "normas_citadas": [
+   "Ley 27.802",
+   "art. 55"
+  ],
+  "etiquetas": [
+   "creditos laborales",
+   "actualizacion",
+   "ley 27802",
+   "suprema corte buenos aires"
+  ],
+  "cita_sugerida": "Suprema Corte de Justicia de LA PLATA, Buenos Aires, 21/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte bonaerense avaló el régimen de actualización de créditos laborales previsto en la Ley 27.802",
+   "La Suprema Corte de Justicia bonaerense rechazó el planteo de inconstitucionalidad del art. 55 de la Ley de Modernización Laboral"
+  ],
+  "extracto_oficial": "La Suprema Corte de Justicia bonaerense rechazó el planteo de inconstitucionalidad del art. 55 de la Ley de Modernización Laboral y dispuso su aplicación al caso. Consideró que el régimen de actualización de créditos laborales para juicios en trámite ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:48:45+00:00",
+  "ingresado": "2026-11-27T09:48:45+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "2fee15432bc1",
+  "url_hash": "2fee15432bc10a1f5188ea53e55d5c037df4d478e73a9ddd87af756730adb39c",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52771",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "La Corte Suprema avaló exigir libre deuda de multas para trámites en la CNRT",
+  "titulo_original": "La Corte Suprema avaló la exigencia de libre deuda de multas para realizar trámites ante la CNRT",
+  "bajada": "El máximo tribunal revocó un fallo que había declarado inconstitucional la normativa sobre libre deuda de multas firmes para empresas de transporte.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Corte Suprema de Justicia de la Nación",
+  "id_legal_norm": null,
+  "holding": "La Corte Suprema de Justicia de la Nación determinó que resulta constitucional y válida la exigencia de acreditar libre deuda de multas firmes para efectuar gestiones ante la Comisión Nacional de Regulación del Transporte.",
+  "puntos_clave": [
+   "Se revocó la sentencia que declaraba la inconstitucionalidad de la exigencia.",
+   "Abarca a las empresas de transporte automotor de pasajeros.",
+   "Exige la inexistencia de deudas exigibles por multas firmes ante la CNRT."
+  ],
+  "impacto_practico": "Permite a los organismos de control exigir el cumplimiento fiscal y administrativo previo a la realización de trámites del sector.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "transporte automotor",
+   "multas",
+   "cnrt",
+   "libre deuda"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, 12/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte Suprema avaló la exigencia de libre deuda de multas para realizar trámites ante la CNRT",
+   "El máximo tribunal revocó la sentencia que había declarado inconstitucional la normativa"
+  ],
+  "extracto_oficial": "El máximo tribunal revocó la sentencia que había declarado inconstitucional la normativa que exige a las empresas de transporte automotor de pasajeros acreditar que no registran deudas exigibles por multas firmes para realizar trámites ante la CNRT. Señaló ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:48:15+00:00",
+  "ingresado": "2026-11-27T09:48:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a77575c80eaf",
+  "url_hash": "a77575c80eafffbd56e35d8d686193026ecbc5a6b41436c2ca38294b0d7bdf49",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52757",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "La Corte excluyó de su competencia originaria la revisión de sentencias de tribunales superiores provinciales",
+  "titulo_original": "La Corte excluyó de su competencia originaria la revisión de sentencias de tribunales superiores provinciales",
+  "bajada": "La Corte Suprema se declaró incompetente en instancia originaria para entender en un amparo contra un tribunal superior provincial.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Corte Suprema de Justicia de la Nación",
+  "id_legal_norm": null,
+  "holding": "El máximo tribunal determinó que carece de competencia originaria para revisar mediante una acción de amparo las sentencias dictadas por los tribunales superiores provinciales.",
+  "puntos_clave": [
+   "Incompetencia de la CSJN en instancia originaria frente a tribunales provinciales.",
+   "Exclusión de la revisión de fallos de tribunales superiores locales por vía originaria.",
+   "Rechazo de acción de amparo promovida contra la Corte Suprema de Justicia de la Provincia de Santa Fe."
+  ],
+  "impacto_practico": "Delimita claramente los límites procesales de la competencia originaria de la Corte Suprema frente a decisiones de la justicia provincial.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "competencia originaria",
+   "corte suprema",
+   "amparo",
+   "tribunales provinciales"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, 12/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "La Corte excluyó de su competencia originaria la revisión de sentencias de tribunales superiores provinciales",
+   "El máximo tribunal se declaró incompetente para intervenir, en instancia originaria, en una acción de amparo"
+  ],
+  "extracto_oficial": "El máximo tribunal se declaró incompetente para intervenir, en instancia originaria, en una acción de amparo promovida contra la Corte Suprema de Justicia de la Provincia de Santa Fe. La demanda cuestionaba la constitucionalidad de una resolución que ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:46:58+00:00",
+  "ingresado": "2026-11-27T09:46:58+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b3c9b4a34d9e",
+  "url_hash": "b3c9b4a34d9e16f43bef796791a56817173214913c9288a9016f0ae658266f20",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52769",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Excarcelación de menor rebelde: Cámara declara apelación abstracta",
+  "titulo_original": "La Cámara Criminal declaró abstracta la apelación contra el rechazo de la excarcelación de un menor declarado rebelde",
+  "bajada": "La Cámara Nacional de Apelaciones en lo Criminal y Correccional declaró abstracto el recurso contra el rechazo de excarcelación de un menor declarado rebelde.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 06",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+  "id_legal_norm": null,
+  "holding": "Se declaró abstracto el recurso interpuesto contra el rechazo de la excarcelación de un menor dado que, con posterioridad a la decisión recurrida, el imputado se retiró de la residencia socioeducativa donde cumplía alojamiento y fue declarado rebelde.",
+  "puntos_clave": [
+   "La Cámara Criminal resolvió por mayoría en relación a un menor declarado rebelde.",
+   "El recurso de apelación contra el rechazo de la excarcelación se declaró abstracto.",
+   "La modificación fáctica sobreviniente consistió en que el imputado se retiró del dispositivo de alojamiento."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos evaluar la pérdida de virtualidad de los recursos de excarcelación ante supuestos de fuga o rebeldía sobreviniente del imputado.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "excarcelación",
+   "rebeldía",
+   "menor",
+   "cámara criminal",
+   "recurso abstracto"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 06, 09/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Cámara Criminal declaró abstracta la apelación contra el rechazo de la excarcelación",
+   "la Cámara declaró abstracto el recurso interpuesto contra el rechazo de la excarcelación"
+  ],
+  "extracto_oficial": "En una decisión mayoritaria, la Cámara declaró abstracto el recurso interpuesto contra el rechazo de la excarcelación de un menor que, con posterioridad a la decisión recurrida, se retiró de la residencia socioeducativa donde se encontraba alojado, fue ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:46:23+00:00",
+  "ingresado": "2026-11-27T09:46:23+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "d7584fd11154",
+  "url_hash": "d7584fd11154892bbaa9b9c5f7759d84341004613e12ba6bc846e2746e09f147",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52770",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "El cambio de lugar por rescisión comercial no es ius variandi abusivo",
+  "titulo_original": "El cambio del lugar de trabajo por la rescisión de un contrato comercial no configuró ejercicio abusivo del ius variandi",
+  "bajada": "La Cámara confirmó el rechazo de una demanda por despido indirecto al considerar que la modificación del sitio de trabajo tuvo una causa objetiva y justificada.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones del Trabajo - Sala 04",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones del Trabajo",
+  "id_legal_norm": null,
+  "holding": "El Tribunal determinó que la modificación en el lugar de prestación de tareas no configuró un ejercicio abusivo del ius variandi, por haber respondido de forma directa a la rescisión de un contrato comercial con una empresa cliente, constituyendo una razón objetiva y justificada.",
+  "puntos_clave": [
+   "La modificación del lugar de trabajo obedeció a la rescisión de un contrato comercial con un cliente.",
+   "Se consideró que existió una causa objetiva y debidamente justificada para la medida.",
+   "Se confirmó el rechazo de la demanda por despido indirecto interpuesta por el trabajador."
+  ],
+  "impacto_practico": "Permite a los litigantes y asesores laborales evaluar la legitimidad de las modificaciones unilaterales de condiciones de trabajo cuando estas se sustentan en causas económicas u operativas externas, como la caída o rescisión de contratos comerciales con terceros.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "ius variandi",
+   "despido indirecto",
+   "contrato de trabajo",
+   "lugar de trabajo"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones del Trabajo, Sala 04, 01/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "El cambio del lugar de trabajo por la rescisión de un contrato comercial no configuró ejercicio abusivo del ius variandi",
+   "La Cámara confirmó el rechazo de la demanda por despido indirecto",
+   "respondió a la rescisión de un contrato comercial con una empresa cliente y obedeció a una causa objetiva y justificada"
+  ],
+  "extracto_oficial": "La Cámara confirmó el rechazo de la demanda por despido indirecto al considerar que el cambio del lugar de prestación de tareas respondió a la rescisión de un contrato comercial con una empresa cliente y obedeció a una causa objetiva y justificada. Valoró ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:45:53+00:00",
+  "ingresado": "2026-11-27T09:45:53+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "c7663d0914ff",
+  "url_hash": "c7663d0914ff18a3e242df18ead95a70e2b6981b4764db40beb61281e857d9ee",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52793",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Validez de la firma ológrafa en hoja separada del escrito judicial digital",
+  "titulo_original": "La firma ológrafa del patrocinado puede constar en una hoja separada del escrito judicial digital",
+  "bajada": "La Cámara Comercial revocó una resolución que había tenido por no presentado un escrito de apelación cuyas firmas ológrafas constaban en hoja separada.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Comercial - Sala E",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Comercial",
+  "id_legal_norm": null,
+  "holding": "Se revocó la resolución que tuvo por no presentado un recurso por encontrarse la firma ológrafa en hoja separada, dado que la normativa aplicable no exige que la misma se inserte de manera contigua o en el mismo folio del escrito digital.",
+  "puntos_clave": [
+   "Se cuestionó tener por no presentado un escrito por la ubicación de la firma ológrafa.",
+   "La Cámara determinó que la Acordada CSJN 31/2020 no exige que las firmas consten en el mismo folio.",
+   "Se revocó la decisión de primera instancia habilitando la presentación."
+  ],
+  "impacto_practico": "Permite a los litigantes respaldar presentaciones digitales con firmas ológrafas en hojas separadas sin temor a tener por no presentado el escrito por cuestiones formales relativas al soporte físico y digital.",
+  "normas_citadas": [
+   "Acordada CSJN 31/2020"
+  ],
+  "etiquetas": [
+   "firma ológrafa",
+   "escrito digital",
+   "cámara comercial",
+   "recurso de apelación"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Comercial - Sala E, 07/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La firma ológrafa del patrocinado puede constar en una hoja separada",
+   "La Cámara Comercial revocó la resolución que había tenido por no presentado"
+  ],
+  "extracto_oficial": "La Cámara Comercial revocó la resolución que había tenido por no presentado un escrito de apelación porque las firmas ológrafas de los patrocinados constaban en una hoja separada. Consideró que la Acordada CSJN 31/2020 no exige que las firmas se inserten ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:45:12+00:00",
+  "ingresado": "2026-11-27T09:45:12+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "fc2e59666b1d",
+  "url_hash": "fc2e59666b1d3eeb8c8800ce54ebf42ba0400b16cee306a5b542193cd9a9940c",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52792",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Confirmaron relación laboral de profesora de gimnasia de hospital privado",
+  "titulo_original": "La Cámara confirmó la relación laboral de la profesora que daba clases de gimnasia en parques para un hospital privado",
+  "bajada": "La Cámara del Trabajo determinó la existencia de vínculo dependiente entre una profesora de educación física y una institución de salud.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones del Trabajo - Sala 03",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones del Trabajo",
+  "id_legal_norm": null,
+  "holding": "Se confirmó la existencia de una relación laboral de dependencia entre una profesora que dictaba clases de gimnasia en espacios públicos para un hospital privado, al configurarse los elementos típicos del vínculo laboral.",
+  "puntos_clave": [
+   "Reconocimiento de relación laboral en actividades desarrolladas fuera del establecimiento.",
+   "Vínculo de dependencia entre profesional de educación física y entidad de salud privada.",
+   "Confirmación de sentencia de primera instancia por la Cámara Nacional de Apelaciones del Trabajo."
+  ],
+  "impacto_practico": "Permite a los litigantes sostener la presunción de laboralidad en modalidades de prestación de servicios no tradicionales o desarrolladas en espacios públicos para empleadores formales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "relación laboral",
+   "contrato de trabajo",
+   "presunción de laboralidad",
+   "derecho laboral"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones del Trabajo, Sala 03, 25/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Cámara confirmó la relación laboral de la profesora que daba clases de gimnasia en parques para un hospital privado",
+   "La justicia del Trabajo confirmó la existencia de una relación de dependencia entre una profesora de educación física"
+  ],
+  "extracto_oficial": "La justicia del Trabajo confirmó la existencia de una relación de dependencia entre una profesora de educación física que dictaba clases en distintos parques de la Ciudad de Buenos Aires y el Hospital Italiano. Señaló que la configuración de un vínculo ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:44:31+00:00",
+  "ingresado": "2026-11-27T09:44:31+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9525c761ea8f",
+  "url_hash": "9525c761ea8fb72572c2237b32f65b8d07dcb79bd4cefbc7120a6304c1a2ca6f",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52791",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Suspensión de prohibición de acercamiento requiere análisis riguroso",
+  "titulo_original": "La suspensión de la prohibición de acercamiento exige un análisis riguroso de necesidad y razonabilidad",
+  "bajada": "La Cámara revocó la autorización para suspender temporalmente una prohibición de acercamiento en una causa por abuso sexual y tentativa de homicidio.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 01",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+  "id_legal_norm": null,
+  "holding": "La Cámara determinó que la suspensión temporal de una prohibición de acercamiento impuesta a un imputado por delitos graves exige un examen estricto de necesidad y razonabilidad, revocando el permiso concedido en primera instancia para asistir a una audiencia de régimen de comunicación.",
+  "puntos_clave": [
+   "Se exige un análisis riguroso de necesidad y razonabilidad para suspender medidas cautelares.",
+   "El caso involucra imputaciones graves por abuso sexual y homicidio en grado de tentativa.",
+   "Se revocó la autorización que permitía al imputado acercarse temporalmente a su grupo familiar."
+  ],
+  "impacto_practico": "Constituye un precedente para los litigantes al momento de solicitar flexibilizaciones de medidas de coerción o cautelares en contextos de delitos graves y protección familiar.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "prohibición de acercamiento",
+   "medidas cautelares",
+   "derecho penal",
+   "violencia"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 01, 04/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La suspensión de la prohibición de acercamiento exige un análisis riguroso de necesidad y razonabilidad.",
+   "La Cámara revocó la autorización concedida a un imputado por abuso sexual y homicidio en grado de tentativa"
+  ],
+  "extracto_oficial": "La Cámara revocó la autorización concedida a un imputado por abuso sexual y homicidio en grado de tentativa para suspender, durante un día, la prohibición de acercamiento a su grupo familiar y asistir a una audiencia en un proceso sobre régimen de comunicación. ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:43:49+00:00",
+  "ingresado": "2026-11-27T09:43:49+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "da3cfa48e21d",
+  "url_hash": "da3cfa48e21d31879369cad8a1245860f25d03dfd9250032cd5767a9ffee9579",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52756",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Validez de testamento en favor de la pareja conviviente",
+  "titulo_original": "La Cámara Civil confirmó la validez del testamento que instituyó como heredero a la pareja conviviente del causante",
+  "bajada": "La Cámara Civil confirmó la validez de un testamento que instituyó como heredero al conviviente del causante, al rechazar la demanda de nulidad.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Civil - Sala H",
+  "caratula": "",
+  "identificador_legal": "Cámara Nacional de Apelaciones en lo Civil",
+  "id_legal_norm": null,
+  "holding": "El tribunal confirmó la sentencia que rechazó la demanda de nulidad promovida por los sobrinos del causante, dejando firme el testamento que instituía como único heredero a su pareja conviviente.",
+  "puntos_clave": [
+   "Se confirmó la validez de un testamento por el cual se instituyó heredero a la pareja conviviente.",
+   "El tribunal rechazó la demanda de nulidad promovida por los sobrinos del causante.",
+   "Se dejó firme la sentencia de primera instancia que convalidaba el acto testamentario."
+  ],
+  "impacto_practico": "Constituye un precedente relevante en materia sucesoria respecto de la validez de la institución de herederos mediante testamento en favor de convivientes frente a reclamos de parientes colaterales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "testamento",
+   "convivencia",
+   "heredero",
+   "nulidad"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Civil, Sala H, 24/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "La Cámara Civil confirmó la validez del testamento",
+   "rechazado la demanda de nulidad de un testamento"
+  ],
+  "extracto_oficial": "El tribunal dejó firme la sentencia que había rechazado la demanda de nulidad de un testamento promovida por los sobrinos del causante. El acto instituía como único heredero a la persona con quien aquel había mantenido una relación de convivencia durante ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:43:19+00:00",
+  "ingresado": "2026-11-27T09:43:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a38cbe9ccdb1",
+  "url_hash": "a38cbe9ccdb1d4d9e7c3f2de2fb864e93a5fb76f20c0a4dfbe7b5581f6ff6130",
+  "fuente": "saij_boletin",
+  "fuente_nombre": "SAIJ — Boletín de novedades",
+  "url": "https://www.saij.gob.ar/NV52860",
+  "prioridad": 93,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Condenan a Pity Álvarez a doce años de prisión por homicidio",
+  "titulo_original": "La justicia condenó al cantante Pity Álvarez a la pena de doce años de prisión por homicidio agravado",
+  "bajada": "El Tribunal Oral en lo Criminal y Correccional Nro 29 condenó al músico a doce años de prisión por el homicidio de Cristian Díaz cometido en 2018.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Oral en lo Criminal y Correccional nro 29",
+  "caratula": "",
+  "identificador_legal": "Tribunal Oral en lo Criminal y Correccional nro 29",
+  "id_legal_norm": "TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL 29",
+  "holding": "El Tribunal Oral en lo Criminal y Correccional Nro 29 determinó la condena a doce años de prisión para el acusado por el delito de homicidio agravado en relación al hecho ocurrido en julio de 2018 en el barrio porteño de Villa Lugano.",
+  "puntos_clave": [
+   "Condena a doce años de prisión dictada por el Tribunal Oral en lo Criminal y Correccional Nro 29.",
+   "El hecho juzgado constituyó un homicidio agravado.",
+   "El suceso ocurrió en julio de 2018 en Villa Lugano."
+  ],
+  "impacto_practico": "Permite conocer la resolución judicial de primera instancia recaída en una causa de gran repercusión pública por homicidio.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "homicidio",
+   "condena",
+   "derecho penal",
+   "tribunal oral"
+  ],
+  "cita_sugerida": "Tribunal Oral en lo Criminal y Correccional nro 29, 20/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [
+   "condenó al cantante Pity Álvarez a la pena de doce años",
+   "homicidio de Cristian Díaz, ocurrido en julio de 2018"
+  ],
+  "extracto_oficial": "El Tribunal Oral Nro 29 condenó al ex líder de las bandas de rock Viejas Locas e Intoxicados, a la pena de 12 años de prisión por el homicidio de Cristian Díaz, ocurrido en julio de 2018 en el barrio porteño de Villa Lugano. Los magistrados consideraron ...",
+  "oficial": {},
+  "fecha": "2026-11-27T09:42:50+00:00",
+  "ingresado": "2026-11-27T09:42:50+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "mpf",
+    "fuente_nombre": "Ministerio Público Fiscal",
+    "url": "https://www.fiscales.gob.ar/fiscalias/condenaron-a-12-anos-de-prision-a-pity-alvarez-por-haber-matado-a-un-hombre-en-el-barrio-samore-en-2018-y-ordenaron-su-detencion-domiciliaria/",
+    "titulo": "Condenaron a 12 años de prisión a \"Pity\" Álvarez por haber matado a un hombre en el Barrio Samoré en 2018 y ordenaron su detención domiciliaria",
+    "fecha": "2026-11-20T17:11:40+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T09:56:00+00:00"
+ },
+ {
   "id": "22ef3bc128ec",
   "url_hash": "22ef3bc128ec22281b4b7131b0a57239dbcf7bcd53c8d72abfebd50d65633550",
   "fuente": "saij_boletin",
@@ -208,6 +1129,215 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "48d2dd9835d1",
+  "url_hash": "48d2dd9835d14b65ca6775f2a268cdd10eee550b004b459c0661e30e62df1dbf",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/genero/se-conocera-en-diciembre-el-veredicto-contra-el-acusado-de-apunalar-a-dos-mujeres-dentro-un-estudio-de-danza/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Juicio por el ataque en un estudio de danza: el 10 de diciembre será el veredicto",
+  "titulo_original": "Se conocerá en diciembre el veredicto contra el acusado de apuñalar a dos mujeres dentro un estudio de danza",
+  "bajada": "El Tribunal Oral en lo Criminal y Correccional N°11 fijó la fecha para el veredicto contra el acusado de apuñalar a dos mujeres en noviembre de 2020 en Palermo.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Oral en lo Criminal y Correccional N°11",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "En el marco del debate oral seguido contra Sebastián Damián Villarreal por tentativa de homicidio agravado y tentativa de homicidio simple, el Ministerio Público Fiscal solicitó una pena de 14 años y 6 meses de prisión, al considerar acreditada la autoría y la imputabilidad del acusado, y debatió la exclusión de una prueba documental introducida por la defensa sin el debido registro en el expediente.",
+  "puntos_clave": [
+   "El fiscal general Nicolás Amelotti solicitó 14 años y 6 meses de prisión para el imputado por tentativa de homicidio agravado por violencia de género y tentativa de homicidio simple.",
+   "El debate abordó la discusión procesal sobre la incorporación irregular de un presunto informe psiquiátrico presentado por la defensa en su alegato.",
+   "El próximo 10 de diciembre se llevará a cabo la última audiencia para las últimas palabras del acusado y la lectura del veredicto."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer el estado de la etapa de debate y el criterio del Ministerio Público Fiscal respecto de la calificación legal por tentativa de homicidio agravado por violencia de género, así como las reglas sobre la correcta incorporación de prueba documental en el juicio.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "violencia de género",
+   "tentativa de homicidio",
+   "juicio oral",
+   "ministerio público fiscal"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, veredicto previsto para el 10/12/2026 en causa seguida a Villarreal.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T20:03:24+00:00",
+  "ingresado": "2026-11-27T10:01:40+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ec88d64886c4",
+  "url_hash": "ec88d64886c4f88c357ec4060c1774d22c30f5dc5b33bf26ff1fa85f56626fb7",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/cuatro-personas-imputadas-por-el-envio-de-marihuana-por-encomiendas-entre-misiones-y-santa-fe/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Cuatro imputados por transporte de marihuana en encomiendas",
+  "titulo_original": "Cuatro personas imputadas por el envío de marihuana por encomiendas entre Misiones y Santa Fe",
+  "bajada": "Cuatro personas fueron imputadas y sujetas a prisión preventiva y arresto domiciliario tras una investigación por envío de estupefacientes entre Misiones y Santa Fe.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Sede Fiscal Descentralizada San Lorenzo",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se imputó a cuatro personas por transporte de estupefacientes agravado tras una investigación de la Sede Fiscal Descentralizada San Lorenzo que permitió el secuestro de más de 12 kilos de marihuana mediante una entrega vigilada y posteriores allanamientos.",
+  "puntos_clave": [
+   "Cuatro personas imputadas por transporte de estupefacientes agravado por la intervención de tres o más personas.",
+   "Utilización del método de entrega vigilada con autorización judicial para interceptar encomiendas con marihuana.",
+   "Disposición de prisión preventiva por 90 días para dos imputados y arresto domiciliario para los otros dos."
+  ],
+  "impacto_practico": "Ilustra el uso de técnicas especiales de investigación como la entrega vigilada en causas de narcocriminalidad federal mediante encomiendas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "narcocriminalidad",
+   "transporte de estupefacientes",
+   "entrega vigilada",
+   "encomiendas"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Cuatro personas imputadas por el envío de marihuana por encomiendas entre Misiones y Santa Fe, 26 de noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T19:04:25+00:00",
+  "ingresado": "2026-11-27T10:02:09+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "7bc31177c119",
+  "url_hash": "7bc31177c119c2ba32367fea25361dafcda669bea16029ee9d73b76255aede35",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/misiones-imputaron-y-dictaron-prision-preventiva-a-un-hombre-que-intento-ingresar-212-kilos-de-marihuana-desde-paraguay-ocultos-en-un-auto/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Misiones: prisión preventiva por contrabando de estupefacientes",
+  "titulo_original": "Misiones: imputaron y dictaron prisión preventiva a un hombre que intentó ingresar 212 kilos de marihuana desde Paraguay ocultos en un auto",
+  "bajada": "La Unidad Fiscal Posadas logró la prisión preventiva por 90 días hábiles de un hombre acusado de ingresar más de 212 kilos de marihuana ocultos en un automóvil desde Paraguay.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Garantías de Posadas",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se dictó la prisión preventiva por el plazo de 90 días hábiles de un imputado por el delito de contrabando de estupefacientes agravado en grado de tentativa, al haberse acreditado los riesgos procesales de fuga y entorpecimiento de la investigación.",
+  "puntos_clave": [
+   "Se imputó el delito de contrabando de estupefacientes agravado en grado de tentativa.",
+   "La jueza federal de Garantías dictó la prisión preventiva por 90 días hábiles a pedido del Ministerio Público Fiscal.",
+   "Se fundamentaron los riesgos de fuga y entorpecimiento por la falta de arraigo y la cercanía con la frontera."
+  ],
+  "impacto_practico": "Ilustra los criterios del Ministerio Público Fiscal y de la judicatura federal en materia de medidas de coerción para delitos de narcotráfico con elementos transfronterizos.",
+  "normas_citadas": [
+   "artículo 866, segundo párrafo, del Código Aduanero",
+   "artículo 864, inciso “d”, del Código Aduanero",
+   "artículo 871 del Código Aduanero"
+  ],
+  "etiquetas": [
+   "contrabando",
+   "estupefacientes",
+   "prisión preventiva",
+   "narcocriminalidad"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Unidad Fiscal Posadas, Misiones, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:02:33+00:00",
+  "ingresado": "2026-11-27T10:02:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "915fe26442f9",
+  "url_hash": "915fe26442f9a62881c0f612bc45ad93c461a7c9fb16cd4c47947554ffe3b9cd",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/procuracion-general/la-procuracion-general-creo-la-fiscalia-de-distrito-de-entre-rios/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Creación de la Fiscalía de Distrito de Entre Ríos en el marco del sistema acusatorio",
+  "titulo_original": "La Procuración General creó la Fiscalía de Distrito de Entre Ríos",
+  "bajada": "El procurador general de la Nación interino dispuso la creación de la nueva Fiscalía de Distrito de Entre Ríos con motivo de la implementación del Código Procesal Penal Federal.",
+  "tipo": "Noticia",
+  "materia": "Institucional",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Procuración General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución PGN 93/26",
+  "id_legal_norm": "RESOLUCION PGN 93/26",
+  "holding": "Mediante la Resolución PGN 93/26, la Procuración General de la Nación creó la Fiscalía de Distrito de Entre Ríos para instrumentar la plena vigencia del Código Procesal Penal Federal en el ámbito de la Cámara Federal de Apelaciones de Paraná, estructurando unidades fiscales y sedes descentralizadas para el abordaje de la criminalidad en la región.",
+  "puntos_clave": [
+   "Se creó la Fiscalía de Distrito de Entre Ríos mediante la Resolución PGN 93/26.",
+   "La medida opera en el marco de la implementación del Código Procesal Penal Federal en la jurisdicción de Paraná.",
+   "El distrito se organiza en unidades fiscales en Paraná y Concepción del Uruguay, junto con sedes descentralizadas en Victoria, Gualeguaychú y Concordia."
+  ],
+  "impacto_practico": "Informa a los operadores jurídicos sobre la nueva estructura organizativa y funcional del Ministerio Público Fiscal de la Nación en Entre Ríos ante la llegada del sistema acusatorio.",
+  "normas_citadas": [
+   "Resolución PGN 93/26",
+   "Resolución PGN 35/2019",
+   "Ley Provincial N°10.566",
+   "Ley 26.052"
+  ],
+  "etiquetas": [
+   "ministerio público fiscal",
+   "sistema acusatorio",
+   "entre ríos",
+   "código procesal penal federal"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Resolución PGN 93/26, Creación de la Fiscalía de Distrito de Entre Ríos.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T12:35:27+00:00",
+  "ingresado": "2026-11-27T09:59:47+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -691,6 +1821,272 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "5b7e315fbf36",
+  "url_hash": "5b7e315fbf36b13847d50a586bd29af2482c8b2156e7a33a6de55ba4fe46b774",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/piden-la-detencion-y-la-indagatoria-de-una-mujer-acusada-de-llevarse-a-venezuela-a-su-hija-sin-autorizacion-del-padre/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Piden indagatoria y captura por sustracción de menor trasladada a Venezuela",
+  "titulo_original": "Piden la detención y la indagatoria de una mujer acusada de llevarse a Venezuela a su hija sin autorización del padre",
+  "bajada": "La fiscalía federal solicitó la detención y citación a indagatoria de una madre imputada por trasladar a su hija de dos años a Venezuela sin autorización paterna.",
+  "tipo": "Dictamen",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Fiscalía Federal de Garantías / Unidad Fiscal Santa Fe",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Ministerio Público Fiscal solicitó la declaración indagatoria y la detención de una mujer acusada del delito de sustracción, retención y ocultamiento de un menor de diez años, previsto en el artículo 146 del Código Penal, tras haber trasladado a su hija menor de edad a Venezuela en 2023 eludiendo los controles migratorios y sin el consentimiento del padre, encontrándose actualmente en paradero desconocido luego de haberse iniciado un proceso de restitución internacional.",
+  "puntos_clave": [
+   "La fiscalía solicitó la detención y la citación a indagatoria de la madre imputada por el delito del artículo 146 del Código Penal.",
+   "Se investiga el traslado clandestino de una niña de dos años fuera del país en 2023, eludiendo los controles migratorios hacia Venezuela.",
+   "Se tramita la restitución internacional a través de la Cancillería Argentina y la justicia venezolana, aunque actualmente se desconoce el paradero de ambas."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer los criterios de persecución penal y las herramientas de cooperación internacional (como notificaciones de INTERPOL y restitución internacional) aplicadas ante casos de sustracción internacional de menores.",
+  "normas_citadas": [
+   "art. 146 del Código Penal"
+  ],
+  "etiquetas": [
+   "sustracción de menores",
+   "restitución internacional",
+   "ministerio público fiscal",
+   "interpol"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, dictamen de la Unidad Fiscal Santa Fe, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T18:03:49+00:00",
+  "ingresado": "2026-11-27T09:54:43+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9e1b49309464",
+  "url_hash": "9e1b4930946464a5cdc641a6faa05b8cdee1dbc8da720a5319e05906d4e65df2",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7120/Cesantia-en-el-empleo-publico-el-Estado-no-esta-legitimado-para-plantear-la-inconstitucionalidad-de-las-leyes",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Cesantía en el empleo público: el Estado no está legitimado para plantear la inconstitucionalidad de las leyes",
+  "titulo_original": "Cesantía en el empleo público: el Estado no está legitimado para plantear la inconstitucionalidad de las leyes",
+  "bajada": "La Cámara Contencioso Administrativo Federal declaró la nulidad por prescripción de una cesantía y ordenó la reinstalación del agente, ratificando que el Estado carece de legitimación para cuestionar la constitucionalidad de las normas que dicta.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala I",
+  "caratula": "",
+  "identificador_legal": "Expte. 39284685/18",
+  "id_legal_norm": "EXPTE. 39284685/18",
+  "holding": "La Sala I de la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal resolvió declarar la nulidad de la resolución que dispuso la cesantía de un agente público por haberse operado la prescripción de la facultad disciplinaria de la Administración. Para así decidir, el tribunal descartó el planteo estatal sobre la inconstitucionalidad de los plazos legales, reafirmando que el Estado Nacional no está legitimado para solicitar ni declarar la inconstitucionalidad de las normas dictadas por él mismo, siendo esta una atribución exclusiva del Poder Judicial.",
+  "puntos_clave": [
+   "El Estado carece de legitimación para plantear la inconstitucionalidad de las leyes que él mismo emite.",
+   "La facultad disciplinaria de la Administración para aplicar sanciones de cesantía se encuentra sujeta a los plazos de prescripción previstos en la Ley Marco de Empleo Público.",
+   "Verificado el transcurso del plazo legal de prescripción, corresponde declarar la nulidad del acto sancionatorio y ordenar la reinstalación del agente."
+  ],
+  "impacto_practico": "Sirve para los litigantes y defensores de agentes públicos en sumarios disciplinarios para oponer la prescripción ante sanciones extemporáneas e impedir que el Estado intente salvar su inacción mediante planteos de inconstitucionalidad de las normas que rigen la materia.",
+  "normas_citadas": [
+   "Ley Marco de Empleo Público N° 25.164"
+  ],
+  "etiquetas": [
+   "empleo público",
+   "cesantía",
+   "prescripción",
+   "inconstitucionalidad",
+   "sanciones disciplinarias"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, Sala I, \"Yomaiel Claudio Hernán c/ EN-M. Cultura de la Nación – Expte. 39284685/18 s/ empleo público\", 1/09/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:07:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "caratula descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "23f8982de334",
+  "url_hash": "23f8982de3345b8d4886b31e33254a064102f09a263644b2d5951395598a5915",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7121/Confirmaron-una-condena-por-despido-a-favor-del-periodista-Esteban-Trebucq-contra-un-grupo-de-empresas-de-medios",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Confirmaron condena por despido a favor del periodista Esteban Trebucq contra empresas de medios",
+  "titulo_original": "Confirmaron una condena por despido a favor del periodista Esteban Trebucq contra un grupo de empresas de medios",
+  "bajada": "La Cámara del Trabajo ratificó la relación de dependencia bajo el principio de primacía de la realidad, extendió la responsabilidad a un directivo y rechazó la aplicación retroactiva de la Ley Bases sobre multas laborales.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones del Trabajo, Sala IX",
+  "caratula": "Trebucq, Esteban Marcos c/ Emisiones Platenses S.A. y otros s/ Despido",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Sala IX confirmó la sentencia que admitió la demanda por despido de un periodista al comprobar la subordinación jurídica y técnica, aplicando la presunción del art. 23 de la LCT y el principio de primacía de la realidad. Además, rechazó la aplicación retroactiva de la Ley 27.742 para las multas laborales, confirmó la responsabilidad solidaria de las sociedades y del directivo involucrado conforme a la Ley General de Sociedades, y ajustó el cálculo de intereses según la normativa aplicable.",
+  "puntos_clave": [
+   "Se ratificó la existencia de relación laboral no registrada de un periodista aplicando la presunción del art. 23 de la LCT y la regla de primacía de la realidad frente a un ropaje comercial o societario.",
+   "Se determinó la irretroactividad de la Ley 27.742 (Ley Bases) respecto de las indemnizaciones agravadas por empleo no registrado surgidas con anterioridad.",
+   "Se extendió la condena solidariamente al presidente del directorio por tolerar la clandestinidad laboral en violación al estándar del buen hombre de negocios."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para litigantes en fuero laboral sobre la inaplicabilidad retroactiva de las reformas de la Ley Bases en materia de multas y la responsabilidad personal de directivos por registración defectuosa.",
+  "normas_citadas": [
+   "art. 23 LCT",
+   "art. 14 LCT",
+   "Ley 12.908",
+   "CCT 541/08",
+   "Ley 27.742",
+   "art. 55 de la Ley 27.802"
+  ],
+  "etiquetas": [
+   "despido",
+   "primacía de la realidad",
+   "ley bases",
+   "responsabilidad solidaria",
+   "periodista"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones del Trabajo, Sala IX, \"Trebucq, Esteban Marcos c/ Emisiones Platenses S.A. y otros s/ Despido\", 25/11/2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:06:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "31e069d90758",
+  "url_hash": "31e069d907586666a9dbc18bb0ceb7cba88dfea9c018d1c109e486fb8be9a3c9",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/crimen-organizado/la-plata-condenan-a-11-y-12-anos-prision-a-tres-hombres-por-el-secuestro-extorsivo-de-un-empresario-de-lomas-de-zamora/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Condenan a penas de 11 y 12 años de prisión por secuestro extorsivo",
+  "titulo_original": "La Plata: condenan a 11 y 12 años prisión a tres hombres por el secuestro extorsivo de un empresario de Lomas de Zamora",
+  "bajada": "El Tribunal Oral Federal N°2 de La Plata condenó a tres hombres por el secuestro extorsivo agravado de un empresario y por el robo de su camioneta.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral Federal N°2 de La Plata",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se condenó a tres hombres a penas de 11 y 12 años de prisión por los delitos de secuestro extorsivo agravado y robo agravado con arma de fuego, tras una investigación del Ministerio Público Fiscal que acreditó la materialidad ilícita mediante registros telefónicos, antenas de celulares, ruedas de reconocimiento y aprehensión en flagrancia.",
+  "puntos_clave": [
+   "Condena de 11 y 12 años de prisión por secuestro extorsivo agravado y robo con arma.",
+   "Unificación de penas previas elevando las condenas a 14 años y 6 meses para dos de los acusados.",
+   "Autoria acreditada mediante análisis de antenas, cruce de llamadas y reconocimiento en rueda."
+  ],
+  "impacto_practico": "Útil para operadores judiciales en materia de prueba tecnológica y valoración de cruces de antenas telefónicas en causas de secuestros extorsivos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "secuestro extorsivo",
+   "robo agravado",
+   "prueba digital",
+   "tribunal oral federal"
+  ],
+  "cita_sugerida": "TOF N°2 de La Plata, condena por secuestro extorsivo, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T14:24:14+00:00",
+  "ingresado": "2026-11-27T09:54:13+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "d7d85e931c05",
+  "url_hash": "d7d85e931c05c3ca2edcd7a81757877dee07522bec6c3f1297b1086eb7d2815d",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/procesaron-con-prision-preventiva-a-cuatro-personas-acusadas-por-el-homicidio-de-un-hombre-durante-un-robo-en-saavedra/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Procesaron con prisión preventiva a cuatro personas por homicidio agravado en Saavedra",
+  "titulo_original": "Procesaron con prisión preventiva a cuatro personas por el homicidio de un hombre durante un robo en Saavedra",
+  "bajada": "Cuatro personas fueron procesadas con prisión preventiva como coautores del homicidio triplemente agravado y robo cometido en una vivienda del barrio porteño de Saavedra.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "CABA",
+  "tribunal": "Juzgado Nacional en lo Criminal y Correccional N°8",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El magistrado dictó el procesamiento con prisión preventiva de cuatro imputados por considerar acreditada su coautoría en los delitos de homicidio triplemente agravado por ensañamiento, alevosía, concurso premeditado y criminis causae, en concurso con robo agravado en poblado y en banda, tras valorar pruebas fílmicas, de geolocalización y pericias forenses.",
+  "puntos_clave": [
+   "Se dictó el procesamiento con prisión preventiva de cuatro personas por el homicidio y robo a un hombre en Saavedra.",
+   "La investigación estuvo a cargo del fiscal José María Campagnoli y el auxiliar fiscal Facundo Vidal.",
+   "Se acreditó la participación coordinada de los imputados mediante cámaras de seguridad, registros de aplicaciones de viajes y rastreos electrónicos."
+  ],
+  "impacto_practico": "Ilustra el estándar probatorio y la articulación entre la fiscalía y la policía en investigaciones complejas de homicidios criminis causae mediante el uso de tecnología y registros digitales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "prisión preventiva",
+   "homicidio criminis causae",
+   "robo agravado",
+   "ensañamiento",
+   "alevosía"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Procesaron con prisión preventiva a cuatro personas acusadas por el homicidio de un hombre durante un robo en Saavedra, 25 de noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T12:02:41+00:00",
+  "ingresado": "2026-11-27T09:53:43+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "d2f300507196",
   "url_hash": "d2f300507196ff35599bcaa7324163ed81b9fd4d7a0d0dc9d5dccf6cd84c3076",
   "fuente": "bora",
@@ -1101,6 +2497,59 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "f8339029fb7c",
+  "url_hash": "f8339029fb7c63cd5d6f92433224702eb244891ac78ac7b26bb18e2629fc447e",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/rosario-condenaron-a-tres-policias-por-brindar-proteccion-y-liberar-zonas-para-una-banda-narcocriminal/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Rosario: condenaron a tres policías por proteger banda narco",
+  "titulo_original": "Rosario: condenaron a tres policías por brindar protección y liberar zonas para una banda narcocriminal",
+  "bajada": "El Tribunal Oral Federal N°3 de Rosario condenó a penas de hasta siete años y medio de prisión a tres policías por liberar zonas y brindar cobertura a una organización narcocriminal.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Santa Fe",
+  "tribunal": "Tribunal Oral en lo Criminal Federal N°3 de Rosario",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se acreditó la complicidad funcional y el aporte indispensable de personal policial al narcotráfico mediante prueba tecnológica, registros de GPS de patrulleros y testimonios, configurando su participación necesaria en el delito de tenencia de estupefacientes con fines de comercialización agravado por su condición de funcionarios públicos.",
+  "puntos_clave": [
+   "Tres efectivos del Comando Radioeléctrico fueron condenados como partícipes necesarios de tenencia de estupefacientes con fines de comercialización.",
+   "La investigación se originó en la denuncia de dos adolescentes retenidas en un búnker de venta de drogas.",
+   "Se probó la connivencia policial mediante registros de geolocalización satelital de patrulleros, ausencia de incidencias en el 911 y chats de WhatsApp."
+  ],
+  "impacto_practico": "Constituye un precedente relevante sobre la utilización de evidencia tecnológica (GPS de patrulleros, registros del 911 y comunicaciones) para acreditar la connivencia policial y la complicidad funcional en estructuras de narcocriminalidad.",
+  "normas_citadas": [
+   "Ley N°23.737"
+  ],
+  "etiquetas": [
+   "narcotráfico",
+   "complicidad policial",
+   "rosario",
+   "estupefacientes",
+   "tribunal oral federal"
+  ],
+  "cita_sugerida": "Tribunal Oral en lo Criminal Federal N°3 de Rosario, 5 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T19:06:22+00:00",
+  "ingresado": "2026-11-27T09:55:13+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "cd30c90e1b85",
   "url_hash": "cd30c90e1b857487b9c09aa11f9146c57131a2a72647050bfc496b2eb98c8937",
   "fuente": "saij_boletin",
@@ -1151,6 +2600,64 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "bd02c4792eb7",
+  "url_hash": "bd02c4792eb76d92d02429c921496aa28d4862f07371928a0e842be2566a0414",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7118/Financiamiento-Universitario-la-Fiscalia-de-Camara-dictamino-que-es-inconstitucional-el-decreto-que-suspendio-la-ley",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Financiamiento Universitario: la Fiscalía de Cámara dictaminó que es inconstitucional el decreto que suspendió la ley",
+  "titulo_original": "Financiamiento Universitario: la Fiscalía de Cámara dictaminó que es inconstitucional el decreto que suspendió la ley",
+  "bajada": "El Ministerio Público Fiscal dictaminó que es inconstitucional el decreto que suspendió la Ley de Financiamiento Universitario y recomendó confirmar el fallo de primera instancia.",
+  "tipo": "Dictamen",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Fiscalía General ante la Cámara Contencioso Administrativo Federal",
+  "caratula": "Consejo Interuniversitario Nacional y otros c/ EN - PEN - Dto 759/25 s/ Amparo Ley 16.986",
+  "identificador_legal": "Expte. CAF 39475/2025",
+  "id_legal_norm": "CAF 39475/2025",
+  "holding": "La Fiscalía sostuvo que utilizar la Ley 24.629 para suspender una ley insistida por el Congreso tras un veto configura un mecanismo extraconstitucional que vulnera la división de poderes, la autonomía universitaria y el principio de no regresividad.",
+  "puntos_clave": [
+   "El Fiscal General recomendó confirmar la sentencia que declaró la inconstitucionalidad del Decreto N° 759/2025.",
+   "Se calificó la suspensión basada en la Ley N° 24.629 como un segundo veto inconstitucional tras la insistencia legislativa.",
+   "Se destacó la existencia de partidas y superávit para cumplir con la Ley N° 27.795, así como la afectación a la autonomía universitaria."
+  ],
+  "impacto_practico": "Permite a los litigantes y operadores jurídicos contar con el criterio del Ministerio Público Fiscal sobre los límites del Poder Ejecutivo para suspender la ejecución de leyes aprobadas por insistencia legislativa.",
+  "normas_citadas": [
+   "Ley 24.629",
+   "Decreto N° 759/2025",
+   "Ley N° 27.795",
+   "Decreto N° 647/2025",
+   "art. 83 CN",
+   "art. 75 inc. 8° CN"
+  ],
+  "etiquetas": [
+   "financiamiento universitario",
+   "ministerio público fiscal",
+   "inconstitucionalidad",
+   "autonomía universitaria",
+   "ley 27.795"
+  ],
+  "cita_sugerida": "Fiscalía General ante la Cámara Contencioso Administrativo Federal, “Consejo Interuniversitario Nacional y otros c/ EN - PEN - Dto 759/25 s/ Amparo Ley 16.986”, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:06:02+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -1526,6 +3033,162 @@
   "oficial": {},
   "fecha": "2026-11-24T03:00:00+00:00",
   "ingresado": "2026-11-26T01:56:54+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e90f298989d5",
+  "url_hash": "e90f298989d506afbe28e306dc6888bc66f6dae883be24862de030632a6795d5",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/azul-condenaron-a-cuatro-anos-de-prision-a-una-mujer-por-comercializar-cocaina/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Azul: primera condena por narcotráfico bajo el sistema acusatorio",
+  "titulo_original": "Azul: condenaron a cuatro años de prisión a una mujer por comercializar cocaína",
+  "bajada": "Condenaron a cuatro años de prisión en modalidad domiciliaria a una mujer por comercializar cocaína, en el marco de un acuerdo pleno homologado en Azul.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Garantías de Azul",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se homologó un acuerdo pleno en el marco del Código Procesal Penal Federal que condenó a cuatro años de prisión de cumplimiento domiciliario a una mujer por comercialización de estupefacientes, valorando la prueba tecnológica y financiera, así como la perspectiva de género y el interés superior del niño.",
+  "puntos_clave": [
+   "Se dictó la primera condena por la Ley N°23.737 bajo el sistema acusatorio en la Sede Fiscal Descentralizada de Azul.",
+   "El acuerdo pleno incluyó una pena de cuatro años de prisión en detención domiciliaria, multa y decomiso de bienes.",
+   "Se fundamentó la prisión domiciliaria en el principio de no trascendencia de la pena y la perspectiva de género y humanitaria."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales observar la aplicación práctica del artículo 323 del CPPF en acuerdos plenos por delitos de narcotráfico, así como la ponderación de la prisión domiciliaria bajo perspectiva de género.",
+  "normas_citadas": [
+   "Ley N°23.737",
+   "artículo 323 del Código Procesal Penal Federal",
+   "artículo 5°, inciso c, de la ley 23.737"
+  ],
+  "etiquetas": [
+   "narcotráfico",
+   "sistema acusatorio",
+   "prisión domiciliaria",
+   "acuerdo pleno"
+  ],
+  "cita_sugerida": "Juzgado Federal de Garantías de Azul, condena por comercialización de estupefacientes, 13 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T20:50:43+00:00",
+  "ingresado": "2026-11-27T09:57:58+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "46aa400a5fd3",
+  "url_hash": "46aa400a5fd39722e99522f17bd1f203d94738eedbf23b54807aab2138fd916f",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/san-nicolas-solicitaron-juicio-oral-para-un-dirigente-social-acusado-de-extorsionar-a-26-beneficiarios-del-programa-potenciar-trabajo/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "San Nicolás: solicitan juicio oral a dirigente social por extorsión a beneficiarios",
+  "titulo_original": "San Nicolás: solicitaron juicio oral para un dirigente social acusado de extorsionar a 26 beneficiarios del programa Potenciar Trabajo",
+  "bajada": "La fiscalía federal pidió la elevación a juicio de un referente social acusado de extorsionar a 26 beneficiarios del programa Potenciar Trabajo.",
+  "tipo": "Dictamen",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Sede Fiscal Descentralizada San Nicolás",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se solicitó la elevación a juicio de la causa contra un dirigente social imputado por el delito de extorsión en concurso real, al determinarse mediante elementos probatorios suficientes que exigía dinero y obligaba a asistir a movilizaciones a beneficiarios de planes sociales bajo amenazas de dar de baja el beneficio.",
+  "puntos_clave": [
+   "Requerimiento de elevación a juicio por 26 hechos de extorsión en concurso real.",
+   "El imputado exigía dinero y asistencia a marchas bajo amenaza de suspender planes sociales.",
+   "La investigación comprobó transferencias bancarias y entregas de efectivo mediante peritajes y testimonios."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para la persecución penal de exigencias extorsivas y coacción a beneficiarios de planes sociales condicionados a aportes o movilizaciones.",
+  "normas_citadas": [
+   "artículo 168 del Código Penal"
+  ],
+  "etiquetas": [
+   "extorsión",
+   "potenciar trabajo",
+   "ministerio público fiscal",
+   "juicio oral"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Sede Fiscal Descentralizada San Nicolás, requerimiento de elevación a juicio, 4 de noviembre de 2024",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T20:30:17+00:00",
+  "ingresado": "2026-11-27T09:57:28+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e04b4e5e5e71",
+  "url_hash": "e04b4e5e5e71f47c2b4a43331cd6d250bf1ebec6d4a95427cd8ea7b649105894",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/neuquen-revocaron-las-prisiones-domiciliarias-de-dos-condenados-por-narcomenudeo-que-fueron-imputados-por-nuevos-hechos/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Neuquén: revocan prisiones domiciliarias por nuevos delitos de narcomenudeo",
+  "titulo_original": "Neuquén: revocaron las prisiones domiciliarias de dos condenados por narcomenudeo que fueron imputados por nuevos hechos",
+  "bajada": "A pedido de la fiscalía federal, la justicia revocó las prisiones domiciliarias de dos condenados por narcotráfico tras ser imputados por nuevos hechos en domicilios particulares.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Neuquén",
+  "tribunal": "Unidad Fiscal Neuquén",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se revocaron las prisiones domiciliarias de dos condenados por narcotráfico que incumplieron las condiciones impuestas y fueron imputados por nuevos delitos de comercialización de estupefacientes en los mismos domicilios donde cumplían sus penas, poniendo en riesgo a menores de edad.",
+  "puntos_clave": [
+   "La fiscal federal Luisina Tiscornia solicitó la revocación de las prisiones domiciliarias de dos condenados por narcotráfico.",
+   "Ambos beneficiarios fueron imputados por nuevos delitos de narcomenudeo investigados por la justicia provincial de Neuquén.",
+   "Los jueces de ejecución hicieron lugar al planteo y ordenaron el alojamiento de los condenados en establecimientos penitenciarios federales."
+  ],
+  "impacto_practico": "Muestra la articulación entre el Ministerio Público Fiscal de la Nación y la justicia provincial en el marco de la desfederalización del narcomenudeo, y los criterios para revocar morigeraciones de pena por comisión de nuevos delitos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "prisión domiciliaria",
+   "narcocriminalidad",
+   "narcomenudeo",
+   "neuquén"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Neuquén: revocaron las prisiones domiciliarias de dos condenados por narcomenudeo, 20 de noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T17:28:50+00:00",
+  "ingresado": "2026-11-27T09:58:28+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,
@@ -2138,6 +3801,111 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "052e1f49b632",
+  "url_hash": "052e1f49b632248c94108fd85debfff31a167a8a4cd62b4cede62359c463605c",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7113/El-maximo-tribunal-porteno-dejo-sin-efecto-una-condena-a-una-aerolinea-por-cancelar-pasajes-vendidos-a-un-precio-irrisorio",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "TSJ porteño dejó sin efecto condena a aerolínea por pasajes a precio irrisorio",
+  "titulo_original": "El máximo tribunal porteño dejó sin efecto una condena a una aerolínea por cancelar pasajes vendidos a un precio irrisorio",
+  "bajada": "El Tribunal Superior de Justicia de la CABA revocó una condena contra una aerolínea al considerar que existió un error esencial y reconocible en la tarifa publicada.",
+  "tipo": "Fallo",
+  "materia": "Consumo",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires",
+  "caratula": "United Airlines Inc S/ Queja Por Recurso De Inconstitucionalidad Denegado En Peon Carlos Maria C/ United Airlines Inc S/ Ordinario",
+  "identificador_legal": "Expte. N° 2296/2020",
+  "id_legal_norm": "EXPTE. 2296/2020",
+  "holding": "El Tribunal Superior de Justicia determinó que la obligatoriedad de la oferta en las relaciones de consumo cede cuando se configura un error esencial y reconocible por parte del destinatario. En el caso, un pasaje vendido por menos de USD 10 (con una reducción del 99,8 % respecto al valor histórico) evidenciaba una equivocación manifiesta que el consumidor estaba en condiciones de advertir, por lo que la sentencia condenatoria anterior resultó arbitraria.",
+  "puntos_clave": [
+   "La obligatoriedad de la oferta en la Ley de Defensa del Consumidor admite excepciones ante el error esencial y reconocible.",
+   "El error reconocible se evalúa conforme a las circunstancias de persona, tiempo, lugar y la magnitud desproporcionada de la diferencia de precio.",
+   "La mera existencia de campañas de promoción o precios dinámicos no convalida tarifas que constituyan un error evidente para el adquirente."
+  ],
+  "impacto_practico": "Permite a proveedores y aerolíneas invocar la teoría del error esencial del Código Civil y Comercial para eximirse de cumplir con ofertas publicadas con diferencias de precio drásticas e irrisorias, aun en contextos de promociones comerciales.",
+  "normas_citadas": [
+   "artículo 265 del Código Civil y Comercial de la Nación",
+   "artículo 266 del Código Civil y Comercial de la Nación",
+   "artículo 7 de la Ley 24.240"
+  ],
+  "etiquetas": [
+   "error esencial",
+   "derecho del consumidor",
+   "pasajes a precios irrisorios",
+   "tsj caba"
+  ],
+  "cita_sugerida": "TSJ CABA, \"United Airlines Inc S/ Queja Por Recurso De Inconstitucionalidad Denegado En Peon Carlos Maria C/ United Airlines Inc S/ Ordinario\", 20/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:07:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "764f512f5b38",
+  "url_hash": "764f512f5b38be33c05ecda31baa71528f584bfd0e93a065686223fefedc0986",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/la-camara-nacional-de-casacion-penal-confirmo-el-rechazo-del-habeas-corpus-colectivo-por-los-traslados-de-los-detenidos-del-penal-de-devoto-al-de-marcos-paz/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Casación confirmó el rechazo del habeas corpus por traslados de Devoto a Marcos Paz",
+  "titulo_original": "La Cámara Nacional de Casación confirmó el rechazo del habeas corpus colectivo por los traslados de los detenidos del penal de Devoto al de Marcos Paz",
+  "bajada": "La Cámara Nacional de Casación Penal confirmó la denegatoria de un habeas corpus colectivo y correctivo interpuesto por los traslados de detenidos del penal de Devoto a Marcos Paz.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "CABA",
+  "tribunal": "Cámara Nacional de Casación Penal",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Los magistrados determinaron que la presentación carecía de la fundamentación adecuada y que los perjuicios alegados eran de naturaleza heterogénea y dependientes de las circunstancias personales de cada detenido, por lo que debían analizarse en cada caso concreto y no mediante una medida de alcance general.",
+  "puntos_clave": [
+   "Se confirmó el rechazo del habeas corpus colectivo promovido por la Procuración Penitenciaria de la Nación.",
+   "La Cámara consideró que los agravios invocados requerían un examen particularizado y no habilitaban una decisión general.",
+   "Se convalidó el operativo de traslado masivo vinculado al cierre definitivo del establecimiento de Devoto."
+  ],
+  "impacto_practico": "Establece un precedente sobre la improcedencia de las acciones colectivas de habeas corpus cuando los perjuicios invocados sobre los traslados penitenciarios dependen de situaciones singulares e individuales de cada detenido.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "habeas corpus",
+   "traslados",
+   "condiciones de detención",
+   "penal de devoto",
+   "marcos paz"
+  ],
+  "cita_sugerida": "Cámara Nacional de Casación Penal, rechazo de habeas corpus colectivo por traslados de detenidos de Devoto a Marcos Paz, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T12:14:13+00:00",
+  "ingresado": "2026-11-27T09:56:09+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "35ebe7cec039",
   "url_hash": "35ebe7cec039f00d6ad7d1b110f2b02483cbc7a1c1a418a3e71fe82a27c3fc08",
   "fuente": "csjn_noticias",
@@ -2185,6 +3953,56 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "128cc641e45f",
+  "url_hash": "128cc641e45f2c894a0620d38a1058e4b23d9ca5d69ccf81e2b9587bf5038302",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/misiones-condenaron-a-18-anos-de-prision-a-un-contrabandista-que-atropello-y-mato-a-un-gendarme/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Misiones: condena a 18 años de prisión por homicidio simple con dolo eventual a contrabandista",
+  "titulo_original": "Misiones: condenaron a 18 años de prisión a un contrabandista que atropelló y mató a un gendarme",
+  "bajada": "El Tribunal Oral en lo Criminal Federal de Posadas condenó a 18 años de prisión a un conductor que embistió y mató a un gendarme en un control vial para evadir un operativo de contrabando.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral en lo Criminal Federal de Posadas",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se condenó a 18 años de prisión al autor por los delitos de homicidio simple, encubrimiento de contrabando y desobediencia a la autoridad en concurso real, al acreditarse que actuó con dolo eventual al acelerar su vehículo y embestir deliberadamente a un gendarme en un control vial.",
+  "puntos_clave": [
+   "Se impuso una pena de 18 años de prisión por homicidio simple, encubrimiento de contrabando y desobediencia a la autoridad.",
+   "El tribunal valoró que el acusado actuó con dolo eventual al desatar una maniobra deliberada tras advertir la señalización del control.",
+   "La fiscalía acreditó antecedentes de reiterancia delictiva vinculados al contrabando de cigarrillos."
+  ],
+  "impacto_practico": "Útil para litigantes y fiscales en casos de homicidios cometidos en contextos de evasión de controles de seguridad vial y federal, reforzando la aplicación del dolo eventual ante la aceleración deliberada contra personal de fuerzas de seguridad.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "dolo eventual",
+   "homicidio simple",
+   "contrabando",
+   "gendarmeria nacional"
+  ],
+  "cita_sugerida": "Tribunal Oral en lo Criminal Federal de Posadas, Misiones, noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-19T19:59:56+00:00",
+  "ingresado": "2026-11-27T09:56:39+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -2244,14 +4062,23 @@
   },
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-26T01:47:18+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij_boletin",
+    "fuente_nombre": "SAIJ — Boletín de novedades",
+    "url": "https://www.saij.gob.ar/NV52838",
+    "titulo": "La Corte ordenó entregar los resultados por escuela de las evaluaciones Aprender y Enseñar en Salta",
+    "fecha": "2026-11-27T09:47:33+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T09:47:40+00:00"
  },
  {
   "id": "c6945406f538",
@@ -2412,14 +4239,23 @@
   },
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-26T01:47:03+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "saij_boletin",
+    "fuente_nombre": "SAIJ — Boletín de novedades",
+    "url": "https://www.saij.gob.ar/NV52839",
+    "titulo": "La causa por presunto lavado de activos vinculada a la AFA y la quinta de Pilar pasa a la justicia federal porteña",
+    "fecha": "2026-11-27T09:47:59+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T09:48:06+00:00"
  },
  {
   "id": "798c40b73c93",
@@ -2992,6 +4828,61 @@
    "citas_total": 2,
    "modo": "completo",
    "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "094d1cea0188",
+  "url_hash": "094d1cea0188e45c7f4685c5427b62105590262f75e5aa44013d0b66267e47ec",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7106/Reforma-electoral-el-Senado-dictamino-la-suspension-de-las-PASO",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Reforma electoral: el Senado dictaminó la suspensión de las PASO",
+  "titulo_original": "Reforma electoral: el Senado dictaminó la suspensión de las PASO",
+  "bajada": "La Comisión de Asuntos Constitucionales del Senado dictaminó un proyecto de reforma electoral que suspende las PASO para 2027, incorpora el régimen de Ficha Limpia y modifica normas sobre la Boleta Única de Papel y el Parlasur.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Senado de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley 27.337",
+  "id_legal_norm": "LEY 27337",
+  "holding": "El Senado de la Nación emitió dictamen sobre un proyecto de reforma electoral que suspende las elecciones PASO exclusivamente para el año 2027, establece un régimen de Ficha Limpia para impedir candidaturas y cargos públicos ante condenas por delitos dolosos confirmadas en segunda instancia, modifica aspectos operativos de la Boleta Única de Papel, suprime la obligatoriedad del debate presidencial previo a las generales limitándolo al balotaje, elimina la veda electoral y reorganiza la representación del Parlasur.",
+  "puntos_clave": [
+   "Se suspenden las elecciones primarias (PASO) únicamente para el año 2027, debiendo los partidos elegir candidatos según sus cartas orgánicas.",
+   "Se incorpora el régimen de Ficha Limpia, inhabilitando a candidatos y funcionarios con condena por delito doloso confirmada en segunda instancia.",
+   "Se modifica el régimen de debates presidenciales, haciéndolos obligatorios únicamente en caso de segunda vuelta, y se elimina la veda electoral."
+  ],
+  "impacto_practico": "Permite a los operadores políticos, partidos y asesores electorales conocer las nuevas reglas proyectadas para el proceso electoral de 2027, especialmente en materia de selección interna de candidatos, inhabilidades por Ficha Limpia y pautas de campaña.",
+  "normas_citadas": [
+   "Ley 27.337",
+   "Ley 19.945"
+  ],
+  "etiquetas": [
+   "reforma electoral",
+   "suspensión paso",
+   "ficha limpia",
+   "boleta única de papel"
+  ],
+  "cita_sugerida": "Senado de la Nación, dictamen de reforma electoral, noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-19T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:08:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "caratula descartado: no figura en la fuente"
+   ]
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -3822,6 +5713,60 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "ee192be9eb6c",
+  "url_hash": "ee192be9eb6c481f380f36158342b89f189e1bc6471170259ed7539d7e40217a",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7101/La-Corte-Suprema-aprobo-un-protocolo-medico-para-evaluar-los-pedidos-de-prision-domiciliaria-por-razones-de-salud",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "La Corte Suprema aprobó un protocolo médico para evaluar prisión domiciliaria por razones de salud",
+  "titulo_original": "La Corte Suprema aprobó un protocolo médico para evaluar los pedidos de prisión domiciliaria por razones de salud",
+  "bajada": "El máximo tribunal aprobó, mediante la Resolución 2867/2026, un protocolo elaborado por el Cuerpo Médico Forense para unificar criterios técnicos en los pedidos de prisión domiciliaria por salud.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución N.º 2867/2026",
+  "id_legal_norm": "RESOLUCION o 2867/2026",
+  "holding": "La Corte Suprema aprobó el protocolo del Cuerpo Médico Forense mediante la Resolución N.º 2867/2026 con el fin de unificar criterios técnicos en la evaluación del estado de salud de personas privadas de la libertad y la capacidad real de los establecimientos penitenciarios para garantizar sus tratamientos, estableciendo ejes de pericia y un sistema de categorización sin invadir la facultad jurisdiccional de decidir la procedencia de la prisión domiciliaria.",
+  "puntos_clave": [
+   "Se aprobó el protocolo del Cuerpo Médico Forense por Resolución N.º 2867/2026 para estandarizar evaluaciones de salud en pedidos de prisión domiciliaria.",
+   "El procedimiento evalúa tanto el estado clínico de la persona detenida como la capacidad real y efectiva del establecimiento penitenciario para brindar el tratamiento.",
+   "Se implementó un sistema de cinco categorías (A a E) para las conclusiones periciales, aclarando que no reemplazan la decisión de los jueces."
+  ],
+  "impacto_practico": "Provee a jueces, fiscales y defensores de una herramienta técnico-pericial objetiva y estandarizada mediante el Cuerpo Médico Forense para fundar las decisiones sobre prisión domiciliaria por razones de salud en el ámbito del Servicio Penitenciario Federal.",
+  "normas_citadas": [
+   "artículo 10, incisos a), b) y c), del Código Penal",
+   "artículo 32 de la Ley 24.660"
+  ],
+  "etiquetas": [
+   "prisión domiciliaria",
+   "cuerpo médico forense",
+   "salud penitenciaria",
+   "ejecución penal",
+   "resolución csjn 2867/2026"
+  ],
+  "cita_sugerida": "CSJN, Resolución N.º 2867/2026, 12 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-13T15:00:00+00:00",
+  "ingresado": "2026-11-27T10:09:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "73bcfb07d0c5",
   "url_hash": "73bcfb07d0c50a5e77c98435ef715ea47fdb04e4233d310c64598da5f883a266",
   "fuente": "saij_boletin",
@@ -3872,6 +5817,62 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "fff08746a727",
+  "url_hash": "fff08746a727b8cd002c5e1dcb337448130e292976d877f201555b4fa3cc030d",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/procuracion-general/el-ministerio-publico-fiscal-reglamento-el-traspaso-de-personal-del-poder-judicial-de-la-nacion-en-el-marco-de-la-implementacion-del-sistema-acusatorio/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Reglamentan el traspaso de personal judicial al Ministerio Público Fiscal",
+  "titulo_original": "El Ministerio Público Fiscal reglamentó el traspaso de personal del Poder Judicial de la Nación en el marco de la implementación del acusatorio",
+  "bajada": "La Procuración General aprobó el reglamento que fija las condiciones y etapas para la incorporación de agentes del Poder Judicial de la Nación en el marco del sistema acusatorio.",
+  "tipo": "Norma",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Procuración General de la Nación",
+  "caratula": "",
+  "identificador_legal": "Resolución PGN 84/26",
+  "id_legal_norm": "RESOLUCION PGN 84/26",
+  "holding": "Se aprobó el reglamento para efectivizar el traspaso de funcionarios y empleados del Poder Judicial de la Nación al Ministerio Público Fiscal, estableciendo requisitos de idoneidad, etapas de evaluación coordinadas con la UNISA y el reconocimiento de la antigüedad y derechos escalafonarios para acompañar la implementación del Código Procesal Penal Federal.",
+  "puntos_clave": [
+   "Se fijan los requisitos y el procedimiento para el traspaso voluntario de agentes judiciales a las dependencias del MPF en jurisdicciones con sistema acusatorio vigente o previsto.",
+   "El mecanismo contempla la intervención de la Secretaría General de Administración y Recursos Humanos, entrevistas y evaluaciones sobre el sistema acusatorio con excepciones para concursantes aprobados.",
+   "Se garantiza el reconocimiento de la antigüedad y los derechos escalafonarios del personal transferido, exigiendo además capacitaciones obligatorias en el plazo de un año."
+  ],
+  "impacto_practico": "Permite a los funcionarios y empleados judiciales conocer las pautas normativas, requisitos y canales de comunicación para solicitar su traspaso al Ministerio Público Fiscal bajo el nuevo modelo procesal.",
+  "normas_citadas": [
+   "art. 33 de la Ley 27.150",
+   "Ley 27.482",
+   "Resolución PGN 84/26",
+   "Resolución PGN 128/10",
+   "Resolución PGN 101/20"
+  ],
+  "etiquetas": [
+   "sistema acusatorio",
+   "traspaso de personal",
+   "ministerio público fiscal",
+   "código procesal penal federal"
+  ],
+  "cita_sugerida": "Procuración General de la Nación, Resolución PGN 84/26.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-12T18:47:20+00:00",
+  "ingresado": "2026-11-27T09:59:17+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -4106,10 +6107,69 @@
   },
   "fecha": "2026-11-12T15:00:00+00:00",
   "ingresado": "2026-11-26T01:49:41+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "palabras_derecho",
+    "fuente_nombre": "Palabras del Derecho",
+    "url": "https://www.palabrasdelderecho.com.ar/articulo/7112/La-Corte-revoco-un-fallo-que-anulaba-la-exigencia-del-libre-deuda-de-multas-a-empresas-de-transporte",
+    "titulo": "La Corte revocó un fallo que anulaba la exigencia del libre deuda de multas a empresas de transporte",
+    "fecha": "2026-11-20T15:00:00+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T10:08:28+00:00"
+ },
+ {
+  "id": "2d1a375bdfe3",
+  "url_hash": "2d1a375bdfe3f40298611c828902feb0fef84889162b2bce50ed6bf9a78e0899",
+  "fuente": "ijudicial",
+  "fuente_nombre": "iJudicial (Poder Judicial de la Ciudad)",
+  "url": "https://ijudicial.gob.ar/2026/gil-dominguez-andres-favio-c-gcba-s-amparo-patrimonio-cultural-historico/",
+  "prioridad": 82,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Amparo colectivo por obras en el Estadio Luna Park",
+  "titulo_original": "Gil Domínguez, Andrés Favio c/GCBA s/amparo-patrimonio cultural histórico",
+  "bajada": "Se difunde proceso colectivo contra el GCBA que cuestiona la constitucionalidad de la disposición que aprobó obras en el Estadio Luna Park.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "CABA",
+  "tribunal": "Juzgado de Primera Instancia en lo Contencioso Administrativo y Tributario N 5",
+  "caratula": "Gil Domínguez, Andrés Favio c/GCBA s/amparo-patrimonio cultural histórico",
+  "identificador_legal": "Expte.: 250240/2025-0",
+  "id_legal_norm": "EXPTE.: 250240/2025-0",
+  "holding": "Se da trámite y difusión a un proceso colectivo promovido contra el Gobierno de la Ciudad Autónoma de Buenos Aires para que se declare la inconstitucionalidad y nulidad erga omnes de la Disposición 1283/DGIUR/25, la cual avaló la factibilidad patrimonial de las obras en el Estadio Luna Park.",
+  "puntos_clave": [
+   "Se tramita una acción de amparo colectiva acumulada contra el GCBA.",
+   "El objeto persigue la inconstitucionalidad y nulidad erga omnes de la Disposición 1283/DGIUR/25.",
+   "Se cuestiona la evaluación de preservación del patrimonio urbano respecto de las obras proyectadas en el Estadio Luna Park."
+  ],
+  "impacto_practico": "Permite a los interesados conocer la existencia del proceso colectivo en trámite vinculado a la protección del patrimonio histórico del Estadio Luna Park para su eventual participación o seguimiento.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "proceso colectivo",
+   "patrimonio histórico",
+   "amparo",
+   "luna park"
+  ],
+  "cita_sugerida": "Juzgado de Primera Instancia en lo Contencioso Administrativo y Tributario N 5 de CABA, \"Gil Domínguez, Andrés Favio c/GCBA s/amparo-patrimonio cultural histórico\", 29/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-12T14:25:03+00:00",
+  "ingresado": "2026-11-27T10:04:51+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -4932,6 +6992,64 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "2e2b02ada63c",
+  "url_hash": "2e2b02ada63c3740db25d34e387a91a649e9af56edd3183a2b6e50e8f75339d8",
+  "fuente": "ijudicial",
+  "fuente_nombre": "iJudicial (Poder Judicial de la Ciudad)",
+  "url": "https://ijudicial.gob.ar/2026/transparencia-mas-participacion-asociacion-civil-contra-banco-ciudad-y-otros-sobre-acceso-a-la-informacion-incluye-ley-104-y-ambiental/",
+  "prioridad": 82,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Amparo colectivo por acceso a la información y transparencia activa en el Fideicomiso del Autódromo",
+  "titulo_original": "Transparencia más Participación Asociación Civil contra Banco Ciudad y otros sobre acceso a la información (incluye Ley 104 y ambiental)",
+  "bajada": "Se convoca a los interesados a participar en la acción de amparo colectivo contra el Banco Ciudad y el Gobierno de la Ciudad por el incumplimiento de obligaciones de transparencia activa en el Fideicomiso del Autódromo Oscar y Juan Gálvez.",
+  "tipo": "Noticia",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "CABA",
+  "tribunal": "Juzgado de Primera Instancia en lo Contencioso, Administrativo, Tributario y de Relaciones de Consumo Nro. 14 de CABA",
+  "caratula": "TRANSPARENCIA MÁS PARTICIPACIÓN ASOCIACIÓN CIVIL CONTRA BANCO CIUDAD Y OTROS SOBRE ACCESO A LA INFORMACION (INCLUYE LEY 104 Y AMBIENTAL)",
+  "identificador_legal": "323131/2026-0",
+  "id_legal_norm": "323131/2026-0",
+  "holding": "El juzgado dio a conocer la existencia de un amparo colectivo para que se ordene al fiduciario Banco Ciudad y al fiduciante Gobierno de la Ciudad cumplir con la transparencia activa exigida por la Ley 104 en el Fideicomiso de Administración del Autódromo Oscar y Juan Gálvez.",
+  "puntos_clave": [
+   "Se tramita una acción de amparo colectivo bajo el expediente Nro. 323131/2026-0 en el fuero CCAyT de la CABA.",
+   "El objeto es exigir al Banco Ciudad y al Gobierno de la Ciudad la publicación integral de la información de transparencia activa del Fideicomiso del Autódromo Oscar y Juan Gálvez conforme a la Ley 104.",
+   "Se emplaza por cinco días hábiles a los interesados a presentarse con una argumentación propia que aporte una contribución sustancial al proceso."
+  ],
+  "impacto_practico": "Permite a terceros interesados y miembros del grupo afectado conocer la existencia de la acción colectiva sobre transparencia activa e intervenir en el proceso bajo los requisitos formales fijados por el tribunal.",
+  "normas_citadas": [
+   "art. 18 de la Ley 104",
+   "Ley N.° 5.732",
+   "art. 3°, inciso h) de la Ley 104",
+   "Ley N.° 4895",
+   "artículos 131 y 132 del CCAyT",
+   "art. 28 de la Ley Nro. 2145"
+  ],
+  "etiquetas": [
+   "acceso a la información",
+   "amparo colectivo",
+   "transparencia activa",
+   "autódromo",
+   "caba"
+  ],
+  "cita_sugerida": "Juzgado de Primera Instancia en lo Contencioso, Administrativo, Tributario y de Relaciones de Consumo Nro. 14 de CABA, \"TRANSPARENCIA MÁS PARTICIPACIÓN ASOCIACIÓN CIVIL CONTRA BANCO CIUDAD Y OTROS SOBRE ACCESO A LA INFORMACION (INCLUYE LEY 104 Y AMBIENTAL)\", 02/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-03T19:03:07+00:00",
+  "ingresado": "2026-11-27T10:05:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
