@@ -2098,5 +2098,782 @@
   "fecha": "2026-11-27T10:09:28+00:00",
   "novedad": "ee192be9eb6c",
   "fuente": "palabras_derecho"
+ },
+ "30326b7eea49ca5020ad91d80b32b386b124ed14fae131ed6482621e201ef8b3": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "feebbfa494d0b35a5c4647f62df284774a2626c86e82367156785c0fc143ddd2": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "db915f1c37d6b98d1c95eaa70776b7f4368ccd00095ad8d5fddc0d8603b2e0a2": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "c9b9062f982159a23bc8f239fac9a1280bf9653c7d5374f3e3417a7c7e69b9f2": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "941a73d93272bb64bb3f3d03cb14eeb659d9c112f07172d2e0c9406a052682fb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "055f4de7037dcd22f05fb3556b90e0c40557b85e2ee61f939b80dacf7323b190": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "ba984fe9bd55b4d098278531b751266c6801d6722bd6f70ca9a4f067863a2a35": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d38933a513f07b404fc1ccb88ace17db53a88defcfa2606cecebd1517a6ace87": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "eb82f5a3852369d06b6783946ebd76c19f5644d01eca88efe31ade992f119e49": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "7995e2949c1b18889d7bb68e54cb045f13827e4df103ea93743aa759fddd4f18": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "12003b56c14b10474265767949fbeb3d635e4f97ef8ceeffdeb1f064964377f9": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "7c758a4fb6599943810115c3f3a9ad1ee752a55ab27202a19fe0d28c1041c6b9": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "de5f8234e1191cb56f191323c228e7194728b7f47fbba6436ca729c330116e65": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "aff7e0d693013b1edac3cdd220951985dd5790d30e0f91c2217226fcac8380f6": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "afb5cec915a81eba615fcd71a21d26c28659e903ea5b15a513dce27bd6b9dc9a": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "3b839024fe6451e856f4923c30070bafc639ff0993758bbef9335333c0f3cb53": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "30cbcb39f1743226d1826a67296aeecde91db4ec2647416949dc588ab4c80fed": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "fbd32b4ee33004e6c7d362aeac0b75086820d75f9ca27736336c7d5fd8aff8bb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "9adb40c04515e3696f4c3bb4c1964df2be3c40d845bdca8039fbbd998615104c": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "eddeefcc71e10d1fc91a6c86b7c7fd4306ac780faa79126a015751ef2ed51eeb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "3e46c5af67e4efd789b36acccc82be1a03c2aed66d6026483d12cc3b27d39ceb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "2607bdcec6f82b5ed1030c51b8a16c8acc86bf611e2e9a59fd77033b2e1948c0": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "643b3bc640859110c1264c0a21cc15b7a6772f08c7b39314007362cc436b64dd": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "ac4c66ba0ecc1f4cae3b9fe5bb1963a72b5217dc63eef461850a5fb2c5c4b241": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "e9f9dd2dd1319cb30f08b553895a85aa7646db8b8b6ffd64ed9c1c86a50a801c": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d71d57121e8ccf21df0cfdbef19e57577f6cc4475a28a594c72e90c11f8d23b2": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "e474c972f98f58e9e3b2e76644a337ef745dcd957ac25cad6174555ceb6f4ee7": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "121fa83fcb517aadef088bd490e2efbc356dbc358edf5c7c54b7150046f44574": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "69e11b1bc759fdefd0019ef524f7e93cd32e8a4625bfb7d95bd17a8138d6f6d0": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "6dcb39bacfef329b8c2d16f5870328ed4877e6146566baedcaecacd59c764aba": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "799681acc1d077f052c05d7412d29909bc8ecc21308e3607cc7d8d48ea4055cf": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "9716d5efa711b5ce2b220ff1da9e5ac10895a7384a2fb85b047a4fe66d2a78a6": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "70dce778c0b54959ef6da7dcb4765f02f08878392cf230c71f266cde8b30ba1b": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "978cffafc3876f81a526216d76988b61c34b1df8b9a3fe0c844df9355adee783": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "58ffe1a3a64fbb8f2e7f344140eeab277de60980729c2f6b1ad5a1dc8cc2fbff": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d3ec726f90b725bb2fcdd6050fbf2098ba65afd9f2da9b8e77760199043ce859": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "32bf9086081cc4c56eb3cba7fd359384c3e4958e79089e0bebe40ee5c1d5bd28": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "fa35d7bbd086bd1c92eede44359b789281b40da4a43deaf7e7a41360ba1851fc": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "7eea0e21eda856e0333aebe85823a90681226b519c5daa2c31f805f28d715260": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "317dee003a2f6d11b0f50c2eff1caa1c1d77bff96bbc27a406b0e0aeb23964fb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "cf159e538cf0f5ba62c75387562568a5157deb1b5c89efc6fe5581f8fecf8de8": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "aadb18e6185c9724cb12d27a9d86af8233164441a7e8f47e80bd9af00fb77104": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "36a4a675b9078a487bfcc4e6df9a86ed9306d3e57f161a6024a4e5e0daca7d4c": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "e01281e03dd21bce3c4ab7afc9a261f8b90578fee3774babbd43d8d3f733156a": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "1b8395c8319b8ecb64480c9f0bc8f4d3d0d48fee9dd82084755f61d4855483d1": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "08afdd629cb7f77b19c37645561d776ec8f01ed01eb09b58782483acdfcbfc37": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "f4b6aea1392b0f4b6fc0eb4e2bd0eb454230a4cb92c41b00de26fbec5a8cc85a": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "be8f20c36196e0fa5382b6ab8da5360607a9f32d0c3317bdc778e679f7282147": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "126e2193a68ea8b95574cb7d686a14c9aea7bb9c6348e93b6cd49881730e1742": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "882ced01412b67ec6f8eba39bb1cb8c18fe2f96b888c9ede5aeaeddc7ad5c49b": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "336cb88e240e1c849045d37ec098f889257dc3317ac2b341bb737fc2755180b1": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "92005f013a403553325a407de4b6ff02aff3cbf6ad662497b3cadefb84c08148": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "89aa862e49c622f6431323706e3abf400696fca2c41a92dc7e2df683fe21a779": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "b566c643d4e49240727b9b0679fbd70ef1488c96cbbf7cd6e4c66662a15c7622": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "da1add5b81fd7379203448042dbd6373e342d75936dbd7057fdd52302d305901": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d0ec351a7d32809c46d3672790cfbbfc1f13050e2da4e3a1d31eb9cf8535778f": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d15cb460b389939b55c4afa1a13a364fbdad97dadcab6615e3193d7272884afd": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "da49000a3b0982fa29742ec5ab92ac34c7c30344e55c602182c7cfc7a350a089": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "0eb6413e2afc3c1e1083839e3d7e2b30f03a7ab70f1b42565f5d0bbe2675ab1b": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "64d32d934cc97b2da6e7746028f90d98315aa9baaccc46af59463b6b6578f5a6": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "ff7edb8eb89421e1e65caf2eb90146ef6cced85e46ca47b7c17d385b1bf26c45": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "23aec8f5bfe9a0b5573753b143cfc4399b0f828c973fe7b495a5c2fcd4fcb7fb": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "c68c4485ca66b3cd3b517770bf955ed2adc27790fac031d2b718405601d711d6": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "3f3c0ecb1b516ce5b3eb9349411fe462b94dcb31d3ce4e0af6f1f0444483331f": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "a0c042fa9586783ad6a2cd6151df402a9c4f5975eccacf1531d702807245514f": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "e31bb551c5d4a64846f4735abdcd66256a2603f81a2bffb19daf1894fa723bfa": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "38c2406265c172393fd8f693b1d355ad376ee4b405599d540d0b557076183a01": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "eba9cfb9c2c5ee4ecef491015a9ff8e09e8b65ee0a39cb9f69523bab019449c3": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "a7d0a0b1728cb9d2e02544a167648dc399c5d5ae0331df4590617d94e8fc7818": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "b9262af0e47e39b14312c7847db1bb5bf5d10f91d9edc58af951376eddf5d364": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "92ba91a468dd95af1c2f29aad60e55b7e529f50d7e47ffd30a86e9bd118498d2": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "d871c534b755d0e16a2215fab90a04963d687cbc2c58f212c32437c470692ed5": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "f2cd78b3a2c3e962a112fc9fae6c3ae304390a716c766f06b83f0842eedb2585": {
+  "estado": "prefiltro",
+  "fecha": "2026-11-27T18:30:09+00:00",
+  "fuente": "bora"
+ },
+ "36a42d665ad39bc425126d4a396f2e115002b6c5aaa5bb8512eef4dcabcca4db": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "csjn_noticias"
+ },
+ "3f7be8a5150e5107d7dd5a1761b87f41c501d54a645cf9b0c9c6c72fd0150193": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "mpf"
+ },
+ "165aaa79e8fcc228231e6393705a6f127bb8c395ae667d90790baa341db5057f": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "mpf"
+ },
+ "a2cd758e17ca90b157cb4ec60ba78f8e71e1aba0a83e3598a4e69461e93d8b58": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "57f8b3cb402657921e572b7ff7cb362bfc5a7a203c47565bd78d23ac10475650": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "5017b7f4a070455d26b360346521f681ab00561a80ef1f7a6d42992df9b3b92c": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "1b6074cf0fa282fce96733f481d523b7a6d3761ce3e8aeed1d2fb9bffbcb8ca8": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "1d4835ca77248a062c5dae737c8c146b7dc2fcfad7ef5e0aed20a018bea2d09e": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "79094ee15d9df74236091b525cd63fe2b2a734a2ae24371036319d34492d5774": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "ee4d312cc5a142ca30018febf459bece34564e0ac4e94974f5caac03840907a6": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "8e3c476f6b014aefd9bd292b227106b0efca40b883229121a0b842ea7208aa04": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "justicia_ar"
+ },
+ "6899423670fb52859486aca1b349e81ed04be4a7668fd8ab9bd4ba848fa024bf": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "pensamiento_penal"
+ },
+ "629ea478ef50699026843e29cc63bc03db0e328ceaa006a555cd9ba7cdb3de44": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "aldia"
+ },
+ "92613a39051a15f9f667819c47c9dc468f3b217c8fdf040742475cb03cd5f1fa": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-27T18:30:15+00:00",
+  "fuente": "aldia"
+ },
+ "224426a75ce3cbb39adfd8ea5e86f8d6ce1c3dce1d5c0eaa02a2ce1f3262332b": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:30:43+00:00",
+  "novedad": "224426a75ce3",
+  "fuente": "bora"
+ },
+ "28de03971033da8ee3c4c4adef596f647bbc6993d5d84f0b1f981b080a0f1eba": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:30:58+00:00",
+  "novedad": "a0f10bc96e30",
+  "fuente": "bora"
+ },
+ "b204c63792d3c2cc9df267b446b12b872b0ad31452d4db0125f188921cd40d17": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:31:28+00:00",
+  "novedad": "b204c63792d3",
+  "fuente": "mpf"
+ },
+ "3df731e60aeb53d4a7b76959db54ecbefd07eae76ac582e2b1300342814b39f6": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:31:58+00:00",
+  "novedad": "3df731e60aeb",
+  "fuente": "mpf"
+ },
+ "b20563aa9a15d8009b3b3db2775ecb2764bf5cc8c3fe73cad8e2ebe18525f7ca": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-27T18:32:07+00:00",
+  "fuente": "mpf"
+ },
+ "9f6e8190ef6d5f205bf46a201ea5ed66cb4012df6f8e44cc0d4125f4ad049441": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:32:36+00:00",
+  "novedad": "9f6e8190ef6d",
+  "fuente": "mpf"
+ },
+ "188c301ae281a8d2bfdc7c75512200bced06ff640f6b2b3524649e69c5ccf780": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:33:06+00:00",
+  "novedad": "188c301ae281",
+  "fuente": "palabras_derecho"
+ },
+ "23cf1f409bd36d5e3c23eb9cc10a499455752e2ef9535eadb5c9b6ab3a46e905": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:33:31+00:00",
+  "novedad": "188c301ae281",
+  "fuente": "palabras_derecho"
+ },
+ "4276d291c7e7dbabf366ef776f37a857336edca510561af97eef2a499753e44a": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:34:06+00:00",
+  "novedad": "4276d291c7e7",
+  "fuente": "palabras_derecho"
+ },
+ "6549e6e247a29b5e9686ffefe71e8242830eaf038fddd49b5bd9952585a1569a": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:34:32+00:00",
+  "novedad": "6549e6e247a2",
+  "fuente": "palabras_derecho"
+ },
+ "ec35ee17a7c06fddeb47b9b3d4f7c721b44d420486e7d4309de89400a097c386": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:35:02+00:00",
+  "novedad": "ec35ee17a7c0",
+  "fuente": "palabras_derecho"
+ },
+ "ac442bff053a4a9aed8ec7faab8d8bccad325a361641d225a899a3793fd0acf3": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:35:32+00:00",
+  "novedad": "ac442bff053a",
+  "fuente": "palabras_derecho"
+ },
+ "84ee3d2b1d9c6e5da8eb27d120c5f262cc46c9106fbf981423d1d02db0342a19": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:36:02+00:00",
+  "novedad": "84ee3d2b1d9c",
+  "fuente": "palabras_derecho"
+ },
+ "ca71f235ac85cd26ca3fbd9b32d28e5d983b1422270e25da0adaf2e4f002cdc1": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:36:32+00:00",
+  "novedad": "ca71f235ac85",
+  "fuente": "palabras_derecho"
+ },
+ "af11c0e74ffd27176cfc4663709240e77b6196bb743f8cd7f3df0355eceec43c": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:37:02+00:00",
+  "novedad": "af11c0e74ffd",
+  "fuente": "palabras_derecho"
+ },
+ "f91ee925077bb6d82cf9afa6ca8d50f407ec0bef28650870789195bd172d7fb4": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:37:25+00:00",
+  "novedad": "f91ee925077b",
+  "fuente": "palabras_derecho"
+ },
+ "74436252b4c43050baafa3f0d17ff9981cfcc8cf30f173898fa3f852d3ca086e": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:37:55+00:00",
+  "novedad": "74436252b4c4",
+  "fuente": "palabras_derecho"
+ },
+ "15b773a63177107dbb1fae053f97dddb6a476bde1f08c37b65d75e991ee1ef27": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:38:25+00:00",
+  "novedad": "15b773a63177",
+  "fuente": "palabras_derecho"
+ },
+ "a27f2d515df7ce7e4803c10fc6a1528d97c080553772dc72137547e46fef7755": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:38:55+00:00",
+  "novedad": "a27f2d515df7",
+  "fuente": "pensamiento_penal"
+ },
+ "b72d3b120847a26b05ddadf93cd606a75ed6152b7cc53fe1e011d18039ec829c": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-27T18:39:03+00:00",
+  "fuente": "pensamiento_penal"
+ },
+ "0b033cd4f5cbfbdc1e774381290fdfae7ff56dc76c2312143c9f536a0b9cdcc2": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:39:32+00:00",
+  "novedad": "0b033cd4f5cb",
+  "fuente": "pensamiento_penal"
+ },
+ "016fbed263f69b336df29ecba1b399514dc2f4bdc89e956397e1c2ca4dc331e2": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:39:41+00:00",
+  "novedad": "016fbed263f6",
+  "fuente": "pensamiento_penal"
+ },
+ "087f61595bcb03f8acfd82ddb2fd58b31f3e2d3b22f8eeb7dccbf4a616351fa6": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:40:10+00:00",
+  "novedad": "087f61595bcb",
+  "fuente": "pensamiento_penal"
+ },
+ "83f6431e706739d9113dc657ca9afbc2385c59909555508bc0dce2eec905c8d1": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:40:40+00:00",
+  "novedad": "83f6431e7067",
+  "fuente": "pensamiento_penal"
+ },
+ "3ca252eecd5aa2f69717b37a1e64b00ea1f0a94f77276f5643fb2873409fe9e1": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:41:10+00:00",
+  "novedad": "3ca252eecd5a",
+  "fuente": "pensamiento_penal"
+ },
+ "2562a4cff1668a53cde7b4451bace4b5d7ae1c4abfba287693c76aabcebfdd50": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:41:40+00:00",
+  "novedad": "2562a4cff166",
+  "fuente": "pensamiento_penal"
+ },
+ "6fb768484e37626e89de1ab8aa5f594ae7c7b196659d872b501f553b7ba83625": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:42:10+00:00",
+  "novedad": "6fb768484e37",
+  "fuente": "pensamiento_penal"
+ },
+ "47077c1462e748f27917fdfc9cd729d52ce7f21fe56a77e10df26cb53e659d6e": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:42:40+00:00",
+  "novedad": "47077c1462e7",
+  "fuente": "pensamiento_penal"
+ },
+ "b61459f014f37389bf4c4d7321dc50def313fce9390dbe6ab6a61cebcb764a27": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:43:10+00:00",
+  "novedad": "b61459f014f3",
+  "fuente": "aldia"
+ },
+ "f99321e103b4d9695948269f37829bb713ab9288cb3d0c8833432e834dbec119": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:43:40+00:00",
+  "novedad": "f99321e103b4",
+  "fuente": "aldia"
+ },
+ "820039b781e8670d56c6a3a0d4481934e7ffc094f88aadb8cf3a42b60d7ea189": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-27T18:43:48+00:00",
+  "fuente": "aldia"
+ },
+ "87dd64ee8b695351ee3268a1407cbf5435da1de6c287b8edafc23546c62c8daf": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:44:17+00:00",
+  "novedad": "87dd64ee8b69",
+  "fuente": "aldia"
+ },
+ "5ccac00f6693c58c382b3321600485cb93b6f9ecf8245e03a8f01cdf971c2298": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:44:47+00:00",
+  "novedad": "5ccac00f6693",
+  "fuente": "aldia"
+ },
+ "c9646f9c72f0146cb60c595a09638ac252b5fd559e130ba8b182ade911a88af8": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-27T18:44:55+00:00",
+  "fuente": "aldia"
+ },
+ "6fd6a41d19db9bd43dbe2a378898291af79cabb39401d8ff97bf6d3ae6b188c2": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:45:25+00:00",
+  "novedad": "6fd6a41d19db",
+  "fuente": "aldia"
+ },
+ "3dc06b56ae480db3db263f7a25e9016aa3dae1658363297329afbe1a45572b22": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:45:55+00:00",
+  "novedad": "3dc06b56ae48",
+  "fuente": "aldia"
+ },
+ "14faa7856bf1f8bec9728565ae8e7d6807a87000812e7772ae6ad60d274a1720": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:46:25+00:00",
+  "novedad": "14faa7856bf1",
+  "fuente": "aldia"
+ },
+ "092149e6d2658f88758d30f27b4195b8efe96117fabfe1c6a0bafe6fa065b509": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:46:55+00:00",
+  "novedad": "092149e6d265",
+  "fuente": "aldia"
+ },
+ "bf880bd32ae30886509b19671faa5baf41598ac808fee31c314bf00f13526393": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:47:25+00:00",
+  "novedad": "bf880bd32ae3",
+  "fuente": "aldia"
+ },
+ "9c151f6c4b43326f4412eb3754a878900839de8f347c283ef2d74bcdd2a6a265": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:47:55+00:00",
+  "novedad": "9c151f6c4b43",
+  "fuente": "aldia"
+ },
+ "aee72c9255bcea7a0fc4374ed1035544f6b33158e2cbb0c70f40675d1881c211": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:48:25+00:00",
+  "novedad": "aee72c9255bc",
+  "fuente": "aldia"
+ },
+ "60d4b4e310cd1f24804f1d5cc276070387a380f9bb30c4326df9fc099c4ee9f1": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:48:40+00:00",
+  "novedad": "5bd6f2cb07d6",
+  "fuente": "aldia"
+ },
+ "2008b6aaa9b11335cb0dad4613abb1149210da8b62d766ce59db1b52a1e7e6ff": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:48:55+00:00",
+  "novedad": "2ddfb6d424a9",
+  "fuente": "aldia"
+ },
+ "824977a08b0fe6df50d3d8ae13f8afac9f3de018fde9b5bf71e1c0cde3c0bd07": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-27T18:49:03+00:00",
+  "fuente": "aldia"
+ },
+ "07e6d8863b4ade2103f87f291cc4d86d131a3d66021c4b6074d5b65e4ec0df89": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:49:32+00:00",
+  "novedad": "07e6d8863b4a",
+  "fuente": "aldia"
+ },
+ "4156c83f5e559a23e327ef35cd02f0acba7eade6e5c0efad72a559bc69403d21": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:50:02+00:00",
+  "novedad": "4156c83f5e55",
+  "fuente": "aldia"
+ },
+ "ab1dbb8e79cbfe37ce97ed87e922f17734120859a65e9bd0e6298d447b1d2278": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:50:32+00:00",
+  "novedad": "ab1dbb8e79cb",
+  "fuente": "aldia"
+ },
+ "ed149997daac9cd504f576639c6f95349dbd2602b382d44c7a0ec7046fe6a3ea": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:51:02+00:00",
+  "novedad": "ed149997daac",
+  "fuente": "aldia"
+ },
+ "90f6c0289e95f5316f4b743cd55d707c4470b91e2e43700156ef5822fb04594d": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:51:32+00:00",
+  "novedad": "90f6c0289e95",
+  "fuente": "aldia"
+ },
+ "79dd6dfe6fae9b70ce041d12af833da8200b19eb3ceefa091d0d2f55bcd955eb": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:52:02+00:00",
+  "novedad": "79dd6dfe6fae",
+  "fuente": "aldia"
+ },
+ "8c0ac5fa1ecdfc80c1b1c6b58c6cb8be22e8e0aabc22e77fc72e431fd9f72c20": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:52:32+00:00",
+  "novedad": "8c0ac5fa1ecd",
+  "fuente": "aldia"
+ },
+ "b372485656bf5a4ebd4bc01fbe7d7578f8e09340cc6f236789bb8c22d8e54eec": {
+  "estado": "cuarentena",
+  "fecha": "2026-11-27T18:52:41+00:00",
+  "fuente": "aldia"
+ },
+ "0b565d924dfd5e55c8b2edd64f04973657fce88a882e0fe0ba96de7fa6417aac": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:52:55+00:00",
+  "novedad": "fd8fa117249b",
+  "fuente": "aldia"
+ },
+ "2601b699bbf0a99404fe1315404bb0da96f54be9e0c3a7521b12b3cbd48e4ec9": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:53:04+00:00",
+  "novedad": "00dcf985e7bf",
+  "fuente": "aldia"
+ },
+ "09e430001f67892848434b0d540de18bbbfd0ff02c0dbe29a1d5575e1cbd3ed8": {
+  "estado": "fusionado",
+  "fecha": "2026-11-27T18:53:11+00:00",
+  "novedad": "094d1cea0188",
+  "fuente": "aldia"
+ },
+ "92ae746b845e4668a71275c03903b399fe78df17f266c2976774ddef71c6c6cb": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:53:40+00:00",
+  "novedad": "92ae746b845e",
+  "fuente": "aldia"
+ },
+ "471f1e21fa744498e10db859e83e83850cbb9f55a33806ca006ab343aa31b3a8": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:54:10+00:00",
+  "novedad": "471f1e21fa74",
+  "fuente": "diario_judicial"
+ },
+ "d168cd4def0b35f2650b6b2771d14feb5c89483f4aa76f5c8d5074f1e2dcc22b": {
+  "estado": "publicado",
+  "fecha": "2026-11-27T18:54:19+00:00",
+  "novedad": "d168cd4def0b",
+  "fuente": "diario_judicial"
  }
 }

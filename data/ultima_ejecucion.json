@@ -1,20 +1,20 @@
 {
- "inicio": "2026-11-27T09:38:05+00:00",
- "fin": "2026-11-27T10:09:28+00:00",
- "duracion_s": 1883.0,
+ "inicio": "2026-11-27T18:29:38+00:00",
+ "fin": "2026-11-27T18:54:19+00:00",
+ "duracion_s": 1481.3,
  "modelo": "gemini-3.5-flash-lite",
- "candidatos": 297,
- "ya_vistos": 170,
- "prefiltrados": 0,
+ "candidatos": 371,
+ "ya_vistos": 203,
+ "prefiltrados": 73,
  "antiguos": 0,
- "descartados_triage": 0,
- "curados": 59,
- "descartados_ia": 13,
- "cuarentena": 3,
- "publicados": 39,
- "fusionados": 4,
- "pendientes": 102,
- "sin_cuota": false,
+ "descartados_triage": 14,
+ "curados": 58,
+ "descartados_ia": 5,
+ "cuarentena": 1,
+ "publicados": 45,
+ "fusionados": 7,
+ "pendientes": 58,
+ "sin_cuota": true,
  "por_fuente": {
   "csjn": {
    "candidatos": 20,
@@ -32,10 +32,9 @@
    "ok": true
   },
   "bora": {
-   "candidatos": 0,
-   "nuevos": 0,
-   "ok": false,
-   "error": "ErrorHTTP: No se pudo obtener https://www.boletinoficial.gob.ar/seccion/primera: timed out"
+   "candidatos": 75,
+   "nuevos": 2,
+   "ok": true
   },
   "saij": {
    "candidatos": 20,
@@ -49,32 +48,32 @@
   },
   "saij_boletin": {
    "candidatos": 86,
-   "nuevos": 22,
+   "nuevos": 0,
    "ok": true
   },
   "mpf": {
    "candidatos": 20,
-   "nuevos": 18,
+   "nuevos": 6,
    "ok": true
   },
   "justicia_ar": {
    "candidatos": 8,
-   "nuevos": 9,
+   "nuevos": 8,
    "ok": true
   },
   "ijudicial": {
    "candidatos": 10,
-   "nuevos": 2,
+   "nuevos": 0,
    "ok": true
   },
   "palabras_derecho": {
-   "candidatos": 18,
-   "nuevos": 18,
+   "candidatos": 17,
+   "nuevos": 12,
    "ok": true
   },
   "pensamiento_penal": {
    "candidatos": 10,
-   "nuevos": 8,
+   "nuevos": 11,
    "ok": true
   },
   "app": {
@@ -84,7 +83,7 @@
   },
   "aldia": {
    "candidatos": 20,
-   "nuevos": 28,
+   "nuevos": 30,
    "ok": true
   },
   "diario_judicial": {
@@ -94,53 +93,56 @@
   },
   "infobae": {
    "candidatos": 20,
-   "nuevos": 30,
+   "nuevos": 35,
    "ok": true
   }
  },
- "errores": [
-  "bora: No se pudo obtener https://www.boletinoficial.gob.ar/seccion/primera: timed out",
-  "IA en https://www.fiscales.gob.ar/narcocriminalidad/salta-imputaron-a-un-policia-federal-en-una-investigacion-por-el-trafico-de-204-kilos-de-cocaina/: gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
- ],
+ "errores": [],
  "nuevas": [
-  "a38cbe9ccdb1",
-  "da3cfa48e21d",
-  "9525c761ea8f",
-  "fc2e59666b1d",
-  "c7663d0914ff",
-  "d7584fd11154",
-  "b3c9b4a34d9e",
-  "a77575c80eaf",
-  "2fee15432bc1",
-  "cadf85dd5529",
-  "7f3580c18f98",
-  "99159076b1e3",
-  "f1d260421e89",
-  "11a056c1269b",
-  "48c196f792b8",
-  "90eacc8c0608",
-  "59459f6640ab",
-  "d7d85e931c05",
-  "31e069d90758",
-  "5b7e315fbf36",
-  "f8339029fb7c",
-  "764f512f5b38",
-  "128cc641e45f",
-  "46aa400a5fd3",
-  "e90f298989d5",
-  "e04b4e5e5e71",
-  "fff08746a727",
-  "915fe26442f9",
-  "48d2dd9835d1",
-  "ec88d64886c4",
-  "7bc31177c119",
-  "2d1a375bdfe3",
-  "2e2b02ada63c",
-  "bd02c4792eb7",
-  "23f8982de334",
-  "9e1b49309464",
-  "052e1f49b632",
-  "094d1cea0188",
-  "ee192be9eb6c"
+  "224426a75ce3",
+  "b204c63792d3",
+  "3df731e60aeb",
+  "9f6e8190ef6d",
+  "188c301ae281",
+  "4276d291c7e7",
+  "6549e6e247a2",
+  "ec35ee17a7c0",
+  "ac442bff053a",
+  "84ee3d2b1d9c",
+  "ca71f235ac85",
+  "af11c0e74ffd",
+  "f91ee925077b",
+  "74436252b4c4",
+  "15b773a63177",
+  "a27f2d515df7",
+  "0b033cd4f5cb",
+  "016fbed263f6",
+  "087f61595bcb",
+  "83f6431e7067",
+  "3ca252eecd5a",
+  "2562a4cff166",
+  "6fb768484e37",
+  "47077c1462e7",
+  "b61459f014f3",
+  "f99321e103b4",
+  "87dd64ee8b69",
+  "5ccac00f6693",
+  "6fd6a41d19db",
+  "3dc06b56ae48",
+  "14faa7856bf1",
+  "092149e6d265",
+  "bf880bd32ae3",
+  "9c151f6c4b43",
+  "aee72c9255bc",
+  "07e6d8863b4a",
+  "4156c83f5e55",
+  "ab1dbb8e79cb",
+  "ed149997daac",
+  "90f6c0289e95",
+  "79dd6dfe6fae",
+  "8c0ac5fa1ecd",
+  "92ae746b845e",
+  "471f1e21fa74",
+  "d168cd4def0b"
  ]
 }

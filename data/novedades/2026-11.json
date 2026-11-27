@@ -1,5 +1,219 @@
 [
  {
+  "id": "3df731e60aeb",
+  "url_hash": "3df731e60aeb53d4a7b76959db54ecbefd07eae76ac582e2b1300342814b39f6",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/fiscalias/como-robo-una-hilux-procesaron-a-seis-hombres-acusados-de-integrar-una-banda-que-robaba-camionetas-toyota-4x4/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Procesaron a seis hombres por integrar una banda dedicada al robo de camionetas Toyota 4x4",
+  "titulo_original": "“¿Cómo robo una Hilux?”: procesaron a seis hombres acusados de integrar una banda que robaba camionetas Toyota 4x4",
+  "bajada": "La jueza María Fabiana Galletti procesó a seis imputados por asociación ilícita y hurto agravado de vehículos en la vía pública, tras una investigación de la fiscalía de Saavedra y Núñez.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "CABA",
+  "tribunal": "Juzgado Nacional en lo Criminal y Correccional N°37",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se dictó el procesamiento con y sin prisión preventiva de seis integrantes de una organización criminal dedicada al robo sistemático de camionetas Toyota 4x4 en la CABA, tras una investigación que incluyó el análisis de comunicaciones, cámaras de seguridad y la extracción forense de un teléfono celular donde uno de los sospechosos consultaba a una inteligencia artificial sobre cómo sustraer estos rodados.",
+  "puntos_clave": [
+   "Cinco de los imputados fueron procesados por el delito de asociación ilícita, con y sin prisión preventiva según el caso.",
+   "Se acumularon múltiples sumarios de distintas fiscalías y juzgados nacionales para investigar de forma conjunta los hechos de hurto agravado.",
+   "La evidencia clave incluyó cámaras de seguridad, el análisis de dispositivos móviles, herramientas de apertura y autopartes halladas en allanamientos."
+  ],
+  "impacto_practico": "Útil para operadores judiciales y fiscales que investigan delitos complejos contra la propiedad, criminalidad organizada y acumulación de causas por patrones delictivos similares.",
+  "normas_citadas": [
+   "art. 163, inc. 6°, del Código Penal"
+  ],
+  "etiquetas": [
+   "asociación ilícita",
+   "hurto agravado",
+   "automotores",
+   "procesamiento"
+  ],
+  "cita_sugerida": "Juzgado Nacional en lo Criminal y Correccional N°37, procesamiento de banda dedicada al robo de camionetas Toyota 4x4, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T17:23:31+00:00",
+  "ingresado": "2026-11-27T18:31:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9f6e8190ef6d",
+  "url_hash": "9f6e8190ef6d5f205bf46a201ea5ed66cb4012df6f8e44cc0d4125f4ad049441",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/genero/confirmaron-la-condena-al-exdirector-tecnico-del-equipo-femenino-de-boca-juniors-por-abuso-sexual-simple/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Confirmaron condena por abuso sexual simple a ex director técnico",
+  "titulo_original": "Confirmaron la condena al exdirector técnico del equipo femenino de Boca Juniors por abuso sexual simple",
+  "bajada": "La Cámara Nacional de Casación en lo Criminal y Correccional confirmó la condena a un año de prisión para el exdirector técnico de Boca Juniors por abuso sexual simple.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Casación en lo Criminal y Correccional",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Sala II de la Cámara Nacional de Casación en lo Criminal y Correccional confirmó la condena de un año de prisión al considerar correcta la valoración de la prueba realizada por el tribunal de mérito, destacando la verosimilitud del testimonio único de la víctima en concordancia con testigos y descartando arbitrariedades en la aplicación de la perspectiva de género.",
+  "puntos_clave": [
+   "Se confirmó la condena a un año de prisión por abuso sexual simple al ex director técnico del equipo femenino de Boca Juniors.",
+   "El tribunal de alzada respaldó la valoración lógica y razonable del testimonio único de la víctima corroborado por testigos presenciales y de referencia.",
+   "Se ratificó la aplicación de los estándares internacionales en materia de género, como la Convención de Belém do Pará y la CEDAW."
+  ],
+  "impacto_practico": "El fallo resulta de interés para litigantes y operadores judiciales en cuanto ratifica los criterios de valoración probatoria respecto al testimonio de la víctima en delitos contra la integridad sexual cometidos en ámbitos laborales y deportivos.",
+  "normas_citadas": [
+   "Ley N° 26.879",
+   "Convención de Belem Do Pará",
+   "CEDAW"
+  ],
+  "etiquetas": [
+   "abuso sexual",
+   "perspectiva de género",
+   "valoración de la prueba",
+   "casación penal"
+  ],
+  "cita_sugerida": "Cámara Nacional de Casación en lo Criminal y Correccional, Sala II",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T15:46:05+00:00",
+  "ingresado": "2026-11-27T18:32:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "74436252b4c4",
+  "url_hash": "74436252b4c43050baafa3f0d17ff9981cfcc8cf30f173898fa3f852d3ca086e",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7127/Senado-es-ley-el-proyecto-de-prevencion-de-la-ludopatia-y-se-dio-media-sancion-a-la-reforma-electoral",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Senado: es ley la prevención de la ludopatía y media sanción a la reforma electoral",
+  "titulo_original": "Senado: es ley el proyecto de prevención de la ludopatía y se dio media sanción a la reforma electoral",
+  "bajada": "El Senado convirtió en ley el proyecto de prevención de la ludopatía y regulación de apuestas en línea, y otorgó media sanción a la reforma electoral que suspende las PASO para 2027.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Senado de la Nación",
+  "caratula": "",
+  "identificador_legal": "Expediente CD-26/24",
+  "id_legal_norm": "EXPEDIENTE CD-26/24",
+  "holding": "El Congreso sancionó la ley de prevención de la ludopatía que prohíbe la publicidad de juegos de azar online, exige verificación biométrica y crea el ReNA, además de aprobar la media sanción de la reforma electoral con suspensión de las PASO 2027 y Ficha Limpia.",
+  "puntos_clave": [
+   "Conversión en ley del régimen de prevención de la ludopatía y regulación de apuestas en línea.",
+   "Prohibición de publicidad, patrocinio y promoción de juegos de azar online dirigida a menores y uso de influencers.",
+   "Media sanción a la reforma electoral con suspensión de las PASO para 2027 e incorporación de Ficha Limpia."
+  ],
+  "impacto_practico": "Introduce nuevas regulaciones y restricciones comerciales para plataformas de apuestas online, modifica el Código Penal en materia de juegos de azar e inicia cambios sustanciales en el régimen electoral federal.",
+  "normas_citadas": [
+   "Ley 12.908",
+   "Decreto-Ley 13.839/46"
+  ],
+  "etiquetas": [
+   "ludopatía",
+   "apuestas en línea",
+   "reforma electoral",
+   "paso",
+   "ficha limpia"
+  ],
+  "cita_sugerida": "Senado de la Nación, Expediente CD-26/24, 26 de noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:37:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "15b773a63177",
+  "url_hash": "15b773a63177107dbb1fae053f97dddb6a476bde1f08c37b65d75e991ee1ef27",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7128/Con-cita-al-papa-Leon-XIV,-la-Camara-del-Trabajo-confirmo-una-indemnizacion-civil-de-16-sueldos-por-trabajo-no-registrado",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Cámara del Trabajo confirmó indemnización civil por trabajo no registrado citando doctrina pontificia",
+  "titulo_original": "Con cita al papa León XIV, la Cámara del Trabajo confirmó una indemnización civil de 16 sueldos por trabajo no registrado",
+  "bajada": "La Sala V ratificó un resarcimiento civil por daños ante la derogación de indemnizaciones laborales de la Ley Bases, apoyándose en la encíclica Magnífica Humanitas.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones del Trabajo, Sala V",
+  "caratula": "VASOLD, VANESA SOLEDAD c/ MPV CONSTRUCCIONES S.R.L. Y OTROS s/ DESPIDO",
+  "identificador_legal": "VASOLD, VANESA SOLEDAD c/ MPV CONSTRUCCIONES S.R.L. Y OTROS s/ DESPIDO",
+  "id_legal_norm": null,
+  "holding": "La Cámara confirmó una indemnización civil integral de 16 sueldos por trabajo no registrado —ante la eliminación de las multas específicas dispuestas por la Ley Bases—, fundamentando el principio protectorio y la primacía de la realidad mediante consideraciones de la doctrina pontificia y el ordenamiento laboral.",
+  "puntos_clave": [
+   "Se confirmó una reparación integral de 16 salarios (12 por daño material y 4 por daño moral) ante la clandestinidad laboral.",
+   "La decisión se fundamenta en la derogación de las indemnizaciones laborales por trabajo no registrado dispuesta por la Ley Bases.",
+   "Se aplicó la tasa pasiva del Banco Central para los accesorios con el fin de preservar el poder adquisitivo."
+  ],
+  "impacto_practico": "Permite a los litigantes respaldar reclamos por daños y perjuicios derivados del empleo no registrado bajo una óptica de reparación integral tras la vigencia de la Ley Bases.",
+  "normas_citadas": [
+   "Ley Bases"
+  ],
+  "etiquetas": [
+   "trabajo no registrado",
+   "indemnización civil",
+   "ley bases",
+   "cámara del trabajo"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones del Trabajo, Sala V, \"VASOLD, VANESA SOLEDAD c/ MPV CONSTRUCCIONES S.R.L. Y OTROS s/ DESPIDO\", 24/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:38:04+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "59459f6640ab",
   "url_hash": "59459f6640ab7ac8ba590f6d571f0fee5728da8395cf92c13446c883aba9157a",
   "fuente": "saij_boletin",
@@ -921,6 +1135,330 @@
   "actualizado": "2026-11-27T09:56:00+00:00"
  },
  {
+  "id": "b61459f014f3",
+  "url_hash": "b61459f014f37389bf4c4d7321dc50def313fce9390dbe6ab6a61cebcb764a27",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/27/actualidad-el-congreso-cerro-el-ano-ordinario-con-la-reforma-electoral-en-el-senado-la-ley-contra-la-ludopatia-y-el-presupuesto-2027-en-diputados/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El Congreso sancionó la ley contra la ludopatía y la reforma del Banco Central",
+  "titulo_original": "#Actualidad El Congreso cerró el año ordinario con la reforma electoral en el Senado, la ley contra la ludopatía y el Presupuesto 2027 en Diputados",
+  "bajada": "Durante la última jornada de sesiones ordinarias, el Congreso aprobó la ley de prevención de la ludopatía y la reforma de la Carta Orgánica del Banco Central, además de otorgar media sanción a la reforma electoral y al Presupuesto 2027.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación Argentina",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Congreso de la Nación culminó su período ordinario de sesiones sancionando la ley de prevención de la ludopatía y regulación de apuestas online, y la reforma de la Carta Orgánica del Banco Central que prohíbe el financiamiento al Tesoro, provincias y municipios. Asimismo, se otorgó media sanción al proyecto de reforma electoral que suspende las PASO para 2027 e incorpora la ficha limpia, y al Presupuesto 2027 con modificaciones opositoras en materia de fondos universitarios.",
+  "puntos_clave": [
+   "Se convirtió en ley el proyecto de prevención de la ludopatía y regulación de apuestas online, prohibiendo su publicidad y el acceso de menores.",
+   "Quedó sancionada la reforma de la Carta Orgánica del Banco Central para prohibir el financiamiento al Tesoro, provincias y municipios.",
+   "El Senado otorgó media sanción a la reforma electoral que suspende las PASO en 2027 e incorpora Ficha Limpia."
+  ],
+  "impacto_practico": "Informa a los operadores jurídicos sobre las nuevas leyes de ludopatía y carta orgánica del BCRA, así como sobre el estado parlamentario de la reforma electoral y el Presupuesto 2027.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "congreso",
+   "ludopatia",
+   "banco central",
+   "reforma electoral",
+   "presupuesto"
+  ],
+  "cita_sugerida": "Congreso de la Nación, sesión de ordinarias, 26 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T09:29:22+00:00",
+  "ingresado": "2026-11-27T18:42:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f99321e103b4",
+  "url_hash": "f99321e103b4d9695948269f37829bb713ab9288cb3d0c8833432e834dbec119",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/27/doctrina-el-derecho-al-desenlace-vital-como-privilegio-exclusivo-del-ser-humano/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El derecho al desenlace vital como privilegio exclusivo del ser humano",
+  "titulo_original": "El derecho al desenlace vital como privilegio exclusivo del ser humano",
+  "bajada": "Análisis doctrinal sobre el marco legal de la muerte digna en Argentina, la voluntad de sentido y los factores neurobiológicos y psicológicos en el final de la vida.",
+  "tipo": "Doctrina",
+  "materia": "Derechos Humanos",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "MJ-DOC-19079-AR",
+  "id_legal_norm": "MJ-DOC-19079-AR",
+  "holding": "El trabajo examina el marco normativo de la muerte digna en Argentina desde la sanción de las leyes 26.529 y 26.742, vinculándolo con la logoterapia de Viktor Frankl y los fundamentos científicos, neurobiológicos y psicológicos que explican la alteración del instinto de supervivencia ante el sufrimiento extremo.",
+  "puntos_clave": [
+   "Se repasa la evolución legislativa argentina sobre el rechazo de tratamientos al final de la vida, destacando las leyes 17.132, 26.529 y 26.742.",
+   "Se vincula la toma de decisiones existenciales con la logoterapia y los tres supuestos filosóficos de Viktor Frankl.",
+   "Se analiza desde la neurobiología y la psicología cognitiva cómo el dolor psicológico extremo y las alteraciones cerebrales pueden inhibir el instinto de supervivencia."
+  ],
+  "impacto_practico": "Aporta elementos teóricos y contextuales para operadores jurídicos y profesionales de la salud que intervienen en cuestiones de bioética, autonomía personal y decisiones al final de la vida.",
+  "normas_citadas": [
+   "Ley 26.742",
+   "Ley 17.132",
+   "Ley 26.529"
+  ],
+  "etiquetas": [
+   "muerte digna",
+   "consentimiento informado",
+   "salud",
+   "logoterapia"
+  ],
+  "cita_sugerida": "Desimoni, Luis M., El derecho al desenlace vital como privilegio exclusivo del ser humano, MJ-DOC-19079-AR",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T09:00:41+00:00",
+  "ingresado": "2026-11-27T18:43:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "87dd64ee8b69",
+  "url_hash": "87dd64ee8b695351ee3268a1407cbf5435da1de6c287b8edafc23546c62c8daf",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/27/fallos-movilidad-jubilatoria-inconstitucionalidad-del-art-1-de-la-ley-27-609-y-se-ordena-aplicar-para-el-periodo-enero-2021-a-junio-2024-inclusive-la-formula-de-movilidad-de-la-ley-27-426-indice/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Inconstitucionalidad del art. 1 de la Ley 27.609 y aplicación de la fórmula de la Ley 27.426",
+  "titulo_original": "Movilidad jubilatoria: Inconstitucionalidad del art. 1 de la Ley 27.609 y se ordena aplicar, para el periodo enero/2021 a junio/2024 inclusive, la fórmula de movilidad de la Ley 27.426 (índice que combina el 70% del IPC y 30% del RIPTE)",
+  "bajada": "La Cámara Federal de la Seguridad Social declaró la inconstitucionalidad del art. 1 de la Ley 27.609 y ordenó aplicar para el período enero de 2021 a junio de 2024 la fórmula de movilidad de la Ley 27.426.",
+  "tipo": "Fallo",
+  "materia": "Previsional",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Apelaciones de la Seguridad Social",
+  "caratula": "Galleta Carmen c/ ANSES s/ reajustes varios",
+  "identificador_legal": "MJ-JU-M-161718-AR",
+  "id_legal_norm": "MJ-JU-M-161718-AR",
+  "holding": "Corresponde declarar la inconstitucionalidad sobreviniente del art. 1 de la Ley 27.609 por resultar confiscatoria ante la escalada inflacionaria y no cubrir adecuadamente el riesgo de precios, disponiendo la aplicación del régimen mixto de la Ley 27.426 para el período comprendido entre enero de 2021 y junio de 2024 inclusive, dado que el sistema anterior provocó un deterioro irrecuperable en los haberes previsionales y una regresión indirecta en los derechos del sector pasivo.",
+  "puntos_clave": [
+   "Se declara la inconstitucionalidad sobreviniente del art. 1 de la Ley 27.609 por haberse tornado confiscatoria su aplicación frente al proceso inflacionario.",
+   "Se ordena la aplicación de la fórmula de movilidad de la Ley 27.426 (70% IPC y 30% RIPTE) para el período comprendido entre enero de 2021 y junio de 2024 inclusive.",
+   "Se declara la inconstitucionalidad del art. 9 inciso 3 de la Ley 24.463 si la aplicación de los topes genera una quita igual o superior al 15% en la etapa de liquidación."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para litigantes y operadores jurídicos en causas de reajuste previsional vinculadas al empalme y suficiencia de la movilidad de la Ley 27.609, habilitando la recomposición de haberes mediante esquemas de ponderación mixta.",
+  "normas_citadas": [
+   "Ley 27.609",
+   "Ley 27.426",
+   "Ley 24.463",
+   "Decreto 274/24"
+  ],
+  "etiquetas": [
+   "movilidad jubilatoria",
+   "inconstitucionalidad",
+   "derecho previsional",
+   "anses"
+  ],
+  "cita_sugerida": "CFSS, Sala II, Galleta Carmen c/ ANSES s/ reajustes varios, 13/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T09:00:10+00:00",
+  "ingresado": "2026-11-27T18:43:57+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "5ccac00f6693",
+  "url_hash": "5ccac00f6693c58c382b3321600485cb93b6f9ecf8245e03a8f01cdf971c2298",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/27/fallos-fraude-bancario-la-utilizacion-de-credenciales-bancarias-correctas-no-demuestra-por-si-sola-que-el-cliente-haya-facilitado-sus-claves-a-terceros-el-banco-debe-acreditar-la-culpa-de-la-vict/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Fraude bancario: el banco responde por fallas de homebanking y debe acreditar culpa de la víctima",
+  "titulo_original": "Fraude bancario: La utilización de credenciales bancarias correctas no demuestra, por sí sola, que el cliente haya facilitado sus claves a terceros. El banco debe acreditar la culpa de la víctima para eximirse de responsabilidad",
+  "bajada": "La Cámara Comercial determinó que el uso de credenciales correctas no demuestra por sí solo que el cliente facilitó sus claves, consagrando la responsabilidad objetiva de la entidad por riesgos del sistema.",
+  "tipo": "Fallo",
+  "materia": "Consumo",
+  "instancia": "Cámara",
+  "jurisdiccion": "CABA",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Comercial, Sala A",
+  "caratula": "Porfiri Viviana Elisabeth y otro c/ Banco de la Ciudad de Buenos Aires s/ sumarísimo",
+  "identificador_legal": "MJ-JU-M-161628-AR",
+  "id_legal_norm": "MJ-JU-M-161628-AR",
+  "holding": "La utilización de credenciales bancarias correctas no demuestra por sí sola que el cliente haya facilitado sus claves a terceros, por lo que pesa sobre la entidad financiera la carga de acreditar fehacientemente la culpa de la víctima para eximirse de su responsabilidad objetiva derivada de la vulneración del sistema de homebanking.",
+  "puntos_clave": [
+   "El homebanking constituye una modalidad de riesgo que genera responsabilidad objetiva para el banco proveedor del servicio.",
+   "La sola introducción de credenciales correctas no prueba que el cliente haya facilitado sus datos a terceros.",
+   "Para eximirse, el banco debe acreditar una causa ajena o culpa de la víctima con características de caso fortuito o fuerza mayor."
+  ],
+  "impacto_practico": "Facilita la posición probatoria de los usuarios en demandas por ciberfraudes bancarios, exigiendo a las entidades financieras demostrar la culpa grave del cliente mediante prueba acabada.",
+  "normas_citadas": [
+   "arts. 1, 2 y 3 LDC",
+   "art. 40 LDC",
+   "art. 1757 CCivCom"
+  ],
+  "etiquetas": [
+   "fraude bancario",
+   "homebanking",
+   "responsabilidad objetiva",
+   "relación de consumo"
+  ],
+  "cita_sugerida": "CNCom, Sala A, 07/10/2026, \"Porfiri Viviana Elisabeth y otro c/ Banco de la Ciudad de Buenos Aires s/ sumarísimo\", MJ-JU-M-161628-AR",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T09:00:05+00:00",
+  "ingresado": "2026-11-27T18:44:26+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "224426a75ce3",
+  "url_hash": "224426a75ce3cbb39adfd8ea5e86f8d6ce1c3dce1d5c0eaa02a2ce1f3262332b",
+  "fuente": "bora",
+  "fuente_nombre": "Boletín Oficial (1.ª sección)",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350909/20261127",
+  "prioridad": 95,
+  "fuente_oficial": true,
+  "dominio_publico": true,
+  "titulo": "Resolución Conjunta 69/2026: Emisión de Letras y Bonos del Tesoro Nacional",
+  "titulo_original": "Resolución Conjunta 69/2026 — Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "bajada": "Se dispone la emisión de diversos instrumentos de deuda pública, incluyendo Letras del Tesoro Nacional en pesos y vinculadas al dólar, en el marco de la Ley de Presupuesto 27.798.",
+  "tipo": "Norma",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda",
+  "caratula": "",
+  "identificador_legal": "Resolución Conjunta 69/2026",
+  "id_legal_norm": "RESOLUCION CONJUNTA 69/2026",
+  "holding": "La Secretaría de Finanzas y la Secretaría de Hacienda, en ejercicio de sus funciones como Órgano Responsable de la coordinación de los sistemas de Administración Financiera, disponen la emisión de instrumentos de deuda pública —como Letras del Tesoro Nacional capitalizables y vinculadas al dólar estadounidense— para su colocación mediante licitación pública, en cumplimiento de las autorizaciones otorgadas por la Ley de Presupuesto General y normas complementarias.",
+  "puntos_clave": [
+   "Se autoriza la emisión de Letras del Tesoro Nacional capitalizables en pesos con vencimiento en febrero de 2027 por hasta VNO $ 7.000.000.000.000.",
+   "Se dispone la emisión de Letras del Tesoro Nacional vinculadas al dólar estadounidense cero cupón con vencimiento en marzo de 2027 por hasta VNO USD 4.450.000.000.",
+   "Las operaciones se realizan en el marco de las facultades conferidas por la Ley 24.156 de Administración Financiera y la Ley 27.798 de Presupuesto General."
+  ],
+  "impacto_practico": "Permite a los operadores económicos y financieros conocer las condiciones de emisión, plazos y mecanismos de suscripción de los nuevos instrumentos de deuda pública del Estado Nacional.",
+  "normas_citadas": [
+   "Ley 24.156",
+   "Ley 27.798",
+   "Decreto 1344/2007",
+   "Decreto 820/2020",
+   "Decreto 1391/2026",
+   "Resolución Conjunta 9/2019"
+  ],
+  "etiquetas": [
+   "deuda pública",
+   "letras del tesoro",
+   "finanzas públicas",
+   "licitación"
+  ],
+  "cita_sugerida": "Ministerio de Economía - Secretaría de Finanzas y Secretaría de Hacienda, Resolución Conjunta 69/2026, Boletín Oficial, 27 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [
+   "Dispónese la emisión de la “Letra del Tesoro Nacional capitalizable en pesos con vencimiento 16 de febrero de 2027”",
+   "Dispónese la emisión de la “Letra del Tesoro Nacional vinculada al dólar estadounidense cero cupón con vencimiento 12 de marzo de 2027”"
+  ],
+  "extracto_oficial": "ARTÍCULO 1º.- Dispónese la emisión de la “Letra del Tesoro Nacional capitalizable en pesos con vencimiento 16 de febrero de 2027”, que se colocará en el marco de las normas de procedimiento aprobadas a través del artículo 2° de la resolución conjunta 9 del 24 de enero de 2019 de la Secretaría de Finanzas y de la Secretaría de Hacienda, ambas del ex Ministerio de Hacienda (RESFC-2019-9-APN-SECH#MHA) por hasta la suma de valor efectivo necesario para cubrir la demanda en el proceso de licitación",
+  "oficial": {},
+  "fecha": "2026-11-27T03:00:00+00:00",
+  "ingresado": "2026-11-27T18:30:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a27f2d515df7",
+  "url_hash": "a27f2d515df7ce7e4803c10fc6a1528d97c080553772dc72137547e46fef7755",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/doctrina/92185-vientres-subrogados-clamor-judicial-respuesta-legislativa-argentina-del-siglo-xxi",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Vientres subrogados: el clamor judicial por una respuesta legislativa en la Argentina del siglo XXI",
+  "titulo_original": "Vientres subrogados: el clamor judicial por una respuesta legislativa en la Argentina del siglo XXI",
+  "bajada": "Tres fallos, un mismo mensaje: la respuesta no vendrá de los jueces frente a la gestación por sustitución.",
+  "tipo": "Doctrina",
+  "materia": "Constitucional",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La doctrina analiza tres resoluciones judiciales, incluyendo dos fallos de la Corte Suprema de Justicia de la Nación dictados en 2024 y 2026 y un fallo de la Cámara Federal de 2026, señalando que la vía judicial se cierra para alterar la filiación y que tampoco se busca criminalizar la gestación por sustitución, reclamando una urgente respuesta legislativa.",
+  "puntos_clave": [
+   "Se comparan dos sentencias de la Corte Suprema de Justicia de la Nación de los años 2024 y 2026.",
+   "Se examina un fallo de la Cámara Federal del año 2026 sobre la no criminalización de la gestación por sustitución.",
+   "Se advierte el cierre de la vía judicial para modificar la filiación y la necesidad de regulación legislativa."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos comprender la postura restrictiva de la jurisprudencia actual respecto a la vía judicial en materia de vientres subrogados y la exigencia de un marco legal específico.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "gestación por sustitución",
+   "filiación",
+   "poder legislativo",
+   "jurisprudencia"
+  ],
+  "cita_sugerida": "Pensamiento Penal, Doctrina, Vientres subrogados: el clamor judicial por una respuesta legislativa en la Argentina del siglo XXI, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T22:48:59+00:00",
+  "ingresado": "2026-11-27T18:38:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "22ef3bc128ec",
   "url_hash": "22ef3bc128ec22281b4b7131b0a57239dbcf7bcd53c8d72abfebd50d65633550",
   "fuente": "saij_boletin",
@@ -1235,6 +1773,56 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "b204c63792d3",
+  "url_hash": "b204c63792d3c2cc9df267b446b12b872b0ad31452d4db0125f188921cd40d17",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/narcocriminalidad/salta-imputaron-a-un-policia-federal-en-una-investigacion-por-el-trafico-de-204-kilos-de-cocaina/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Salta: imputaron a un policía federal en causa por tráfico de 204 kilos de cocaína",
+  "titulo_original": "Salta: imputaron a un policía federal en una investigación por el tráfico de 204 kilos de cocaína",
+  "bajada": "La Unidad Fiscal Salta logró la imputación y prisión preventiva de un suboficial de la Policía Federal y de una mujer en una causa por narcotráfico.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Garantías N°2 de Salta",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El juez federal de garantías dictó la prisión preventiva de un sargento primero de la Policía Federal Argentina y de una mujer, acusados de integrar una organización narcocriminal dedicada al tráfico de cocaína, tras una investigación dirigida por la Unidad Fiscal Salta que incluyó el análisis de dispositivos móviles y diversos allanamientos.",
+  "puntos_clave": [
+   "Imputación de un efectivo de la Policía Federal por coautoría en transporte de estupefacientes agravado y violación de los deberes de funcionario público.",
+   "La investigación determinó que la organización ingresaba droga desde Bolivia para acopiarla en Salta y trasladarla hacia Buenos Aires y el sur del país.",
+   "Se impuso la prisión preventiva para los nuevos imputados con un plazo fijado hasta el 25 de enero próximo."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer los criterios de imputación fiscal y los elementos probatorios valorados en causas complexas de narcocriminalidad federal con participación de fuerzas de seguridad.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "narcotráfico",
+   "policía federal",
+   "prisión preventiva",
+   "estupefacientes"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Salta: imputaron a un policía federal en una investigación por el tráfico de 204 kilos de cocaína, 26 de noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T18:43:20+00:00",
+  "ingresado": "2026-11-27T18:31:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "7bc31177c119",
   "url_hash": "7bc31177c119c2ba32367fea25361dafcda669bea16029ee9d73b76255aede35",
   "fuente": "mpf",
@@ -1289,6 +1877,224 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "f91ee925077b",
+  "url_hash": "f91ee925077bb6d82cf9afa6ca8d50f407ec0bef28650870789195bd172d7fb4",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7126/Rosatti-alerto-sobre-los-peligros-de-la-Inteligencia-Artificial-",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Rosatti alertó sobre los peligros de la Inteligencia Artificial",
+  "titulo_original": "Rosatti alertó sobre los peligros de la Inteligencia Artificial",
+  "bajada": "El presidente de la Corte Suprema advirtió sobre la despersonalización digital y llamó a priorizar la participación presencial y el compromiso cívico.",
+  "tipo": "Noticia",
+  "materia": "Constitucional",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El presidente de la Corte Suprema, Horacio Rosatti, advirtió sobre los riesgos derivados de la inteligencia artificial y la despersonalización digital, exhortando a la ciudadanía a recuperar la sociabilidad presencial, la participación real en los asuntos públicos y el compromiso cívico frente a la delegación en la tecnología.",
+  "puntos_clave": [
+   "Advertencia sobre la autonomía de la inteligencia artificial y sus riesgos institucionales.",
+   "Crítica a la falsa ilusión de sociabilidad generada por las redes sociales y el aislamiento digital.",
+   "Llamado al compromiso cívico y a la participación presencial en los asuntos públicos para mejorar la representación democrática."
+  ],
+  "impacto_practico": "Brinda una perspectiva institucional sobre los desafíos éticos, sociales y jurídicos de la inteligencia artificial y la necesidad de fortalecer el compromiso democrático frente al avance tecnológico.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "inteligencia artificial",
+   "horacio rosatti",
+   "sociedad",
+   "participacion",
+   "derecho"
+  ],
+  "cita_sugerida": "Corte Suprema de Justicia de la Nación, Palabras de Horacio Rosatti sobre Inteligencia Artificial, 26-11-2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:37:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ca71f235ac85",
+  "url_hash": "ca71f235ac85cd26ca3fbd9b32d28e5d983b1422270e25da0adaf2e4f002cdc1",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7124/Demanda-contra-AySA-la-Justicia-federal-de-La-Plata-devolvio-el-expediente-al-fuero-provincial-por-considerar-prematuro-el-pase",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Demanda contra AySA: devolución de expediente al fuero provincial por pase prematuro",
+  "titulo_original": "Demanda contra AySA: la Justicia federal de La Plata devolvió el expediente al fuero provincial por considerar prematuro el pase",
+  "bajada": "La Justicia federal de La Plata devolvió una causa contra AySA al fuero contencioso administrativo provincial al considerar prematuro el desplazamiento competencial y advertir la falta de firmeza de la resolución anterior.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal N° 4 de La Plata",
+  "caratula": "Defensor del Pueblo de la Provincia de Buenos Aires c/ Agua y Saneamientos Argentinos S.A. (AySA) s/ Daños varios",
+  "identificador_legal": "FLP 47859/2026",
+  "id_legal_norm": "FLP 47859/2026",
+  "holding": "El Juzgado Federal N° 4 de La Plata resolvió devolver las actuaciones al fuero provincial al constatar que la incompetencia local no se encuentra consentida ni ejecutoriada, al estar pendiente un recurso extraordinario ante la Suprema Corte de la Provincia de Buenos Aires, resultando además incompetente en razón del territorio.",
+  "puntos_clave": [
+   "El desplazamiento de competencia requiere que la resolución de incompetencia esté consentida o ejecutoriada.",
+   "La remisión del expediente mientras corre un recurso extraordinario ante la SCBA vuelve el pase prematuro e improcedente.",
+   "La Justicia federal platense carece de competencia territorial respecto de los municipios donde AySA presta servicios."
+  ],
+  "impacto_practico": "Permite a los litigantes advertir la improcedencia de remitir expedientes entre fueros cuando existen recursos pendientes que impiden la firmeza de la declaración de incompetencia.",
+  "normas_citadas": [
+   "art. 1711 del CCyC",
+   "art. 8° inc. b de la Ley 24.156",
+   "Ley 26.221",
+   "art. 196 del CPCCBA"
+  ],
+  "etiquetas": [
+   "competencia",
+   "ayp",
+   "fuero federal",
+   "procedimiento civil",
+   "defensor del pueblo"
+  ],
+  "cita_sugerida": "Juzgado Federal N° 4 de La Plata, \"Defensor del Pueblo de la Provincia de Buenos Aires c/ Agua y Saneamientos Argentinos S.A. (AySA) s/ Daños varios\", FLP 47859/2026, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:36:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: art. 4° del CPCCBA",
+    "norma descartada: art. 4° del CPCCN"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "af11c0e74ffd",
+  "url_hash": "af11c0e74ffd27176cfc4663709240e77b6196bb743f8cd7f3df0355eceec43c",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7125/Cuales-son-los-nuevos-pliegos-judiciales-que-el-Senado-aprobo-por-unanimidad",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El Senado aprobó por unanimidad 43 pliegos judiciales",
+  "titulo_original": "Cuáles son los nuevos pliegos judiciales que el Senado aprobó por unanimidad",
+  "bajada": "La Cámara alta dio acuerdo por unanimidad a 22 jueces, 31 conjueces, 11 fiscales y 7 defensores públicos para cargos nacionales y federales.",
+  "tipo": "Noticia",
+  "materia": "Institucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Senado de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Senado de la Nación aprobó por unanimidad un total de 43 pliegos judiciales enviados por el Poder Ejecutivo para cubrir vacantes en juzgados de primera instancia, tribunales orales, cámaras de apelaciones y dependencias de los ministerios públicos en distintas jurisdicciones del país.",
+  "puntos_clave": [
+   "El Senado aprobó 43 pliegos judiciales remitidos por el Poder Ejecutivo con 67 votos afirmativos y ninguno en contra.",
+   "Las designaciones cubren cargos de jueces, conjueces, fiscales y defensores públicos a nivel nacional y federal.",
+   "Se incorporaron magistrados a diversas cámaras de apelaciones, tribunales orales y juzgados de distintas provincias como Santa Fe."
+  ],
+  "impacto_practico": "Permite cubrir vacantes históricas en diversos tribunales nacionales y federales, cámaras de apelaciones y fiscalías del país.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "senado",
+   "pliegos judiciales",
+   "designaciones",
+   "magistrados"
+  ],
+  "cita_sugerida": "Senado de la Nación, aprobación de pliegos judiciales, 26-11-2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:36:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "84ee3d2b1d9c",
+  "url_hash": "84ee3d2b1d9c6e5da8eb27d120c5f262cc46c9106fbf981423d1d02db0342a19",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7123/Peninsula-de-Magallanes-la-Justicia-freno-las-inscripciones-registrales-por-la-venta-de-tierras-a-una-firma-extranjera-y-giro-la-causa-a-la-Corte-Suprema",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Península de Magallanes: medida cautelar y competencia originaria de la Corte por venta de tierras",
+  "titulo_original": "Península de Magallanes: la Justicia frenó las inscripciones registrales por la venta de tierras a una firma extranjera y giró la causa a la Corte Suprema",
+  "bajada": "La Justicia federal dictó una medida conservatoria registral sobre tierras en Santa Cruz y remitió la causa a la Corte Suprema por la intervención de la Provincia.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Río Gallegos",
+  "caratula": "Mora Doldán, María Agostina y otros c/ Estado Nacional – Poder Ejecutivo s/ Amparo Ley 16.986",
+  "identificador_legal": "Expte. N° 16306/2026",
+  "id_legal_norm": "EXPTE. 16306/2026",
+  "holding": "El Juzgado Federal de Río Gallegos declaró su incompetencia y remitió los autos a la competencia originaria de la Corte Suprema de Justicia de la Nación, al advertir la existencia de un litisconsorcio pasivo necesario que incluye a la Provincia de Santa Cruz junto al Estado Nacional. Previamente, dictó una medida conservatoria de alcance registral para impedir la transferencia de dominio de tierras linderas al Parque Nacional Los Glaciares a favor de una firma extranjera.",
+  "puntos_clave": [
+   "Se dictó una medida conservatoria en el Registro de la Propiedad Inmueble para frenar inscripciones sobre parcelas en la Península de Magallanes.",
+   "El juez declaró su incompetencia y derivó el amparo a la instancia originaria de la Corte Suprema por la participación de la Provincia de Santa Cruz.",
+   "El litigio involucra la impugnación del artículo 154 del DNU 70/2023 y de un decreto provincial que exceptuó la venta de tierras rurales a una firma extranjera."
+  ],
+  "impacto_practico": "Permite a los litigantes y operadores jurídicos analizar los presupuestos para la apertura de la competencia originaria de la Corte Suprema ante la conformación de litisconsorcios que involucran a provincias y al Estado Nacional.",
+  "normas_citadas": [
+   "art. 117 CN",
+   "art. 89 CPCCN",
+   "art. 196 CPCCN",
+   "art. 230 CPCCN",
+   "Ley 26.737",
+   "Ley 26.854"
+  ],
+  "etiquetas": [
+   "corte suprema",
+   "competencia originaria",
+   "ley de tierras",
+   "glaciares",
+   "medida cautelar"
+  ],
+  "cita_sugerida": "Juzgado Federal de Río Gallegos, \"Mora Doldán, María Agostina y otros c/ Estado Nacional – Poder Ejecutivo s/ Amparo Ley 16.986\", 26-11-2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:35:42+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "915fe26442f9",
   "url_hash": "915fe26442f9a62881c0f612bc45ad93c461a7c9fb16cd4c47947554ffe3b9cd",
   "fuente": "mpf",
@@ -1334,6 +2140,170 @@
   "oficial": {},
   "fecha": "2026-11-26T12:35:27+00:00",
   "ingresado": "2026-11-27T09:59:47+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "6fd6a41d19db",
+  "url_hash": "6fd6a41d19db9bd43dbe2a378898291af79cabb39401d8ff97bf6d3ae6b188c2",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/26/fallos-honorarios-profesionales-se-admite-la-imposicion-del-iva-en-el-pacto-de-cuota-litis-siempre-que-el-abogado-sea-responsable-inscripto-al-momento-del-cobro/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "IVA en pacto de cuota litis: Admisibilidad si el abogado es responsable inscripto al cobro",
+  "titulo_original": "Honorarios profesionales: Se admite la imposición del IVA en el pacto de cuota litis, siempre que el abogado sea responsable inscripto al momento del cobro",
+  "bajada": "La Cámara del Trabajo de Bell Ville admitió la imposición del IVA en un pacto de cuota litis, aclarando que el tributo grava el consumo y no constituye un incremento de los honorarios regulados.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Cámara del Trabajo de Bell Ville",
+  "caratula": "González Javier Eduardo c/ Club Atlético y Biblioteca Bell s/ ordinario – despido",
+  "identificador_legal": "Expte. N.º 13249742",
+  "id_legal_norm": "EXPTE. o 13249742",
+  "holding": "El IVA sobre honorarios profesionales no forma parte de la remuneración ni está alcanzado por el tope del art. 277 de la LCT, sino que constituye un impuesto indirecto al consumo que debe ser soportado por el consumidor final si el abogado es responsable inscripto al momento de la percepción.",
+  "puntos_clave": [
+   "El hecho imponible del IVA sobre honorarios se perfecciona con la percepción del precio.",
+   "El límite del 20% previsto en el art. 277 de la LCT no incluye cargas fiscales ni exime de tributos.",
+   "Impedir la traslación del IVA convierte un impuesto indirecto en una gabela directa sobre la renta del letrado."
+  ],
+  "impacto_practico": "Permite a los abogados que revisten carácter de responsables inscriptos adicionar el porcentaje correspondiente en concepto de IVA sobre los pactos de cuota litis, sin que ello vulnere los límites protectores del crédito laboral de la LCT.",
+  "normas_citadas": [
+   "art. 277 LCT",
+   "art. 148 LCT",
+   "arts. 94 y 95 CPT",
+   "art. 121 ley 9459"
+  ],
+  "etiquetas": [
+   "pacto de cuota litis",
+   "iva",
+   "honorarios profesionales",
+   "ley de contrato de trabajo"
+  ],
+  "cita_sugerida": "Cámara del Trabajo de Bell Ville, \"González Javier Eduardo c/ Club Atlético y Biblioteca Bell s/ ordinario – despido\", 12/08/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T09:00:15+00:00",
+  "ingresado": "2026-11-27T18:45:04+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3dc06b56ae48",
+  "url_hash": "3dc06b56ae480db3db263f7a25e9016aa3dae1658363297329afbe1a45572b22",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/26/fallos-habeas-corpus-colectivo-interpuesto-a-favor-de-personas-con-padecimientos-mentales-alojadas-en-una-unidad-penal-que-presenta-severas-condiciones-de-deterioro-edilicio/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Habeas corpus colectivo por situación de personas con padecimientos mentales en unidad penal",
+  "titulo_original": "Habeas corpus colectivo interpuesto a favor de personas con padecimientos mentales alojadas en una Unidad Penal que presenta severas condiciones de deterioro edilicio",
+  "bajada": "Se admite un hábeas corpus colectivo por las graves condiciones edilicias y el encierro ilícito de personas con padecimientos mentales alojadas en una unidad penal de Corrientes.",
+  "tipo": "Fallo",
+  "materia": "Constitucional",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Corrientes",
+  "tribunal": "Juzgando de Garantías de Corrientes",
+  "caratula": "ACCION DE HABEAS CORPUS COLECTIVO INTERPUESTO POR EL DR. MAURICIO JOSE LUIS TORRES",
+  "identificador_legal": "Legajo Judicial N° 22695/26",
+  "id_legal_norm": "LEGAJO JUDICIAL 22695/26",
+  "holding": "Se declara la inconstitucionalidad del estado de cosas en la unidad penal y la ilicitud del régimen de alojamiento de personas sin causa penal, fundado exclusivamente en su discapacidad y falta de recursos, ordenando adecuar la situación a la Ley Nacional de Salud Mental.",
+  "puntos_clave": [
+   "Las condiciones edilicias de la Unidad Penal N° 10 vulneran el estándar de establecimiento sano y limpio de la Constitución Nacional y las Reglas de Mandela.",
+   "El alojamiento penitenciario de personas que carecen de causa penal constituye una privación de libertad arbitraria e ilegal.",
+   "El Juzgado de Garantías resulta competente para controlar la modalidad de ejecución y el régimen penitenciario impuesto de hecho."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales y organismos de derechos humanos cuestionar el encierro de personas con padecimientos mentales en establecimientos carcelarios y exigir su derivación a dispositivos sociosanitarios acordes.",
+  "normas_citadas": [
+   "art. 18 de la CN",
+   "art. 10 de la Constitución de la Provincia de Corrientes",
+   "art. 15 del CPPen. de la Provincia",
+   "art. 14 de la CDPD",
+   "Ley N° 26.657"
+  ],
+  "etiquetas": [
+   "habeas corpus",
+   "salud mental",
+   "derechos humanos",
+   "condiciones de detencion"
+  ],
+  "cita_sugerida": "Juzgado de Garantías de Corrientes, Legajo N° 22695/26, 15/09/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T09:00:12+00:00",
+  "ingresado": "2026-11-27T18:45:34+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: art. 7.3 de la Convención Americana sobre Derechos Humanos"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "14faa7856bf1",
+  "url_hash": "14faa7856bf1f8bec9728565ae8e7d6807a87000812e7772ae6ad60d274a1720",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/26/doctrina-el-fin-del-kyc-redundante-como-la-identidad-descentralizada-did-esta-redefiniendo-la-tokenizacion-y-el-cumplimiento-normativo-cripto/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El fin del KYC redundante y la Identidad Descentralizada en cripto",
+  "titulo_original": "El fin del KYC redundante: Cómo la Identidad Descentralizada (DID) está redefiniendo la tokenización y el cumplimiento normativo cripto",
+  "bajada": "Análisis doctrinal sobre cómo la Identidad Descentralizada (DID) y la Identidad Digital Autosoberana (SSI) redefinen el cumplimiento normativo en criptoactivos.",
+  "tipo": "Doctrina",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Microjuris Argentina",
+  "caratula": "",
+  "identificador_legal": "MJ-DOC-19081-AR",
+  "id_legal_norm": "MJ-DOC-19081-AR",
+  "holding": "La transición hacia esquemas de Identidad Descentralizada (DID) y Credenciales Verificables permite cumplir con las exigencias internacionales de Prevención de Lavado de Activos y Financiamiento del Terrorismo (AML/CFT) sin comprometer la protección de datos personales, estructurando el cumplimiento on-chain en tres pilares: KYW, KYA y KYT.",
+  "puntos_clave": [
+   "La Identidad Digital Autosoberana (SSI) y los Identificadores Descentralizados (DID) sustituyen el almacenamiento centralizado y redundante de datos personales.",
+   "El cumplimiento on-chain se articula en tres pilares normativos y tecnológicos: Know Your Wallet (KYW), Know Your Asset (KYA) y Know Your Transaction (KYT).",
+   "Se utilizan herramientas criptográficas como Soulbound Tokens (SBT), Pruebas de Conocimiento Cero (ZKP) y la Prueba de Humanidad para verificar usuarios sin exponer datos sensibles."
+  ],
+  "impacto_practico": "Brinda a los operadores jurídicos, legisladores y profesionales del derecho un marco técnico-jurídico sobre la aplicación de la identidad autosoberana en el cumplimiento normativo de activos tokenizados y finanzas descentralizadas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "identidad descentralizada",
+   "tokenizacion",
+   "cumplimiento normativo",
+   "blockchain",
+   "aml"
+  ],
+  "cita_sugerida": "Guini, Leonor, El fin del KYC redundante: Cómo la Identidad Descentralizada (DID) está redefiniendo la tokenización y el cumplimiento normativo cripto, MJ-DOC-19081-AR.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T09:00:03+00:00",
+  "ingresado": "2026-11-27T18:46:04+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,
@@ -1513,14 +2483,23 @@
   "oficial": {},
   "fecha": "2026-11-26T03:00:00+00:00",
   "ingresado": "2026-11-26T20:23:37+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "bora",
+    "fuente_nombre": "Boletín Oficial (1.ª sección)",
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350941/20261127",
+    "titulo": "Resolución General 1179/2026 — Comisión Nacional de Valores: Elaboración Participativa de Normas. Aplicación.",
+    "fecha": "2026-11-27T03:00:00+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:30:58+00:00"
  },
  {
   "id": "9ed63cab3259",
@@ -1873,6 +2852,61 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "d168cd4def0b",
+  "url_hash": "d168cd4def0b35f2650b6b2771d14feb5c89483f4aa76f5c8d5074f1e2dcc22b",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104962-a-cada-ley-su-honorario",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Aplicación temporal de leyes arancelarias para la regulación de honorarios profesionales",
+  "titulo_original": "A cada Ley su honorario",
+  "bajada": "La Cámara Contencioso Administrativo Federal determinó que los honorarios profesionales deben regirse por la ley vigente al momento en que se realizaron las tareas, aplicando la Ley 21.839 a las etapas concluidas bajo su vigencia y la Ley 27.423 a las posteriores.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Contencioso Administrativo Federal, Sala II",
+  "caratula": "Prat, Juan Carlos y otros c/ EN - DIEA s/personal militar y civil de las FFAA y de Seguridad",
+  "identificador_legal": "Prat, Juan Carlos y otros c/ EN - DIEA s/personal militar y civil de las FFAA y",
+  "id_legal_norm": null,
+  "holding": "El derecho a la retribución profesional se constituye en el momento en que se realizan los trabajos. Por ende, las leyes arancelarias posteriores no se aplican de forma retroactiva a las etapas procesales concluidas o con principio de ejecución bajo la normativa anterior, debiendo ponderarse además la magnitud del trabajo y evitar una desproporción injustificada.",
+  "puntos_clave": [
+   "Se aplica la Ley 21.839 a los trabajos realizados durante su vigencia y la Ley 27.423 a las tareas posteriores.",
+   "El derecho a los honorarios se constituye en la oportunidad en que se realiza el trabajo profesional.",
+   "La regulación no debe ser el resultado de una aplicación mecánica de porcentajes que genere una desproporción con la obra realizada."
+  ],
+  "impacto_practico": "Permite a los letrados y litigantes prever qué normativa arancelaria resultará aplicable para la regulación de honorarios en expedientes prolongados que atravesaron cambios legislativos.",
+  "normas_citadas": [
+   "Ley 21.839",
+   "Ley 27.423",
+   "Ley 24.432",
+   "Decreto 1077/2017"
+  ],
+  "etiquetas": [
+   "honorarios",
+   "ley arancelaria",
+   "aplicación temporal",
+   "cámara contencioso administrativo federa"
+  ],
+  "cita_sugerida": "Cámara Contencioso Administrativo Federal, Sala II, Prat, Juan Carlos y otros c/ EN - DIEA s/personal militar y civil de las FFAA y de Seguridad, 25/11/2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T17:25:05+00:00",
+  "ingresado": "2026-11-27T18:54:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "9e1b49309464",
   "url_hash": "9e1b4930946464a5cdc641a6faa05b8cdee1dbc8da720a5319e05906d4e65df2",
   "fuente": "palabras_derecho",
@@ -2083,6 +3117,283 @@
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "bf880bd32ae3",
+  "url_hash": "bf880bd32ae30886509b19671faa5baf41598ac808fee31c314bf00f13526393",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/25/fallos-herederos-se-rechaza-una-demanda-de-rendicion-de-cuentas-al-no-haberse-acreditado-que-un-hermano-hubiera-asumido-la-administracion-autonoma-de-los-bienes-ni-una-gestion-pendiente/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Herederos: rechazan demanda de rendición de cuentas contra hermano",
+  "titulo_original": "Herederos: Se rechaza una demanda de rendición de cuentas al no haberse acreditado que un hermano hubiera asumido la administración autónoma de los bienes ni una gestión pendiente de revisión",
+  "bajada": "La Cámara Civil rechazó una demanda de rendición de cuentas entre coherederos al no probarse que el demandado hubiera asumido la administración autónoma de los bienes de sus progenitores en vida de estos.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "CABA",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Civil, Sala E",
+  "caratula": "P., C. A. c/ P., H. J. s/Rendición de cuentas",
+  "identificador_legal": "expte. nro. 57941/2020",
+  "id_legal_norm": "EXPTE. . 57941/2020",
+  "holding": "Corresponde rechazar la acción de rendición de cuentas interpuesta por un heredero contra su hermano si las constancias demuestran que la colaboración prestada en vida de los causantes se realizó bajo la supervisión y control de su padre, sin desplazarlo ni asumir una administración autónoma, correspondiendo en todo caso el eventual reclamo al propio causante.",
+  "puntos_clave": [
+   "La colaboración prolongada en los negocios y bienes familiares no equivale ipso facto a la asunción de una administración autónoma.",
+   "El derecho a exigir la rendición de cuentas de gestiones en vida del causante corresponde en principio a quien encomendó su realización.",
+   "No se acreditó la existencia de una gestión pendiente de rendición ni un desplazamiento del titular en el manejo de su patrimonio."
+  ],
+  "impacto_practico": "Útil para litigantes en procesos sucesorios al delimitar los presupuestos necesarios para prosperar en una acción de rendición de cuentas contra otro coheredero por actos anteriores al fallecimiento.",
+  "normas_citadas": [
+   "Código Civil y Comercial de la Nación"
+  ],
+  "etiquetas": [
+   "rendición de cuentas",
+   "herencia",
+   "administrador de la herencia",
+   "sucesión"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Civil, Sala E, P., C. A. c/ P., H. J. s/Rendición de cuentas, 5 de octubre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T09:00:58+00:00",
+  "ingresado": "2026-11-27T18:47:04+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "092149e6d265",
+  "url_hash": "092149e6d2658f88758d30f27b4195b8efe96117fabfe1c6a0bafe6fa065b509",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/25/doctrina-regimen-previsional-de-los-trabajadores-de-plataformas-digitales-en-argentina-insuficiencia-del-marco-normativo-vigente-y-propuesta-de-reforma/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Régimen previsional de los trabajadores de plataformas digitales en Argentina",
+  "titulo_original": "Régimen previsional de los trabajadores de plataformas digitales en Argentina: Insuficiencia del marco normativo vigente y propuesta de reforma",
+  "bajada": "Análisis doctrinal sobre la insuficiencia del marco normativo previsional vigente para los trabajadores de plataformas digitales y propuesta de reforma legislativa.",
+  "tipo": "Doctrina",
+  "materia": "Previsional",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "MJ-DOC-19075-AR",
+  "id_legal_norm": "MJ-DOC-19075-AR",
+  "holding": "El sistema previsional argentino actual, estructurado sobre categorías tradicionales de trabajadores en relación de dependencia y autónomos o monotributistas, resulta insuficiente para garantizar una adecuada protección a los trabajadores de plataformas digitales, lo que fundamenta la necesidad de una reforma legislativa específica.",
+  "puntos_clave": [
+   "El marco previsional actual se basa en la Ley 24.241 y el Monotributo, sin contemplar las particularidades del trabajo en plataformas digitales.",
+   "Los trabajadores monotributistas solo acceden a la Prestación Básica Universal (PBU), generando haberes previsionales reducidos frente al régimen de dependencia.",
+   "Se propone una reforma legislativa (lege ferenda) para incorporar un marco específico que asegure la financiación y cobertura previsional de estos trabajadores."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos e investigadores comprender las asimetrías de cobertura previsional entre dependientes y autónomos/monotributistas aplicadas a la economía de plataformas.",
+  "normas_citadas": [
+   "Art. 14 bis CN",
+   "Ley 24.241",
+   "Ley 24.977"
+  ],
+  "etiquetas": [
+   "seguridad social",
+   "trabajadores de plataformas",
+   "régimen previsional",
+   "monotributo"
+  ],
+  "cita_sugerida": "Climaco, Natalia G., 'Régimen previsional de los trabajadores de plataformas digitales en Argentina', Microjuris Doctrina, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T09:00:58+00:00",
+  "ingresado": "2026-11-27T18:46:34+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9c151f6c4b43",
+  "url_hash": "9c151f6c4b43326f4412eb3754a878900839de8f347c283ef2d74bcdd2a6a265",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/25/fallos-csjn-es-infundada-e-innecesaria-la-declaracion-de-inconstitucionalidad-de-las-leyes-23-928-y-25-561-en-tanto-el-tribunal-invoco-la-proteccion-contra-el-despido-arbitrario-pero-la-demanda-pers/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "CSJN: Es infundada e innecesaria declarar la inconstitucionalidad de las leyes 23.928 y 25.561 en juicio laboral",
+  "titulo_original": "CSJN: Es infundada e innecesaria la declaración de inconstitucionalidad de las leyes 23.928 y 25.561 en tanto el tribunal invocó la protección contra el despido arbitrario pero la demanda persiguió una indemnización por un siniestro laboral",
+  "bajada": "La Corte Suprema dejó sin efecto una sentencia que declaró la inconstitucionalidad de la prohibición de actualización monetaria con argumentos genéricos e invocando normas ajenas al reclamo de siniestro laboral.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Encina Hilda Zulema (23819) c/ ART Interacción S.A. y otro s/ accidente – ley especial",
+  "identificador_legal": "MJ-JU-M-161627-AR",
+  "id_legal_norm": "MJ-JU-M-161627-AR",
+  "holding": "La declaración de inconstitucionalidad de los artículos que prohíben la indexación constituye la ultima ratio del orden jurídico y resulta infundada cuando se adopta con argumentos genéricos e imprecisos, invocando garantías de despido arbitrario en un reclamo por accidente laboral y omitiendo tratar el régimen específico de riesgos del trabajo.",
+  "puntos_clave": [
+   "La declaración de inconstitucionalidad es un acto de suma gravedad institucional que requiere estricta necesidad.",
+   "Resulta arbitrario declarar la inconstitucionalidad de las leyes 23.928 y 25.561 invocando la protección contra el despido arbitrario en un litigio sobre indemnización por siniestro laboral.",
+   "Los tribunales inferiores deben analizar la normativa específica del régimen de riesgos del trabajo antes de acudir a remedios constitucionales extremos."
+  ],
+  "impacto_practico": "Obliga a los tribunales inferiores a fundamentar adecuadamente los apartamientos de la prohibición de indexación, evitando declaraciones de inconstitucionalidad genéricas y exigiendo el análisis previo de la normativa especial de riesgos del trabajo.",
+  "normas_citadas": [
+   "art. 17 CN",
+   "art. 14 bis CN",
+   "Ley 23.928",
+   "Ley 25.561",
+   "Ley 27.348",
+   "DNU 669/2019"
+  ],
+  "etiquetas": [
+   "inconstitucionalidad",
+   "actualización monetaria",
+   "riesgos del trabajo",
+   "arbitrariedad de sentencia",
+   "recurso extraordinario"
+  ],
+  "cita_sugerida": "CSJN, Encina Hilda Zulema c/ ART Interacción S.A. y otro s/ accidente – ley especial, 29/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T09:00:16+00:00",
+  "ingresado": "2026-11-27T18:47:34+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "aee72c9255bc",
+  "url_hash": "aee72c9255bcea7a0fc4374ed1035544f6b33158e2cbb0c70f40675d1881c211",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/25/podcast-dano-extrapatrimonial-con-ser-hermano-no-alcanza/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Rechazo de daño extrapatrimonial a hermana por falta de prueba de convivencia o trato familiar",
+  "titulo_original": "#Podcast Daño extrapatrimonial: con ser hermano no alcanza",
+  "bajada": "La Suprema Corte de Justicia de Jujuy rechazó el reclamo por daño extrapatrimonial de una hermana del fallecido por no acreditar los requisitos del artículo 1741 del CCCN.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Jujuy",
+  "tribunal": "Suprema Corte de Justicia de la Provincia de Jujuy",
+  "caratula": "M. N. I. c/ R. R. R. y otros s/ daños y perjuicios",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El tribunal determinó que para la procedencia del reclamo indemnizatorio por consecuencias no patrimoniales formulado por un hermano, resulta carga procesal indispensable acreditar la convivencia o la existencia de un trato familiar ostensible, conforme lo exige el artículo 1741 del Código Civil y Comercial.",
+  "puntos_clave": [
+   "Se exige la acreditación de convivencia o trato familiar ostensible para el reclamo de daño extrapatrimonial entre hermanos.",
+   "La falta de prueba sobre estos extremos legalmente exigidos conduce al rechazo de la indemnización.",
+   "Se interpreta restrictivamente la legitimación por daños no patrimoniales en supuestos de parentesco colateral."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para litigantes en materia de daños y perjuicios, advirtiendo sobre la necesidad de producir prueba fehaciente del vínculo afectivo cotidiano o convivencia cuando reclaman parientes colaterales como los hermanos.",
+  "normas_citadas": [
+   "artículo 1741 del Código Civil y Comercial"
+  ],
+  "etiquetas": [
+   "daño extrapatrimonial",
+   "daño moral",
+   "hermanos",
+   "legitimación activa",
+   "código civil y comercial"
+  ],
+  "cita_sugerida": "Suprema Corte de Justicia de la Provincia de Jujuy, M. N. I. c/ R. R. R. y otros s/ daños y perjuicios",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T08:48:48+00:00",
+  "ingresado": "2026-11-27T18:48:03+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "471f1e21fa74",
+  "url_hash": "471f1e21fa744498e10db859e83e83850cbb9f55a33806ca006ab343aa31b3a8",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104954-jueces-de-paz-blindados",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Proyecto de ley en Córdoba para vincular el orden de mérito de jueces de paz",
+  "titulo_original": "Jueces de Paz blindados",
+  "bajada": "El Ejecutivo cordobés envió a la Legislatura un proyecto para que el orden de mérito en la selección de jueces de paz sea vinculante y otorgarles inamovilidad e inmunidades.",
+  "tipo": "Norma",
+  "materia": "Institucional",
+  "instancia": "Poder Ejecutivo",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Poder Ejecutivo de la Provincia de Córdoba",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El proyecto remitido por el Poder Ejecutivo a la Legislatura provincial modifica las leyes 8435 y 9449 para establecer que el orden de mérito elaborado por la Junta de Calificación sea vinculante para el nombramiento, otorgar inamovilidad constitucional a los jueces de paz concursados y extenderles el régimen de inmunidades de los magistrados judiciales, estableciendo además un régimen de evaluación excepcional para los jueces que ya se encuentran en funciones.",
+  "puntos_clave": [
+   "El orden de mérito elaborado por la Junta de Calificación y Selección de Jueces de Paz pasa a ser vinculante para el Poder Ejecutivo al solicitar el acuerdo legislativo.",
+   "Se otorga estabilidad e inamovilidad constitucional a los jueces de paz designados por concurso público.",
+   "Se crea un régimen transitorio y excepcional de evaluación de idoneidad técnica, funcional y ética para los jueces que ya están en funciones."
+  ],
+  "impacto_practico": "Modifica los mecanismos de selección, estabilidad y garantías de los jueces de paz en la provincia de Córdoba, elevando los estándares de idoneidad y reduciendo la discrecionalidad política en los nombramientos.",
+  "normas_citadas": [
+   "Ley Orgánica del Poder Judicial 8435",
+   "Ley de Proceso de Selección de Jueces de Paz 9449",
+   "artículo 169 de la Constitución Provincial",
+   "artículo 154 de la Constitución de Córdoba",
+   "artículo 39 de la Ley 8435",
+   "artículo 40 de esa misma ley"
+  ],
+  "etiquetas": [
+   "jueces de paz",
+   "córdoba",
+   "orden de mérito",
+   "inamovilidad",
+   "poder judicial"
+  ],
+  "cita_sugerida": "Proyecto de ley sobre jueces de paz, Poder Ejecutivo de la Provincia de Córdoba, 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T07:36:55+00:00",
+  "ingresado": "2026-11-27T18:53:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -2428,14 +3739,23 @@
   "oficial": {},
   "fecha": "2026-11-25T03:00:00+00:00",
   "ingresado": "2026-11-26T02:00:53+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "aldia",
+    "fuente_nombre": "Al Día Argentina (Microjuris)",
+    "url": "https://aldiaargentina.microjuris.com/2026/11/25/legislacion-fondo-de-asistencia-laboral-arca-actualizo-las-condiciones-para-que-los-empleadores-sean-considerados-micro-pequenas-y-medianas-empresas/",
+    "titulo": "Fondo de Asistencia Laboral: ARCA actualizó las condiciones para que los empleadores sean considerados micro, pequeñas y medianas empresas",
+    "fecha": "2026-11-25T08:22:09+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:48:40+00:00"
  },
  {
   "id": "2ddfb6d424a9",
@@ -2487,14 +3807,23 @@
   "oficial": {},
   "fecha": "2026-11-25T03:00:00+00:00",
   "ingresado": "2026-11-26T02:01:27+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "aldia",
+    "fuente_nombre": "Al Día Argentina (Microjuris)",
+    "url": "https://aldiaargentina.microjuris.com/2026/11/25/legislacion-fondo-fiduciario-de-enfermedades-profesionales-nueva-suma-fija-con-vencimiento-en-diciembre-2026/",
+    "titulo": "Fondo Fiduciario de Enfermedades Profesionales: nueva suma fija con vencimiento en diciembre 2026",
+    "fecha": "2026-11-25T08:17:04+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:48:55+00:00"
  },
  {
   "id": "f8339029fb7c",
@@ -2711,6 +4040,60 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "6549e6e247a2",
+  "url_hash": "6549e6e247a29b5e9686ffefe71e8242830eaf038fddd49b5bd9952585a1569a",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7119/Ley-de-ludopatia-y-regulacion-del-juego-en-linea-los-puntos-centrales-del-proyecto-que-se-debate-en-el-Congreso",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Proyecto de ley sobre prevención de ludopatía y regulación del juego en línea en el Congreso",
+  "titulo_original": "Ley de ludopatía y regulación del juego en línea: los puntos centrales del proyecto que se debate en el Congreso",
+  "bajada": "El proyecto con media sanción de Diputados busca regular las apuestas en línea, restringir la publicidad y proteger la salud pública frente a la ludopatía.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Congreso de la Nación",
+  "caratula": "Prevención de ludopatía y regulación de juegos de azar y apuestas en línea",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El proyecto establece un marco regulatorio integral de prevención y control de la ludopatía y el juego en línea, que incluye la prohibición total de su publicidad y patrocinio en diversos medios, la exigencia de radicación legal para operadores, la creación del Registro Nacional de Autoexclusión, restricciones en los medios de pago utilizables y la modificación del artículo 301 bis del Código Penal para agravar las penas por la explotación ilegal de juegos de azar.",
+  "puntos_clave": [
+   "Prohibición estricta de la publicidad, promoción y patrocinio de apuestas en línea en redes, medios audiovisuales e indumentaria deportiva.",
+   "Creación del Registro Nacional de Autoexclusión (ReNA) para interoperabilidad en todo el país y restricción de acceso.",
+   "Modificación del Código Penal para endurecer las penas por la explotación de juegos de azar sin autorización y cuando involucren a menores."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y legisladores conocer el alcance de las medidas de control sobre plataformas de apuestas, las nuevas restricciones de medios de pago y el endurecimiento penal aplicable al juego clandestino o dirigido a menores.",
+  "normas_citadas": [
+   "Ley Nacional de Salud Mental N° 26.657",
+   "Ley N° 26.934",
+   "artículo 301 bis del Código Penal"
+  ],
+  "etiquetas": [
+   "ludopatía",
+   "regulación del juego online",
+   "apuestas en línea",
+   "congreso"
+  ],
+  "cita_sugerida": "Proyecto de ley sobre Prevención de ludopatía y regulación de juegos de azar y apuestas en línea, Congreso de la Nación, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:34:16+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -2991,6 +4374,120 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "07e6d8863b4a",
+  "url_hash": "07e6d8863b4ade2103f87f291cc4d86d131a3d66021c4b6074d5b65e4ec0df89",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/24/fallos-la-viuda-debe-recibir-el-100-de-la-pension-por-fallecimiento-porque-la-separacion-de-hecho-fue-consecuencia-de-la-violencia-de-genero-ejercida-por-el-causante/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "La viuda debe percibir el 100% de la pensión si la separación fue por violencia de género",
+  "titulo_original": "La viuda debe recibir el 100% de la pensión por fallecimiento porque la separación de hecho fue consecuencia de la violencia de género ejercida por el causante",
+  "bajada": "La Cámara ordenó otorgar el 100% de la pensión por fallecimiento al constatar que la separación de hecho fue un acto de autoprotección frente a la violencia de género.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Cámara Contencioso Administrativa de Segunda Nominación de Córdoba",
+  "caratula": "L., M. T. c/ Caja de Jubilaciones, Pensiones y Retiros de Córdoba – Plena Jurisdicción",
+  "identificador_legal": "Expte. N° xxx",
+  "id_legal_norm": null,
+  "holding": "Corresponde reconocer el 100% de la pensión por fallecimiento a la cónyuge supérstite cuando la separación de hecho invocada por el organismo previsional no obedeció a una decisión voluntaria de ruptura matrimonial, sino a una medida forzosa de autoprotección adoptada para salvaguardar su integridad física y psíquica frente a graves hechos de violencia de género perpetrados por el causante.",
+  "puntos_clave": [
+   "La separación de hecho motivada por violencia de género no constituye una ruptura voluntaria del vínculo conyugal.",
+   "La cuota alimentaria fijada en el marco de medidas de protección por violencia familiar no puede utilizarse para recortar el haber previsional al 25%.",
+   "Se declara la nulidad de las resoluciones administrativas que fraccionaron el beneficio previsional desconociendo el contexto de violencia y vulnerabilidad."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar recortes previsionales basados en supuestas separaciones de hecho cuando estas fueron producto de exclusiones del hogar por violencia familiar o de género.",
+  "normas_citadas": [
+   "Ley N° 8024",
+   "Ley N° 9283",
+   "Ley N° 24.417",
+   "Ley N° 26.485"
+  ],
+  "etiquetas": [
+   "pensión por fallecimiento",
+   "violencia de género",
+   "separación de hecho",
+   "derecho previsional",
+   "perspectiva de género"
+  ],
+  "cita_sugerida": "Cámara Contencioso Administrativa de Segunda Nominación de Córdoba, L., M. T. c/ Caja de Jubilaciones, Pensiones y Retiros de Córdoba – Plena Jurisdicción, 10/04/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T09:00:28+00:00",
+  "ingresado": "2026-11-27T18:49:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "4156c83f5e55",
+  "url_hash": "4156c83f5e559a23e327ef35cd02f0acba7eade6e5c0efad72a559bc69403d21",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/24/fallos-el-fondo-de-reserva-no-esta-exento-de-la-cobertura-de-los-intereses-devengados-hasta-su-efectivo-pago-y-asimismo-se-declara-la-inconstitucionalidad-del-art-1-del-decreto-nro-1022-2017-en-c/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El Fondo de Reserva cubre intereses hasta el efectivo pago y se declara inconstitucional exclusión de costas",
+  "titulo_original": "El Fondo de Reserva no está exento de la cobertura de los intereses devengados hasta su efectivo pago y asimismo, se declara la inconstitucionalidad del art. 1 del Decreto Nro. 1022/2017, en cuanto excluye las costas",
+  "bajada": "El Tribunal de Trabajo N° 3 de La Plata resolvió que el Fondo de Reserva de la LRT debe cubrir los intereses devengados hasta el efectivo pago y declaró la inconstitucionalidad del art. 1 del Decreto Nro. 1022/2017 en cuanto excluye las costas.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Provincia de Buenos Aires",
+  "tribunal": "Tribunal de Trabajo N° 3 de La Plata",
+  "caratula": "AMARILLA CABAÑAS LUCIO ANTONIO C/ GALENO ART S.A. S/ ENFERMEDAD PROFESIONAL",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La obligación del Fondo de Reserva de la LRT comprende la satisfacción integral del capital, los intereses devengados hasta su efectivo pago por tratarse de un accesorio y las costas del proceso, por lo que resulta inconstitucional la norma reglamentaria que pretende excluirlas o limitar temporalmente dicha responsabilidad.",
+  "puntos_clave": [
+   "El Fondo de Reserva de la Ley 24.557 debe responder por los intereses devengados sobre el capital de condena hasta su efectivo pago.",
+   "Se declara la inconstitucionalidad del art. 1 del Decreto Nro. 1022/2017 en cuanto excluye del alcance del Fondo de Reserva a las costas causídicas.",
+   "La integralidad de la prestación impide escindir el capital de condena de sus accesorios y de los gastos necesarios para obtener su reconocimiento judicial."
+  ],
+  "impacto_practico": "Permite a los trabajadores litigantes ejecutar la totalidad del crédito reconocido en sentencia —incluyendo intereses hasta el pago total y costas— frente al administrador del Fondo de Reserva cuando la ART se encuentra en liquidación forzosa.",
+  "normas_citadas": [
+   "art. 99 inc. 2 de la Constitución Nacional",
+   "art. 34 de la Ley 24.557",
+   "art. 22 del Decreto Nro. 1022/2017",
+   "Decreto Nro. 334/1996"
+  ],
+  "etiquetas": [
+   "fondo de reserva",
+   "art",
+   "intereses",
+   "costas",
+   "inconstitucionalidad"
+  ],
+  "cita_sugerida": "Tribunal de Trabajo N° 3 de La Plata, 'Amarilla Cabañas Lucio Antonio c/ Galeno ART S.A. s/ enfermedad profesional', 01/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T09:00:25+00:00",
+  "ingresado": "2026-11-27T18:49:42+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "34cd5b9399e1",
   "url_hash": "34cd5b9399e10c7869d9f40ad21faecc58c874489426deb01c790a2ae5cc5e09",
   "fuente": "csjn_noticias",
@@ -3038,6 +4535,121 @@
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "188c301ae281",
+  "url_hash": "188c301ae281a8d2bfdc7c75512200bced06ff640f6b2b3524649e69c5ccf780",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7115/La-Suprema-Corte-bonaerense-fija-un-limite-a-la-acumulacion-de-licencias-del-personal-policial,-�un-guino-de-constitucionalidad-al-Decreto-987/23",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Límite a la acumulación y compensación de licencias del personal policial en la Provincia de Buenos Aires",
+  "titulo_original": "La Suprema Corte bonaerense fija un límite a la acumulación de licencias del personal policial, ¿un guiño de constitucionalidad al Decreto 987/23?",
+  "bajada": "La Suprema Corte bonaerense estableció criterios sobre la imposibilidad de acumular y compensar de manera indefinida las licencias no usufructuadas por el personal policial durante su carrera.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Suprema Corte de Justicia de la Provincia de Buenos Aires",
+  "caratula": "Barrera, Ricardo Alberto contra Provincia de Buenos Aires (Ministerio de Seguridad) sobre pretensión de restablecimiento o reconocimiento de derechos",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Tribunal sostuvo que la licencia anual ordinaria tiene como fin exclusivo el descanso efectivo y la preservación psicofísica del agente, por lo que no puede ser acumulada para atesorar un crédito económico exigible al momento del cese más allá de los límites temporales previstos en la normativa estatutaria.",
+  "puntos_clave": [
+   "La licencia por descanso anual tiene carácter obligatorio y no está diseñada para generar un crédito indemnizatorio acumulable por toda la carrera.",
+   "El goce efectivo de las vacaciones interesa al orden público y al empleador, descartando la compensación automática de períodos largamente vencidos.",
+   "Se ratifica que sólo corresponde la compensación económica de los períodos que se adecuan estrictamente a los límites temporales normativos."
+  ],
+  "impacto_practico": "Permite a los litigantes y a la administración pública provincial delimitar el alcance de las pretensiones económicas por licencias policiales no gozadas al momento del retiro, evitando condenas por períodos acumulados fuera de término.",
+  "normas_citadas": [
+   "Ley N° 13.982",
+   "Decreto N° 1050/09",
+   "Decreto N° 387/23"
+  ],
+  "etiquetas": [
+   "personal policial",
+   "licencias",
+   "compensación",
+   "empleo público"
+  ],
+  "cita_sugerida": "SCBA, causa \"Barrera, Ricardo Alberto c/ Provincia de Buenos Aires s/ pretensión de restablecimiento o reconocimiento de derechos\"",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-23T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:32:45+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "palabras_derecho",
+    "fuente_nombre": "Palabras del Derecho",
+    "url": "https://www.palabrasdelderecho.com.ar/articulo/7114/Vacaciones-no-gozadas,-exacerbacion-reglamentaria-y-una-solucion-apartada-del-sistema-de-fuentes-del-ordenamiento-juridico-bonaerense",
+    "titulo": "Vacaciones no gozadas, exacerbación reglamentaria y una solución apartada del sistema de fuentes del ordenamiento jurídico bonaerense",
+    "fecha": "2026-11-23T15:00:00+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:33:31+00:00"
+ },
+ {
+  "id": "0b033cd4f5cb",
+  "url_hash": "0b033cd4f5cbfbdc1e774381290fdfae7ff56dc76c2312143c9f536a0b9cdcc2",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92181-ginecologo-lentes-ray-ban-meta-y-trato-infantilizante-revocan-absolucion-y-lo",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Revocan absolución de ginecólogo por maltrato agravado por género",
+  "titulo_original": "Ginecólogo con lentes Ray-Ban Meta y trato infantilizante: revocan la absolución y lo sancionan por maltrato agravado por razones de género",
+  "bajada": "Revocaron la absolución de un médico ginecólogo y lo sancionaron por maltrato agravado por razones de género tras una denuncia por el uso de anteojos con cámara durante una consulta.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado de Control y Faltas 7",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se revoca la absolución de un profesional médico y se lo sanciona por maltrato agravado por razones de género en el marco de una relación médico-paciente, tras una denuncia por utilización de anteojos con cámara y trato infantilizante durante una práctica médica.",
+  "puntos_clave": [
+   "Revocación de absolución a un ginecólogo por maltrato agravado por razones de género.",
+   "Valoración de la utilización de anteojos con cámara durante una ecografía transvaginal.",
+   "Abordaje de la violencia de género en la relación médico-paciente."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos contar con un precedente sobre la sanción de conductas de maltrato agravado por razones de género en el ámbito de la salud y la utilización de dispositivos tecnológicos invasivos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "violencia de género",
+   "ginecología",
+   "maltrato agravado",
+   "relación médico-paciente"
+  ],
+  "cita_sugerida": "Juzgado de Control y Faltas 7, 21 de octubre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T21:29:14+00:00",
+  "ingresado": "2026-11-27T18:39:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
    "avisos": []
   },
   "modelo": "gemini-3.5-flash-lite"
@@ -3149,6 +4761,56 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "016fbed263f6",
+  "url_hash": "016fbed263f69b336df29ecba1b399514dc2f4bdc89e956397e1c2ca4dc331e2",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/doctrina/92180-responsabilidad-parental-acoso-escolar-responsabilidad-acto-propio-y-limites",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Responsabilidad parental por acoso escolar y límites constitucionales",
+  "titulo_original": "Responsabilidad parental por acoso escolar, responsabilidad por el acto propio y límites constitucionales de la potestad contravencional",
+  "bajada": "Análisis doctrinal sobre la responsabilidad parental frente al acoso escolar, la responsabilidad por el acto propio y los límites constitucionales de la potestad contravencional.",
+  "tipo": "Doctrina",
+  "materia": "Penal",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La columna analiza la vinculación entre la responsabilidad parental y los supuestos de acoso escolar, examinando la aplicación de la responsabilidad por el acto propio en relación con los límites constitucionales del derecho contravencional y la responsabilidad personal de niños y adolescentes.",
+  "puntos_clave": [
+   "Examen de la responsabilidad parental en casos de acoso escolar.",
+   "Delimitación de la responsabilidad por el acto propio frente a la potestad contravencional.",
+   "Evaluación de los límites constitucionales y la responsabilidad personal de los menores."
+  ],
+  "impacto_practico": "Aporta elementos de análisis crítico para operadores jurídicos que intervienen en cuestiones de derecho contravencional y responsabilidad parental vinculada a menores de edad.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "responsabilidad parental",
+   "acoso escolar",
+   "derecho contravencional",
+   "principio de legalidad"
+  ],
+  "cita_sugerida": "Pensamiento Penal, Doctrina, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T19:15:55+00:00",
+  "ingresado": "2026-11-27T18:39:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "e04b4e5e5e71",
   "url_hash": "e04b4e5e5e71f47c2b4a43331cd6d250bf1ebec6d4a95427cd8ea7b649105894",
   "fuente": "mpf",
@@ -3244,12 +4906,81 @@
   "oficial": {},
   "fecha": "2026-11-20T15:00:00+00:00",
   "ingresado": "2026-11-26T20:28:24+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "aldia",
+    "fuente_nombre": "Al Día Argentina (Microjuris)",
+    "url": "https://aldiaargentina.microjuris.com/2026/11/20/legislacion-convenios-para-evitar-la-doble-imposicion-internacional-reglamentan-los-procedimientos-de-acuerdo-mutuo/",
+    "titulo": "Convenios para Evitar la Doble Imposición Internacional: reglamentan los Procedimientos de Acuerdo Mutuo",
+    "fecha": "2026-11-20T08:02:35+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
    "modo": "completo",
    "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:52:55+00:00"
+ },
+ {
+  "id": "ec35ee17a7c0",
+  "url_hash": "ec35ee17a7c06fddeb47b9b3d4f7c721b44d420486e7d4309de89400a097c386",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7111/El-Senado-convirtio-en-ley-el-nuevo-regimen-de-discapacidad-y-el-proyecto-de-inviolabilidad-de-la-propiedad-privada",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El Senado convirtió en ley el nuevo régimen de discapacidad y la inviolabilidad de la propiedad privada",
+  "titulo_original": "El Senado convirtió en ley el nuevo régimen de discapacidad y el proyecto de \"inviolabilidad de la propiedad privada\"",
+  "bajada": "El Congreso sancionó el nuevo régimen permanente de discapacidad y la ley de inviolabilidad de la propiedad privada, que reforma expropiaciones, desalojos y restituye la Ley de Tierras.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Senado de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Senado de la Nación convirtió en ley dos iniciativas de relevancia jurídica: el régimen permanente de discapacidad y el proyecto de inviolabilidad de la propiedad privada. Este último modifica la normativa sobre expropiaciones, agiliza los procesos de desalojo, moderniza los registros inmobiliarios y restituye la plena vigencia de la Ley 26.737 de tierras rurales al dejar sin efecto la derogación dispuesta por el DNU 70/2023.",
+  "puntos_clave": [
+   "Se aprobó por unanimidad el régimen permanente de pensiones y prestaciones para personas con discapacidad, fijando las pensiones por invalidez laboral en el 70% del haber mínimo.",
+   "Se sancionó la Ley de Inviolabilidad de la Propiedad Privada, modificando las reglas de expropiación, actualización indemnizatoria y desalojos anticipados.",
+   "Se restituyó expresamente la vigencia de la Ley 26.737 sobre titularidad de tierras rurales por extranjeros, dejando sin efecto la derogación del DNU 70/2023."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer la sanción de dos leyes estructurales que modifican el sistema de discapacidad, los procesos de expropiación y desalojo, y el régimen de adquisición de tierras rurales por extranjeros.",
+  "normas_citadas": [
+   "Ley 24.901",
+   "Ley 27.793",
+   "Ley 13.478",
+   "Ley 21.499",
+   "Ley 26.737",
+   "DNU 70/2023"
+  ],
+  "etiquetas": [
+   "discapacidad",
+   "pensiones no contributivas",
+   "propiedad privada",
+   "expropiaciones",
+   "ley de tierras"
+  ],
+  "cita_sugerida": "Senado de la Nación, sanción de leyes de discapacidad y propiedad privada, 19 de noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:34:46+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -3900,6 +5631,281 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ab1dbb8e79cb",
+  "url_hash": "ab1dbb8e79cbfe37ce97ed87e922f17734120859a65e9bd0e6298d447b1d2278",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/20/actualidad-el-senado-aprobo-por-unanimidad-la-nueva-ley-de-discapacidad/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El Senado aprobó por unanimidad la nueva Ley de Discapacidad",
+  "titulo_original": "#Actualidad El Senado aprobó por unanimidad la nueva Ley de Discapacidad",
+  "bajada": "El Senado convirtió en ley el proyecto que vuelve permanentes las principales disposiciones del sistema de discapacidad y fija criterios de actualización, financiamiento y auditoría.",
+  "tipo": "Norma",
+  "materia": "Derechos Humanos",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "H. Congreso de la Nación",
+  "caratula": "",
+  "identificador_legal": "Ley de Fortalecimiento, Sostenibilidad y Eficiencia Permanente del Sistema de Di",
+  "id_legal_norm": null,
+  "holding": "El Congreso de la Nación sancionó por unanimidad la Ley de Fortalecimiento, Sostenibilidad y Eficiencia Permanente del Sistema de Discapacidad, eliminando la transitoriedad de la emergencia previa, manteniendo las pensiones no contributivas con compatibilidad laboral limitada, estableciendo la actualización de aranceles por movilidad jubilatoria y fijando plazos estrictos para la cancelación de deudas con prestadores.",
+  "puntos_clave": [
+   "Se transforman en permanentes las disposiciones del sistema de discapacidad, eliminando el carácter de emergencia.",
+   "Se mantiene la pensión no contributiva en el 70% de la jubilación mínima con compatibilidad para empleo registrado hasta dos salarios mínimos.",
+   "Se establecen auditorías periódicas obligatorias con notificación previa de 60 días para la presentación de descargos antes de cualquier suspensión."
+  ],
+  "impacto_practico": "Permite a operadores jurídicos, prestadores y beneficiarios contar con un marco normativo definitivo que regula las pensiones, la cobertura médica, la actualización arancelaria y los mecanismos de control administrativo.",
+  "normas_citadas": [
+   "Ley 27.793"
+  ],
+  "etiquetas": [
+   "discapacidad",
+   "pensiones no contributivas",
+   "ley",
+   "prestadores de salud",
+   "seguridad social"
+  ],
+  "cita_sugerida": "H. Congreso de la Nación, Ley de Fortalecimiento, Sostenibilidad y Eficiencia Permanente del Sistema de Discapacidad, 19 de noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T10:19:15+00:00",
+  "ingresado": "2026-11-27T18:50:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ed149997daac",
+  "url_hash": "ed149997daac9cd504f576639c6f95349dbd2602b382d44c7a0ec7046fe6a3ea",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/20/fallos-procedencia-de-la-fijacion-de-un-canon-locativo-por-el-uso-exclusivo-por-parte-de-la-demandada-de-lo-que-fuera-el-hogar-conyugal/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Procedencia de fijación de canon locativo por uso exclusivo del hogar conyugal",
+  "titulo_original": "Procedencia de la fijación de un canon locativo por el uso exclusivo por parte de la demandada de lo que fuera el hogar conyugal",
+  "bajada": "Se hizo lugar a la fijación de un canon locativo al acreditarse que la demandada ejerce el uso exclusivo del inmueble ganancial y que los hijos comunes son mayores de edad.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Río Negro",
+  "tribunal": "Unidad Procesal de General Roca N° 11",
+  "caratula": "ACTOR_1 C/ DEMANDADO_1 S/ FIJACION DE CANON LOCATIVO",
+  "identificador_legal": "RO-01455-F-2025",
+  "id_legal_norm": "RO-01455-F-2025",
+  "holding": "Corresponde hacer lugar a la fijación de un canon locativo a favor del actor al comprobarse el uso exclusivo del inmueble por parte de la demandada, sumado a que los hijos en común son mayores de edad y residen con el demandante, frustrándose además la condición suspensiva del acuerdo previo por falta de colaboración de la demandada para la tasación y venta.",
+  "puntos_clave": [
+   "Se acreditó el uso exclusivo del bien ganancial por parte de la demandada.",
+   "Los hijos del matrimonio son mayores de edad y conviven actualmente con el actor.",
+   "El incumplimiento de la demandada en facilitar la tasación y venta del inmueble justifica la fijación del canon locativo."
+  ],
+  "impacto_practico": "Permite a los cónyuges reclamar una retribución económica por el uso exclusivo de bienes gananciales indivisos cuando se frustran los plazos o condiciones pactadas en convenios de mediación por obstaculización de la otra parte.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "canon locativo",
+   "hogar conyugal",
+   "sociedad conyugal",
+   "uso exclusivo"
+  ],
+  "cita_sugerida": "Unidad Procesal de General Roca N° 11, 'ACTOR_1 c/ DEMANDADO_1 s/ fijación de canon locativo', 26/10/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T09:00:42+00:00",
+  "ingresado": "2026-11-27T18:50:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "90f6c0289e95",
+  "url_hash": "90f6c0289e95f5316f4b743cd55d707c4470b91e2e43700156ef5822fb04594d",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/20/fallos-trabajo-en-apps-existencia-de-relacion-laboral-entre-la-trabajadora-con-empresas-de-aplicaciones-de-reparto-de-comida-y-procedencia-del-reclamo-de-danos-derivados-de-la-clandestinidad-del-vin/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Relación laboral en apps de reparto y procedencia de daños por clandestinidad",
+  "titulo_original": "Trabajo en apps: Existencia de relación laboral entre la trabajadora con empresas de aplicaciones de reparto de comida y procedencia del reclamo de daños derivados de la clandestinidad del vínculo",
+  "bajada": "Se reconoció la existencia de un vínculo laboral subordinado entre una repartidora y empresas de plataformas digitales, admitiendo el reclamo de indemnización por despido y daños derivados de la clandestinidad.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Nacional de Primera Instancia en lo Laboral Nro. 77",
+  "caratula": "Vargas Mercedes Isabel c/ Delivery Hero Logistics S.A. y otro s/ despido",
+  "identificador_legal": "MJ-JU-M-161698-AR",
+  "id_legal_norm": "MJ-JU-M-161698-AR",
+  "holding": "La prestación de servicios de reparto a través de plataformas digitales con asignación de turnos, fijación unilateral de tarifas, uso de marca y control mediante GPS y aplicaciones configura una relación laboral dependiente (art. 23 LCT). La externalización algorítmica y el uso de vehículo propio no desvirtúan la subordinación jurídica. Aunque la Ley 27.742 derogó las multas específicas por trabajo no registrado, procede la reparación integral de los daños causados por la clandestinidad del vínculo y la falta de pago indemnizatorio con fundamento en el derecho común.",
+  "puntos_clave": [
+   "La presunción del art. 23 de la LCT opera ante la prestación de servicios para empresas de reparto, sin que resulte aplicable la excepción de contrataciones de obras o servicios profesionales.",
+   "El control algorítmico, la supervisión por GPS y la fijación unilateral de tarifas evidencian el ejercicio del poder de dirección patronal.",
+   "A pesar de la derogación de las multas laborales por la Ley 27.742, el trabajador mantiene derecho a reclamar indemnización de daños por la clandestinidad del vínculo bajo las normas del derecho común."
+  ],
+  "impacto_practico": "Constituye un precedente relevante para litigantes en materia laboral al consolidar criterios sobre la subordinación en el trabajo mediante plataformas digitales y habilitar vías de reparación civil ante la falta de registración tras las reformas de la Ley 27.742.",
+  "normas_citadas": [
+   "art. 23 LCT",
+   "Ley 27.742",
+   "art. 241 LCT",
+   "Ley 24.013",
+   "Ley 25.323"
+  ],
+  "etiquetas": [
+   "trabajo en apps",
+   "relación laboral",
+   "fraude laboral",
+   "algoritmo",
+   "despido indirecto"
+  ],
+  "cita_sugerida": "Juzgado Nacional de Primera Instancia en lo Laboral Nro. 77, 'Vargas Mercedes Isabel c/ Delivery Hero Logistics S.A. y otro s/ despido', 2/11/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T09:00:14+00:00",
+  "ingresado": "2026-11-27T18:51:12+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "79dd6dfe6fae",
+  "url_hash": "79dd6dfe6fae9b70ce041d12af833da8200b19eb3ceefa091d0d2f55bcd955eb",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/20/fallos-reforma-laboral-tsj-caba-se-revoca-la-sentencia-que-dispuso-la-actualizacion-del-credito-laboral-mediante-ipc-mas-interes-puro-del-3-anual-y-se-ordena-aplicar-el-regimen-previsto-en-el-art/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "TSJ CABA: Revocan actualización por IPC y ordenan aplicar art. 55 de la ley 27.802",
+  "titulo_original": "Reforma laboral – TSJ CABA: Se revoca la sentencia que dispuso la actualización del crédito laboral mediante IPC más interés puro del 3% anual y se ordena aplicar el régimen previsto en el art. 55 de la ley 27.802 para la determinación de los accesorios del crédito, cuya inconstitucionalidad se rechaza",
+  "bajada": "El Tribunal Superior de Justicia revocó la sentencia que había dispuesto actualizar el crédito laboral mediante IPC más interés puro, ordenando la aplicación del régimen previsto en el art. 55 de la ley 27.802.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires",
+  "caratula": "Souto María Laura c/ Banco Hipotecario S.A. y otro s/ despido",
+  "identificador_legal": "EXPTE. N° 36335/2017",
+  "id_legal_norm": "EXPTE. 36335/2017",
+  "holding": "El Tribunal Superior resolvió que la aplicación del mecanismo previsto en el art. 55 de la ley 27.802 para los juicios en trámite no resulta irrazonable ni arbitrario, destacando que el Poder Judicial no debe sustituir el juicio de oportunidad y mérito del legislador en materia de accesorios de los créditos laborales.",
+  "puntos_clave": [
+   "Se revoca la sentencia que aplicaba IPC más interés puro del 3% anual a un crédito laboral.",
+   "Se convalida la constitucionalidad del art. 55 de la ley 27.802 para causas en trámite.",
+   "Se destaca que el Poder Judicial debe dar efecto a las normas vigentes sin sustituir el criterio del legislador."
+  ],
+  "impacto_practico": "Permite a los litigantes y operadores jurídicos aplicar el régimen de actualización y accesorios previsto en la ley 27.802 para juicios laborales pendientes de sentencia definitiva en la CABA.",
+  "normas_citadas": [
+   "art. 55 de la ley 27.802",
+   "art. 14 bis CN",
+   "art. 16 CN",
+   "art. 17 CN",
+   "art. 768 CCivCom"
+  ],
+  "etiquetas": [
+   "crédito laboral",
+   "actualización",
+   "intereses",
+   "ley 27.802",
+   "tsj caba"
+  ],
+  "cita_sugerida": "TSJ CABA, Souto María Laura c/ Banco Hipotecario S.A. y otro s/ despido, 18/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T09:00:09+00:00",
+  "ingresado": "2026-11-27T18:51:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "8c0ac5fa1ecd",
+  "url_hash": "8c0ac5fa1ecdfc80c1b1c6b58c6cb8be22e8e0aabc22e77fc72e431fd9f72c20",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/20/fallos-csjn-improcedencia-del-amparo-colectivo-por-el-cual-una-asociacion-de-consumidores-pretende-representar-a-consumidores-que-habrian-adquirido-gas-licuado-de-diversas-formas-en-todo-el-pais/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "CSJN: Improcedencia de amparo colectivo por venta de gas licuado",
+  "titulo_original": "CSJN: Improcedencia del amparo colectivo por el cual una asociación de consumidores pretende representar a consumidores que habrían adquirido gas licuado de diversas formas en todo el país",
+  "bajada": "La Corte Suprema revocó la procedencia de una acción colectiva promovida por una asociación de consumidores al advertir que los vagos términos de la demanda impedían identificar con certeza al grupo afectado y los efectos comunes del daño.",
+  "tipo": "Fallo",
+  "materia": "Consumo",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "Unión de Usuarios y Consumidores c/ Repsol y otro s/ repetición",
+  "identificador_legal": "Fallos Cita: MJ-JU-M-161610-AR",
+  "id_legal_norm": "FALLOS CITA: MJ-JU-M-161610-AR",
+  "holding": "La admisión formal de una acción colectiva exige la identificación precisa del grupo o colectivo afectado y la acreditación de efectos comunes conforme a la doctrina del precedente Halabi, recaudos que no se cumplen cuando el producto -gas licuado de petróleo- fue adquirido por los consumidores en distintas fechas, lugares y a través de diversos intermediarios en todo el país.",
+  "puntos_clave": [
+   "La sola persecución de derechos de incidencia colectiva no exime a los tribunales de examinar la habilitación del sujeto accionante.",
+   "La falta de pautas adjetivas mínimas en materia colectiva exige una precisa delimitación subjetiva y objetiva del grupo afectado.",
+   "La cadena de comercialización fragmentada y dispersa de gas licuado de petróleo impide tener por acreditados efectos homogéneos comunes."
+  ],
+  "impacto_practico": "Obliga a las asociaciones de consumidores a precisar rigurosamente la conformación de la clase afectada y la homogeneidad de los perjuicios en acciones colectivas de gran escala.",
+  "normas_citadas": [
+   "arts. 52 y 55 de la Ley 24.240",
+   "art. 42 de la Constitución Nacional",
+   "art. 43 de la Constitución Nacional",
+   "Ley 22.262",
+   "Ley 25.156",
+   "art. 54 de la Ley 25.156"
+  ],
+  "etiquetas": [
+   "acción colectiva",
+   "defensa del consumidor",
+   "intereses individuales homogéneos",
+   "legitimación activa",
+   "gas licuado"
+  ],
+  "cita_sugerida": "CSJN, Unión de Usuarios y Consumidores c/ Repsol y otro s/ repetición, 29 de octubre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-20T09:00:01+00:00",
+  "ingresado": "2026-11-27T18:52:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -4875,7 +6881,15 @@
   "oficial": {},
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-27T10:08:37+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "aldia",
+    "fuente_nombre": "Al Día Argentina (Microjuris)",
+    "url": "https://aldiaargentina.microjuris.com/2026/11/19/actualidad-reforma-electoral-el-senado-dictamino-la-suspension-de-las-paso/",
+    "titulo": "#Actualidad Reforma electoral: el Senado dictaminó la suspensión de las PASO",
+    "fecha": "2026-11-19T15:14:54+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
@@ -4884,7 +6898,8 @@
     "caratula descartado: no figura en la fuente"
    ]
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:53:11+00:00"
  },
  {
   "id": "00dcf985e7bf",
@@ -4940,11 +6955,378 @@
   },
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-26T01:46:56+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "aldia",
+    "fuente_nombre": "Al Día Argentina (Microjuris)",
+    "url": "https://aldiaargentina.microjuris.com/2026/11/19/fallos-csjn-inconstitucionalidad-de-los-arts-267-y-269-del-dnu-70-2023-que-modificaron-el-control-estatal-respecto-de-los-valores-de-las-cuotas-de-los-planes-prestacionales-de-los-servicios-de-sal/",
+    "titulo": "CSJN: Inconstitucionalidad de los arts. 267 y 269 del DNU 70/2023, que modificaron el control estatal respecto de los valores de las cuotas de los planes prestacionales de los servicios de salud",
+    "fecha": "2026-11-19T19:00:27+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-27T18:53:04+00:00"
+ },
+ {
+  "id": "92ae746b845e",
+  "url_hash": "92ae746b845e4668a71275c03903b399fe78df17f266c2976774ddef71c6c6cb",
+  "fuente": "aldia",
+  "fuente_nombre": "Al Día Argentina (Microjuris)",
+  "url": "https://aldiaargentina.microjuris.com/2026/11/19/fallos-violencia-laboral-se-confirma-la-cesantia-de-un-empleado-publico-municipal-que-orino-sobre-el-teclado-de-la-computadora-y-armario-de-la-oficina-que-compartia-con-una-companera/",
+  "prioridad": 63,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Validez de cesantía municipal por actos de violencia de género y uso de cámaras ocultas",
+  "titulo_original": "Violencia laboral: Se confirma la cesantía de un empleado público municipal que orinó sobre el teclado de la computadora y armario de la oficina que compartía con una compañera",
+  "bajada": "Se confirma la cesantía de un empleado público municipal que orinó sobre el teclado y armario de una compañera, convalidando la prueba de video obtenida mediante cámara oculta instalada por la víctima.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Río Negro",
+  "tribunal": "Cámara del Trabajo de General Roca, Sala II",
+  "caratula": "R. R. H. C/ MUNICIPALIDAD DE GENERAL ROCA S/ CONTENCIOSO ADMINISTRATIVO (L)",
+  "identificador_legal": "RO-09184-L-0000",
+  "id_legal_norm": "RO-09184-L-0000",
+  "holding": "La instalación de una cámara oculta por parte de una trabajadora en su puesto de trabajo de acceso restringido para identificar a su acosador no vulnera el derecho a la intimidad, constituyendo una legítima defensa de sus derechos frente a actos de violencia de género laborales.",
+  "puntos_clave": [
+   "La colocación de una cámara oculta por la víctima en un espacio de trabajo compartido y de acceso restringido no vulnera la intimidad del agresor.",
+   "Los videos aportados son válidos en el sumario administrativo al haber sido obtenidos en defensa propia ante un caso de violencia laboral.",
+   "Orinar el teclado de una compañera configura un grave acto de violencia de género que justifica la sanción expulsiva de cesantía."
+  ],
+  "impacto_practico": "Establece un precedente relevante sobre la admisibilidad de pruebas digitales aportadas por víctimas de acoso laboral mediante cámaras ocultas y ratifica la gravedad de conductas constitutivas de violencia de género en la administración pública.",
+  "normas_citadas": [
+   "Ordenanza N° 3205",
+   "Ley 2938"
+  ],
+  "etiquetas": [
+   "violencia laboral",
+   "violencia de género",
+   "empleado público",
+   "cesantía",
+   "prueba informática"
+  ],
+  "cita_sugerida": "Cámara del Trabajo de General Roca, Sala II, R. R. H. c/ Municipalidad de General Roca s/ contencioso administrativo, 03/11/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-19T09:00:52+00:00",
+  "ingresado": "2026-11-27T18:53:19+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "087f61595bcb",
+  "url_hash": "087f61595bcb03f8acfd82ddb2fd58b31f3e2d3b22f8eeb7dccbf4a616351fa6",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92179-prohibicion-acercamiento-no-debe-limitarse-menor-victima-del-abuso-cuando-quien-pide",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Ampliación de prohibición de acercamiento en causa por abuso sexual",
+  "titulo_original": "La prohibición de acercamiento no debe limitarse a la menor víctima del abuso cuando quien pide la medida es la madre",
+  "bajada": "La Cámara Nacional de Apelaciones en lo Criminal y Correccional extendió una prohibición de acercamiento en un caso de presunto abuso sexual a pedido de la madre.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Criminal y Correccional",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara Criminal resolvió prorrogar y extender la medida cautelar de prohibición de acercamiento dictada contra un acusado de presunto abuso sexual, abarcando también a la madre de la menor víctima cuando ella misma solicita la protección.",
+  "puntos_clave": [
+   "Se extendió la prohibición de acercamiento sobre el acusado por presunto abuso sexual.",
+   "La medida fue solicitada por la madre de la menor víctima.",
+   "El tribunal de alzada consideró necesario prorrogar y ampliar la medida cautelar protectora."
+  ],
+  "impacto_practico": "Permite a los litigantes y defensores comprender el alcance de las medidas cautelares de protección en delitos de abuso sexual cuando se requiere la inclusión de los progenitores afectados.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "abuso sexual",
+   "medida cautelar",
+   "prohibición de acercamiento",
+   "protección"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Criminal y Correccional, 28 de septiembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T23:46:16+00:00",
+  "ingresado": "2026-11-27T18:39:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "83f6431e7067",
+  "url_hash": "83f6431e706739d9113dc657ca9afbc2385c59909555508bc0dce2eec905c8d1",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92178-muller-no-es-ford-corte-cierra-puerta-cuestion-forma-y-rosenkrantz-abre-debate-fondo",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "La Corte Suprema declaró mal concedido un recurso en causa sobre responsabilidad de directivos",
+  "titulo_original": "«Müller no es Ford»: la Corte cierra la puerta por una cuestión de forma, y Rosenkrantz abre el debate de fondo sobre la responsabilidad penal de directivos en lesa humanidad",
+  "bajada": "La Corte Suprema declaró mal concedido el recurso extraordinario en un caso vinculado a crímenes de lesa humanidad y responsabilidad empresarial.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Corte Suprema declaró mal concedido el recurso extraordinario interpuesto, cerrando la revisión por cuestiones de forma, mientras que se abrió un debate sobre la fundamentación autónoma y la responsabilidad penal.",
+  "puntos_clave": [
+   "La Corte Suprema declaró mal concedido el recurso extraordinario.",
+   "El caso involucra la responsabilidad penal de civiles y empresarios en crímenes de lesa humanidad.",
+   "Se debatió en torno a la fundamentación autónoma del recurso extraordinario."
+  ],
+  "impacto_practico": "Permite a los litigantes advertir la importancia de cumplir estrictamente con los requisitos formales y la fundamentación autónoma del recurso extraordinario ante la Corte Suprema.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "lesa humanidad",
+   "responsabilidad penal",
+   "recurso extraordinario",
+   "corte suprema"
+  ],
+  "cita_sugerida": "CSJN, Fallo del 5 de noviembre de 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T23:23:12+00:00",
+  "ingresado": "2026-11-27T18:40:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3ca252eecd5a",
+  "url_hash": "3ca252eecd5aa2f69717b37a1e64b00ea1f0a94f77276f5643fb2873409fe9e1",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92177-desestimacion-recursos-sin-fundamentos-parte-corte-no-configura-ningun-tipo-delito",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Desestimación de recursos por la Corte no configura delito",
+  "titulo_original": "La desestimación de recursos sin fundamentos por parte de la Corte no configura ningún tipo de delito",
+  "bajada": "La Cámara Federal de Casación Penal confirmó el archivo de una denuncia contra los ministros de la Corte Suprema por la desestimación de recursos.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Casación Penal, Sala IV",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se confirmó el archivo de una denuncia formulada contra los ministros de la Corte Suprema de Justicia de la Nación, estableciendo que la desestimación de recursos sin fundamentos por parte del máximo tribunal no constituye la comisión de ningún tipo de delito.",
+  "puntos_clave": [
+   "Se confirmó el archivo de la denuncia contra ministros de la Corte Suprema.",
+   "La resolución sostiene que rechazar recursos no configura delito.",
+   "Intervino la Sala IV de la Cámara Federal de Casación Penal."
+  ],
+  "impacto_practico": "Útil para operadores jurídicos que analizan los límites de la responsabilidad penal de los magistrados en el ejercicio de sus funciones jurisdiccionales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "casación penal",
+   "corte suprema",
+   "delito",
+   "recursos"
+  ],
+  "cita_sugerida": "Cámara Federal de Casación Penal, Sala IV, 14/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T23:14:24+00:00",
+  "ingresado": "2026-11-27T18:40:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "2562a4cff166",
+  "url_hash": "2562a4cff1668a53cde7b4451bace4b5d7ae1c4abfba287693c76aabcebfdd50",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92176-dieron-conocer-fundamentos-condena-pena-prision-del-dueno-dogos-mataron-adolescente",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Fundamentos de la condena al dueño de los dogos por la muerte de una adolescente",
+  "titulo_original": "Dieron a conocer los fundamentos de la condena a pena de prisión del dueño de los dogos que mataron a una adolescente",
+  "bajada": "Se dieron a conocer los fundamentos de la sentencia que condenó a pena de prisión al dueño de los perros dogos que mataron a una adolescente.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Córdoba",
+  "tribunal": "Cámara en lo Criminal y Correccional de Primera Nominación de Córdoba",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara en lo Criminal y Correccional de Primera Nominación de Córdoba declaró autor penalmente responsable al dueño de los perros dogos por el homicidio de una adolescente, enmarcando el caso en la falta al deber de custodia y responsabilidad penal por la tenencia de animales.",
+  "puntos_clave": [
+   "Condena a pena de prisión para el dueño de los perros dogos.",
+   "Encuadre legal basado en la responsabilidad penal por tenencia de animales y deber de custodia.",
+   "Homicidio de una adolescente como resultado del ataque."
+  ],
+  "impacto_practico": "Permite analizar los criterios de imputación y responsabilidad penal por homicidio culposo o dolo eventual derivado de la tenencia negligente de animales peligrosos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "homicidio",
+   "tenencia de animales",
+   "responsabilidad penal",
+   "deber de custodia"
+  ],
+  "cita_sugerida": "Cámara en lo Criminal y Correccional de Primera Nominación de Córdoba, 6 de octubre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T22:53:01+00:00",
+  "ingresado": "2026-11-27T18:41:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "6fb768484e37",
+  "url_hash": "6fb768484e37626e89de1ab8aa5f594ae7c7b196659d872b501f553b7ba83625",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/fallos/92175-ni-borrar-ni-dejar-igual-justicia-ordena-facebook-agregar-cartel-sobreseimiento",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Ordenan a Facebook agregar cartel de sobreseimiento a escrache",
+  "titulo_original": "Ni borrar ni dejar igual: la Justicia ordena a Facebook agregar un cartel de sobreseimiento a un «escrache»",
+  "bajada": "Un juzgado federal ordenó a Facebook incorporar una aclaración sobre el sobreseimiento de un hombre en una publicación de escrache digital.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Mendoza",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Juzgado Federal de Mendoza resolvió una acción preventiva respecto a un escrache digital, ordenando que se agregue un cartel de sobreseimiento en una publicación sobre un hombre sobreseído en causas por abuso sexual, ponderando la libertad de expresión frente a los delitos contra el honor sin ordenar la eliminación total del contenido.",
+  "puntos_clave": [
+   "Se trató una acción preventiva vinculada a libertad de expresión y escrache digital.",
+   "El afectado solicitaba la eliminación de una publicación en Facebook.",
+   "La Justicia ordenó agregar un cartel de sobreseimiento en lugar de borrar la publicación."
+  ],
+  "impacto_practico": "Ofrece un precedente sobre el tratamiento judicial de los escraches digitales en redes sociales, equilibrando la protección del honor y la libertad de expresión mediante medidas alternativas a la eliminación de contenidos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "escrache digital",
+   "libertad de expresión",
+   "delitos contra el honor",
+   "sobreseimiento"
+  ],
+  "cita_sugerida": "Juzgado Federal de Mendoza, 11/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T22:23:01+00:00",
+  "ingresado": "2026-11-27T18:41:48+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "47077c1462e7",
+  "url_hash": "47077c1462e748f27917fdfc9cd729d52ce7f21fe56a77e10df26cb53e659d6e",
+  "fuente": "pensamiento_penal",
+  "fuente_nombre": "Pensamiento Penal",
+  "url": "https://www.pensamientopenal.com.ar/doctrina/92174-registro-antecedentes-penales-nuevo-regimen-penal-juvenil-del-blindaje-tutelar-ley",
+  "prioridad": 70,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "El registro de antecedentes penales en el nuevo régimen penal juvenil",
+  "titulo_original": "El registro de antecedentes penales en el nuevo régimen penal juvenil: del blindaje tutelar de la ley 22.278 a las tensiones convencionales de la ley 27.801 y el decreto 875/2026",
+  "bajada": "Análisis sobre el impacto del régimen penal juvenil, la ley 27.801, el decreto 875/2026 y las tensiones con la ley 22.278 respecto de los antecedentes penales.",
+  "tipo": "Doctrina",
+  "materia": "Penal",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La columna analiza las tensiones convencionales y el principio de no regresividad en torno al registro de antecedentes penales en el régimen penal juvenil, contrastando la ley 22.278 con las disposiciones de la ley 27.801 y el decreto 875/2026.",
+  "puntos_clave": [
+   "Análisis normativo del régimen penal juvenil y el registro de antecedentes.",
+   "Tensiones entre la legislación anterior y las nuevas normas (ley 27.801 y decreto 875/2026).",
+   "Examen bajo la perspectiva del principio de no regresividad y el interés superior del niño."
+  ],
+  "impacto_practico": "Brinda elementos doctrinales para operadores jurídicos que intervienen en causas de menores de edad frente al registro de antecedentes y su incidencia.",
+  "normas_citadas": [
+   "Ley 22.278",
+   "Ley 27.801",
+   "Decreto 875/2026"
+  ],
+  "etiquetas": [
+   "régimen penal juvenil",
+   "antecedentes penales",
+   "derechos humanos",
+   "menores"
+  ],
+  "cita_sugerida": "Pensamiento Penal, Doctrina, El registro de antecedentes penales en el nuevo régimen penal juvenil, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-18T20:08:41+00:00",
+  "ingresado": "2026-11-27T18:42:18+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "referencia",
    "avisos": []
   },
   "modelo": "gemini-3.5-flash-lite"
@@ -5993,6 +8375,62 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "ac442bff053a",
+  "url_hash": "ac442bff053a4a9aed8ec7faab8d8bccad325a361641d225a899a3793fd0acf3",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7097/Provincia-de-Buenos-Aires-entro-en-vigencia-la-Ley-Ema-contra-la-violencia-digital-y-limitan-el-uso-de-celulares-en-el-secundario",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Provincia de Buenos Aires: entró en vigencia la Ley Ema y limitan celulares",
+  "titulo_original": "Provincia de Buenos Aires: entró en vigencia la “Ley Ema” contra la violencia digital y limitan el uso de celulares en el secundario",
+  "bajada": "Se promulgó la Ley 15.675 que crea el Programa EMA contra la violencia digital y la Ley 15.678 que limita el uso de celulares en el nivel secundario.",
+  "tipo": "Norma",
+  "materia": "Constitucional",
+  "instancia": "Poder Legislativo",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Gobierno de la Provincia de Buenos Aires",
+  "caratula": "",
+  "identificador_legal": "Ley 15.675",
+  "id_legal_norm": "LEY 15675",
+  "holding": "El Gobierno de la Provincia de Buenos Aires promulgó un conjunto de normas vinculadas a la convivencia digital y escolar: la Ley 15.675 crea el Programa EMA para prevenir la violencia digital en establecimientos públicos y privados; la Ley 15.678 extiende la limitación del uso de dispositivos digitales y pantallas durante la jornada escolar en secundaria, salvo autorización docente; y la Ley 15.676 incorpora el bienestar socioemocional a la Ley de Educación provincial.",
+  "puntos_clave": [
+   "Entró en vigencia la Ley 15.675, conocida como Ley Ema, para garantizar una convivencia digital segura en escuelas públicas y privadas.",
+   "Se creó el Programa EMA para prevenir, detectar y abordar de manera integral la violencia digital.",
+   "La Ley 15.678 limita el uso de pantallas y celulares en el nivel secundario durante la jornada educativa salvo autorización explícita del docente."
+  ],
+  "impacto_practico": "Establece nuevas obligaciones de prevención de violencia digital y restricciones al uso de dispositivos móviles en el ámbito escolar bonaerense para directivos, docentes y alumnos.",
+  "normas_citadas": [
+   "Ley 15.675",
+   "Ley 15.678",
+   "Ley 15.676",
+   "Ley 15.534"
+  ],
+  "etiquetas": [
+   "provincia de buenos aires",
+   "ley ema",
+   "violencia digital",
+   "limitación celulares",
+   "educación digital"
+  ],
+  "cita_sugerida": "Ley 15.675, Provincia de Buenos Aires, Boletín Oficial, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-12T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:35:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },

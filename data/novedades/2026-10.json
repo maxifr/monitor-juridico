@@ -111,5 +111,59 @@
    "avisos": []
   },
   "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "4276d291c7e7",
+  "url_hash": "4276d291c7e7dbabf366ef776f37a857336edca510561af97eef2a499753e44a",
+  "fuente": "palabras_derecho",
+  "fuente_nombre": "Palabras del Derecho",
+  "url": "https://www.palabrasdelderecho.com.ar/articulo/7075/La-declaracion-de-inconstitucionalidad-como-ultima-ratio-se-opone-al-modelo-constitucional-y-convencional-argentino-",
+  "prioridad": 72,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "La declaración de inconstitucionalidad como ultima ratio frente al modelo constitucional argentino",
+  "titulo_original": "La declaración de inconstitucionalidad como ultima ratio se opone al modelo constitucional y convencional argentino",
+  "bajada": "Análisis crítico sobre la doctrina de la declaración de inconstitucionalidad como ultima ratio y su compatibilidad con el deber judicial originario consagrado en la Constitución y la ley 27.",
+  "tipo": "Doctrina",
+  "materia": "Constitucional",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Palabras del Derecho",
+  "caratula": "Caffarena c/ Banco Argentino del Rosario de Santa Fe",
+  "identificador_legal": "Ley 27",
+  "id_legal_norm": "LEY 27",
+  "holding": "La doctrina de la declaración de inconstitucionalidad como ultima ratio colisiona con el deber judicial imperativo de aplicar prioritariamente la Constitución y descartar las normas contrarias a ella, tal como surge de la ley 27 y de los primeros precedentes históricos de la Corte Suprema.",
+  "puntos_clave": [
+   "El control de constitucionalidad nació en Argentina como un deber judicial expreso y no como una facultad discrecional.",
+   "La ley 27 de 1862 impuso a la justicia nacional la obligación de prescindir de toda disposición de otros poderes opuesta a la Constitución.",
+   "La jurisprudencia histórica, como el caso Caffarena, ratificó que los tribunales tienen la obligación de anteponer los preceptos constitucionales a las leyes ordinarias."
+  ],
+  "impacto_practico": "Ofrece a los operadores jurídicos argumentos doctrinarios e históricos para debatir los límites de la deferencia judicial y la presunción de constitucionalidad ante tribunales.",
+  "normas_citadas": [
+   "Ley 27",
+   "art. 1 Ley 27",
+   "art. 3 Ley 27"
+  ],
+  "etiquetas": [
+   "control de constitucionalidad",
+   "ultima ratio",
+   "corte suprema",
+   "poder judicial"
+  ],
+  "cita_sugerida": "Gil Domínguez, Andrés, 'La declaración de inconstitucionalidad como ultima ratio se opone al modelo constitucional y convencional argentino', Palabras del Derecho, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-10-25T15:00:00+00:00",
+  "ingresado": "2026-11-27T18:33:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
  }
 ]
