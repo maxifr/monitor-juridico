@@ -21,7 +21,8 @@ from bs4 import BeautifulSoup
 
 from ..http import ClienteHTTP
 from ..modelos import Candidato
-from ..seguridad import html_a_texto_seguro, texto_plano_seguro
+from ..pdf import buscar_pdf, texto_de_pdf
+from ..seguridad import dominio_permitido, html_a_texto_seguro, texto_plano_seguro
 from ..textos import limpiar_espacios, parsear_fecha
 
 log = logging.getLogger(__name__)
@@ -45,6 +46,10 @@ class Fuente:
     antiguedad_maxima: ClassVar[int | None] = None
     # Las fuentes desactivadas por defecto sólo corren si se las nombra en FUENTES_ACTIVAS.
     activa_por_defecto: ClassVar[bool] = True
+    # Sentencia adjunta en PDF: expresión regular de su URL. Si coincide se guarda como
+    # "Ver sentencia" (oficial.url_fallo); con leer_pdf=True además se le pasa el texto a la IA.
+    patron_pdf: ClassVar[str] = ""
+    leer_pdf: ClassVar[bool] = False
 
     def __init__(self, http: ClienteHTTP, max_candidatos: int = 20) -> None:
         self.http = http
@@ -69,7 +74,28 @@ class Fuente:
         cand.seccion = cand.seccion or art["seccion"]
         if art["nodos_ocultos"]:
             cand.alertas_seguridad.append(f"oculto:{art['texto_oculto']}")
+        self._registrar_pdf(cand, resp.text)
         cand.detalle_cargado = True
+
+    def _registrar_pdf(self, cand: Candidato, html: str) -> None:
+        if not self.patron_pdf or cand.oficial.get("url_fallo"):
+            return
+        url_pdf = buscar_pdf(html, cand.url, self.patron_pdf)
+        if url_pdf and dominio_permitido(url_pdf, self.dominios):
+            cand.oficial["url_fallo"] = url_pdf
+
+    def cargar_adjunto(self, cand: Candidato) -> None:
+        """Agrega al cuerpo el texto de la sentencia en PDF (una sola vez por pieza)."""
+        url_pdf = cand.oficial.get("url_fallo", "")
+        if not self.leer_pdf or not url_pdf or cand.oficial.get("pdf_leido"):
+            return
+        cand.oficial["pdf_leido"] = True
+        texto = texto_de_pdf(self.http.get(url_pdf).content)
+        if len(texto) < 300:  # escaneado o vacío
+            return
+        nota = cand.texto[:6000]
+        cand.texto = f"{nota}\n\nTEXTO DE LA SENTENCIA (PDF adjunto a la nota): {texto}"
+        log.info("PDF de la sentencia leído (%d caracteres): %s", len(texto), url_pdf)
 
     # ------------------------------------------------------------------ ayudas
     def candidato(self, url: str, titulo: str, **kwargs) -> Candidato:

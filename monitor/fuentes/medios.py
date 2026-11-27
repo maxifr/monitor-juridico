@@ -12,12 +12,16 @@ import re
 import xml.etree.ElementTree as ET
 from urllib.parse import parse_qs, urlsplit
 
+from bs4 import BeautifulSoup
+
 from ..modelos import Candidato
-from ..seguridad import texto_plano_seguro
+from ..seguridad import html_a_texto_seguro, texto_plano_seguro
 from ..textos import ahora, limpiar_espacios, parsear_fecha
-from .base import Fuente, absoluta
+from .base import Fuente, absoluta, extraer_articulo
 
 _NS_CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
+# Aviso fijo al comienzo de las columnas de Pensamiento Penal ("[COLUMNA DE OPINIÓN] “Esta columna…”").
+_AVISO_COLUMNA = re.compile(r"^\s*\[COLUMNA DE OPINI[ÓO]N\]\s*([“\"«][^”\"»]{0,600}[”\"»])?\s*", re.IGNORECASE)
 
 
 class DiarioJudicial(Fuente):
@@ -28,6 +32,12 @@ class DiarioJudicial(Fuente):
     prioridad = 60
     selectores_cuerpo = ("div.nota-cuerpo", "article")
     _patron = re.compile(r"^https://www\.diariojudicial\.com/news-\d+-")
+    # La portada sólo trae títulos de autor ("El error que nadie vio"): se lee la nota (y su
+    # og:description) antes del triage para que no decida a ciegas. Sólo cuesta descargas HTTP.
+    detalle_antes_del_triage = True
+    # El fallo completo viene en /uploads/NNNN-original.pdf: es un documento judicial público.
+    patron_pdf = r"^https://(www\.)?diariojudicial\.com/uploads/[^?#]+\.pdf"
+    leer_pdf = True
 
     def listar(self) -> list[Candidato]:
         sopa = self.sopa(self.portada)
@@ -50,6 +60,7 @@ class PalabrasDelDerecho(Fuente):
     dominios = frozenset({"palabrasdelderecho.com.ar"})
     prioridad = 72
     selectores_cuerpo = ("div.col-lg-8.col-md-8.col-sm-12", "article")
+    detalle_antes_del_triage = True  # portada sin bajadas
     _patron = re.compile(r"/articulo/\d+/")
 
     def listar(self) -> list[Candidato]:
@@ -81,10 +92,9 @@ class ElDial(Fuente):
     dominios = frozenset({"eldial.com"})
     prioridad = 58
     min_citas = 1  # sólo hay bajadas breves de portada
-    # Desactivada por defecto: el contenido está detrás de un muro de pago, así que el
-    # enlace "Leer en la fuente" no lo puede abrir cualquier lector. Se activa con
-    # FUENTES_ACTIVAS si se tiene suscripción.
-    activa_por_defecto = False
+    # Activa desde noviembre de 2026. Se usa sólo la portada pública (título y sumario
+    # de cada fallo); el texto completo de la nota está detrás de un muro de pago, así
+    # que el enlace "Leer en la fuente" puede pedir suscripción.
 
     def listar(self) -> list[Candidato]:
         sopa = self.sopa(self.portada, parser="html.parser")  # el HTML de elDial rompe lxml
@@ -195,9 +205,15 @@ class PensamientoPenal(FuenteRSS):
     dominios = frozenset({"pensamientopenal.com.ar"})
     prioridad = 70
     selectores_cuerpo = ("div.field--name-body", "div.node__content", "article")
-    # Su robots.txt declara "Content-Signal: ai-train=no": el pipeline lo detecta y sólo
-    # envía a la IA título y bajada (modo referencia). Con una bajada breve basta 1 cita.
+    # Su robots.txt declara "Content-Signal: ai-train=no, use=reference": con el plan gratuito
+    # el pipeline sólo envía a la IA título y bajada (modo referencia). Con una bajada breve basta 1 cita.
     min_citas = 1
+    # El RSS viene sin descripción: se lee la nota antes del triage para tener el sumario.
+    detalle_antes_del_triage = True
+    # La sentencia está en /system/files/Documento_EditadoNNNN.pdf (visor pdf.js). Siempre se
+    # enlaza como "Ver sentencia"; su texto sólo va a la IA con IA_PLAN_PAGO=1 (modo completo).
+    patron_pdf = r"^https://(www\.)?pensamientopenal\.com\.ar/system/files/[^?#]+\.pdf"
+    leer_pdf = True
 
     def listar(self) -> list[Candidato]:
         salida = super().listar()
@@ -206,17 +222,44 @@ class PensamientoPenal(FuenteRSS):
             cand.seccion = {"fallos": "Fallos", "doctrina": "Doctrina", "legislacion": "Legislación"}.get(ruta, cand.seccion)
         return salida
 
+    def cargar_detalle(self, cand: Candidato) -> None:
+        """Las fichas de fallos de la revista tienen campos propios (juzgado, voces, sumario,
+        carátula): sin ellos la "bajada" quedaba en el encabezado "Juzgado… Fecha Fallo…"."""
+        if cand.detalle_cargado:
+            return
+        resp = self.http.get(cand.url)
+        art = extraer_articulo(resp.text, cand.url, self.selectores_cuerpo)
+        sopa = BeautifulSoup(resp.text, "lxml")
 
-class APPInstitucional(FuenteRSS):
-    """Comunicados y posicionamientos de la Asociación Pensamiento Penal (sitio .org)."""
+        def campo(nombre: str) -> str:
+            nodo = sopa.select_one(f".field--name-field-{nombre}")
+            if not nodo:
+                return ""
+            for etiqueta in nodo.select(".field__label"):
+                etiqueta.decompose()
+            return html_a_texto_seguro(str(nodo)).texto
 
-    clave = "app"
-    nombre = "Asociación Pensamiento Penal"
-    portada = "https://www.pensamientopenal.org/"
-    feed = "https://www.pensamientopenal.org/feed/"
-    dominios = frozenset({"pensamientopenal.org"})
-    prioridad = 68
-    selectores_cuerpo = ("div.entry-content", "article")
+        sumario = campo("sumario") or html_a_texto_seguro(str(sopa.select_one("div.field--name-body") or "")).texto
+        sumario = _AVISO_COLUMNA.sub("", sumario).strip()
+        juzgado, caratula, voces = campo("juzgado"), campo("caratula"), campo("voces")
+        caratula = re.sub(r"^car[áa]tula[:\s]*", "", caratula, flags=re.IGNORECASE).strip("“”\"' ")
+        cand.texto = art["texto"] or cand.resumen
+        if sumario:
+            cand.resumen = sumario[:900]
+            # Cuerpo ordenado: primero lo sustantivo, después los datos del fallo.
+            datos = "; ".join(p for p in (f"Tribunal: {juzgado}" if juzgado else "",
+                                          f"Carátula: {caratula}" if caratula else "",
+                                          f"Voces: {voces}" if voces else "") if p)
+            cand.texto = limpiar_espacios(f"{sumario} {datos}. {cand.texto}")[:12000]
+        if juzgado:
+            cand.oficial.setdefault("tribunal", juzgado)
+        if caratula:
+            cand.oficial.setdefault("caratula", caratula)
+        cand.fecha = cand.fecha or art["fecha"]
+        if art["nodos_ocultos"]:
+            cand.alertas_seguridad.append(f"oculto:{art['texto_oculto']}")
+        self._registrar_pdf(cand, resp.text)
+        cand.detalle_cargado = True
 
 
 class AlDiaMicrojuris(FuenteRSS):

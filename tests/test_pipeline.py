@@ -40,6 +40,9 @@ def test_corrida_completa(ajustes, leer_fixture):
     # Texto oculto con instrucciones -> heurística; titular "INVENTADO" -> falla de citas.
     capas = sorted(r["capa"] for r in pipe.almacen.cuarentena())
     assert capas == ["grounding", "heuristica"]
+    # El descarte del triage queda registrado con su motivo.
+    descartes = pipe.almacen.descartes()
+    assert [(d["etapa"], d["motivo"]) for d in descartes] == [("triage", "protocolar")]
 
     novedades = pipe.almacen.novedades
     # 2 fallos CSJN + 1 estafa MPF publicados; la nota de Diario Judicial sobre el fallo de la Corte se fusiona.

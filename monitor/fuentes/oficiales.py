@@ -255,7 +255,7 @@ def texto_de_html(html: str) -> str:
     return html_a_texto_seguro(html).texto
 
 
-# --------------------------------------------------------------------------- Boletín del SAIJ y InfoLeg
+# --------------------------------------------------------------------------- Boletín del SAIJ
 
 
 class SAIJBoletin(Fuente):
@@ -303,46 +303,6 @@ class SAIJBoletin(Fuente):
         if _TRAMITE.search(f"{cand.titulo} {cand.oficial.get('identificador_legal', '')}"):
             return "acto administrativo de trámite (designación, renuncia, recurso, licencia…)"
         return None
-
-
-class InfoLeg(Fuente):
-    """Recuadro de novedades de InfoLeg: las leyes de mayor alcance recién publicadas."""
-
-    clave = "infoleg"
-    nombre = "InfoLeg — Novedades legislativas"
-    portada = "https://www.infoleg.gob.ar/"
-    dominios = frozenset({"infoleg.gob.ar"})
-    prioridad = 96
-    oficial = True
-    dominio_publico = True
-    min_citas = 1
-    antiguedad_maxima = 90
-    detalle_antes_del_triage = True  # la fecha sólo figura en la ficha de la norma
-
-    def listar(self) -> list[Candidato]:
-        sopa = self.sopa(self.portada)
-        salida: list[Candidato] = []
-        for enlace in sopa.select("a[href*='verNorma.do?id=']"):
-            titulo = enlace.get_text(" ", strip=True)
-            if len(titulo) < 8:
-                continue
-            norma = re.split(r"\s+[–-]\s+", titulo, maxsplit=1)[0]
-            salida.append(self.candidato(absoluta(self.portada, enlace["href"]), titulo, seccion="Legislación",
-                                         oficial={"identificador_legal": norma, "tribunal": "Congreso de la Nación"}))
-        return salida[: self.max_candidatos]
-
-    def cargar_detalle(self, cand: Candidato) -> None:
-        if cand.detalle_cargado:
-            return
-        sopa = self.sopa(cand.url)
-        texto = limpiar_espacios(sopa.get_text(" ", strip=True)).replace("InfoLeg - Información Legislativa", "").strip()
-        texto = texto.split("Copyright", 1)[0]
-        m = re.search(r"Publicada en el Bolet[ií]n Oficial del\s+(\d{1,2}-[a-z]{3}-\d{4})", texto, re.IGNORECASE)
-        cand.fecha = parsear_fecha(m.group(1)) if m else cand.fecha
-        resumen = texto.split("Resumen:", 1)[1].split("Texto completo", 1)[0].strip() if "Resumen:" in texto else ""
-        cand.resumen = (resumen.capitalize() if resumen.isupper() else resumen)[:600]
-        cand.texto = texto_plano_seguro(texto)[:6000]
-        cand.detalle_cargado = True
 
 
 def _texto(bloque, selector: str) -> str:

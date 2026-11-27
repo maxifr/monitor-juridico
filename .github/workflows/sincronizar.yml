@@ -6,9 +6,14 @@ name: Sincronizar y publicar
 # el propio workflow no lo vuelven a disparar.
 on:
   schedule:
-    - cron: "5 12 * * *"
-    - cron: "5 1 * * *"
+    - cron: "5 12 * * *"   # 9:05 Ushuaia (UTC-3)
+    - cron: "5 1 * * *"    # 22:05 Ushuaia (UTC-3)
   workflow_dispatch:
+    inputs:
+      reprocesar:
+        description: "Volver a evaluar lo descartado de estas fuentes (claves separadas por coma, o 'todas'). Vacío = nada."
+        required: false
+        default: ""
   push:
     branches: [main]
     paths: ["site/**", "data/**", "monitor/exportar.py"]
@@ -25,12 +30,18 @@ concurrency:
 jobs:
   sincronizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 80
     env:
       PORTAL_NOMBRE: ${{ vars.PORTAL_NOMBRE }}
       PORTAL_URL: ${{ vars.PORTAL_URL }}
       PERFIL_EDITORIAL: ${{ vars.PERFIL_EDITORIAL }}
       FUENTES_ACTIVAS: ${{ vars.FUENTES_ACTIVAS }}
+      # Opcionales (Settings → Secrets and variables → Actions → Variables). Vacías = valores por defecto.
+      MAX_CURADAS_POR_CORRIDA: ${{ vars.MAX_CURADAS_POR_CORRIDA }}
+      CUPO_MINIMO_FUENTE: ${{ vars.CUPO_MINIMO_FUENTE }}
+      GEMINI_RPM: ${{ vars.GEMINI_RPM }}
+      GEMINI_MAX_LLAMADAS_DIA: ${{ vars.GEMINI_MAX_LLAMADAS_DIA }}
+      IA_PLAN_PAGO: ${{ vars.IA_PLAN_PAGO }}
     steps:
       - uses: actions/checkout@v6
 
@@ -41,6 +52,12 @@ jobs:
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
+
+      - name: Volver a evaluar descartes (sólo si se pidió al disparar a mano)
+        if: github.event_name == 'workflow_dispatch' && inputs.reprocesar != ''
+        env:
+          REPROCESAR: ${{ inputs.reprocesar }}
+        run: python main.py --reprocesar "$REPROCESAR"
 
       - name: Recolectar, verificar y curar las novedades
         if: github.event_name != 'push'

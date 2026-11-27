@@ -43,9 +43,8 @@ def test_rss_con_ajustes():
 
 def test_fuentes_por_defecto():
     claves = {f.clave for f in registro.construir(HTTPFalso({}))}
-    assert "eldial" not in claves  # muro de pago: sólo si se pide en FUENTES_ACTIVAS
-    assert {"csjn_noticias", "infoleg", "saij_boletin", "justicia_ar", "ijudicial", "infobae"} <= claves
-    assert "eldial" in {f.clave for f in registro.construir(HTTPFalso({}), ["eldial"])}
+    assert {"eldial", "csjn_noticias", "saij_boletin", "justicia_ar", "ijudicial", "infobae"} <= claves
+    assert not {"infoleg", "app"} & claves  # quitadas
 
 
 def test_utilidades():

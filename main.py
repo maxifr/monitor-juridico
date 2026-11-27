@@ -6,6 +6,10 @@ Uso:
     python main.py --fuentes csjn,mpf   limita la corrida a algunas fuentes
     python main.py --exportar           sólo regenera los datos del sitio (site/data) y el RSS
     python main.py --cuarentena         muestra lo bloqueado por seguridad en los últimos días
+    python main.py --descartes          muestra qué se descartó y por qué (triage, IA, sin contenido)
+    python main.py --reprocesar diario_judicial,pensamiento_penal
+                                        olvida los descartes de esas fuentes ("todas" = todas) para
+                                        que se vuelvan a evaluar en la próxima corrida
     python main.py --demo               genera datos de ejemplo para ver el sitio sin clave de IA
 """
 
@@ -69,12 +73,43 @@ def mostrar_cuarentena(ajustes) -> int:
     return 0
 
 
+def mostrar_descartes(ajustes, claves: list[str] | None) -> int:
+    registros = Almacen(ajustes.dir_datos).cargar().descartes()
+    if claves:
+        registros = [r for r in registros if r.get("fuente") in claves]
+    if not registros:
+        print("No hay descartes registrados" + (" para esas fuentes." if claves else "."))
+        return 0
+    for reg in registros[-40:]:
+        print(f"[{reg.get('fecha', '')[:16]}] {reg.get('etapa', ''):<13} {reg.get('fuente', ''):<18} {reg.get('titulo', '')[:90]}")
+        print(f"    motivo: {reg.get('motivo')}  ·  {reg.get('url')}")
+    return 0
+
+
+def reprocesar(ajustes, valor: str) -> int:
+    almacen = Almacen(ajustes.dir_datos).cargar()
+    claves = {c.strip() for c in valor.split(",") if c.strip()}
+    fuentes = None if not claves or "todas" in claves else claves
+    desconocidas = (fuentes or set()) - set(registro.todas_las_claves())
+    if desconocidas:
+        print(f"Fuentes desconocidas: {', '.join(sorted(desconocidas))}")
+        return 2
+    cantidad = almacen.reprocesar(fuentes)
+    almacen.guardar()
+    print(f"{cantidad} piezas descartadas vuelven a evaluarse en la próxima corrida "
+          "(si la fuente todavía las publica).")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Monitor Jurídico AR")
     parser.add_argument("--fuentes", help="claves separadas por coma: " + ", ".join(registro.todas_las_claves()))
     parser.add_argument("--probar-fuentes", action="store_true", help="prueba los extractores sin IA ni escritura")
     parser.add_argument("--exportar", action="store_true", help="sólo regenera site/data y el RSS")
     parser.add_argument("--cuarentena", action="store_true", help="lista los bloqueos de seguridad")
+    parser.add_argument("--descartes", action="store_true", help="lista lo descartado y el motivo (filtrable con --fuentes)")
+    parser.add_argument("--reprocesar", metavar="FUENTES",
+                        help="vuelve a evaluar lo descartado de esas fuentes (claves separadas por coma o 'todas')")
     parser.add_argument("--demo", action="store_true", help="carga datos de ejemplo para previsualizar el sitio")
     parser.add_argument("--sin-exportar", action="store_true", help="no regenera el sitio al terminar")
     parser.add_argument("-v", "--verboso", action="store_true")
@@ -87,6 +122,10 @@ def main(argv: list[str] | None = None) -> int:
         return probar_fuentes(claves)
     if args.cuarentena:
         return mostrar_cuarentena(ajustes)
+    if args.descartes:
+        return mostrar_descartes(ajustes, claves)
+    if args.reprocesar:
+        return reprocesar(ajustes, args.reprocesar)
     if args.demo:
         from scripts.datos_demo import exportar_demo
 

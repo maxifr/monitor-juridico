@@ -72,6 +72,8 @@ class Ajustes:
     max_llamadas_dia: int
     max_embeddings_dia: int
     max_curadas_por_corrida: int
+    cupo_minimo_fuente: int
+    max_detalles_previos_fuente: int
     perfil_editorial: str
     # Deduplicación
     ventana_dedup_dias: int
@@ -115,6 +117,11 @@ def cargar_ajustes() -> Ajustes:
         max_llamadas_dia=_int("GEMINI_MAX_LLAMADAS_DIA", 400),
         max_embeddings_dia=_int("GEMINI_MAX_EMBEDDINGS_DIA", 800),
         max_curadas_por_corrida=_int("MAX_CURADAS_POR_CORRIDA", 60),
+        # Lugares reservados por corrida para cada fuente con material en espera, para que las
+        # fuentes de prioridad baja (medios) no queden siempre detrás de las oficiales.
+        cupo_minimo_fuente=_int("CUPO_MINIMO_FUENTE", 5),
+        # Notas que se leen completas antes del triage, por fuente (sólo descarga HTTP, sin IA).
+        max_detalles_previos_fuente=_int("MAX_DETALLES_PREVIOS_FUENTE", 25),
         perfil_editorial=_env("PERFIL_EDITORIAL", "") or "",
         ventana_dedup_dias=_int("VENTANA_DEDUP_DIAS", 21),
         umbral_gris=_float("UMBRAL_SIMILITUD", 0.80),

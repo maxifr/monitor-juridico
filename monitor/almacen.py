@@ -7,7 +7,8 @@ cambio y el sitio estático lee los datos exportados. Estructura en `data/`:
     vistos.json              todo lo procesado (publicado, fusionado, descartado...) para
                              no volver a gastar cuota de IA en lo mismo
     embeddings.json          vectores de las novedades recientes (sólo la ventana de dedup)
-    pendientes.json          candidatos que quedaron sin procesar por falta de cuota
+    pendientes.json          candidatos que quedaron sin procesar (cuota, cupo o errores)
+    descartes.jsonl          por qué se descartó cada pieza (triage, IA, sin contenido)
     cuarentena.jsonl         bloqueos de seguridad, para auditar
     uso_ia.json              llamadas a la IA por día (las cuotas se reinician 00:00 PT)
     salud_fuentes.json       historial de cada extractor
@@ -32,7 +33,13 @@ log = logging.getLogger(__name__)
 
 RETENCION_VISTOS_DIAS = 200
 RETENCION_CUARENTENA_DIAS = 120
-RETENCION_PENDIENTES_DIAS = 4
+RETENCION_DESCARTES_DIAS = 60
+# Un pendiente se conserva hasta 10 días o hasta 4 fallos reales. Esperar turno (cupo de la
+# corrida o cuota agotada) NO cuenta como fallo: antes se perdían notas que nunca llegaron a la IA.
+RETENCION_PENDIENTES_DIAS = 10
+MAX_FALLOS_PENDIENTE = 4
+# Estados de 'vistos' que se pueden volver a evaluar con --reprocesar.
+ESTADOS_REPROCESABLES = frozenset({"descartado_triage", "descartado_ia", "sin_contenido"})
 
 
 def _escribir_atomico(ruta: Path, contenido: str) -> None:
@@ -101,6 +108,7 @@ class Almacen:
         self.salud: dict[str, dict] = {}
         self._meses_modificados: set[str] = set()
         self._cuarentena_nueva: list[dict] = []
+        self._descartes_nuevos: list[dict] = []
 
     # ------------------------------------------------------------------ carga / guardado
     def cargar(self) -> "Almacen":
@@ -145,6 +153,14 @@ class Almacen:
             nuevas = "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in self._cuarentena_nueva)
             _escribir_atomico(ruta, previas + nuevas)
             self._cuarentena_nueva.clear()
+        if self._descartes_nuevos:
+            ruta = self.dir / "descartes.jsonl"
+            limite = ahora() - timedelta(days=RETENCION_DESCARTES_DIAS)
+            conservar = [r for r in self.descartes(incluir_nuevos=False)
+                         if (desde_iso(r.get("fecha")) or limite) >= limite]
+            _escribir_atomico(ruta, "".join(json.dumps(r, ensure_ascii=False) + "\n"
+                                            for r in conservar + self._descartes_nuevos))
+            self._descartes_nuevos.clear()
 
     @staticmethod
     def mes_de(rec: dict) -> str:
@@ -206,13 +222,23 @@ class Almacen:
         return resultados[:k]
 
     # ------------------------------------------------------------------ pendientes
-    def encolar_pendiente(self, url_hash: str, candidato: dict) -> None:
+    def encolar_pendiente(self, url_hash: str, candidato: dict, motivo: str = "") -> None:
+        """Guarda un candidato para la próxima corrida.
+
+        `intentos` cuenta sólo fallos reales (los lleva el propio candidato); `postergaciones`
+        cuenta las veces que esperó turno por cupo o cuota, que no son motivo para descartarlo.
+        """
         previo = self.pendientes.get(url_hash, {})
         self.pendientes[url_hash] = {
             "candidato": candidato,
             "desde": previo.get("desde") or a_iso(ahora()),
-            "intentos": int(previo.get("intentos", 0)) + 1,
+            "intentos": int(candidato.get("intentos", 0)),
+            "postergaciones": int(previo.get("postergaciones", 0)) + (0 if motivo == "fallo" else 1),
+            "motivo": motivo,
         }
+
+    def pendiente_desde(self, url_hash: str) -> str:
+        return (self.pendientes.get(url_hash) or {}).get("desde") or ""
 
     def tomar_pendientes(self) -> list[dict]:
         return [p["candidato"] for p in self.pendientes.values() if p.get("candidato")]
@@ -229,6 +255,33 @@ class Almacen:
                 "extracto": (extracto or "")[:1500],
             }
         )
+
+    # ------------------------------------------------------------------ descartes
+    def registrar_descarte(self, *, url: str, fuente: str, titulo: str, etapa: str, motivo: str) -> None:
+        """Deja constancia de por qué se descartó una pieza (para auditar y ajustar criterios)."""
+        self._descartes_nuevos.append({
+            "fecha": a_iso(ahora()), "fuente": fuente, "etapa": etapa,
+            "motivo": (motivo or "")[:300], "titulo": (titulo or "")[:200], "url": url,
+        })
+
+    def descartes(self, incluir_nuevos: bool = True) -> list[dict]:
+        ruta = self.dir / "descartes.jsonl"
+        registros = []
+        if ruta.exists():
+            for linea in ruta.read_text(encoding="utf-8").splitlines():
+                try:
+                    registros.append(json.loads(linea))
+                except json.JSONDecodeError:
+                    continue
+        return registros + (self._descartes_nuevos if incluir_nuevos else [])
+
+    def reprocesar(self, fuentes: set[str] | None, estados: frozenset[str] = ESTADOS_REPROCESABLES) -> int:
+        """Olvida los descartes de esas fuentes para que se vuelvan a evaluar si siguen publicadas."""
+        borrar = [h for h, v in self.vistos.items()
+                  if v.get("estado") in estados and (not fuentes or v.get("fuente") in fuentes)]
+        for h in borrar:
+            del self.vistos[h]
+        return len(borrar)
 
     def cuarentena(self) -> list[dict]:
         ruta = self.dir / "cuarentena.jsonl"
@@ -281,7 +334,8 @@ class Almacen:
         self.vistos = {h: v for h, v in self.vistos.items() if not viejo(v.get("fecha"), RETENCION_VISTOS_DIAS)}
         self.pendientes = {
             h: p for h, p in self.pendientes.items()
-            if not viejo(p.get("desde"), RETENCION_PENDIENTES_DIAS) and int(p.get("intentos", 0)) <= 6
+            if not viejo(p.get("desde"), RETENCION_PENDIENTES_DIAS)
+            and int((p.get("candidato") or {}).get("intentos", 0)) <= MAX_FALLOS_PENDIENTE
         }
         recientes = {r["id"] for r in self.recientes(35)}
         self.embeddings = {k: v for k, v in self.embeddings.items() if k in recientes}

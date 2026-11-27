@@ -12,7 +12,6 @@ from .base import Fuente
 from .csjn import CSJN, CSJNNoticias
 from .medios import (
     AlDiaMicrojuris,
-    APPInstitucional,
     DiarioJudicial,
     ElDial,
     InfobaeJudiciales,
@@ -20,17 +19,17 @@ from .medios import (
     PensamientoPenal,
 )
 from .ministerios_publicos import MPF
-from .oficiales import BoletinOficial, InfoLeg, SAIJBoletin, SAIJJurisprudenciaTDF, SAIJLegislacion
+from .oficiales import BoletinOficial, SAIJBoletin, SAIJJurisprudenciaTDF, SAIJLegislacion
 from .poderes_judiciales import IJudicial, JusticiaAR
 
 # Fuentes evaluadas y descartadas (ver README): La Ley/Westlaw, Microjuris (buscador),
 # Errepar/Erreius, El Derecho, AI Legales, JurisprudenciaARG, Lejister y Actualidad
 # Jurídica (pagas); Campus Judicial (cursos); LegisLaw (directorio de enlaces sin
-# novedades: su feed está vacío). elDial queda disponible pero desactivada por defecto.
+# novedades: su feed está vacío); InfoLeg y la Asociación Pensamiento Penal (.org), quitadas en
+# noviembre de 2026 a pedido. elDial se activó en noviembre de 2026 (sólo su portada pública).
 CLASES: tuple[type[Fuente], ...] = (
     CSJN,
     CSJNNoticias,
-    InfoLeg,
     BoletinOficial,
     SAIJLegislacion,
     SAIJJurisprudenciaTDF,
@@ -40,7 +39,6 @@ CLASES: tuple[type[Fuente], ...] = (
     IJudicial,
     PalabrasDelDerecho,
     PensamientoPenal,
-    APPInstitucional,
     AlDiaMicrojuris,
     DiarioJudicial,
     ElDial,

@@ -15,6 +15,7 @@ import json
 import logging
 import os
 import time
+from collections import defaultdict
 from dataclasses import asdict, dataclass, field
 from datetime import timedelta
 
@@ -32,7 +33,6 @@ from .textos import a_iso, ahora, limpiar_espacios
 log = logging.getLogger(__name__)
 
 TAMANO_LOTE_TRIAGE = 30
-MAX_DETALLES_PREVIOS = 25
 
 
 @dataclass
@@ -144,23 +144,41 @@ class Pipeline:
         return self._ia
 
     # ------------------------------------------------------------------ 1. recolección
+    def _listar_fuente(self, fuente) -> tuple[list[Candidato], dict, float]:
+        t0 = time.monotonic()
+        info = {"candidatos": 0, "nuevos": 0, "ok": True}
+        candidatos: list[Candidato] = []
+        try:
+            candidatos = fuente.listar()
+            info["candidatos"] = len(candidatos)
+            log.info("%s: %d candidatos", fuente.clave, len(candidatos))
+        except Exception as exc:  # una fuente rota no frena al resto
+            info.update(ok=False, error=f"{type(exc).__name__}: {exc}")
+            log.error("Fuente %s falló: %s", fuente.clave, exc)
+        return candidatos, info, time.monotonic() - t0
+
     def recolectar(self) -> list[Candidato]:
         todos: list[Candidato] = []
+        caidas = []
         for fuente in self.fuentes:
-            t0 = time.monotonic()
-            info = {"candidatos": 0, "nuevos": 0, "ok": True}
-            try:
-                candidatos = fuente.listar()
-                info["candidatos"] = len(candidatos)
-                todos.extend(candidatos)
-                log.info("%s: %d candidatos", fuente.clave, len(candidatos))
-            except Exception as exc:  # una fuente rota no frena al resto
-                info.update(ok=False, error=f"{type(exc).__name__}: {exc}")
-                self.resumen.errores.append(f"{fuente.clave}: {exc}")
-                log.error("Fuente %s falló: %s", fuente.clave, exc)
+            candidatos, info, duracion = self._listar_fuente(fuente)
+            if not info["ok"]:
+                caidas.append(fuente)
+            todos.extend(candidatos)
             self.resumen.por_fuente[fuente.clave] = info
             self.almacen.registrar_salud(fuente.clave, ok=info["ok"], cantidad=info["candidatos"],
-                                         error=info.get("error", ""), duracion=time.monotonic() - t0)
+                                         error=info.get("error", ""), duracion=duracion)
+        # Los portales estatales a veces no responden un rato (timeouts): segundo intento al final.
+        for fuente in caidas:
+            log.info("Reintentando %s…", fuente.clave)
+            candidatos, info, duracion = self._listar_fuente(fuente)
+            if info["ok"]:
+                todos.extend(candidatos)
+                info["reintento"] = True
+                self.almacen.registrar_salud(fuente.clave, ok=True, cantidad=info["candidatos"], duracion=duracion)
+            else:
+                self.resumen.errores.append(f"{fuente.clave}: {info.get('error', '')}")
+            self.resumen.por_fuente[fuente.clave] = info
         # Lo que quedó sin procesar en corridas anteriores (cuota agotada) va primero.
         previos = [Candidato.desde_dict(p) for p in self.almacen.tomar_pendientes()]
         previos = [c for c in previos if c.fuente in self.mapa]
@@ -217,12 +235,14 @@ class Pipeline:
     def triage(self, candidatos: list[Candidato]) -> list[Candidato]:
         pendientes_triage = [c for c in candidatos if not c.triado]
         ya_triados = [c for c in candidatos if c.triado]
-        # Fuentes cuya portada no da contexto: se lee la nota antes de decidir.
-        previos = 0
+        # Fuentes cuya portada no da contexto: se lee la nota antes de decidir (tope por fuente,
+        # para que el Boletín Oficial no agote el cupo de Diario Judicial o Pensamiento Penal).
+        previos: dict[str, int] = defaultdict(int)
         for cand in list(pendientes_triage):
             fuente = self.mapa[cand.fuente]
-            if fuente.detalle_antes_del_triage and not cand.detalle_cargado and previos < MAX_DETALLES_PREVIOS:
-                previos += 1
+            if (fuente.detalle_antes_del_triage and not cand.detalle_cargado
+                    and previos[cand.fuente] < self.ajustes.max_detalles_previos_fuente):
+                previos[cand.fuente] += 1
                 self._cargar_detalle(cand)
                 # Con el texto completo, las reglas gratuitas vuelven a mirar (p. ej. prórrogas de
                 # designación, o la fecha, que algunas fuentes sólo muestran dentro de la nota).
@@ -240,7 +260,7 @@ class Pipeline:
             try:
                 veredictos = triage_lote(self.ia, lote, self.ajustes.perfil_editorial)
             except SinCuota:
-                self._encolar(pendientes_triage[inicio:])
+                self._encolar(pendientes_triage[inicio:], "sin_cuota")
                 self.resumen.sin_cuota = True
                 break
             except ErrorIA as exc:
@@ -251,27 +271,66 @@ class Pipeline:
                 cand.triado = True
                 if veredicto is not None and not veredicto.relevante:
                     self.almacen.marcar_visto(cand.url_hash, "descartado_triage", fuente=cand.fuente)
+                    self.almacen.registrar_descarte(url=cand.url, fuente=cand.fuente, titulo=cand.titulo,
+                                                    etapa="triage", motivo=veredicto.motivo)
                     self.resumen.descartados_triage += 1
                 else:
                     relevantes.append(cand)
         return ya_triados + relevantes
 
-    def _encolar(self, candidatos: list[Candidato]) -> None:
+    def _encolar(self, candidatos: list[Candidato], motivo: str = "cupo") -> None:
+        """motivo: "cupo" o "sin_cuota" (espera turno, no es un fallo) o "fallo"."""
         for cand in candidatos:
-            self.almacen.encolar_pendiente(cand.url_hash, cand.a_dict())
+            self.almacen.encolar_pendiente(cand.url_hash, cand.a_dict(), motivo)
         self.resumen.pendientes += len(candidatos)
+
+    def _repartir(self, candidatos: list[Candidato], tope: int) -> tuple[list[Candidato], list[Candidato]]:
+        """Elige qué curar en esta corrida: un piso por fuente y después de a una por fuente.
+
+        Antes se ordenaba sólo por prioridad y las fuentes oficiales (muchas piezas por día)
+        llenaban siempre el cupo: los medios quedaban en espera hasta perderse. Ahora cada fuente
+        con material recibe primero hasta CUPO_MINIMO_FUENTE lugares (en orden de jerarquía) y
+        el resto del cupo se reparte por turnos, una pieza por fuente y por vuelta. Dentro de cada
+        fuente va primero lo que más tiempo lleva esperando.
+        """
+        def clave_fuente(c: Candidato):
+            desde = self.almacen.pendiente_desde(c.url_hash)
+            # Pendientes más antiguos primero; luego lo más reciente.
+            return (0 if desde else 1, desde, -(c.fecha.timestamp() if c.fecha else 0))
+
+        por_fuente: dict[str, list[Candidato]] = defaultdict(list)
+        for cand in candidatos:
+            por_fuente[cand.fuente].append(cand)
+        for lista in por_fuente.values():
+            lista.sort(key=clave_fuente)
+        orden_fuentes = sorted(por_fuente, key=lambda k: self.mapa[k].prioridad, reverse=True)
+
+        elegidos: list[Candidato] = []
+        piso = max(0, self.ajustes.cupo_minimo_fuente)
+        for clave in orden_fuentes:
+            tomar = min(piso, tope - len(elegidos))
+            if tomar <= 0:
+                break
+            elegidos.extend(por_fuente[clave][:tomar])
+            por_fuente[clave] = por_fuente[clave][tomar:]
+        while len(elegidos) < tope and any(por_fuente[k] for k in orden_fuentes):
+            for clave in orden_fuentes:
+                if len(elegidos) >= tope:
+                    break
+                if por_fuente[clave]:
+                    elegidos.append(por_fuente[clave].pop(0))
+        diferidos = [c for clave in orden_fuentes for c in por_fuente[clave]]
+        # Se procesan por jerarquía: si un medio y la fuente oficial cuentan el mismo hecho,
+        # la ficha se arma con la oficial y el medio queda como cobertura.
+        elegidos.sort(key=lambda c: (self.mapa[c.fuente].prioridad, a_iso(c.fecha) or ""), reverse=True)
+        return elegidos, diferidos
 
     # ------------------------------------------------------------------ 4. curaduría y publicación
     def procesar(self, candidatos: list[Candidato]) -> None:
-        ordenados = sorted(
-            candidatos,
-            key=lambda c: (self.mapa[c.fuente].prioridad, a_iso(c.fecha) or ""),
-            reverse=True,
-        )
-        tope = self.ajustes.max_curadas_por_corrida
-        if len(ordenados) > tope:
-            self._encolar(ordenados[tope:])
-            ordenados = ordenados[:tope]
+        ordenados, diferidos = self._repartir(candidatos, self.ajustes.max_curadas_por_corrida)
+        if diferidos:
+            self._encolar(diferidos, "cupo")
+            log.info("Cupo de la corrida completo: %d piezas esperan a la próxima.", len(diferidos))
         dedup = Deduplicador(self.almacen, self.ia, self.ajustes.ventana_dedup_dias,
                              self.ajustes.umbral_gris, self.ajustes.umbral_auto)
 
@@ -280,18 +339,18 @@ class Pipeline:
                 self._procesar_uno(cand, dedup)
             except SinCuota:
                 self.resumen.sin_cuota = True
-                self._encolar(ordenados[posicion:])
+                self._encolar(ordenados[posicion:], "sin_cuota")
                 log.warning("Cuota de IA agotada: %d piezas quedan para la próxima corrida.", len(ordenados) - posicion)
                 break
             except ErrorIA as exc:
                 self.resumen.errores.append(f"IA en {cand.url}: {exc}")
                 cand.intentos += 1
-                self._encolar([cand])
+                self._encolar([cand], "fallo")
             except Exception as exc:  # nunca frenar la corrida por una pieza
                 log.exception("Error procesando %s", cand.url)
                 self.resumen.errores.append(f"{cand.url}: {exc}")
                 cand.intentos += 1
-                self._encolar([cand])
+                self._encolar([cand], "fallo")
 
     def _cuarentena(self, cand: Candidato, capa: str, motivo: str) -> None:
         log.warning("Cuarentena [%s] %s: %s", capa, cand.url, motivo)
@@ -305,7 +364,7 @@ class Pipeline:
         if not cand.detalle_cargado and not self._cargar_detalle(cand):
             if len(cand.resumen) < 80:
                 cand.intentos += 1
-                self._encolar([cand])
+                self._encolar([cand], "fallo")
                 return
 
         # Señales de contenido del sitio (robots.txt): con el plan gratuito, "ai-train=no" se respeta.
@@ -314,9 +373,18 @@ class Pipeline:
             if not cand.resumen:
                 cand.resumen = limpiar_espacios(cand.texto[:300])
 
+        # Sentencia adjunta en PDF (sólo si la fuente lo permite y no está en modo referencia).
+        if cand.modo_ia == "completo":
+            try:
+                fuente.cargar_adjunto(cand)
+            except Exception as exc:  # el PDF es un extra: la nota sigue sin él
+                log.warning("No se pudo leer el PDF de %s: %s", cand.url, exc)
+
         texto_fuente = limpiar_espacios(f"{cand.titulo}. {cand.texto_para_ia()}")
         if len(texto_fuente) < 60:
             self.almacen.marcar_visto(cand.url_hash, "sin_contenido", fuente=cand.fuente)
+            self.almacen.registrar_descarte(url=cand.url, fuente=cand.fuente, titulo=cand.titulo,
+                                            etapa="sin_contenido", motivo=f"{len(texto_fuente)} caracteres de texto")
             return
 
         # Capa 1: heurística (antes de gastar cuota).
@@ -336,15 +404,24 @@ class Pipeline:
             return
         if not ficha.es_relevante:
             self.almacen.marcar_visto(cand.url_hash, "descartado_ia", fuente=cand.fuente)
+            self.almacen.registrar_descarte(url=cand.url, fuente=cand.fuente, titulo=cand.titulo, etapa="curaduria",
+                                            motivo=ficha.motivo_descarte or "sin motivo informado")
             self.resumen.descartados_ia += 1
             return
 
-        # Capa 3: citas verificables + saneamiento de salida.
-        minimo = 1 if cand.modo_ia == "referencia" else fuente.min_citas
+        # Capa 3: citas verificables + saneamiento de salida. Se exigen 2 citas ancladas sólo
+        # para lo que se publica como alto impacto; para el resto alcanza con 1, y las citas que
+        # no aparecen en la fuente se quitan de la ficha en lugar de tirar la ficha entera.
+        if cand.modo_ia == "referencia" or not ficha.alto_impacto:
+            minimo = 1
+        else:
+            minimo = fuente.min_citas
         anclaje = verificar_anclaje(texto_fuente, ficha.citas_textuales_verificables, minimo)
         if not anclaje.ok:
             self._cuarentena(cand, "grounding", anclaje.detalle)
             return
+        # Para mostrar como cita textual sólo quedan las copias exactas.
+        ficha.citas_textuales_verificables = anclaje.citas_literales
         datos, avisos = sanear_salida(ficha.model_dump(), texto_fuente, cand.oficial)
         if any(a.startswith("SALIDA_SOSPECHOSA") for a in avisos):
             self._cuarentena(cand, "salida", "; ".join(avisos))

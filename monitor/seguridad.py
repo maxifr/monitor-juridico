@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import re
 import unicodedata
+from difflib import SequenceMatcher
 from dataclasses import dataclass, field
 from urllib.parse import urlsplit
 
@@ -207,24 +208,82 @@ class ResultadoAnclaje:
     verificadas: int
     total: int
     detalle: str = ""
+    citas_ok: list[str] = field(default_factory=list)  # exactas o casi exactas
+    citas_literales: list[str] = field(default_factory=list)  # copias exactas (se pueden mostrar)
+
+
+# Abreviaturas que la IA suele expandir (o abreviar) al copiar una cita.
+_EQUIVALENCIAS = {
+    "art": "articulo", "arts": "articulos", "inc": "inciso", "incs": "incisos", "fs": "fojas",
+    "fs.": "fojas", "dr": "doctor", "dra": "doctora", "dres": "doctores", "sr": "senor", "sra": "senora",
+    "nro": "numero", "num": "numero", "pag": "pagina", "cn": "constitucion nacional", "cp": "codigo penal",
+    "cpp": "codigo procesal penal", "csjn": "corte suprema de justicia de la nacion",
+}
+UMBRAL_CASI_LITERAL = 0.90
+
+
+def _tokens_cita(texto: str) -> list[str]:
+    salida: list[str] = []
+    for t in normalizar(texto).split():
+        salida.extend(_EQUIVALENCIAS.get(t, t).split())
+    return salida
+
+
+def _casi_literal(cita: list[str], fuente: list[str], indice: dict[str, list[int]]) -> bool:
+    """La cita aparece en la fuente con diferencias mínimas (una palabra corregida, un signo, etc.)."""
+    n = len(cita)
+    if n < 4:
+        return False
+    inicios: set[int] = set()
+    for pos, tok in enumerate(cita[:4] + cita[-4:]):
+        desplazamiento = pos if pos < 4 else n - (8 - pos)
+        for i in indice.get(tok, ()):
+            inicio = i - desplazamiento
+            if 0 <= inicio <= len(fuente) - max(1, n - 2):
+                inicios.add(inicio)
+    for inicio in inicios:
+        for largo in (n, n - 1, n + 1):
+            ventana = fuente[inicio: inicio + largo]
+            if ventana and SequenceMatcher(None, cita, ventana, autojunk=False).ratio() >= UMBRAL_CASI_LITERAL:
+                return True
+    return False
 
 
 def verificar_anclaje(texto_fuente: str, citas: list[str], minimo: int = 2) -> ResultadoAnclaje:
-    """Cada cita (≥ 4 palabras) tiene que existir literalmente (normalizada) en la fuente."""
+    """Cada cita (≥ 4 palabras) tiene que existir en la fuente: literal (normalizada) o casi literal.
+
+    Casi literal = misma secuencia de palabras con un 90 % de coincidencia, después de equiparar
+    abreviaturas ("art." = "artículo"). Cubre los retoques típicos del modelo (corrige una errata,
+    expande una abreviatura) sin aceptar paráfrasis.
+    """
     utiles = [c for c in (citas or []) if len(normalizar(c).split()) >= 4]
     if not utiles:
         return ResultadoAnclaje(False, 0, len(citas or []), "La IA no aportó citas textuales verificables.")
     fuente_norm = normalizar(texto_fuente)
-    verificadas = sum(1 for c in utiles if normalizar(c) in fuente_norm)
-    requeridas = min(minimo, len(utiles))
-    if verificadas < requeridas:
+    fuente_tokens = _tokens_cita(texto_fuente)
+    fuente_equiv = " ".join(fuente_tokens)
+    indice: dict[str, list[int]] = {}
+    for i, tok in enumerate(fuente_tokens):
+        indice.setdefault(tok, []).append(i)
+    literales: list[str] = []
+    ancladas: list[str] = []
+    for cita in utiles:
+        tokens = _tokens_cita(cita)
+        if normalizar(cita) in fuente_norm:
+            literales.append(cita)
+            ancladas.append(cita)
+        elif " ".join(tokens) in fuente_equiv or _casi_literal(tokens, fuente_tokens, indice):
+            ancladas.append(cita)
+    requeridas = min(max(minimo, 1), len(utiles))
+    if len(ancladas) < requeridas:
         return ResultadoAnclaje(
             False,
-            verificadas,
+            len(ancladas),
             len(utiles),
-            f"Fallo de anclaje: {verificadas}/{len(utiles)} citas figuran en el texto original.",
+            f"Fallo de anclaje: {len(ancladas)}/{len(utiles)} citas figuran en el texto original "
+            f"(se exigían {requeridas}).",
         )
-    return ResultadoAnclaje(True, verificadas, len(utiles))
+    return ResultadoAnclaje(True, len(ancladas), len(utiles), citas_ok=ancladas, citas_literales=literales)
 
 
 # --------------------------------------------------------------------------- 5. salida

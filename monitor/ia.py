@@ -61,6 +61,34 @@ def _codigo(exc: Exception) -> int | None:
     return None
 
 
+def _filtros_permisivos(types) -> list:
+    """Las sentencias penales describen delitos (abusos, homicidios, drogas): que el filtro de
+    seguridad de Gemini no corte la respuesta por el contenido fáctico de un fallo."""
+    ajustes = []
+    for nombre in ("HARM_CATEGORY_HARASSMENT", "HARM_CATEGORY_HATE_SPEECH",
+                   "HARM_CATEGORY_SEXUALLY_EXPLICIT", "HARM_CATEGORY_DANGEROUS_CONTENT"):
+        try:
+            ajustes.append(types.SafetySetting(category=getattr(types.HarmCategory, nombre),
+                                               threshold=types.HarmBlockThreshold.BLOCK_NONE))
+        except Exception:  # SDK sin esa categoría: se usa el valor por defecto
+            continue
+    return ajustes
+
+
+def _motivo_fin(resp) -> str:
+    """finish_reason / block_reason de una respuesta vacía (SAFETY, RECITATION, MAX_TOKENS…)."""
+    try:
+        bloqueo = getattr(getattr(resp, "prompt_feedback", None), "block_reason", None)
+        if bloqueo:
+            return f"prompt bloqueado: {bloqueo}"
+        candidatos = getattr(resp, "candidates", None) or []
+        if candidatos:
+            return str(getattr(candidatos[0], "finish_reason", "") or "")
+    except Exception:
+        pass
+    return ""
+
+
 def _es_cuota_diaria(exc: Exception) -> bool:
     texto = str(exc).lower()
     return "perday" in texto.replace(" ", "") or "per day" in texto or "daily" in texto or "requests_per_day" in texto
@@ -137,13 +165,20 @@ class ClienteGemini:
             raise SinCuota("Se alcanzó el tope diario de embeddings.")
 
     # ------------------------------------------------------------------ texto
+    def _contar(self, clave: str) -> None:
+        self.almacen.contar_uso(dia_pacifico(), clave)
+
     def generar(self, *, sistema: str, contenido: str, esquema: type[T], temperatura: float = 0.1) -> T:
         from google.genai import types
 
+        tarea = esquema.__name__  # RespuestaTriage, FichaCurada, VeredictoDuplicado
+        filtros = _filtros_permisivos(types)
+        saturado: Exception | None = None
         for modelo in [m for m in self._cadena_texto if m not in self._agotados]:
             for intento in range(3):
                 self._verificar_presupuesto("texto")
                 self._turno(modelo, self.ajustes.rpm_texto)
+                self._contar(f"tarea:{tarea}" if intento == 0 else f"reintento:{tarea}")
                 try:
                     resp = self._cliente.models.generate_content(
                         model=modelo,
@@ -153,10 +188,12 @@ class ClienteGemini:
                             response_mime_type="application/json",
                             response_schema=esquema,
                             temperature=temperatura,
+                            **({"safety_settings": filtros} if filtros else {}),
                         ),
                     )
                 except Exception as exc:
                     codigo = _codigo(exc)
+                    self._contar(f"error:{codigo or type(exc).__name__}")
                     if codigo == 429:
                         if _es_cuota_diaria(exc) or intento == 2:
                             log.warning("Cuota agotada en %s: paso al siguiente modelo.", modelo)
@@ -164,9 +201,14 @@ class ClienteGemini:
                             break
                         time.sleep(20 * (intento + 1))
                         continue
-                    if codigo in (500, 502, 503, 504) and intento < 2:
-                        time.sleep(10 * (intento + 1))
-                        continue
+                    if codigo in (500, 502, 503, 504):
+                        if intento < 2:
+                            time.sleep(10 * (intento + 1))
+                            continue
+                        # Modelo saturado: se prueba el siguiente de la cadena para esta pieza.
+                        log.warning("%s saturado (%s): pruebo el siguiente modelo.", modelo, codigo)
+                        saturado = exc
+                        break
                     if codigo == 404:  # modelo retirado
                         self._agotados.add(modelo)
                         break
@@ -180,9 +222,16 @@ class ClienteGemini:
                 try:  # algunos modelos devuelven el JSON sin parsear
                     return esquema.model_validate_json(resp.text or "")
                 except Exception as exc:
+                    motivo = _motivo_fin(resp)
+                    self._contar(f"vacia:{motivo or 'json_invalido'}")
+                    if motivo and any(m in motivo.upper() for m in ("SAFETY", "BLOCK", "PROHIBITED", "RECITATION")):
+                        # Reintentar no cambia un bloqueo: se informa con el motivo y sigue la corrida.
+                        raise ErrorIA(f"{modelo} no respondió ({motivo})") from exc
                     if intento < 2:
                         continue
-                    raise ErrorIA(f"{modelo} devolvió un JSON inválido") from exc
+                    raise ErrorIA(f"{modelo} devolvió un JSON inválido ({motivo or 'sin motivo'})") from exc
+        if saturado is not None:
+            raise ErrorIA(f"Todos los modelos están saturados: {saturado}")
         raise SinCuota("No queda cuota en ningún modelo de texto disponible.")
 
     # ------------------------------------------------------------------ embeddings
