@@ -1,20 +1,20 @@
 {
- "inicio": "2026-11-27T20:54:52+00:00",
- "fin": "2026-11-27T20:55:28+00:00",
- "duracion_s": 35.9,
+ "inicio": "2026-11-28T08:51:39+00:00",
+ "fin": "2026-11-28T09:21:02+00:00",
+ "duracion_s": 1762.5,
  "modelo": "gemini-3.5-flash-lite",
- "candidatos": 354,
- "ya_vistos": 314,
+ "candidatos": 365,
+ "ya_vistos": 312,
  "prefiltrados": 0,
  "antiguos": 0,
- "descartados_triage": 0,
- "curados": 0,
- "descartados_ia": 0,
+ "descartados_triage": 4,
+ "curados": 60,
+ "descartados_ia": 8,
  "cuarentena": 0,
- "publicados": 0,
- "fusionados": 0,
- "pendientes": 61,
- "sin_cuota": true,
+ "publicados": 43,
+ "fusionados": 9,
+ "pendientes": 27,
+ "sin_cuota": false,
  "por_fuente": {
   "csjn": {
    "candidatos": 20,
@@ -23,11 +23,6 @@
   },
   "csjn_noticias": {
    "candidatos": 20,
-   "nuevos": 0,
-   "ok": true
-  },
-  "infoleg": {
-   "candidatos": 6,
    "nuevos": 0,
    "ok": true
   },
@@ -53,7 +48,7 @@
   },
   "mpf": {
    "candidatos": 20,
-   "nuevos": 1,
+   "nuevos": 3,
    "ok": true
   },
   "justicia_ar": {
@@ -67,17 +62,11 @@
    "ok": true
   },
   "palabras_derecho": {
-   "candidatos": 0,
-   "nuevos": 0,
-   "ok": false,
-   "error": "ErrorHTTP: HTTP 403 en https://www.palabrasdelderecho.com.ar/"
-  },
-  "pensamiento_penal": {
-   "candidatos": 10,
+   "candidatos": 17,
    "nuevos": 0,
    "ok": true
   },
-  "app": {
+  "pensamiento_penal": {
    "candidatos": 10,
    "nuevos": 0,
    "ok": true
@@ -89,17 +78,64 @@
   },
   "diario_judicial": {
    "candidatos": 20,
-   "nuevos": 23,
+   "nuevos": 34,
+   "ok": true
+  },
+  "eldial": {
+   "candidatos": 10,
+   "nuevos": 10,
    "ok": true
   },
   "infobae": {
    "candidatos": 20,
-   "nuevos": 37,
+   "nuevos": 44,
    "ok": true
   }
  },
- "errores": [
-  "palabras_derecho: HTTP 403 en https://www.palabrasdelderecho.com.ar/"
- ],
- "nuevas": []
+ "errores": [],
+ "nuevas": [
+  "59027b3d34a4",
+  "05fe6b377bf0",
+  "2408321b9684",
+  "b84dd2f48289",
+  "c42f512dc83f",
+  "46b602da200c",
+  "11311fedaaab",
+  "b22e0e8ed249",
+  "770368472390",
+  "f635ed3cfdf3",
+  "41e825e820da",
+  "58a238517e0e",
+  "862dd4e241e1",
+  "fe7fc948917f",
+  "49573de3ca19",
+  "b6ca8ebaeff1",
+  "6b59fa7ed68d",
+  "fc9d5febbfb9",
+  "eef2634f8bad",
+  "9f96687facd5",
+  "e18c083dded6",
+  "b616ac1c144d",
+  "a14b1ed35f93",
+  "06ac2c683074",
+  "986221568694",
+  "73ae3c6cfb1a",
+  "99dd028295aa",
+  "3313017c7eac",
+  "d544a914f25e",
+  "7787858764a3",
+  "b3afff9ace27",
+  "7375b72dc421",
+  "563ab4904157",
+  "827ffa8178d9",
+  "d60e858e057a",
+  "171f78875b7e",
+  "7586f934e3bb",
+  "60ec967d7a99",
+  "1fee9869c7b0",
+  "586e2aea16f9",
+  "f4def82c1274",
+  "05707fe1d038",
+  "c50cb9a75ade"
+ ]
 }

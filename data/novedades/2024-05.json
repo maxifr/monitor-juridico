@@ -1,0 +1,165 @@
+[
+ {
+  "id": "770368472390",
+  "url_hash": "7703684723903916e800f25ca835e1d76c94f92b887aa027cc92143cd67c12ef",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-97734-habeas-data-no-es-habeas-danos",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Improcedencia de reclamos indemnizatorios en la acción de hábeas data",
+  "titulo_original": "Habeas data, no es habeas daños",
+  "bajada": "La Cámara Federal de Bahía Blanca determinó que los reclamos por daños y perjuicios son ajenos a los fines específicos de la acción de hábeas data.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Bahía Blanca, Sala II",
+  "caratula": "D. P. A. c/ Banco BBVA Argentina SA. s/ Habeas Data",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La acción de hábeas data posee un objeto preciso y concreto destinado a controlar la veracidad de la información y su uso, por lo que resulta improcedente acumular en dicho proceso pretensiones indemnizatorias por daños y perjuicios, las cuales deben encauzarse por la vía ordinaria.",
+  "puntos_clave": [
+   "El hábeas data es un remedio excepcional con un fin específico delimitado en el artículo 43 de la Constitución Nacional.",
+   "Los reclamos por daños y perjuicios y daño punitivo exceden el marco legal de la acción de protección de datos personales.",
+   "Ante vencimientos parciales y mutuos en las pretensiones, corresponde confirmar la distribución de costas procesales."
+  ],
+  "impacto_practico": "Advierte a los litigantes sobre la imposibilidad de pretender indemnizaciones dinerarias dentro del marco sumarísimo del hábeas data, debiendo recurrir a los procesos ordinarios correspondientes.",
+  "normas_citadas": [
+   "art. 43 CN",
+   "art. 53 LDC"
+  ],
+  "etiquetas": [
+   "habeas data",
+   "daños y perjuicios",
+   "proteccion de datos",
+   "daño punitivo"
+  ],
+  "cita_sugerida": "Cámara Federal de Bahía Blanca, Sala II, \"D. P. A. c/ Banco BBVA Argentina SA. s/ Habeas Data\", 2024",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000055582-original.pdf"
+  },
+  "fecha": "2024-05-10T10:44:32+00:00",
+  "ingresado": "2026-11-28T08:57:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f635ed3cfdf3",
+  "url_hash": "f635ed3cfdf3fa260574656b29fb3391f6717d7e6b961a3221a4451a5ab849e3",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-97724-justicia-por-la-merluza-negra",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Admiten proceso colectivo ambiental por la pesca ilegal de merluza negra",
+  "titulo_original": "Justicia por la merluza negra",
+  "bajada": "La Justicia federal admitió una acción colectiva ambiental contra Prodesur S.A. tras la captura ilegal de merluza negra por el buque B/P Tai An.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Civil y Comercial Federal N° 11",
+  "caratula": "Sallaberry, Daniel Eduardo y otros c/ Prodesur S.A. s/ proceso de conocimiento",
+  "identificador_legal": "Sallaberry, Daniel Eduardo y otros c/ Prodesur S.A. s/ proceso de conocimiento",
+  "id_legal_norm": null,
+  "holding": "El magistrado resolvió admitir la demanda como proceso colectivo ambiental y bajo trámite ordinario al tratarse de la afectación de un bien colectivo supraindividual e indivisible, disponiendo la creación eventual de un fondo de compensación ambiental y la citación a audiencia conforme la Ley General del Ambiente.",
+  "puntos_clave": [
+   "Se admitió formalmente una acción colectiva de naturaleza ambiental por la pesca ilegal de 175 toneladas de merluza negra.",
+   "El tribunal destacó que la indemnización solicitada persigue la creación de un fondo de compensación ambiental para dotar de mayores recursos a la Prefectura Naval Argentina.",
+   "Se citó a las partes a una audiencia conforme el art. 32 de la ley 25.675 y el art. 36 del CPCCN, dando intervención a la UFIMA."
+  ],
+  "impacto_practico": "Establece un precedente relevante sobre la admisibilidad de procesos colectivos ambientales orientados a la recomposición del daño a los recursos naturales y la creación de fondos de afectación específica.",
+  "normas_citadas": [
+   "art. 32 de la ley 25675",
+   "art. 36 del CPCCN"
+  ],
+  "etiquetas": [
+   "proceso colectivo",
+   "daño ambiental",
+   "merluza negra",
+   "pesca ilegal",
+   "bien colectivo"
+  ],
+  "cita_sugerida": "Juzgado Civil y Comercial Federal N° 11, \"Sallaberry, Daniel Eduardo y otros c/ Prodesur S.A. s/ proceso de conocimiento\", 2024",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000055571-original.pdf"
+  },
+  "fecha": "2024-05-08T16:44:16+00:00",
+  "ingresado": "2026-11-28T08:57:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "41e825e820da",
+  "url_hash": "41e825e820daa45035497d091eef91694ecba6ecc95c6f13ab9f108b3aadfb00",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-97695-la-formula-para-el-valor-vida",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Responsabilidad concurrente y cálculo del valor vida en accidente de tránsito",
+  "titulo_original": "La fórmula para el valor vida",
+  "bajada": "La Cámara Civil y Comercial determinó una responsabilidad concurrente del 50% entre la víctima y el demandado en un siniestro vial, y fijó indemnizaciones aplicando un promedio entre las fórmulas Vuoto y Méndez.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Sala III de la Cámara en lo civil y comercial",
+  "caratula": "S. R. por si y sus hijos menores c/ D. E. C.",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se estableció la culpa concurrente (50% cada parte) debido a que la víctima remolcaba un camión de mayor porte en pendiente sin las condiciones mínimas de seguridad, mientras que el conductor del camión aceptó ser trasladado en condiciones de alto riesgo. Para cuantificar el valor vida se promediaron las fórmulas Vuoto y Méndez, y se actualizó el límite de cobertura de la póliza de seguros debido a la duración del proceso.",
+  "puntos_clave": [
+   "Se fijó culpa concurrente del 50% por la imprudencia en la maniobra de remolque en pendiente sin medidas de seguridad.",
+   "Para el cálculo del valor vida se utilizó un promedio entre la fórmula Vuoto y la fórmula Méndez.",
+   "Se ordenó actualizar el límite de cobertura de la póliza de seguro de la citada en garantía debido a la prolongada duración del proceso."
+  ],
+  "impacto_practico": "Útil para litigantes en materia de daños y perjuicios en siniestros viales, aportando criterios sobre la aplicación combinada de fórmulas matemáticas para el valor vida y la actualización de pólizas por mora judicial.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "valor vida",
+   "culpa concurrente",
+   "daños y perjuicios",
+   "accidente de tránsito"
+  ],
+  "cita_sugerida": "Sala III de la Cámara en lo civil y comercial, \"S. R. por si y sus hijos menores c/ D. E. C.\"",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000055533-original.pdf"
+  },
+  "fecha": "2024-05-03T18:58:18+00:00",
+  "ingresado": "2026-11-28T08:58:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ }
+]

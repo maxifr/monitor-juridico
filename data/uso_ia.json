@@ -13,5 +13,16 @@
   "texto": 400,
   "gemini-3.5-flash-lite": 400,
   "embedding": 95
+ },
+ "2026-11-28": {
+  "tarea:RespuestaTriage": 2,
+  "texto": 215,
+  "gemini-3.5-flash-lite": 215,
+  "tarea:FichaCurada": 60,
+  "embedding": 52,
+  "tarea:VeredictoDuplicado": 135,
+  "error:503": 18,
+  "reintento:FichaCurada": 8,
+  "reintento:VeredictoDuplicado": 10
  }
 }

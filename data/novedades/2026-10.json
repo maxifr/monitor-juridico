@@ -1,5 +1,61 @@
 [
  {
+  "id": "58a238517e0e",
+  "url_hash": "58a238517e0e97f4777083d737a447f3a56f4ce67d7ee540ce85ad9d5fa4fc98",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104791-pedir-la-causa-penal-no-frena-la-poliza",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Exigir copias de la causa penal no suspende el plazo de la ley de seguros ni frena la póliza",
+  "titulo_original": "Pedir la causa penal no frena la póliza",
+  "bajada": "La Cámara de Mercedes determinó que exigir al beneficiario copias de la causa penal como condición de pago es una práctica abusiva que no interrumpe el plazo legal, configurando la aceptación tácita del siniestro.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Sala Segunda de la Cámara de Apelación en lo Civil y Comercial del Departamento Judicial Mercedes",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El tribunal resolvió que la exigencia de la aseguradora de condicionar el pago del seguro de vida a la aportación de copias de la causa penal por parte de los derechohabientes es abusiva, dado que la empresa cuenta con mejor infraestructura para obtenerlas. Al ser un requerimiento inidóneo, no interrumpió el plazo previsto en la ley de seguros, lo que derivó en la aceptación tácita de la cobertura.",
+  "puntos_clave": [
+   "La relación de consumo y el interés superior del niño obligan a interpretar con rigor la buena fe en contratos de seguros.",
+   "La aseguradora se encuentra en mejores condiciones operativas para obtener copias de las actuaciones penales que los beneficiarios.",
+   "Exigir requisitos improcedentes no suspende el plazo legal, operando la aceptación tácita del siniestro conforme la Ley de Seguros."
+  ],
+  "impacto_practico": "Permite a los litigantes y letrados oponerse a demoras injustificadas por parte de aseguradoras que subordinan la liquidación de siniestros a cargas documentales ajenas a la razonabilidad contractual.",
+  "normas_citadas": [
+   "Ley 17.418",
+   "art. 56 de la ley de seguros"
+  ],
+  "etiquetas": [
+   "seguro de vida",
+   "aceptación tácita",
+   "derecho del consumidor",
+   "causa penal",
+   "buena fe"
+  ],
+  "cita_sugerida": "Cámara de Apelación en lo Civil y Comercial de Mercedes, Sala Segunda",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063129-original.pdf"
+  },
+  "fecha": "2026-10-30T16:28:46+00:00",
+  "ingresado": "2026-11-28T08:58:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "8ba59aaa771c",
   "url_hash": "8ba59aaa771c7865d9ecd0237e0830ae11a531152f7fce64868eaeeba7df4292",
   "fuente": "csjn_noticias",
@@ -103,6 +159,63 @@
   },
   "fecha": "2026-10-29T15:00:00+00:00",
   "ingresado": "2026-11-26T01:55:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "862dd4e241e1",
+  "url_hash": "862dd4e241e140517c0af64d8553784e49802fdd8a15ee163dcb2fde19560ddc",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104738-verificar-creditos-en-tiempos-de-inteligencia-artificial",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Verificación de créditos en concursos preventivos e inteligencia artificial",
+  "titulo_original": "Verificar créditos en tiempos de inteligencia artificial",
+  "bajada": "Análisis sobre el uso de herramientas de inteligencia artificial por parte de la sindicatura concursal para la preparación de legajos y verificación de créditos.",
+  "tipo": "Doctrina",
+  "materia": "Civil y Comercial",
+  "instancia": "Otro",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La utilización de herramientas de inteligencia artificial en la sindicatura concursal debe limitarse a la organización de documentos, localización de datos y cotejo preliminar, manteniendo indelegables el análisis contable, la opinión fundada y la responsabilidad personal del síndico conforme a la Ley de Concursos y Quiebras.",
+  "puntos_clave": [
+   "La inteligencia artificial asiste en la preparación de legajos, lectura de documentación y localización de datos en procesos concursales.",
+   "Se deben excluir de los modelos de lenguaje los cálculos aritméticos exactos y la emisión de opiniones sobre la procedencia o privilegios de los créditos.",
+   "El uso de tecnología no exime al síndico de cumplir con las compulsas documentales, la opinión fundada y la actuación personal exigidas por la ley."
+  ],
+  "impacto_practico": "Orienta a síndicos concursales sobre los límites y recaudos legales al incorporar herramientas tecnológicas para optimizar los plazos del proceso de verificación.",
+  "normas_citadas": [
+   "Ley 24.522 art. 11 inc. 5",
+   "Ley 24.522 art. 32",
+   "Ley 24.522 art. 33",
+   "Ley 24.522 art. 34",
+   "Ley 24.522 art. 35",
+   "Ley 24.522 arts. 252 y 258"
+  ],
+  "etiquetas": [
+   "concursos",
+   "verificacion de creditos",
+   "sindicatura",
+   "inteligencia artificial"
+  ],
+  "cita_sugerida": "Salusso, Mauricio, Verificar créditos en tiempos de inteligencia artificial, Diario Judicial, 26 de octubre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-10-26T13:19:33+00:00",
+  "ingresado": "2026-11-28T08:59:07+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,

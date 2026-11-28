@@ -1,5 +1,578 @@
 [
  {
+  "id": "eef2634f8bad",
+  "url_hash": "eef2634f8badab15ca1f807167eff0c05458fc1382a2e47616b789608d511b11",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67047",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Juicio ejecutivo y tarjeta de crédito con firma electrónica",
+  "titulo_original": "Juicio ejecutivo (Nacional / Comercial)",
+  "bajada": "Apelación de la actora contra el rechazo de la ejecución basada en la falta de previsión legal de equivalencia para firma electrónica.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Comercial",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La actora apela la resolución de grado que rechazó la ejecución de un certificado de deuda de tarjeta de crédito firmado mediante firma electrónica, al considerar el magistrado la inexistencia de base legal suficiente.",
+  "puntos_clave": [
+   "Apelación contra el rechazo de ejecución en juicio ejecutivo",
+   "Cuestionamiento sobre la validez de la firma electrónica en títulos ejecutivos",
+   "Análisis de la base legal para la equivalencia de firma electrónica"
+  ],
+  "impacto_practico": "Relevante para litigantes y entidades financieras que utilizan firma electrónica en la emisión de certificados de saldo de tarjeta de crédito.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "juicio ejecutivo",
+   "tarjeta de crédito",
+   "firma electrónica",
+   "ejecución"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones en lo Comercial, Juicio ejecutivo, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:03:06+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "e18c083dded6",
+  "url_hash": "e18c083dded6381cf265fc7620b6a70b595e5c04fc8c294e07d2bdaa2316ad47",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67044",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Alimentos: solicitud de cuota provisoria interpuesta por abuela",
+  "titulo_original": "Alimentos (Río Negro / Civil)",
+  "bajada": "Una abuela solicita una cuota alimentaria provisoria del 25 por ciento de los ingresos de cada progenitor con un piso mínimo.",
+  "tipo": "Fallo",
+  "materia": "Familia",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Río Negro",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se peticiona judicialmente una cuota de alimentos provisoria equivalente al veinticinco por ciento de los ingresos de cada progenitor, incorporando la ponderación del valor de las tareas de cuidado y fijando un piso mínimo basado en salarios mínimos vitales y móviles.",
+  "puntos_clave": [
+   "Reclamo de alimentos provisorios iniciado por una abuela.",
+   "Petición de un porcentaje sobre los ingresos de ambos progenitores.",
+   "Consideración del valor económico de las tareas de cuidado."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos analizar los parámetros de fijación de cuotas alimentarias provisorias en el ámbito de la Provincia de Río Negro.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "alimentos",
+   "cuota provisoria",
+   "tareas de cuidado",
+   "derecho de familia"
+  ],
+  "cita_sugerida": "Jurisprudencia de Río Negro, Civil, Alimentos.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:04:54+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b616ac1c144d",
+  "url_hash": "b616ac1c144d26df3d41f34055bbdc3763fc1ca070004ca9564f1a891fab1b97",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/doctrina2.asp?base=50&id=16833",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Actualización de créditos laborales y el artículo 55 de la Ley 27.802",
+  "titulo_original": "De \"fernández\" y \"cabana\" a \"souto\" y \"banegas\": el consenso de los tribunales superiores sobre el artículo 55 de la lml.",
+  "bajada": "Análisis doctrinal sobre la constitucionalidad y aplicación del régimen de actualización de créditos laborales en fallos recientes del TSJ CABA y la CSJN.",
+  "tipo": "Doctrina",
+  "materia": "Laboral",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Superior de Justicia CABA y CSJN",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La doctrina analiza el consenso de los tribunales superiores respecto al artículo 55 de la Ley de Modernización Laboral N.º 27.802, destacando su validez constitucional y su aplicación a juicios pendientes de sentencia firme según la jurisprudencia del TSJ CABA y la CSJN.",
+  "puntos_clave": [
+   "Examen de la constitucionalidad del artículo 55 de la Ley N.º 27.802 convalidada por el TSJ CABA.",
+   "Revisión de la aplicación del régimen a juicios laborales pendientes según la CSJN.",
+   "Evolución jurisprudencial en materia de actualización de créditos laborales."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos comprender el criterio actual de los tribunales superiores sobre la aplicación temporal y validez del régimen de actualización de créditos laborales de la Ley 27.802.",
+  "normas_citadas": [
+   "Ley N.º 27.802",
+   "art. 55"
+  ],
+  "etiquetas": [
+   "creditos laborales",
+   "actualizacion monetaria",
+   "ley 27802",
+   "derecho laboral"
+  ],
+  "cita_sugerida": "Doctrina sobre Ley N.º 27.802 y Art. 55, elDial.com, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:05:50+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": [
+    "identificador_legal descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "a14b1ed35f93",
+  "url_hash": "a14b1ed35f93c910494fe23a461580ed00f3656206b1a4243d686d8229f40168",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=66939",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Admiten notificación de demanda de alimentos por SMS ante imposibilidad de usar WhatsApp",
+  "titulo_original": "Alimentos: ante la imposibilidad de notificar por whatsapp, se admite la comunicación de la demanda mediante mensajes de texto sms.",
+  "bajada": "Se confirmó una resolución que autorizó notificar la demanda de alimentos mediante mensajes de texto SMS debido a que el número telefónico no contaba con cuenta activa de WhatsApp.",
+  "tipo": "Fallo",
+  "materia": "Familia",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se convalidó la notificación de la demanda de alimentos por medio de mensajes de texto SMS al constatarse la imposibilidad tecnológica de utilizar la aplicación WhatsApp, fundándose en la previsión de la Ley 15.513 que habilita el uso de mensajería instantánea y SMS como herramientas procesales alternativas.",
+  "puntos_clave": [
+   "Se admitió la notificación por SMS ante la falta de cuenta activa de WhatsApp en el número informado.",
+   "La Ley 15.513 autoriza el uso de mensajería instantánea y mensajes de texto en procesos de alimentos.",
+   "Las nuevas tecnologías actúan como mecanismos válidos para superar obstáculos procesales de notificación."
+  ],
+  "impacto_practico": "Permite a los litigantes y operadores judiciales utilizar mensajes de texto SMS como canal subsidiario de notificación procesal en juicios de alimentos cuando fracasan otras vías digitales.",
+  "normas_citadas": [
+   "Ley 15.513"
+  ],
+  "etiquetas": [
+   "alimentos",
+   "notificación electrónica",
+   "whatsapp",
+   "mensajes de texto"
+  ],
+  "cita_sugerida": "Jurisprudencia sobre notificación de alimentos por SMS, Ley 15.513.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:06:20+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "9f96687facd5",
+  "url_hash": "9f96687facd53d58111c05fd50b740fbeff7c881f570f1108c7477bdb85eee45",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67046",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Despido con causa por incumplimiento de protocolo sanitario en pandemia",
+  "titulo_original": "Despido con causa (Nacional / Laboral)",
+  "bajada": "Se convalidó el despido justificado de un trabajador de la salud en mayo de 2020 por violar el aislamiento obligatorio.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La justicia laboral convalidó la extinción con causa basada en la pérdida de confianza e injuria laboral derivada del incumplimiento de los protocolos sanitarios de aislamiento obligatorio durante la pandemia de COVID-19 por parte de un empleado de una clínica.",
+  "puntos_clave": [
+   "Incumplimiento del protocolo sanitario de aislamiento obligatorio durante la pandemia.",
+   "Configuración de injuria laboral y pérdida de confianza.",
+   "Justificación del despido con causa en el ámbito de la salud."
+  ],
+  "impacto_practico": "Permite a los empleadores, especialmente en el sector salud, invocar la pérdida de confianza y la injuria laboral ante conductas de riesgo sanitario que afecten la seguridad institucional durante emergencias.",
+  "normas_citadas": [
+   "art. 242 LCT"
+  ],
+  "etiquetas": [
+   "despido con causa",
+   "pérdida de confianza",
+   "injuria laboral",
+   "covid-19"
+  ],
+  "cita_sugerida": "Cámara Nacional de Apelaciones del Trabajo, mayo de 2020",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:04:09+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "986221568694",
+  "url_hash": "9862215686942156ccb09c45f3594282d9f3aff33cb7bd90dcca4e7febf784cf",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/doctrina2.asp?base=50&id=16819",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "La revisión de las sentencias de restricción a la capacidad de ejercicio",
+  "titulo_original": "La revisión de las sentencias de restricción a la capacidad de ejercicio. comentario a fallo “h. m. a. s/ determinación de la capacidad jurídica”.",
+  "bajada": "Análisis doctrinal sobre un fallo que confirmó la revisión trienal obligatoria de la capacidad pese a existir un diagnóstico irreversible.",
+  "tipo": "Doctrina",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Provincia de Buenos Aires",
+  "tribunal": "Cámara de Apelación en lo Civil y Comercial de Necochea",
+  "caratula": "h. m. a. s/ determinación de la capacidad jurídica",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara de Apelación en lo Civil y Comercial de Necochea confirmó la exigencia de la revisión trienal de las restricciones a la capacidad de ejercicio prevista en el Código Civil y Comercial, aun cuando el diagnóstico de la persona sea de carácter irreversible, priorizando el paradigma de derechos humanos y la evaluación de las condiciones de vida y los apoyos.",
+  "puntos_clave": [
+   "Obligatoriedad de la revisión trienal de las restricciones a la capacidad.",
+   "Subsistencia del control judicial periódico frente a diagnósticos irreversibles.",
+   "Adecuación de los apoyos bajo el paradigma de derechos humanos de las personas con discapacidad."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos fundamentar la necesidad de cumplir con los plazos de revisión periódica en procesos de restricción de capacidad, sin importar la irreversibilidad del cuadro clínico.",
+  "normas_citadas": [
+   "artículo 40 del Código Civil y Comercial"
+  ],
+  "etiquetas": [
+   "capacidad jurídica",
+   "revisión trienal",
+   "discapacidad",
+   "apoyos"
+  ],
+  "cita_sugerida": "Cámara de Apelación en lo Civil y Comercial de Necochea, 'h. m. a. s/ determinación de la capacidad jurídica'",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:07:35+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "06ac2c683074",
+  "url_hash": "06ac2c683074f8a804e17ed8e45c74c08329f4e6962f4cf40b728f5978871695",
+  "fuente": "eldial",
+  "fuente_nombre": "elDial.com",
+  "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67036",
+  "prioridad": 58,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Nulidad de matrimonio: último domicilio en España desplaza competencia",
+  "titulo_original": "Nulidad del matrimonio. el último domicilio conyugal en españa desplaza la competencia de la justicia argentina.",
+  "bajada": "Se confirma la incompetencia de la justicia argentina para entender en la nulidad de un matrimonio celebrado en el país, al haberse acreditado que el último domicilio conyugal efectivo radicaba en España.",
+  "tipo": "Fallo",
+  "materia": "Familia",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La competencia en materia de nulidad matrimonial se rige por el último domicilio conyugal efectivo, desplazando a la justicia argentina aun cuando las nupcias se hayan celebrado en el territorio nacional.",
+  "puntos_clave": [
+   "Se confirma la incompetencia de los tribunales argentinos en acción de nulidad de matrimonio.",
+   "El último domicilio conyugal efectivo en España desplaza la jurisdicción argentina.",
+   "No bastan las alegaciones unilaterales sobre la transitoriedad de la residencia en el extranjero."
+  ],
+  "impacto_practico": "Orienta a los operadores jurídicos sobre la aplicación de las reglas de competencia internacional en materia de familia, priorizando la efectiva convivencia en el extranjero por sobre el lugar de celebración del matrimonio.",
+  "normas_citadas": [
+   "artículo 2621 CCCN"
+  ],
+  "etiquetas": [
+   "competencia internacional",
+   "nulidad de matrimonio",
+   "domicilio conyugal",
+   "derecho internacional privado"
+  ],
+  "cita_sugerida": "elDial.com - Jurisprudencia",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-28T08:52:11+00:00",
+  "ingresado": "2026-11-28T09:07:05+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "2408321b9684",
+  "url_hash": "2408321b96842f2c0cedd4b1abfe72890ae4755256b18c1fd58520d9d0d1324f",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/lesa-humanidad/mar-del-plata-juzgan-a-un-exjuez-y-a-siete-exfuncionarios-por-su-responsabilidad-en-14-homicidios-de-los-vuelos-de-la-muerte-o-su-encubrimiento/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Juicio por los vuelos de la muerte: juzgan a un exjuez y siete exfuncionarios",
+  "titulo_original": "Mar del Plata: juzgan a un exjuez y a siete exfuncionarios por su responsabilidad en 14 homicidios de los “vuelos de la muerte” o su encubrimiento",
+  "bajada": "Comenzó el debate oral ante el Tribunal Oral Federal de Mar del Plata contra ocho exfuncionarios por su responsabilidad en 14 homicidios y su encubrimiento.",
+  "tipo": "Noticia",
+  "materia": "Derechos Humanos",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral Federal de Mar del Plata",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El Ministerio Público Fiscal sostiene que ocho exfuncionarios, incluido un exjuez, integraron un engranaje judicial-policial y administrativo para encubrir y garantizar la impunidad de los homicidios de catorce personas arrojadas en los vuelos de la muerte durante la última dictadura cívico militar, calificando los hechos como coautoría funcional en homicidios agravados o, subsidiariamente, encubrimiento e incumplimiento de deberes.",
+  "puntos_clave": [
+   "Se inició el juicio oral ante el Tribunal Oral Federal de Mar del Plata contra ocho exfuncionarios públicos.",
+   "La fiscalía acusa a los imputados de intervenir en el tramo final del plan sistemático mediante el ocultamiento y falsificación en sumarios judiciales.",
+   "Se planteó como calificación principal la coautoría funcional en homicidios agravados y, subsidiariamente, encubrimiento e incumplimiento de deberes."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos analizar los estándares de persecución penal sobre partícipes estatales e integrantes del fuero judicial en crímenes de lesa humanidad vinculados al encubrimiento de los vuelos de la muerte.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "lesa humanidad",
+   "vuelos de la muerte",
+   "encubrimiento",
+   "coautoría funcional"
+  ],
+  "cita_sugerida": "Ministerio Público Fiscal, Mar del Plata: juzgan a un exjuez y a siete exfuncionarios por su responsabilidad en 14 homicidios de los vuelos de la muerte o su encubrimiento, 27 de noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T21:40:25+00:00",
+  "ingresado": "2026-11-28T08:53:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "05fe6b377bf0",
+  "url_hash": "05fe6b377bf0242d606b451ff6266ed8bcdf70268fcfa13468eb5f42e7ce72c3",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/criminalidad-economica/dispusieron-la-administracion-judicial-de-dos-estancias-vinculadas-a-lazaro-baez-en-santa-cruz/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Dispusieron la administración judicial de estancias de Lázaro Báez",
+  "titulo_original": "Dispusieron la administración judicial de dos estancias vinculadas a Lázaro Báez en Santa Cruz",
+  "bajada": "El Juzgado Federal de Río Gallegos ordenó la administración judicial conservatoria de dos establecimientos rurales vinculados a Lázaro Báez en Santa Cruz para garantizar su funcionamiento y preservación.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal de Río Gallegos",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se dispuso la administración judicial conservatoria de las estancias Alquinta y La Entrerriana hasta abril de 2028, encomendando la gestión operativa al gobernador de Santa Cruz y solicitando a la CSJN la designación de un coadministrador, ante la imposibilidad material del Ministerio Público Fiscal de asumir la gestión cotidiana y la necesidad de preservar los bienes y la actividad productiva.",
+  "puntos_clave": [
+   "Se estableció un régimen de administración judicial conservatoria para las estancias Alquinta y La Entrerriana hasta el 30 de abril de 2028.",
+   "La administración operativa quedó a cargo del gobernador de Santa Cruz, con la solicitud a la CSJN de un coadministrador judicial con facultades de control.",
+   "La medida busca garantizar la continuidad productiva, el mantenimiento de la hacienda y la rendición de cuentas mediante cuentas judiciales separadas en el Banco Nación."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales y fiscales contar con un mecanismo de gestión y control patrimonial para activos rurales complejos en causas de lavado de activos, evitando el deterioro de unidades productivas intervenidas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "administración judicial",
+   "lavado de activos",
+   "lázaro báez",
+   "santa cruz"
+  ],
+  "cita_sugerida": "Juzgado Federal de Río Gallegos, administración judicial de estancias vinculadas a Lázaro Báez, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T20:59:22+00:00",
+  "ingresado": "2026-11-28T08:53:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "59027b3d34a4",
+  "url_hash": "59027b3d34a486270e2e888f8972cc506cb053c50b0a189f5f547564b0a3b944",
+  "fuente": "mpf",
+  "fuente_nombre": "Ministerio Público Fiscal",
+  "url": "https://www.fiscales.gob.ar/lesa-humanidad/mar-del-plata-quince-condenados-a-prision-perpetua-en-el-tercer-tramo-del-juicio-subzona-15-por-delitos-de-lesa-humanidad/",
+  "prioridad": 88,
+  "fuente_oficial": true,
+  "dominio_publico": false,
+  "titulo": "Mar del Plata: quince condenados a prisión perpetua en el tercer tramo de la causa Subzona 15",
+  "titulo_original": "Mar del Plata: quince condenados a prisión perpetua en el tercer tramo del juicio Subzona 15 por delitos de lesa humanidad",
+  "bajada": "Quince exmiembros de fuerzas armadas y de seguridad recibieron prisión perpetua en el tercer tramo del juicio por delitos de lesa humanidad en Mar del Plata.",
+  "tipo": "Noticia",
+  "materia": "Derechos Humanos",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral en lo Criminal",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El tribunal condenó a prisión perpetua a quince exintegrantes del Ejército, la Armada y la Prefectura Naval como coautores de privaciones ilegales de la libertad, tormentos, homicidios calificados y, en varios casos, delitos contra la integridad sexual cometidos en el circuito represivo de la Subzona 15 contra 119 víctimas.",
+  "puntos_clave": [
+   "Quince represores condenados a prisión perpetua tras un debate iniciado en 2024.",
+   "Se juzgaron y condenaron por primera vez delitos de abuso sexual como hechos independientes cometidos contra mujeres detenidas.",
+   "Se acreditaron crímenes de lesa humanidad que afectaron a 119 víctimas, incluyendo homicidios y desapariciones."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos analizar los criterios de condena y calificación legal en crímenes de lesa humanidad, en particular el tratamiento de los abusos sexuales como hechos independientes.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "lesa humanidad",
+   "prisión perpetua",
+   "mar del plata",
+   "subzona 15"
+  ],
+  "cita_sugerida": "Tribunal Oral en lo Criminal interviniente en Subzona militar 15 (Tercer tramo), 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-27T20:22:23+00:00",
+  "ingresado": "2026-11-28T08:52:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": [
+    "caratula descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b84dd2f48289",
+  "url_hash": "b84dd2f482894fe66fb3fd4e93e017677bb3264992ca57a68f43d1c7181d3cb4",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104983-validar-el-rostro-no-prueba-la-voluntad",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Validar el rostro no prueba la voluntad en estafas virtuales",
+  "titulo_original": "Validar el rostro no prueba la voluntad",
+  "bajada": "La Cámara Civil y Comercial Federal determinó que la validación biométrica acredita identidad pero no consentimiento contractual válido, distribuyendo la responsabilidad en partes iguales por culpa concurrente.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Civil y Comercial Federal, Sala III",
+  "caratula": "Di Yorio, Jorge Carlos c/ Banco de la Nación Argentina s/ nulidad de acto jurídico",
+  "identificador_legal": "Causa n° 16677/2022/CA1",
+  "id_legal_norm": "CAUSA 16677/2022",
+  "holding": "La autenticación informática y la validación biométrica de un usuario no demuestran por sí mismas que este hubiera comprendido y querido las consecuencias jurídicas de una operación celebrada bajo engaño, subsistiendo el deber de seguridad de la entidad bancaria en el monitoreo de transacciones inusuales, sin perjuicio de la concurrencia de culpas ante la entrega imprudente de credenciales personales.",
+  "puntos_clave": [
+   "La validación biométrica permite establecer quién realizó un acto, pero no prueba la existencia de un consentimiento contractual informado y libre de vicios.",
+   "El deber de seguridad bancario no se agota en verificar la identidad en el ingreso al sistema, sino que comprende el control activo de las operaciones realizadas.",
+   "Se configuró una responsabilidad concurrente entre la entidad y el cliente, repartiendo los perjuicios al haberse constatado imprudencia en el manejo de credenciales."
+  ],
+  "impacto_practico": "Permite a los litigantes cuestionar la validez de préstamos y transferencias fraudulentas obtenidos mediante ingeniería social aun cuando exista validación biométrica, exigiendo a los bancos acreditar un efectivo control de las operaciones en canales electrónicos.",
+  "normas_citadas": [
+   "art. 42 CN",
+   "ley 24.240",
+   "art. 265 CPCCN",
+   "Comunicación A 7370 BCRA"
+  ],
+  "etiquetas": [
+   "estafas virtuales",
+   "biometría",
+   "deber de seguridad",
+   "relación de consumo",
+   "responsabilidad bancaria"
+  ],
+  "cita_sugerida": "Cámara Civil y Comercial Federal, Sala III, \"Di Yorio, Jorge Carlos c/ Banco de la Nación Argentina s/ nulidad de acto jurídico\", 17/11/2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063336-original.pdf"
+  },
+  "fecha": "2026-11-27T18:06:40+00:00",
+  "ingresado": "2026-11-28T08:54:22+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "3df731e60aeb",
   "url_hash": "3df731e60aeb53d4a7b76959db54ecbefd07eae76ac582e2b1300342814b39f6",
   "fuente": "mpf",
@@ -1723,6 +2296,61 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "73ae3c6cfb1a",
+  "url_hash": "73ae3c6cfb1ae92c0181f75626567a45b555b61f3cbfbdc36d3752b7a3dba4b7",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/26/ara-san-juan-casacion-fijo-para-diciembre-la-audiencia-para-revisar-la-condena-y-las-absoluciones/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "ARA San Juan: Casación fijó audiencia para revisar condena y absoluciones",
+  "titulo_original": "ARA San Juan: Casación fijó para diciembre la audiencia para revisar la condena y las absoluciones",
+  "bajada": "La Sala IV de la Cámara Federal de Casación Penal fijó para el 17 de diciembre la audiencia para revisar la sentencia por el hundimiento del submarino.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Casación Penal (Sala IV)",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara Federal de Casación Penal convocó a una audiencia de informes para el 17 de diciembre de 2026 con el fin de examinar los recursos interpuestos contra la sentencia dictada por el Tribunal Oral Federal de Santa Cruz en la causa por el hundimiento del ARA San Juan.",
+  "puntos_clave": [
+   "La Sala IV de la Casación fijó la audiencia de informes para el 17 de diciembre de 2026.",
+   "El tribunal revisará la condena contra Claudio Javier Villamide y las absoluciones de otros oficiales.",
+   "Las partes expondrán sus recursos de acuerdo con los artículos 465 y 468 del CPPN."
+  ],
+  "impacto_practico": "Permite a los litigantes, querellantes y defensores conocer el cronograma y las pautas formales para la audiencia de revisión ante la Cámara Federal de Casación Penal.",
+  "normas_citadas": [
+   "artículos 465 y 468 del Código Procesal Penal de la Nación",
+   "artículo 469 del CPPN"
+  ],
+  "etiquetas": [
+   "ara san juan",
+   "casación penal",
+   "estrago culposo",
+   "hundimiento"
+  ],
+  "cita_sugerida": "Cámara Federal de Casación Penal, Sala IV, causa ARA San Juan, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T19:53:10+00:00",
+  "ingresado": "2026-11-28T09:08:05+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "caratula descartado: no figura en la fuente"
+   ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "ec88d64886c4",
   "url_hash": "ec88d64886c4f88c357ec4060c1774d22c30f5dc5b33bf26ff1fa85f56626fb7",
   "fuente": "mpf",
@@ -1817,6 +2445,231 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "99dd028295aa",
+  "url_hash": "99dd028295aa7bbe4f881780a617a18a566b9c9ae462e6dc7c3ba6faeb34ca71",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/26/cuadernos-sigue-el-juicio-a-cfk-y-otros-acusados-en-la-etapa-de-testigos-de-las-defensas/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Juicio Cuadernos: un testigo detalló cómo funcionaban los listados de pagos a contratistas",
+  "titulo_original": "Cuadernos: “Juan 80 millones, Pedro 60 millones, José 20 millones”, los detalles de la lista de pago a contratistas de José López",
+  "bajada": "Durante una nueva audiencia del juicio oral, un funcionario de Vialidad Nacional declaró sobre las planillas mensuales enviadas por la Secretaría de Obras Públicas bajo la gestión de José López.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral Federal 7",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "En el marco de la etapa de testigos de las defensas en el juicio oral por la causa Cuadernos, un funcionario de Vialidad Nacional declaró que existía un listado mensual enviado desde la Secretaría de Obras Públicas, comandada por José López, que determinaba los pagos a los contratistas viales.",
+  "puntos_clave": [
+   "Declaró un único testigo, el funcionario de Vialidad Nacional Guillermo Bartoli, propuesto por la defensa del acusado Sergio Pasacantando.",
+   "El testigo explicó que Vialidad se ceñía a un listado mensual recibido por correo electrónico desde la Secretaría de Obras Públicas para efectuar los pagos de deudas a contratistas.",
+   "El debate oral ante el Tribunal Oral Federal 7 juzga a 85 acusados por un supuesto circuito de pago de sobornos vinculado a contratos de obra pública."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer los testimonios y detalles ventilados en la etapa probatoria de las defensas en la causa principal sobre presunta corrupción en la obra pública.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "cuadernos",
+   "obra publica",
+   "juicio oral",
+   "vialidad nacional"
+  ],
+  "cita_sugerida": "Tribunal Oral Federal 7, juicio Cuadernos, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T17:01:01+00:00",
+  "ingresado": "2026-11-28T09:08:46+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "3313017c7eac",
+  "url_hash": "3313017c7eacb9b745d099b9bc23f3dd8d061fbc927812e4b3d129540048cfa0",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/26/designaron-a-dos-conjueces-para-resolver-si-prescribe-una-causa-donde-se-investigan-presuntas-torturas-en-malvinas/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Designaron conjueces en la causa por presuntas torturas en Malvinas",
+  "titulo_original": "Designaron a dos conjueces para resolver si prescribe una causa donde se investigan presuntas torturas en Malvinas",
+  "bajada": "La Corte Suprema designó a dos conjueces para definir si la causa por tormentos a soldados durante la guerra de 1982 constituye un delito de lesa humanidad o común prescripto.",
+  "tipo": "Noticia",
+  "materia": "Derechos Humanos",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Corte Suprema de Justicia de la Nación",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Corte Suprema de Justicia de la Nación procedió al sorteo y designación de conjueces para definir la naturaleza jurídica de los hechos investigados, debiendo resolver si los tormentos denunciados configuran crímenes de lesa humanidad imprescriptibles o delitos comunes sujetos a prescripción.",
+  "puntos_clave": [
+   "Se designaron los camaristas Graciela Montesi y Richar Fernando Gallego como conjueces titulares de la Corte Suprema.",
+   "El tribunal debe decidir si los tormentos denunciados en Malvinas son crímenes de lesa humanidad o delitos comunes prescriptos.",
+   "La discusión procesal involucra la revisión de fallos de Casación sobre llamados a indagatoria y los planteos de prescripción de siete oficiales y suboficiales."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos dimensionar el criterio que adoptará el máximo tribunal respecto de la imprescriptibilidad de delitos cometidos en contextos de dictadura militar y fuerzas armadas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "malvinas",
+   "lesa humanidad",
+   "prescripción",
+   "torturas",
+   "corte suprema"
+  ],
+  "cita_sugerida": "CSJN, designación de conjueces en causa sobre presuntas torturas en Malvinas, 26 de noviembre de 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T16:29:18+00:00",
+  "ingresado": "2026-11-28T09:09:16+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "infobae",
+    "fuente_nombre": "Infobae Judiciales",
+    "url": "https://www.infobae.com/judiciales/2026/11/25/la-corte-define-el-futuro-de-la-causa-por-presuntas-torturas-en-malvinas-los-militares-acusados-buscan-la-prescripcion/",
+    "titulo": "La Corte define el futuro de la causa por presuntas torturas en Malvinas: los militares acusados buscan la prescripción",
+    "fecha": "2026-11-25T21:21:05+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:11:19+00:00"
+ },
+ {
+  "id": "fe7fc948917f",
+  "url_hash": "fe7fc948917f5fe6414c5d60c51029de0422d28b1d90b1c44c52734dc730d49b",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104972-honorario-juicio-y-ejecucion-asuntos-separados",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Honorarios: ordenan discriminar tareas del proceso principal y de la ejecución de sentencia",
+  "titulo_original": "Honorario: Juicio y Ejecución, asuntos separados",
+  "bajada": "La Cámara Civil ordenó discriminar los honorarios entre el proceso principal y la ejecución de sentencia antes de resolver las apelaciones.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones en lo Civil, Sala H",
+  "caratula": "C., M. B. c/ R., L. A. s/FIJACION DE RENTA COMPENSACION POR USO DE VIVIENDA",
+  "identificador_legal": "17546/2016",
+  "id_legal_norm": "17546/2016",
+  "holding": "Corresponde discriminar los honorarios diferenciando las labores del proceso principal de las de la ejecución de sentencia, aplicando la ley vigente al comienzo de cada etapa procesal, antes de tratar las apelaciones sobre el monto de los estipendios.",
+  "puntos_clave": [
+   "Se debe diferenciar la labor del proceso principal de la ejecución de sentencia para regular honorarios.",
+   "El régimen arancelario aplicable se determina según la ley vigente al comienzo de cada etapa procesal.",
+   "Se difiere el tratamiento sobre la suficiencia o elevación de los estipendios hasta que se realice la discriminación."
+  ],
+  "impacto_practico": "Obliga a los letrados y tribunales inferiores a detallar separadamente los trabajos cumplidos en cada etapa para permitir un adecuado control recursivo en materia arancelaria.",
+  "normas_citadas": [
+   "Ley 21.839",
+   "Ley 24.432",
+   "Ley 27.423"
+  ],
+  "etiquetas": [
+   "honorarios",
+   "ejecución de sentencia",
+   "ley arancelaria",
+   "proceso principal"
+  ],
+  "cita_sugerida": "CNCiv, Sala H, 26/11/2026, \"C., M. B. c/ R., L. A. s/FIJACION DE RENTA COMPENSACION POR USO DE VIVIENDA\"",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063326-original.pdf"
+  },
+  "fecha": "2026-11-26T16:14:25+00:00",
+  "ingresado": "2026-11-28T08:59:37+00:00",
+  "fuentes_adicionales": [
+   {
+    "fuente": "diario_judicial",
+    "fuente_nombre": "Diario Judicial",
+    "url": "https://www.diariojudicial.com/news-104972-honorarios-juicio-y-ejecucion-asuntos-separados",
+    "titulo": "Honorarios: Juicio y Ejecución, asuntos separados",
+    "fecha": "2026-11-26T16:14:25+00:00"
+   }
+  ],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:00:37+00:00"
+ },
+ {
+  "id": "d544a914f25e",
+  "url_hash": "d544a914f25e6198b9de439ea9ae89bd28ce6b430136a89208d687c0100e10b1",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/26/la-denuncia-contra-el-arbitro-beligoy-se-investigara-junto-a-la-causa-de-la-mansion-de-pilar-como-parte-de-una-presunta-trama-de-lavado-en-la-cupula-de-la-afa/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Investigarán juntas la denuncia contra el árbitro Beligoy y la causa por la mansión de Pilar",
+  "titulo_original": "Investigarán juntas la denuncia contra el árbitro Beligoy y la mansión de Pilar como una presunta trama de lavado en la cúpula de la AFA",
+  "bajada": "El juez federal Daniel Rafecas resolvió unificar la investigación contra el árbitro Federico Beligoy con la causa por la mansión de Pilar, al advertir una presunta trama de lavado de activos y desvío de fondos en la cúpula de la AFA.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El magistrado consideró procedente la acumulación de las causas por conexidad, señalando que los fondos presuntamente desviados de la Asociación del Fútbol Argentino constituirían el origen ilícito común en ambas maniobras, evitando así una visión fragmentada de un mismo fenómeno criminal.",
+  "puntos_clave": [
+   "El juez federal Daniel Rafecas unificó la investigación contra Federico Beligoy con la causa de la mansión de Pilar.",
+   "Se investiga un posible desvío de fondos de la AFA y su reintroducción en el circuito económico formal mediante testaferros y bienes de alto valor.",
+   "La Corte Suprema ordenó previamente que la causa por la mansión de Pilar pase al juzgado porteño de Rafecas."
+  ],
+  "impacto_practico": "Permite a los operadores judiciales y fiscales analizar de forma integral los circuitos financieros y económicos vinculados a las presuntas maniobras de lavado de activos en la AFA.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "lavado de activos",
+   "afa",
+   "conexidad",
+   "daniel rafecas"
+  ],
+  "cita_sugerida": "Juzgado Federal, causa sobre presunto lavado de activos en la AFA, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-26T15:44:01+00:00",
+  "ingresado": "2026-11-28T09:10:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -2085,10 +2938,76 @@
   "oficial": {},
   "fecha": "2026-11-26T15:00:00+00:00",
   "ingresado": "2026-11-27T18:35:42+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "infobae",
+    "fuente_nombre": "Infobae Judiciales",
+    "url": "https://www.infobae.com/judiciales/2026/11/25/la-justicia-suspendio-la-venta-de-tierras-frente-al-glaciar-perito-moreno-por-que-debe-definir-la-corte/",
+    "titulo": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno: por qué debe definir la Corte",
+    "fecha": "2026-11-25T20:34:55+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:12:32+00:00"
+ },
+ {
+  "id": "fc9d5febbfb9",
+  "url_hash": "fc9d5febbfb92fc41d7741fecb993143a92480da9b5805423b08249013f8c406",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104971-uno-elige-donde-pisar",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Rechazan demanda contra municipio por caída de una mujer en el césped de una plaza",
+  "titulo_original": "Uno elige donde pisar",
+  "bajada": "El tribunal desestimó el reclamo indemnizatorio al considerar que caminar por el césped de una plaza en lugar de los senderos y sufrir una caída por un desnivel menor no configura falta de servicio estatal.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Río Negro",
+  "tribunal": "Unidad Jurisdiccional Contencioso Administrativo N° 15 de General Roca",
+  "caratula": "[ACTOR_1] C/ MUNICIPALIDAD DE GENERAL ROCA S/ ORDINARIO",
+  "identificador_legal": "Expte. Nº RO-09488-C-0000",
+  "id_legal_norm": "EXPTE. No RO-09488-C-0000",
+  "holding": "Para responsabilizar al Estado por daños sufridos en un espacio verde público, debe acreditarse una omisión en el deber de mantenimiento o un riesgo especial ajeno a la naturaleza del lugar, extremos que no se configuran cuando el transeúnte circula por sectores de césped no destinados al tránsito peatonal donde los desniveles son previsibles.",
+  "puntos_clave": [
+   "No se configura falta de servicio municipal por irregularidades o huecos menores en sectores de césped no habilitados como sendas peatonales.",
+   "Las irregularidades propias de los espacios verdes resultan previsibles para quienes deciden transitar por zonas de césped en lugar de los senderos.",
+   "La responsabilidad extracontractual del Estado en la provincia se rige por las normas de derecho administrativo y requiere acreditar la prestación irregular del servicio."
+  ],
+  "impacto_practico": "Útil para litigantes y asesores letrados municipales al delimitar el alcance de la responsabilidad estatal por el estado de conservación de los espacios verdes y la exigencia de probar una falta de servicio concreta.",
+  "normas_citadas": [
+   "Ley 5106",
+   "Ley 5339",
+   "arts. 1757 y 1758 CCyC",
+   "Ley 17418"
+  ],
+  "etiquetas": [
+   "responsabilidad estatal",
+   "espacios verdes",
+   "falta de servicio",
+   "daños y perjuicios"
+  ],
+  "cita_sugerida": "Unidad Jurisdiccional Contencioso Administrativo N° 15 de General Roca, [ACTOR_1] c/ Municipalidad de General Roca s/ ordinario, 01/09/2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063324-original.pdf"
+  },
+  "fecha": "2026-11-26T13:47:18+00:00",
+  "ingresado": "2026-11-28T09:02:15+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
@@ -2140,12 +3059,81 @@
   "oficial": {},
   "fecha": "2026-11-26T12:35:27+00:00",
   "ingresado": "2026-11-27T09:59:47+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "diario_judicial",
+    "fuente_nombre": "Diario Judicial",
+    "url": "https://www.diariojudicial.com/news-104967-nueva-fiscalia-de-distrito-de-entre-rios",
+    "titulo": "Nueva Fiscalía de Distrito de Entre Ríos",
+    "fecha": "2026-11-26T12:01:36+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:02:52+00:00"
+ },
+ {
+  "id": "49573de3ca19",
+  "url_hash": "49573de3ca1926d70417706144b6e7e420cac19e8070602c9f2631d4277696d1",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104966-una-obra-que-agrieto-la-convivencia",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Responsabilidad civil por daños en obra de construcción: confirman condena a constructora",
+  "titulo_original": "Una obra que agrietó la convivencia",
+  "bajada": "La Cámara confirmó la sentencia que obliga a una constructora a indemnizar con casi $30 millones a un vecino por los daños estructurales y morales causados por una obra lindera.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "Neuquén",
+  "tribunal": "Cámara de Apelaciones en lo Civil, Comercial, Laboral y de Minería de Neuquén, Sala IV",
+  "caratula": "",
+  "identificador_legal": "Expte. 549850/2022",
+  "id_legal_norm": "EXPTE. 549850/2022",
+  "holding": "Se confirma la condena de primera instancia al encuadrar la actividad de construcción como una actividad riesgosa en los términos del art. 1757 del CCyC, siendo imputable al constructor el daño verificado y su nexo causal con las vibraciones y movimientos de suelo, sin que las patologías previas constatadas logren desvirtuar la magnitud de los nuevos deterioros probados por periciales.",
+  "puntos_clave": [
+   "La construcción de edificios es una actividad riesgosa objetiva bajo el art. 1757 del CCyC.",
+   "Se probó la relación causal entre las vibraciones de la obra y los graves daños estructurales mediante pericias de arquitectura e ingeniería.",
+   "Se reconoció el daño moral por la afectación a la tranquilidad y seguridad del grupo familiar."
+  ],
+  "impacto_practico": "Resulta fundamental para litigantes en materia de daños y perjuicios derivados de obras linderas, ratificando la aplicación de la responsabilidad objetiva y el valor probatorio de las pericias técnicas frente a actas de constatación inicial defectuosas.",
+  "normas_citadas": [
+   "art. 1757 CCyC",
+   "art. 1772 CCyC",
+   "art. 1741 CCyC",
+   "art. 730 CCyC"
+  ],
+  "etiquetas": [
+   "responsabilidad objetiva",
+   "daños y perjuicios",
+   "obra en construcción",
+   "daño moral",
+   "relación de causalidad"
+  ],
+  "cita_sugerida": "Cámara de Apelaciones en lo Civil, Comercial, Laboral y de Minería de Neuquén, Sala IV, Expte. 549850/2022",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063321-original.pdf"
+  },
+  "fecha": "2026-11-26T11:51:39+00:00",
+  "ingresado": "2026-11-28T09:00:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "caratula descartado: no figura en la fuente"
+   ]
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -2304,6 +3292,120 @@
   "oficial": {},
   "fecha": "2026-11-26T09:00:03+00:00",
   "ingresado": "2026-11-27T18:46:04+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b6ca8ebaeff1",
+  "url_hash": "b6ca8ebaeff141c5bd461e68edfc5c53ece98c98a4849636b1ff26c6f3e9775f",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104965-el-error-que-nadie-vio",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "TSJ de la CABA declaró la nulidad de una sentencia de Cámara por contradicción interna",
+  "titulo_original": "El error que nadie vio",
+  "bajada": "El Tribunal Superior de Justicia anuló de oficio una sentencia de Cámara al advertir una contradicción insalvable entre los fundamentos y la parte resolutiva.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "CABA",
+  "tribunal": "Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires",
+  "caratula": "GCBA s/ queja por recurso de inconstitucionalidad denegado en Alcobron SCA contra GCBA y otros sobre impugnacion actos administrativos",
+  "identificador_legal": "Expte. n° QTS 44690/2012-1",
+  "id_legal_norm": "QTS 44690/2012",
+  "holding": "Corresponde declarar la nulidad de oficio de una sentencia de segunda instancia cuando su parte dispositiva es autocontradictoria y se aparta de los fundamentos del voto mayoritario, afectando la garantía de debida fundamentación y constituyendo un defecto lógico insalvable.",
+  "puntos_clave": [
+   "El TSJ de la CABA relevó de oficio una contradicción interna entre los fundamentos de la Cámara y su parte dispositiva.",
+   "La Cámara había considerado admisible el agravio sobre la imposibilidad de revisar la deuda pero confirmó la nulidad de la resolución fiscal.",
+   "Se reafirmó la doctrina de la sentencia como una unidad lógico-jurídica indivisible que no admite antagonismos internos."
+  ],
+  "impacto_practico": "Permite a los litigantes peticionar o fundar la nulidad de resoluciones judiciales que presenten contradicciones manifiestas entre sus considerandos y la parte dispositiva, invocando el orden público procesal.",
+  "normas_citadas": [
+   "art. 126 inc. 22 del Código Fiscal"
+  ],
+  "etiquetas": [
+   "nulidad de sentencia",
+   "contradicción interna",
+   "tribunal superior de justicia",
+   "principio de congruencia"
+  ],
+  "cita_sugerida": "TSJ CABA, Expte. n° QTS 44690/2012-1, Alcobron SCA c/ GCBA s/ impugnación actos administrativos",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063319-original.pdf"
+  },
+  "fecha": "2026-11-26T07:13:28+00:00",
+  "ingresado": "2026-11-28T09:00:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "6b59fa7ed68d",
+  "url_hash": "6b59fa7ed68d0f470fdff046b8341e1c7fa966252f98b5f86cea9d4847fa7311",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104964-el-ius-variandi-descarrilo",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Límite al ius variandi: confirman despido indirecto por cambio arbitrario de horario",
+  "titulo_original": "El \"ius variandi\" descarriló",
+  "bajada": "La Cámara del Trabajo confirmó el despido indirecto de un trabajador del subte ante la modificación patronal incausada de su turno matutino, que afectaba el cuidado de su hijo con discapacidad.",
+  "tipo": "Fallo",
+  "materia": "Laboral",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Nacional de Apelaciones del Trabajo - Sala X",
+  "caratula": "VELOSO VICTOR EDUARDO C/ METROVIAS S.A Y OTRO S/ DESPIDO",
+  "identificador_legal": "Expte. Nº: 20.431/2022/CA1 (72.331)",
+  "id_legal_norm": "EXPTE. No: 20431/2022/CA1 (72331)",
+  "holding": "El ejercicio del ius variandi (art. 66 LCT) requiere razonabilidad y la ausencia de perjuicio material o moral, cargas que incumben justificar al empleador. Resulta ajustado a derecho el despido indirecto decidido por el trabajador ante la ratificación empresarial de modificar su jornada matutina por el turno intermedio, pese a conocer la afectación en la atención de su hijo con discapacidad y sin invocar razones operativas válidas.",
+  "puntos_clave": [
+   "El empleador debe demostrar la razonabilidad del cambio de condiciones laborales y la ausencia de perjuicio al trabajador.",
+   "El cambio de horario que desatiende obligaciones de cuidado familiar de un hijo con discapacidad configura un ejercicio abusivo del ius variandi.",
+   "No es prematuro el despido indirecto si el empleador exterioriza de forma categórica e insistente la futura modificación inconsulta."
+  ],
+  "impacto_practico": "Útil para litigantes y asesores laborales para delimitar las fronteras del poder de variación empresarial frente a cargas de familia y situaciones de discapacidad debidamente notificadas.",
+  "normas_citadas": [
+   "art. 66 LCT",
+   "art. 242 LCT",
+   "art. 246 LCT",
+   "art. 63 LCT",
+   "art. 10 LCT",
+   "art. 377 CPCCN"
+  ],
+  "etiquetas": [
+   "ius variandi",
+   "despido indirecto",
+   "jornada laboral",
+   "discapacidad",
+   "contrato de trabajo"
+  ],
+  "cita_sugerida": "CNAT, Sala X, \"Veloso, Victor Eduardo c/ Metrovías S.A. y otro s/ despido\", 30/10/2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063317-original.pdf"
+  },
+  "fecha": "2026-11-26T07:03:03+00:00",
+  "ingresado": "2026-11-28T09:01:22+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,
@@ -2800,6 +3902,269 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "7787858764a3",
+  "url_hash": "7787858764a3ce71018f29ef2dde9a12bf51807a4ca3597cd0dbf8f6af98cec8",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Indagatoria al número dos del Opus Dei por presunta trata de personas",
+  "titulo_original": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+  "bajada": "El juez federal Daniel Rafecas citó a prestar declaración indagatoria a Mariano Fazio, vicario auxiliar del Opus Dei, y a otros dos sacerdotes en el marco de una causa por presunta trata de personas y reducción a la servidumbre.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Federal N.º 3",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El juez federal convocó a declaración indagatoria a directivos y sacerdotes del Opus Dei ante la sospecha de delitos de trata de personas y reducción a la servidumbre vinculados al régimen de numerarias auxiliares.",
+  "puntos_clave": [
+   "El magistrado convocó a indagatoria a Mariano Fazio y otros sacerdotes por presunta trata de personas y reducción a la servidumbre.",
+   "La investigación se centra en la situación de una mujer que ingresó a la organización en su adolescencia y se desempeñó como numeraria auxiliar.",
+   "La medida se adoptó tras los requerimientos formulados por la fiscalía y la Procuraduría de Trata y Explotación de Personas."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos analizar los criterios procesales sobre prescripción y encuadre legal en causas por presunta reducción a la servidumbre y trata de personas de larga data.",
+  "normas_citadas": [
+   "art. 140 del Código Penal",
+   "art. 145 bis del Código Penal",
+   "Ley 26.364",
+   "Ley 26.842",
+   "art. 62 del Código Penal de la Nación",
+   "art. 294 del Código Procesal Penal de la Nación"
+  ],
+  "etiquetas": [
+   "trata de personas",
+   "reducción a la servidumbre",
+   "indagatoria",
+   "opus dei"
+  ],
+  "cita_sugerida": "Juzgado Federal N.º 3, investigación por presunta trata de personas, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T23:29:45+00:00",
+  "ingresado": "2026-11-28T09:10:50+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "b3afff9ace27",
+  "url_hash": "b3afff9ace274abb6256337c7a4d5fe7f1fc47cd195e7ec5b86db6ddf0305b16",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/tragedia-en-el-parque-nacional-lanin-ordenaron-un-nuevo-juicio-por-la-muerte-de-dos-ninos-aplastados-por-un-arbol/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Tragedia en el Parque Nacional Lanín: ordenaron un nuevo juicio",
+  "titulo_original": "Tragedia en el Parque Nacional Lanín: ordenaron un nuevo juicio por la muerte de dos niños aplastados por un árbol",
+  "bajada": "La Cámara Federal de Casación Penal anuló una resolución del Tribunal Oral Federal de Neuquén y ordenó la realización de un nuevo juicio oral y público por la muerte de dos niños aplastados por un árbol.",
+  "tipo": "Fallo",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Casación Penal, Sala II",
+  "caratula": "",
+  "identificador_legal": "Disposición 223/15",
+  "id_legal_norm": "DISPOSICION 223/2015",
+  "holding": "La Cámara Federal de Casación Penal determinó que los jueces que deben emitir un nuevo pronunciamiento no pueden hacerlo basándose únicamente en los registros audiovisuales del debate anterior, ya que ello vulnera los principios de inmediación, oralidad y defensa en juicio al no haber participado personalmente del contradictorio.",
+  "puntos_clave": [
+   "Se ordenó la realización de un nuevo juicio oral y público tras revocar la decisión del tribunal inferior de dictar sentencia mediante registros audiovisuales.",
+   "La Sala II destacó que la inmediación no puede ser suplida por la revisión posterior de grabaciones de video.",
+   "Se cuestionó la afectación a las garantías del debido proceso y al derecho de defensa en juicio."
+  ],
+  "impacto_practico": "Obliga a los tribunales a realizar debates presenciales completos cuando se anulan absoluciones y se ordena un nuevo pronunciamiento sobre la culpabilidad, impidiendo resolver mediante la mera revisión de registros audiovisuales por jueces que no presenciaron el juicio original.",
+  "normas_citadas": [
+   "art. 471 del Código Procesal Penal de la Nación"
+  ],
+  "etiquetas": [
+   "inmediación",
+   "juicio oral",
+   "homicidio culposo",
+   "parque nacional lanín",
+   "casación penal"
+  ],
+  "cita_sugerida": "Cámara Federal de Casación Penal, Sala II, 2026",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T21:00:38+00:00",
+  "ingresado": "2026-11-28T09:11:26+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "7375b72dc421",
+  "url_hash": "7375b72dc42171ab0baa700775acc32e59e1194b1e73a82bd9875e33d6918244",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/caso-chocolate-rigau-desestimaron-una-denuncia-contra-la-camara-de-diputados-bonaerense-por-presunto-encubrimiento/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Caso Chocolate Rigau: desestiman denuncia por encubrimiento a la Cámara de Diputados",
+  "titulo_original": "Caso “Chocolate” Rigau: desestimaron una denuncia contra la Cámara de Diputados bonaerense por presunto encubrimiento",
+  "bajada": "El fiscal Álvaro Garganta desestimó una denuncia contra la Cámara de Diputados bonaerense por la negativa a entregar documentación sobre contrataciones, al considerar que no hubo ocultamiento de pruebas ni conductas delictivas.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Unidad Funcional de Instrucción y Juicio N.º 11 del Departamento Judicial La Plata",
+  "caratula": "",
+  "identificador_legal": "Nota 631/2026",
+  "id_legal_norm": "NOTA 631/2026",
+  "holding": "El fiscal determinó que la negativa a entregar documentación dispuesta por el pleno de la Cámara de Diputados no configura encubrimiento ni ocultamiento de pruebas, ya que la decisión se adoptó en una sesión pública, los documentos originales permanecen bajo custodia sin alteraciones y la responsabilidad penal no puede atribuirse colectivamente a una estructura institucional.",
+  "puntos_clave": [
+   "Se desestimó la denuncia por presunto encubrimiento y ocultamiento de pruebas contra la Cámara de Diputados bonaerense.",
+   "El fiscal señaló que el archivo de las actuaciones se decidió en una sesión pública y los documentos originales siguen resguardados.",
+   "Se indicó que la responsabilidad penal no puede atribuirse de manera colectiva a una estructura institucional ni a los votos protegidos."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos analizar los límites entre las decisiones institucionales de los cuerpos legislativos y la tipificación penal del encubrimiento u ocultamiento de pruebas ante requerimientos judiciales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "caso chocolate rigau",
+   "encubrimiento",
+   "camara de diputados",
+   "ministerio publico",
+   "la plata"
+  ],
+  "cita_sugerida": "UFIJ N.º 11 de La Plata, desestimación de denuncia contra la Cámara de Diputados bonaerense, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T20:42:22+00:00",
+  "ingresado": "2026-11-28T09:11:56+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "563ab4904157",
+  "url_hash": "563ab4904157a89897b6927e79a78dee06d75f75d0e528e216ab5224548d3886",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/la-camara-federal-revoco-los-sobreseimientos-de-los-hermanos-caputo-en-la-causa-por-supuesto-financiamiento-a-revolucion-federal/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Cámara Federal revocó sobreseimientos de los hermanos Caputo en causa Revolución Federal",
+  "titulo_original": "La Cámara Federal revocó los sobreseimientos de los hermanos Caputo en la causa por supuesto financiamiento a Revolución Federal",
+  "bajada": "La Sala I de la Cámara Federal revocó los sobreseimientos de Flavio y Rosana Caputo y ordenó completar medidas de prueba por considerar prematura la desvinculación.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Cámara",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal, Sala I",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara Federal resolvió revocar los sobreseimientos dictados en primera instancia respecto de Flavio y Rosana Caputo, al concluir que la medida resultó prematura por faltar el grado de certeza negativa exigido por el Código Procesal Penal Federal y existir diligencias probatorias pendientes solicitadas por las querellas.",
+  "puntos_clave": [
+   "Se revocaron los sobreseimientos de Flavio y Rosana Caputo en la investigación por presunto financiamiento a Revolución Federal.",
+   "Los jueces consideraron que la decisión de primera instancia fue prematura al no alcanzarse el grado de certeza negativa requerido.",
+   "Se ordenó producir medidas de prueba pendientes, incluyendo declaraciones testimoniales clave."
+  ],
+  "impacto_practico": "Permite a las querellas avanzar en la producción de prueba y en el análisis de las transferencias y contrataciones cuestionadas antes de una eventual clausura de la etapa instructoria para los imputados.",
+  "normas_citadas": [
+   "art. 336 inc. 2 del C.P.P.N"
+  ],
+  "etiquetas": [
+   "sobreseimiento",
+   "cámara federal",
+   "revolución federal",
+   "medidas de prueba"
+  ],
+  "cita_sugerida": "Cámara Federal, Sala I, causa sobre financiamiento a Revolución Federal, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T18:33:34+00:00",
+  "ingresado": "2026-11-28T09:12:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "827ffa8178d9",
+  "url_hash": "827ffa8178d927440e3bfbba735ef9ae67cd969bcd33958819825795d3fd97c2",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/vacunatorio-vip-horacio-verbitsky-declaro-ante-la-justicia-que-no-sabia-que-era-ilegal-ser-inoculado-antes-de-tiempo/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Vacunatorio VIP: Horacio Verbitsky declaró que no sabía que era ilegal vacunarse antes de tiempo",
+  "titulo_original": "Vacunatorio vip: Horacio Verbitsky declaró ante la justicia que no sabía que era ilegal ser inoculado antes de tiempo",
+  "bajada": "El periodista prestó declaración indagatoria ante la jueza María Eugenia Capuchetti y el fiscal Eduardo Taiano en la causa por el acceso irregular a vacunas.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Criminal y Correccional Federal Nro. 5",
+  "caratula": "Vacunatorio VIP",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "En el marco de la causa por el Vacunatorio VIP, el imputado Horacio Verbitsky declaró en indagatoria que desconocía la ilegalidad de recibir la vacuna contra el Covid-19 fuera de los circuitos prioritarios, sosteniendo que no lo hubiera hecho de haberlo sabido, mientras la fiscalía sostiene que los beneficiarios habrían participado en el delito de peculado de bienes.",
+  "puntos_clave": [
+   "Horacio Verbitsky declaró ante la jueza María Eugenia Capuchetti y el fiscal Eduardo Taiano.",
+   "El imputado sostuvo que desconocía la ilicitud de recibir la dosis fuera de los grupos prioritarios durante la pandemia.",
+   "La fiscalía considera que los beneficiarios de las vacunas no tuvieron un rol pasivo, sino que habrían sido partícipes necesarios de peculado de bienes."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos conocer los argumentos defensivos esgrimidos en las indagatorias de la causa por el Vacunatorio VIP y el encuadre fiscal como partícipes necesarios del delito de peculado.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "vacunatorio vip",
+   "peculado",
+   "indagatoria",
+   "ministerio de salud"
+  ],
+  "cita_sugerida": "Juzgado Criminal y Correccional Federal Nro. 5, causa Vacunatorio VIP, noviembre de 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T18:10:24+00:00",
+  "ingresado": "2026-11-28T09:13:11+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "5b7e315fbf36",
   "url_hash": "5b7e315fbf36b13847d50a586bd29af2482c8b2156e7a33a6de55ba4fe46b774",
   "fuente": "mpf",
@@ -2846,6 +4211,56 @@
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "d60e858e057a",
+  "url_hash": "d60e858e057ad15e184d9df40d610fdf9bb922591bdc57323c5df3eab6905950",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/la-justicia-aumento-a-50-millones-la-caucion-que-debe-garantizar-chiqui-tapia-cada-vez-que-sale-del-pais-tiene-sobrada-solvencia/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Aumentan a 50 millones la caución para la salida del país de Claudio 'Chiqui' Tapia",
+  "titulo_original": "La Justicia aumentó a $50 millones la caución que debe garantizar “Chiqui” Tapia cada vez que sale del país: “Tiene sobrada solvencia”",
+  "bajada": "El juez Diego Amarante elevó la fianza que debe depositar el titular de la AFA para sus viajes al exterior, al ponderar su sobrada solvencia y la onerosidad de sus destinos.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado en lo Penal Económico a cargo de Diego Amarante",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El magistrado resolvió incrementar de 30 a 50 millones de pesos la caución real exigida al imputado para autorizar sus sucesivas salidas del país, fundamentando la medida en la multiplicidad de destinos internacionales, la onerosidad de los periplos y la evidente solvencia económica demostrada por el dirigente.",
+  "puntos_clave": [
+   "El juez penal económico Diego Amarante elevó la caución de 30 a 50 millones de pesos para autorizar salidas al exterior.",
+   "La decisión se fundamentó en la pluralidad de destinos internacionales y la sobrada solvencia del imputado.",
+   "Claudio Tapia se encuentra procesado por supuesta retención indebida de aportes y tributos en el marco de una causa penal económica."
+  ],
+  "impacto_practico": "Ilustra el criterio judicial respecto al uso de cauciones económicas proporcionales a la solvencia del procesado y a la onerosidad de los viajes al exterior en causas penales complejas.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "prohibición de salida del país",
+   "caución",
+   "penal económico",
+   "afa"
+  ],
+  "cita_sugerida": "Juzgado en lo Penal Económico, causa seguida a Claudio Tapia, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T17:34:08+00:00",
+  "ingresado": "2026-11-28T09:13:41+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
@@ -3010,6 +4425,56 @@
   "oficial": {},
   "fecha": "2026-11-25T15:00:00+00:00",
   "ingresado": "2026-11-27T10:06:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "171f78875b7e",
+  "url_hash": "171f78875b7e22f573182f4999d73fb328ddab18ca7c456fd0d0936ff7c4ad4b",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/un-informe-de-la-corte-revelo-que-el-74-de-las-mujeres-adultas-argentinas-fueron-agredidas-por-parejas-o-exparejas/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Informe de la OVD de la Corte sobre reincidencia y violencia doméstica",
+  "titulo_original": "Un informe de la Corte reveló que el 79% de los denunciados por violencia doméstica ya había agredido a parejas anteriores",
+  "bajada": "Un estudio de la Oficina de Violencia Doméstica revela que el 79% de los denunciados ya había agredido a parejas anteriores y analiza los niveles de riesgo según los antecedentes.",
+  "tipo": "Noticia",
+  "materia": "Derechos Humanos",
+  "instancia": "CSJN",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Oficina de Violencia Doméstica de la Corte Suprema de Justicia de la Nación (OVD)",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El informe especial de la Oficina de Violencia Doméstica de la Corte Suprema de Justicia de la Nación evidencia la fuerte correlación entre los antecedentes de violencia en la infancia y en relaciones previas con mayores niveles de riesgo y frecuencia de agresiones en la adultez.",
+  "puntos_clave": [
+   "El 79% de los denunciados por violencia doméstica había ejercido violencia contra parejas anteriores.",
+   "La presencia de antecedentes de violencia se asocia con evaluaciones de riesgo alto o altísimo y mayor frecuencia de agresiones físicas.",
+   "Entre 2008 y 2025, la OVD recibió 167.755 presentaciones por violencia doméstica."
+  ],
+  "impacto_practico": "Permite a operadores judiciales y equipos interdisciplinarios dimensionar el riesgo en casos de violencia doméstica a partir de la historia previa de agresiones y maltrato familiar.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "violencia doméstica",
+   "ovd",
+   "violencia de género",
+   "antecedentes"
+  ],
+  "cita_sugerida": "Oficina de Violencia Doméstica de la Corte Suprema de Justicia de la Nación, informe especial sobre violencia doméstica, 2026.",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T14:35:09+00:00",
+  "ingresado": "2026-11-28T09:14:57+00:00",
   "fuentes_adicionales": [],
   "verificacion": {
    "citas_verificadas": 3,
@@ -3398,6 +4863,159 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "7586f934e3bb",
+  "url_hash": "7586f934e3bba9b8cd7fa8b310440917d8630a84ab73db0663805706188cf42f",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/fallo-por-mala-praxis-deberan-indemnizar-a-una-paciente-con-un-trastorno-de-coagulacion-que-tuvo-complicaciones-tras-una-cirugia/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Condenan a clínica y profesionales por mala praxis en paciente con trastorno de coagulación",
+  "titulo_original": "Fallo por mala praxis: deberán indemnizar a una paciente con un trastorno de coagulación que tuvo complicaciones tras una cirugía",
+  "bajada": "Un juzgado civil y comercial de La Matanza ordenó indemnizar a una paciente que sufrió complicaciones postoperatorias tras una cirugía en el codo sin la previsión médica adecuada para su enfermedad de Von Willebrand.",
+  "tipo": "Noticia",
+  "materia": "Civil y Comercial",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Juzgado en lo Civil y Comercial n.° 4 de La Matanza",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se determinó la responsabilidad civil de la institución médica, los profesionales intervinientes y sus aseguradoras por mala praxis debido a la deficiente atención prequirúrgica, ya que omitieron realizar estudios específicos y administrar medicación preventiva (desmopresina) a una paciente con enfermedad de Von Willebrand, lo que derivó en un postoperatorio con hemorragias y la necesidad de una segunda intervención.",
+  "puntos_clave": [
+   "La falta de evaluación hematológica y de medidas preventivas ante un trastorno de coagulación configura mala praxis médica.",
+   "La historia clínica carecía de constancias sobre estudios específicos para tipificar la enfermedad de Von Willebrand de la paciente.",
+   "Se fijó una indemnización integral por incapacidad sobreviniente, daño moral, tratamiento psicológico y gastos médicos con intereses y actualización por IPC."
+  ],
+  "impacto_practico": "Útil para litigantes y peritos médicos en causas de responsabilidad civil profesional, al remarcar la exigencia de rigor en el manejo prequirúrgico de pacientes con patologías hematológicas preexistentes.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "mala praxis",
+   "responsabilidad civil",
+   "daños y perjuicios",
+   "enfermedad de von willebrand"
+  ],
+  "cita_sugerida": "Juzgado en lo Civil y Comercial n.° 4 de La Matanza, fallo sobre mala praxis y enfermedad de Von Willebrand, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T06:30:29+00:00",
+  "ingresado": "2026-11-28T09:15:38+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "60ec967d7a99",
+  "url_hash": "60ec967d7a990c6adee72dd5be20aa117a3d7e38ec40ea5137eb7c96f6aa6184",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/la-aerolinea-demoro-en-entregarle-la-valija-y-anduvo-por-roma-con-ropa-prestada-la-justicia-ordeno-indemnizarlo/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Condenan a aerolínea por demora en la entrega de equipaje en Roma",
+  "titulo_original": "La aerolínea demoró en entregarle la valija y anduvo por Roma con ropa prestada: la Justicia ordenó indemnizarlo",
+  "bajada": "La Justicia ordenó indemnizar a un pasajero por daño material y moral debido a la demora de dos días en la entrega de su valija durante un viaje internacional.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Nacional en lo Civil y Comercial Federal n.° 4",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El juzgado determinó que la aerolínea es responsable por la demora en la entrega del equipaje facturado conforme al Convenio de Montreal de 1999, generando un perjuicio material presumido razonablemente ante la falta de acceso a efectos personales y un daño moral resarcible por la incertidumbre y las gestiones realizadas.",
+  "puntos_clave": [
+   "Se aplicó el Convenio de Montreal de 1999 para regular la responsabilidad del transportista aéreo por la entrega tardía de equipaje.",
+   "Se fijó una indemnización integral por daño material y moral a pesar de la falta de comprobantes de gastos o compras específicas.",
+   "Las costas del juicio fueron impuestas a la aerolínea demandada por resultar sustancialmente vencida."
+  ],
+  "impacto_practico": "Permite a los litigantes respaldar reclamos por daños derivados de la pérdida temporal de equipaje amparándose en el Convenio de Montreal, aun cuando no se conserven comprobantes de todos los gastos efectuados durante la contingencia.",
+  "normas_citadas": [
+   "Convenio de Montreal de 1999"
+  ],
+  "etiquetas": [
+   "transporte aéreo",
+   "daño moral",
+   "daño material",
+   "equipaje demorado",
+   "convenio de montreal"
+  ],
+  "cita_sugerida": "Juzgado Nacional en lo Civil y Comercial Federal n.° 4, abril de 2019.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T06:30:13+00:00",
+  "ingresado": "2026-11-28T09:16:19+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "1fee9869c7b0",
+  "url_hash": "1fee9869c7b0c27266e3c6ac070c85d1f6f6011a8695305b9123151892c4824d",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/25/conducia-por-una-avenida-y-un-arbol-cayo-y-le-aplasto-el-auto-la-justicia-confirmo-la-condena-a-la-municipalidad-por-la-falta-de-mantenimiento/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Responsabilidad municipal por caída de árbol: confirman condena por falta de mantenimiento",
+  "titulo_original": "Conducía por una avenida y un árbol cayó y le aplastó el auto: la Justicia confirmó la condena a la municipalidad por la falta de mantenimiento",
+  "bajada": "La Cámara confirmó una sentencia contra un municipio bonaerense por los daños sufridos por un conductor cuando un árbol del espacio público se desplomó sobre su vehículo en plena avenida.",
+  "tipo": "Fallo",
+  "materia": "Contencioso Administrativo",
+  "instancia": "Cámara",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Cámara de Apelación en lo Contencioso Administrativo de San Martín",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara confirmó la condena civil impuesta a la municipalidad por la caída de un árbol público sobre un automóvil, al considerar acreditada la omisión en los deberes de control y mantenimiento del arbolado urbano. El tribunal valoró que el municipio retiró el ejemplar el mismo día impidiendo una pericia posterior y que no aportó registros de inspecciones previas, lo que configuró indicios suficientes de una prestación deficiente del servicio.",
+  "puntos_clave": [
+   "La sola caída del árbol no genera responsabilidad objetiva automática, pero la falta de registros de control municipal y el retiro inmediato del ejemplar configuran indicios suficientes de negligencia.",
+   "Se confirmó la indemnización por incapacidad física, daño moral y privación de uso, acreditada esta última ante la indisponibilidad del vehículo siniestrado.",
+   "La Cámara rechazó la pretensión de indexación monetaria por considerar que los montos habían sido fijados a valores vigentes al momento de la sentencia de primera instancia."
+  ],
+  "impacto_practico": "Útil para litigantes y asesores letrados en demandas contra el Estado por daños derivados de la falta de mantenimiento del arbolado público, destacando la importancia de la prueba indiciaria y la carga probatoria dinámica cuando la administración suprime el objeto de pericia.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "responsabilidad estatal",
+   "arbolado público",
+   "daños y perjuicios",
+   "privación de uso"
+  ],
+  "cita_sugerida": "Cámara de Apelación en lo Contencioso Administrativo de San Martín, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-25T06:29:52+00:00",
+  "ingresado": "2026-11-28T09:17:20+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "d2f300507196",
   "url_hash": "d2f300507196ff35599bcaa7324163ed81b9fd4d7a0d0dc9d5dccf6cd84c3076",
   "fuente": "bora",
@@ -3555,14 +5173,23 @@
   "oficial": {},
   "fecha": "2026-11-25T03:00:00+00:00",
   "ingresado": "2026-11-26T01:56:22+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "diario_judicial",
+    "fuente_nombre": "Diario Judicial",
+    "url": "https://www.diariojudicial.com/news-104970-contrataciones-online-supremas",
+    "titulo": "Contrataciones online supremas",
+    "fecha": "2026-11-26T13:29:16+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 2,
    "citas_total": 2,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:02:05+00:00"
  },
  {
   "id": "72f03253d43d",
@@ -3746,6 +5373,13 @@
     "url": "https://aldiaargentina.microjuris.com/2026/11/25/legislacion-fondo-de-asistencia-laboral-arca-actualizo-las-condiciones-para-que-los-empleadores-sean-considerados-micro-pequenas-y-medianas-empresas/",
     "titulo": "Fondo de Asistencia Laboral: ARCA actualizó las condiciones para que los empleadores sean considerados micro, pequeñas y medianas empresas",
     "fecha": "2026-11-25T08:22:09+00:00"
+   },
+   {
+    "fuente": "eldial",
+    "fuente_nombre": "elDial.com",
+    "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/legislacion1.asp?base=99&id=38010",
+    "titulo": "Modernización laboral: arca adecua el régimen del fondo de asistencia laboral para incluir a cooperativas y entidades sin fines de lucro.",
+    "fecha": "2026-11-28T08:52:11+00:00"
    }
   ],
   "verificacion": {
@@ -3755,7 +5389,7 @@
    "avisos": []
   },
   "modelo": "gemini-3.5-flash-lite",
-  "actualizado": "2026-11-27T18:48:40+00:00"
+  "actualizado": "2026-11-28T09:06:56+00:00"
  },
  {
   "id": "2ddfb6d424a9",
@@ -3826,6 +5460,208 @@
   "actualizado": "2026-11-27T18:48:55+00:00"
  },
  {
+  "id": "586e2aea16f9",
+  "url_hash": "586e2aea16f9a96bd3dad8291011dcbe5dd616e4ef4895572633c6bf1d42ca83",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/24/libra-dos-jueces-de-casacion-se-negaron-a-dar-un-paso-al-costado-en-una-decision-clave-para-la-causa/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Causa $LIBRA: jueces de Casación rechazaron recusaciones y definirán sobre las querellas",
+  "titulo_original": "$LIBRA: dos jueces de Casación se negaron a dar un paso al costado en una decisión clave para la causa",
+  "bajada": "Los jueces Ángela Ledesma y Guillermo Yacobucci rechazaron los planteos de recusación en su contra y continuarán interviniendo en la definición sobre el regreso de los querellantes a la causa.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Casación",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Cámara Federal de Casación Penal, Sala II",
+  "caratula": "",
+  "identificador_legal": "Causa $LIBRA",
+  "id_legal_norm": null,
+  "holding": "Los magistrados de la Cámara Federal de Casación Penal desestimaron los pedidos de recusación formulados por las partes al considerar que no existen motivos objetivos que afecten su imparcialidad ni un interés concreto condicionado por vínculos institucionales o familiares, manteniendo su competencia para resolver sobre la reincorporación de los querellantes en la causa $LIBRA.",
+  "puntos_clave": [
+   "Los jueces Ángela Ledesma y Guillermo Yacobucci rechazaron apartarse de la causa $LIBRA tras sendas recusaciones.",
+   "Ledesma descartó que su vínculo académico con INECIP afecte su imparcialidad para evaluar la recusación.",
+   "Yacobucci rechazó la recusación basada en el cargo público de su hijo en el Ministerio de Justicia."
+  ],
+  "impacto_practico": "Permite a los litigantes conocer el criterio restrictivo de la Cámara de Casación ante planteos de recusación fundados en vínculos académicos o familiares con la administración pública, y anticipa una definición sobre la legitimación de los querellantes.",
+  "normas_citadas": [
+   "Ley de Ética Pública"
+  ],
+  "etiquetas": [
+   "recusación",
+   "cámara federal de casación penal",
+   "querellantes",
+   "sobreseimiento"
+  ],
+  "cita_sugerida": "Cámara Federal de Casación Penal, Sala II, Causa $LIBRA",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T23:01:18+00:00",
+  "ingresado": "2026-11-28T09:18:20+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "f4def82c1274",
+  "url_hash": "f4def82c1274795e9962f89b188b53c009971d4121340f085a9aafbd2823b624",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/24/concedieron-prision-domiciliaria-al-expresidente-de-la-uia-juan-carlos-lascurain-por-razones-de-salud/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Prisión domiciliaria por razones de salud a Juan Carlos Lascurain",
+  "titulo_original": "Concedieron prisión domiciliaria al expresidente de la UIA Juan Carlos Lascurain por razones de salud",
+  "bajada": "El Tribunal Oral Federal N° 7 concedió el arresto domiciliario definitivo al expresidente de la UIA Juan Carlos Lascurain, condenado por peculado, debido a su avanzada edad y un cuadro de cáncer de próstata diseminado.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Tribunal Oral Federal N° 7",
+  "caratula": "",
+  "identificador_legal": "causa Yacimientos Río Turbio",
+  "id_legal_norm": null,
+  "holding": "El tribunal resolvió conceder la prisión domiciliaria ponderando el derecho a la salud, la vida y el trato humanitario frente a una enfermedad incurable y de pronóstico desfavorable, considerando que el Servicio Penitenciario Federal no garantizaba las condiciones adecuadas para el tratamiento oncológico y geriátrico.",
+  "puntos_clave": [
+   "La edad avanzada (80 años) sumada a patologías graves (cáncer de próstata diseminado con metástasis óseas) justificó la medida excepcional.",
+   "El tribunal desestimó el informe del Servicio Penitenciario Federal por considerar que no garantizaba la continuidad del tratamiento oncológico y la asistencia geriátrica.",
+   "Se impusieron estrictas reglas de control, incluyendo la obligación de presentar informes médicos cada 90 días y autorización judicial para traslados."
+  ],
+  "impacto_practico": "Permite a los defensores fundamentar pedidos de arresto domiciliario en casos de enfermedades graves e incurables, exigiendo que el Servicio Penitenciario demuestre capacidad real para brindar tratamientos complejos y específicos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "prisión domiciliaria",
+   "salud",
+   "peculado",
+   "ejecución de la pena"
+  ],
+  "cita_sugerida": "TOF N° 7, causa Yacimientos Río Turbio, 2026",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T20:43:05+00:00",
+  "ingresado": "2026-11-28T09:19:01+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "05707fe1d038",
+  "url_hash": "05707fe1d0380d19a3147a6928e6d78d0fa618abcd9721f2325e3adf5ffae2dd",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/24/el-fiscal-stornelli-pidio-investigar-y-suspender-provisoriamente-el-homenaje-a-santucho-en-la-uba/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Fiscalía pidió investigar y suspender homenaje a Santucho en la UBA",
+  "titulo_original": "El fiscal Stornelli pidió investigar y suspender provisoriamente el homenaje a Santucho en la UBA",
+  "bajada": "El fiscal federal Carlos Stornelli requirió una medida cautelar para suspender un homenaje institucional a Mario Roberto Santucho en la Facultad de Ciencias Sociales de la UBA e investigar una posible apología del delito.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Ministerio Público",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Fiscalía Federal",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "El fiscal federal requirió una medida cautelar de no innovar para suspender provisoriamente un homenaje institucional al líder guerrillero Mario Roberto Santucho en la Universidad de Buenos Aires y solicitó investigar si la decisión de la Facultad de Ciencias Sociales configura apología del delito o implica el uso indebido de recursos universitarios.",
+  "puntos_clave": [
+   "El fiscal Carlos Stornelli solicitó la suspensión provisoria de un homenaje a Mario Roberto Santucho declarado de interés institucional por la Facultad de Ciencias Sociales de la UBA.",
+   "Se abrió un requerimiento para investigar la posible comisión de delitos de acción pública, con foco preliminar en la figura de apología del delito y el uso de recursos universitarios.",
+   "Otras presentaciones judiciales fueron formuladas por el exjuez Guillermo Juan Tiscornia y el diputado nacional Sergio Capozzi cuestionando a las autoridades de la unidad académica."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y litigantes seguir el criterio fiscal sobre los límites de los pronunciamientos institucionales universitarios y su eventual relevancia penal en el marco de la apología del delito.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "apología del delito",
+   "universidad de buenos aires",
+   "ministerio público fiscal",
+   "medida cautelar"
+  ],
+  "cita_sugerida": "Fiscalía Federal, requerimiento de investigación sobre homenaje en la UBA, noviembre de 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T19:10:46+00:00",
+  "ingresado": "2026-11-28T09:19:42+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "c50cb9a75ade",
+  "url_hash": "c50cb9a75ade25be6e7296cbc1277844730d15eef7523788592ba1ec65a357cc",
+  "fuente": "infobae",
+  "fuente_nombre": "Infobae Judiciales",
+  "url": "https://www.infobae.com/judiciales/2026/11/24/la-justicia-desestimo-una-denuncia-por-presuntos-negocios-irregulares-de-empresarios-argentinos-en-venezuela/",
+  "prioridad": 40,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Desestiman denuncia por presuntos negocios irregulares de empresarios argentinos en Venezuela",
+  "titulo_original": "La Justicia desestimó una denuncia por presuntos negocios irregulares de empresarios argentinos en Venezuela",
+  "bajada": "La Justicia federal archivó una denuncia por lavado de dinero y corrupción contra empresarios argentinos que operaban en Venezuela, tras el dictamen fiscal que determinó la inexistencia de delito.",
+  "tipo": "Noticia",
+  "materia": "Penal",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Nacional/Federal",
+  "tribunal": "Juzgado Nacional en lo Criminal y Correccional Federal N.º 12",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La justicia desestimó una denuncia por lavado de dinero, corrupción y financiamiento del terrorismo al concluir, conforme el dictamen fiscal, que la existencia de relaciones comerciales autorizadas por el gobierno venezolano no resulta suficiente para configurar delitos ni presume pagos ilegales, careciendo la presentación de la precisión fáctica necesaria.",
+  "puntos_clave": [
+   "Se desestimó y archivó una denuncia iniciada en octubre de 2024 por María Eugenia Talerico y Álvaro de Lamadrid.",
+   "El fiscal Franco Picardi dictaminó la inexistencia de delito por falta de precisión fáctica en los hechos imputados.",
+   "Se estableció que la actividad económica autorizada en Venezuela no constituye por sí sola un ilícito penal."
+  ],
+  "impacto_practico": "Permite a los operadores jurídicos y defensores ponderar los límites probatorios y fácticos necesarios al denunciar operaciones comerciales internacionales vinculadas a contextos políticos complejos.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "lavado de dinero",
+   "inexistencia de delito",
+   "venezuela",
+   "empresarios argentinos"
+  ],
+  "cita_sugerida": "Juzgado Nacional en lo Criminal y Correccional Federal N.º 12, desestimación de denuncia por negocios en Venezuela, 2026.",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T19:06:35+00:00",
+  "ingresado": "2026-11-28T09:20:33+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "f8339029fb7c",
   "url_hash": "f8339029fb7c63cd5d6f92433224702eb244891ac78ac7b26bb18e2629fc447e",
   "fuente": "mpf",
@@ -3875,6 +5711,58 @@
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "c42f512dc83f",
+  "url_hash": "c42f512dc83f5d0ebe0b4f1b263fbbd131ecdcfd81d2eb07197a3ee7fbcce422",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104951-cambian-las-reglas-para-inscribir-herencias-en-la-provincia-de-buenos-aires",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Nuevos formatos obligatorios para inscribir herencias en la Provincia de Buenos Aires",
+  "titulo_original": "Cambian las reglas para inscribir herencias en la Provincia de Buenos Aires",
+  "bajada": "La SCBA aprobó una actualización integral de los textos estandarizados para la inscripción de herencias ante el Registro de la Propiedad, fijando su entrada en vigencia para el 1 de diciembre de 2026.",
+  "tipo": "Norma",
+  "materia": "Civil y Comercial",
+  "instancia": "Tribunal Superior provincial",
+  "jurisdiccion": "Buenos Aires",
+  "tribunal": "Suprema Corte de Justicia de la Provincia de Buenos Aires",
+  "caratula": "",
+  "identificador_legal": "Resolución SC 2.916/26",
+  "id_legal_norm": "RESOLUCION SC 2916/26",
+  "holding": "La Suprema Corte de Justicia bonaerensee dispuso, mediante la Resolución SC 2.916/26, la actualización y unificación obligatoria de los textos estandarizados de los oficios dirigidos a la Dirección Provincial del Registro de la Propiedad a partir del 1 de diciembre de 2026. La medida incorpora un nuevo formato específico para la inscripción de declaratorias sin partición hereditaria y adecua los recaudos catastrales, fiscales y filiatorios necesarios para la transmisión de dominio por causa de muerte.",
+  "puntos_clave": [
+   "Entrada en vigencia obligatoria de los nuevos modelos de oficios registrales a partir del 1 de diciembre de 2026.",
+   "Sustitución de los anexos preexistentes (II.3 y II.9) e incorporación del Anexo II.19 para casos de indivisión hereditaria sin partición.",
+   "Exigencia de consignar datos filiatorios, fiscales, domicilio electrónico, nomenclatura catastral y partida inmobiliaria."
+  ],
+  "impacto_practico": "Obliga a los operadores judiciales y profesionales del derecho de la provincia a utilizar exclusivamente los nuevos formularios estandarizados en los procesos sucesorios a partir de su implementación, bajo apercibimiento de rechazo registral.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "sucesiones",
+   "registro de la propiedad",
+   "provincia de buenos aires",
+   "herencia"
+  ],
+  "cita_sugerida": "Suprema Corte de Justicia de la Provincia de Buenos Aires, Resolución SC 2.916/26",
+  "alto_impacto": true,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {},
+  "fecha": "2026-11-24T18:35:44+00:00",
+  "ingresado": "2026-11-28T08:54:52+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": [
+    "norma descartada: Resolución SC 2.916/26"
+   ]
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -3983,14 +5871,23 @@
   "oficial": {},
   "fecha": "2026-11-24T15:00:00+00:00",
   "ingresado": "2026-11-27T10:06:02+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "infobae",
+    "fuente_nombre": "Infobae Judiciales",
+    "url": "https://www.infobae.com/judiciales/2026/11/25/financiamiento-universitario-la-fiscalia-pidio-a-un-tribunal-de-apelaciones-que-confirme-la-aplicacion-inmediata-de-la-ley/",
+    "titulo": "Financiamiento universitario: la fiscalía pidió a un tribunal de apelaciones que confirme la aplicación inmediata de la Ley",
+    "fecha": "2026-11-25T15:32:17+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:14:48+00:00"
  },
  {
   "id": "7479a08cd52c",
@@ -4374,6 +6271,61 @@
   "modelo": "gemini-3.5-flash-lite"
  },
  {
+  "id": "46b602da200c",
+  "url_hash": "46b602da200c066897ee92ac0aebdef8786a3df3d74d763e5f5dfa16af9ae0e9",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104944-con-capacidad-para-comprarse-una-tele",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Restricción parcial de capacidad y designación de apoyo en Salta",
+  "titulo_original": "Con capacidad para comprarse una tele",
+  "bajada": "La Justicia dictó una sentencia de restricción parcial de la capacidad para una mujer en situación de vulnerabilidad, limitando la medida a actos patrimoniales y designando un vecino como apoyo.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Primera instancia",
+  "jurisdiccion": "Salta",
+  "tribunal": "Juzgado de Primera Instancia en lo Civil de Personas y Familia de Segunda Nominación de Metán",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La capacidad constituye la regla general conforme al Código Civil y Comercial y la Convención sobre los Derechos de las Personas con Discapacidad, por lo que la restricción debe limitarse exclusivamente a aquellos actos complejos y de administración patrimonial para los cuales la persona necesita asistencia efectiva, preservando su autonomía en las actividades cotidianas.",
+  "puntos_clave": [
+   "Se dictó la restricción parcial de la capacidad de una mujer con retraso mental moderado.",
+   "La medida abarca únicamente la administración de bienes, cobro de beneficios y trámites complejos.",
+   "Se designó como apoyo a un vecino referente que la asiste y con quien mantiene un vínculo solidario."
+  ],
+  "impacto_practico": "Ilustra la aplicación práctica del sistema de apoyos y restricción parcial de la capacidad en resguardo de la autonomía de personas en situación de vulnerabilidad.",
+  "normas_citadas": [
+   "Convención sobre los Derechos de las Personas con Discapacidad",
+   "Código Civil y Comercial"
+  ],
+  "etiquetas": [
+   "capacidad jurídica",
+   "sistema de apoyos",
+   "restrccion de capacidad",
+   "vulnerabilidad"
+  ],
+  "cita_sugerida": "Juzgado de Primera Instancia en lo Civil de Personas y Familia de Segunda Nominación de Metán, Salta",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063296-original.pdf"
+  },
+  "fecha": "2026-11-24T09:41:54+00:00",
+  "ingresado": "2026-11-28T08:55:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
   "id": "07e6d8863b4a",
   "url_hash": "07e6d8863b4ade2103f87f291cc4d86d131a3d66021c4b6074d5b65e4ec0df89",
   "fuente": "aldia",
@@ -4484,6 +6436,58 @@
    "avisos": [
     "identificador_legal descartado: no figura en la fuente"
    ]
+  },
+  "modelo": "gemini-3.5-flash-lite"
+ },
+ {
+  "id": "11311fedaaab",
+  "url_hash": "11311fedaaab432d742d73924063e49be232bc95a78a9950f2ebec150b8f4337",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104941-una-escritura-con-letra-chica",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Confirman sanción a corredor inmobiliario por falta de información y claridad",
+  "titulo_original": "Una escritura con letra chica",
+  "bajada": "La Cámara confirmó la sanción disciplinaria a un corredor inmobiliario que intentó hacer firmar a una mujer vulnerable un poder de venta a favor de su exmarido.",
+  "tipo": "Fallo",
+  "materia": "Civil y Comercial",
+  "instancia": "Cámara",
+  "jurisdiccion": "La Pampa",
+  "tribunal": "Sala IV de la Cámara de Apelaciones en lo Civil, Comercial, Laboral y de Minería de La Pampa",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "Se confirmó la sanción disciplinaria a un corredor inmobiliario por violar los deberes de información y probidad al promover un poder de venta que ocultaba datos esenciales a una condueña en situación de vulnerabilidad, ratificando que la responsabilidad ética es independiente de condenas penales o civiles previas.",
+  "puntos_clave": [
+   "Las situaciones de vulnerabilidad conocida imponen al corredor un deber reforzado de prudencia y claridad.",
+   "La responsabilidad disciplinaria es independiente de las eventuales consecuencias penales o civiles de la conducta.",
+   "El deber de información abarca la obligación de no facilitar instrumentos incompatibles con la buena fe y lealtad profesional."
+  ],
+  "impacto_practico": "Establece un estándar riguroso para la actuación de corredores inmobiliarios frente a clientes en contextos de vulnerabilidad, remarcando que el Tribunal de Ética evalúa el desempeño profesional con independencia de procesos civiles o penales.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "corredor inmobiliario",
+   "responsabilidad disciplinaria",
+   "deber de información",
+   "vulnerabilidad"
+  ],
+  "cita_sugerida": "Cámara de Apelaciones en lo Civil, Comercial, Laboral y de Minería de La Pampa, Sala IV",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063292-original.pdf"
+  },
+  "fecha": "2026-11-24T08:03:00+00:00",
+  "ingresado": "2026-11-28T08:56:07+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 3,
+   "citas_total": 3,
+   "modo": "completo",
+   "avisos": []
   },
   "modelo": "gemini-3.5-flash-lite"
  },
@@ -6539,14 +8543,23 @@
   },
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-26T01:48:41+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "eldial",
+    "fuente_nombre": "elDial.com",
+    "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67045",
+    "titulo": "Destitución de magistrado federal (Nacional / Contencioso Administrativo)",
+    "fecha": "2026-11-28T08:52:11+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:04:45+00:00"
  },
  {
   "id": "5bf63f252955",
@@ -6720,14 +8733,23 @@
   },
   "fecha": "2026-11-19T15:00:00+00:00",
   "ingresado": "2026-11-26T01:48:11+00:00",
-  "fuentes_adicionales": [],
+  "fuentes_adicionales": [
+   {
+    "fuente": "eldial",
+    "fuente_nombre": "elDial.com",
+    "url": "https://www.eldial.com/nuevo/nuevo_diseno/v2/fallo4.asp?base=14&id=67042",
+    "titulo": "Programa de promoción no industrial (Nacional / Tributario)",
+    "fecha": "2026-11-28T08:52:11+00:00"
+   }
+  ],
   "verificacion": {
    "citas_verificadas": 3,
    "citas_total": 3,
    "modo": "completo",
    "avisos": []
   },
-  "modelo": "gemini-3.5-flash-lite"
+  "modelo": "gemini-3.5-flash-lite",
+  "actualizado": "2026-11-28T09:05:30+00:00"
  },
  {
   "id": "4e59e84b4cd5",
@@ -6972,6 +8994,59 @@
   },
   "modelo": "gemini-3.5-flash-lite",
   "actualizado": "2026-11-27T18:53:04+00:00"
+ },
+ {
+  "id": "b22e0e8ed249",
+  "url_hash": "b22e0e8ed249ac8057d39b492306f96cf78c636cc7eb40fa6cae9c3bf09cbad1",
+  "fuente": "diario_judicial",
+  "fuente_nombre": "Diario Judicial",
+  "url": "https://www.diariojudicial.com/news-104920-la-cadena-de-custodia-llego-tarde",
+  "prioridad": 60,
+  "fuente_oficial": false,
+  "dominio_publico": false,
+  "titulo": "Filiación: rechazan planteos sobre cadena de custodia tardíos",
+  "titulo_original": "La cadena de custodia llegó tarde",
+  "bajada": "La Cámara de Apelaciones confirmó el rechazo de una demanda de filiación al considerar extemporánea la objeción sobre la prueba genética y la cadena de custodia.",
+  "tipo": "Fallo",
+  "materia": "Familia",
+  "instancia": "Cámara",
+  "jurisdiccion": "La Pampa",
+  "tribunal": "Cámara de Apelaciones de Santa Rosa, Sala I",
+  "caratula": "",
+  "identificador_legal": "",
+  "id_legal_norm": null,
+  "holding": "La Cámara determinó que resulta inadmisible cuestionar la cadena de custodia o la identificación de los restos cadavéricos exhumados una vez conocido el resultado adverso de la pericia genética, operando la preclusión procesal si tales objeciones no se plantearon en el momento oportuno.",
+  "puntos_clave": [
+   "Los cuestionamientos a la cadena de custodia deben realizarse en el acto de obtención o identificación del material.",
+   "Conocer el resultado adverso de la pericia genética purga las objeciones formales extemporáneas por preclusión.",
+   "El derecho a la identidad no se vulnera cuando el interesado no fundamenta adecuadamente sus críticas ni aporta nuevos elementos."
+  ],
+  "impacto_practico": "Advierte a los litigantes sobre la preclusión de las nulidades o cuestionamientos a pericias biológicas, exigiendo la oportuna oposición en el acto de extracción o peritaje bajo pena de inadmisibilidad posterior.",
+  "normas_citadas": [],
+  "etiquetas": [
+   "cadena de custodia",
+   "filiación",
+   "prueba genética",
+   "preclusión procesal",
+   "derecho a la identidad"
+  ],
+  "cita_sugerida": "Cámara de Apelaciones de Santa Rosa, Sala I, 2024",
+  "alto_impacto": false,
+  "citas_textuales": [],
+  "extracto_oficial": "",
+  "oficial": {
+   "url_fallo": "https://www.diariojudicial.com/uploads/0000063274-original.pdf"
+  },
+  "fecha": "2026-11-19T12:36:38+00:00",
+  "ingresado": "2026-11-28T08:56:37+00:00",
+  "fuentes_adicionales": [],
+  "verificacion": {
+   "citas_verificadas": 2,
+   "citas_total": 2,
+   "modo": "completo",
+   "avisos": []
+  },
+  "modelo": "gemini-3.5-flash-lite"
  },
  {
   "id": "92ae746b845e",

@@ -2875,5 +2875,377 @@
   "fecha": "2026-11-27T18:54:19+00:00",
   "novedad": "d168cd4def0b",
   "fuente": "diario_judicial"
+ },
+ "984ae931b195b32001363a8ec190245c71099dfe5dcdfb956e765de1f0e9daa8": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-28T08:52:37+00:00",
+  "fuente": "infobae"
+ },
+ "d39b7ed8a0866d21641a817a8aa4eaf2490b86a3199e0094d15dea7532cb7772": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-28T08:52:37+00:00",
+  "fuente": "diario_judicial"
+ },
+ "d71afc6aa559c8e85318007ddd30641a25886b44d51407216049c88713c48e1a": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-28T08:52:37+00:00",
+  "fuente": "diario_judicial"
+ },
+ "8b6077a48c861e76d75c528bf2f0d6a67068c52a4da5892dcbe3b01383751fe8": {
+  "estado": "descartado_triage",
+  "fecha": "2026-11-28T08:52:37+00:00",
+  "fuente": "diario_judicial"
+ },
+ "59027b3d34a486270e2e888f8972cc506cb053c50b0a189f5f547564b0a3b944": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:53:13+00:00",
+  "novedad": "59027b3d34a4",
+  "fuente": "mpf"
+ },
+ "05fe6b377bf0242d606b451ff6266ed8bcdf70268fcfa13468eb5f42e7ce72c3": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:53:43+00:00",
+  "novedad": "05fe6b377bf0",
+  "fuente": "mpf"
+ },
+ "2408321b96842f2c0cedd4b1abfe72890ae4755256b18c1fd58520d9d0d1324f": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:54:13+00:00",
+  "novedad": "2408321b9684",
+  "fuente": "mpf"
+ },
+ "b84dd2f482894fe66fb3fd4e93e017677bb3264992ca57a68f43d1c7181d3cb4": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:54:43+00:00",
+  "novedad": "b84dd2f48289",
+  "fuente": "diario_judicial"
+ },
+ "c42f512dc83f5d0ebe0b4f1b263fbbd131ecdcfd81d2eb07197a3ee7fbcce422": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:55:13+00:00",
+  "novedad": "c42f512dc83f",
+  "fuente": "diario_judicial"
+ },
+ "4f8f984d2d49448167977670ef12a2bf782a666a4a1078b29a2c3aa3461fffab": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T08:55:21+00:00",
+  "fuente": "diario_judicial"
+ },
+ "36b036c3256efced5cd448a88e33ae979393108320edc5617a022dc96b4413ae": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T08:55:28+00:00",
+  "fuente": "diario_judicial"
+ },
+ "46b602da200c066897ee92ac0aebdef8786a3df3d74d763e5f5dfa16af9ae0e9": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:55:58+00:00",
+  "novedad": "46b602da200c",
+  "fuente": "diario_judicial"
+ },
+ "11311fedaaab432d742d73924063e49be232bc95a78a9950f2ebec150b8f4337": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:56:28+00:00",
+  "novedad": "11311fedaaab",
+  "fuente": "diario_judicial"
+ },
+ "b22e0e8ed249ac8057d39b492306f96cf78c636cc7eb40fa6cae9c3bf09cbad1": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:56:58+00:00",
+  "novedad": "b22e0e8ed249",
+  "fuente": "diario_judicial"
+ },
+ "7703684723903916e800f25ca835e1d76c94f92b887aa027cc92143cd67c12ef": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:57:28+00:00",
+  "novedad": "770368472390",
+  "fuente": "diario_judicial"
+ },
+ "f635ed3cfdf3fa260574656b29fb3391f6717d7e6b961a3221a4451a5ab849e3": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:57:58+00:00",
+  "novedad": "f635ed3cfdf3",
+  "fuente": "diario_judicial"
+ },
+ "41e825e820daa45035497d091eef91694ecba6ecc95c6f13ab9f108b3aadfb00": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:58:28+00:00",
+  "novedad": "41e825e820da",
+  "fuente": "diario_judicial"
+ },
+ "58a238517e0e97f4777083d737a447f3a56f4ce67d7ee540ce85ad9d5fa4fc98": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:58:58+00:00",
+  "novedad": "58a238517e0e",
+  "fuente": "diario_judicial"
+ },
+ "862dd4e241e140517c0af64d8553784e49802fdd8a15ee163dcb2fde19560ddc": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:59:28+00:00",
+  "novedad": "862dd4e241e1",
+  "fuente": "diario_judicial"
+ },
+ "fe7fc948917f5fe6414c5d60c51029de0422d28b1d90b1c44c52734dc730d49b": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T08:59:58+00:00",
+  "novedad": "fe7fc948917f",
+  "fuente": "diario_judicial"
+ },
+ "49573de3ca1926d70417706144b6e7e420cac19e8070602c9f2631d4277696d1": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:00:28+00:00",
+  "novedad": "49573de3ca19",
+  "fuente": "diario_judicial"
+ },
+ "8b4de928de7b9bdd1a77479987abea101495f4e60a58a20363f191e951b99df9": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:00:37+00:00",
+  "novedad": "fe7fc948917f",
+  "fuente": "diario_judicial"
+ },
+ "622fbe79d702d747bda593876282f128cf435bcbebf9debea3520222f0a7fb38": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:00:44+00:00",
+  "fuente": "diario_judicial"
+ },
+ "b6ca8ebaeff141c5bd461e68edfc5c53ece98c98a4849636b1ff26c6f3e9775f": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:01:13+00:00",
+  "novedad": "b6ca8ebaeff1",
+  "fuente": "diario_judicial"
+ },
+ "6b59fa7ed68d0f470fdff046b8341e1c7fa966252f98b5f86cea9d4847fa7311": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:01:43+00:00",
+  "novedad": "6b59fa7ed68d",
+  "fuente": "diario_judicial"
+ },
+ "0fec65da45e90cae651946d1384795abe11a43a0d36ff848ad2814f4ce1f8446": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:01:52+00:00",
+  "fuente": "diario_judicial"
+ },
+ "256c8db684b3d1fda8c694d130d561898b5dedaa4bb6e4d0e7be7e24c4d58d73": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:02:05+00:00",
+  "novedad": "9c169584316a",
+  "fuente": "diario_judicial"
+ },
+ "fc9d5febbfb92fc41d7741fecb993143a92480da9b5805423b08249013f8c406": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:02:35+00:00",
+  "novedad": "fc9d5febbfb9",
+  "fuente": "diario_judicial"
+ },
+ "559beba6894bc0d204cc028901617110b88276f478287eb70a5f65196c97adbd": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:02:45+00:00",
+  "fuente": "diario_judicial"
+ },
+ "3e222860a8c1a9b995be711b91eec3d80cfa60f87013408d0a26ccee266b2a6c": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:02:52+00:00",
+  "novedad": "915fe26442f9",
+  "fuente": "diario_judicial"
+ },
+ "985ed0c95f832fd4db5bbb7c317d4db26f4094cd9487f3cb9bca5a22ff48c9a2": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:02:59+00:00",
+  "fuente": "diario_judicial"
+ },
+ "eef2634f8badab15ca1f807167eff0c05458fc1382a2e47616b789608d511b11": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:03:28+00:00",
+  "novedad": "eef2634f8bad",
+  "fuente": "eldial"
+ },
+ "9f96687facd53d58111c05fd50b740fbeff7c881f570f1108c7477bdb85eee45": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:04:30+00:00",
+  "novedad": "9f96687facd5",
+  "fuente": "eldial"
+ },
+ "39a0bca2e72c0363f6751772209c70f3c74a17703dcdf190791a3d06dde3dc46": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:04:45+00:00",
+  "novedad": "60cd6a9c730a",
+  "fuente": "eldial"
+ },
+ "e18c083dded6381cf265fc7620b6a70b595e5c04fc8c294e07d2bdaa2316ad47": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:05:15+00:00",
+  "novedad": "e18c083dded6",
+  "fuente": "eldial"
+ },
+ "034ee2f13b7c80e84ab8bcebb7c767920531597969d61d3652471fd76c5b0f32": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:05:30+00:00",
+  "novedad": "51273499562a",
+  "fuente": "eldial"
+ },
+ "b616ac1c144d26df3d41f34055bbdc3763fc1ca070004ca9564f1a891fab1b97": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:06:11+00:00",
+  "novedad": "b616ac1c144d",
+  "fuente": "eldial"
+ },
+ "a14b1ed35f93c910494fe23a461580ed00f3656206b1a4243d686d8229f40168": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:06:41+00:00",
+  "novedad": "a14b1ed35f93",
+  "fuente": "eldial"
+ },
+ "e6cf35da009a7f1ca345dd2c8d827bf7118d9f93265dc1690d081c62d42844ab": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:06:56+00:00",
+  "novedad": "5bd6f2cb07d6",
+  "fuente": "eldial"
+ },
+ "06ac2c683074f8a804e17ed8e45c74c08329f4e6962f4cf40b728f5978871695": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:07:26+00:00",
+  "novedad": "06ac2c683074",
+  "fuente": "eldial"
+ },
+ "9862215686942156ccb09c45f3594282d9f3aff33cb7bd90dcca4e7febf784cf": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:07:56+00:00",
+  "novedad": "986221568694",
+  "fuente": "eldial"
+ },
+ "73ae3c6cfb1ae92c0181f75626567a45b555b61f3cbfbdc36d3752b7a3dba4b7": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:08:26+00:00",
+  "novedad": "73ae3c6cfb1a",
+  "fuente": "infobae"
+ },
+ "99dd028295aa7bbe4f881780a617a18a566b9c9ae462e6dc7c3ba6faeb34ca71": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:09:07+00:00",
+  "novedad": "99dd028295aa",
+  "fuente": "infobae"
+ },
+ "3313017c7eacb9b745d099b9bc23f3dd8d061fbc927812e4b3d129540048cfa0": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:09:37+00:00",
+  "novedad": "3313017c7eac",
+  "fuente": "infobae"
+ },
+ "d544a914f25e6198b9de439ea9ae89bd28ce6b430136a89208d687c0100e10b1": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:10:39+00:00",
+  "novedad": "d544a914f25e",
+  "fuente": "infobae"
+ },
+ "7787858764a3ce71018f29ef2dde9a12bf51807a4ca3597cd0dbf8f6af98cec8": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:11:09+00:00",
+  "novedad": "7787858764a3",
+  "fuente": "infobae"
+ },
+ "7fbd9102374fab9a8cc746d4d074a285929857937b9ce395de20225c65a82155": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:11:19+00:00",
+  "novedad": "3313017c7eac",
+  "fuente": "infobae"
+ },
+ "b3afff9ace274abb6256337c7a4d5fe7f1fc47cd195e7ec5b86db6ddf0305b16": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:11:47+00:00",
+  "novedad": "b3afff9ace27",
+  "fuente": "infobae"
+ },
+ "7375b72dc42171ab0baa700775acc32e59e1194b1e73a82bd9875e33d6918244": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:12:17+00:00",
+  "novedad": "7375b72dc421",
+  "fuente": "infobae"
+ },
+ "e920c4a8744b6bef9ae726ccd226c11cc0fe58588c2cfa6be0280743ea878b42": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:12:32+00:00",
+  "novedad": "84ee3d2b1d9c",
+  "fuente": "infobae"
+ },
+ "563ab4904157a89897b6927e79a78dee06d75f75d0e528e216ab5224548d3886": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:13:02+00:00",
+  "novedad": "563ab4904157",
+  "fuente": "infobae"
+ },
+ "827ffa8178d927440e3bfbba735ef9ae67cd969bcd33958819825795d3fd97c2": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:13:32+00:00",
+  "novedad": "827ffa8178d9",
+  "fuente": "infobae"
+ },
+ "d60e858e057ad15e184d9df40d610fdf9bb922591bdc57323c5df3eab6905950": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:14:33+00:00",
+  "novedad": "d60e858e057a",
+  "fuente": "infobae"
+ },
+ "c8701d62d77c1b2cc0fffd3365e7529caabb9b0930a86f69bfef9d2b1789c8a5": {
+  "estado": "fusionado",
+  "fecha": "2026-11-28T09:14:48+00:00",
+  "novedad": "bd02c4792eb7",
+  "fuente": "infobae"
+ },
+ "171f78875b7e22f573182f4999d73fb328ddab18ca7c456fd0d0936ff7c4ad4b": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:15:29+00:00",
+  "novedad": "171f78875b7e",
+  "fuente": "infobae"
+ },
+ "7586f934e3bba9b8cd7fa8b310440917d8630a84ab73db0663805706188cf42f": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:16:10+00:00",
+  "novedad": "7586f934e3bb",
+  "fuente": "infobae"
+ },
+ "60ec967d7a990c6adee72dd5be20aa117a3d7e38ec40ea5137eb7c96f6aa6184": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:17:11+00:00",
+  "novedad": "60ec967d7a99",
+  "fuente": "infobae"
+ },
+ "1fee9869c7b0c27266e3c6ac070c85d1f6f6011a8695305b9123151892c4824d": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:17:41+00:00",
+  "novedad": "1fee9869c7b0",
+  "fuente": "infobae"
+ },
+ "750d59052d47bf9df0d1d21f10f8f4c30c11baeb27e891b03769351b5fbcc465": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:18:01+00:00",
+  "fuente": "infobae"
+ },
+ "586e2aea16f9a96bd3dad8291011dcbe5dd616e4ef4895572633c6bf1d42ca83": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:18:52+00:00",
+  "novedad": "586e2aea16f9",
+  "fuente": "infobae"
+ },
+ "f4def82c1274795e9962f89b188b53c009971d4121340f085a9aafbd2823b624": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:19:32+00:00",
+  "novedad": "f4def82c1274",
+  "fuente": "infobae"
+ },
+ "05707fe1d0380d19a3147a6928e6d78d0fa618abcd9721f2325e3adf5ffae2dd": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:20:24+00:00",
+  "novedad": "05707fe1d038",
+  "fuente": "infobae"
+ },
+ "c50cb9a75ade25be6e7296cbc1277844730d15eef7523788592ba1ec65a357cc": {
+  "estado": "publicado",
+  "fecha": "2026-11-28T09:20:54+00:00",
+  "novedad": "c50cb9a75ade",
+  "fuente": "infobae"
+ },
+ "b8edfefe11231d272a1e4dae493a14658fbfd56bcc17c12b6ab3de4a6aca8f7d": {
+  "estado": "descartado_ia",
+  "fecha": "2026-11-28T09:21:02+00:00",
+  "fuente": "infobae"
  }
 }
